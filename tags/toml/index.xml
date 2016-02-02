@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Toml on Andrewrgoss.com</title>
+    <link>http://andrewrgoss.github.io/tags/toml/</link>
+    <description>Recent content in Toml on Andrewrgoss.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
+    <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
+    <copyright>(c) 2016 Andrew Goss.</copyright>
+    <lastBuildDate>Tue, 02 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://andrewrgoss.github.io/tags/toml/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Another Hugo Post</title>
+      <link>http://andrewrgoss.github.io/2014/09/02/another-hugo-post/</link>
+      <pubDate>Tue, 02 Sep 2014 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.github.io/2014/09/02/another-hugo-post/</guid>
+      <description>
+
+&lt;h2 id=&#34;toml-yaml-json-oh-my&#34;&gt;TOML, YAML, JSON &amp;mdash; Oh my!&lt;/h2&gt;
+
+&lt;p&gt;One of the nifty Hugo features we should cover: flexible configuration and front matter formats! This entry has front
+matter in &lt;code&gt;toml&lt;/code&gt;, unlike the last one which used &lt;code&gt;yaml&lt;/code&gt;, and &lt;code&gt;json&lt;/code&gt; is also available if that&amp;rsquo;s your preference.&lt;/p&gt;
+
+&lt;p&gt;The &lt;code&gt;toml&lt;/code&gt; front matter used on this entry:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;+++
+title = &amp;quot;Another Hugo Post&amp;quot;
+description = &amp;quot;Nothing special, but one post is boring.&amp;quot;
+date = &amp;quot;2014-09-02&amp;quot;
+categories = [ &amp;quot;example&amp;quot;, &amp;quot;configuration&amp;quot; ]
+tags = [
+    &amp;quot;example&amp;quot;,
+    &amp;quot;hugo&amp;quot;,
+    &amp;quot;toml&amp;quot;
+]
++++
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This flexibility also extends to your site&amp;rsquo;s global configuration file. You&amp;rsquo;re free to use any format you prefer::simply
+name the file &lt;code&gt;config.yaml&lt;/code&gt;, &lt;code&gt;config.toml&lt;/code&gt; or &lt;code&gt;config.json&lt;/code&gt;, and go on your merry way.&lt;/p&gt;
+
+&lt;h2 id=&#34;json-example&#34;&gt;JSON Example&lt;/h2&gt;
+
+&lt;p&gt;How would this entry&amp;rsquo;s front matter look in &lt;code&gt;json&lt;/code&gt;? That&amp;rsquo;s easy enough to demonstrate:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{
+    &amp;quot;title&amp;quot;: &amp;quot;Another Hugo Post&amp;quot;,
+    &amp;quot;description&amp;quot;: &amp;quot;Nothing special, but one post is boring.&amp;quot;,
+    &amp;quot;date&amp;quot;: &amp;quot;2014-09-02&amp;quot;,
+    &amp;quot;categories&amp;quot;: [ &amp;quot;example&amp;quot;, &amp;quot;configuration&amp;quot; ],
+    &amp;quot;tags&amp;quot;: [
+        &amp;quot;example&amp;quot;,
+        &amp;quot;hugo&amp;quot;,
+        &amp;quot;toml&amp;quot;
+    ],
+}
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

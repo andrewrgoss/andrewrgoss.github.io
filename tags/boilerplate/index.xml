@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Boilerplate on Andrewrgoss.com</title>
+    <link>http://andrewrgoss.github.io/tags/boilerplate/</link>
+    <description>Recent content in Boilerplate on Andrewrgoss.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
+    <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
+    <copyright>(c) 2016 Andrew Goss.</copyright>
+    <lastBuildDate>Mon, 14 Sep 2015 15:08:27 +0200</lastBuildDate>
+    <atom:link href="http://andrewrgoss.github.io/tags/boilerplate/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hugo Boilerplate</title>
+      <link>http://andrewrgoss.github.io/hugo-boilerplate/</link>
+      <pubDate>Mon, 14 Sep 2015 15:08:27 +0200</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.github.io/hugo-boilerplate/</guid>
+      <description>
+
+&lt;p&gt;Boilerplate to start fast with &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;demo-http-enten-github-io-hugo-boilerplate&#34;&gt;&lt;a href=&#34;http://enten.github.io/hugo-boilerplate/&#34;&gt;Demo&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/enten/hugo-boilerplate/master/themes/hyde-y/images/screenshot.png&#34; alt=&#34;preview&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://git-scm.com&#34;&gt;git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io&#34;&gt;hugo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nodejs.org&#34;&gt;node&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.npmjs.com/about&#34;&gt;npm&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;# clone hugo-boilerplate into new project folder
+git clone https://github.com/enten/hugo-boilerplate awesome-site
+
+# remove origin repository (enten/hugo-boilerplate)
+cd awesome-site
+git remote remove origin
+
+# start hugo development server
+npm run server
+
+Watching for changes in /home/steven/code/hugo-boilerplate/{data,content,layouts,static,themes/hyde-y}
+Serving pages from /home/steven/code/hugo-boilerplate/public
+Web Server is available at http://127.0.0.1:1313/hugo-boilerplate/
+Press Ctrl+C to stop
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;deployment&#34;&gt;Deployment&lt;/h2&gt;
+
+&lt;h3 id=&#34;github-pages-https-pages-github-com&#34;&gt;&lt;a href=&#34;https://pages.github.com/&#34;&gt;GitHub Pages&lt;/a&gt;&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;cd awesome-site
+
+# check hugo configuration
+vi config.toml
+
+# configure origin repository
+git remote add origin http://github.com/&amp;lt;USERNAME&amp;gt;/&amp;lt;REPONAME&amp;gt;
+
+# run deployment task
+npm run deploy:gh
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Warnings&lt;/strong&gt; :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;baseurl&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt; will be replace by the correct URL (&lt;a href=&#34;http://username.github.io/reponame&#34;&gt;http://username.github.io/reponame&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;static site is rebuilt in &lt;code&gt;public/&lt;/code&gt; folder when &lt;code&gt;deploy:gh&lt;/code&gt; is fired&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;ftp&#34;&gt;FTP&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;cd awesome-site
+
+# check hugo configuration
+vi config.toml
+
+# create ftp configuration
+echo &#39;{
+  &amp;quot;host&amp;quot;: &amp;quot;ftp.example.com&amp;quot;,
+  &amp;quot;port&amp;quot;: 21,
+  &amp;quot;remote&amp;quot;: &amp;quot;/www&amp;quot;,
+  &amp;quot;user&amp;quot;: &amp;quot;*****&amp;quot;,
+  &amp;quot;pass&amp;quot;: &amp;quot;*****&amp;quot;
+}&#39; &amp;gt; ftp-config.json
+
+# edit ftp configuration
+vi ftp-config.json
+
+# run deployment task
+npm run deploy
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Warnings&lt;/strong&gt; :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;remote&lt;/code&gt; folder must exists on the host&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;BUG&lt;/strong&gt;: several attempts are needed to deploy all files&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+
+&lt;p&gt;Open sourced under the &lt;a href=&#34;https://github.com/enten/hugo-boilerplate/blob/master/LICENSE&#34;&gt;MIT license&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

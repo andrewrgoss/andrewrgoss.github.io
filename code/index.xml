@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Codes on Andrewrgoss.com</title>
+    <link>http://andrewrgoss.github.io/code/</link>
+    <description>Recent content in Codes on Andrewrgoss.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
+    <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
+    <copyright>(c) 2016 Andrew Goss.</copyright>
+    <lastBuildDate>Mon, 14 Sep 2015 15:08:27 +0200</lastBuildDate>
+    <atom:link href="http://andrewrgoss.github.io/code/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hugo Boilerplate</title>
+      <link>http://andrewrgoss.github.io/hugo-boilerplate/</link>
+      <pubDate>Mon, 14 Sep 2015 15:08:27 +0200</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.github.io/hugo-boilerplate/</guid>
+      <description>
+
+&lt;p&gt;Boilerplate to start fast with &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;demo-http-enten-github-io-hugo-boilerplate&#34;&gt;&lt;a href=&#34;http://enten.github.io/hugo-boilerplate/&#34;&gt;Demo&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/enten/hugo-boilerplate/master/themes/hyde-y/images/screenshot.png&#34; alt=&#34;preview&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://git-scm.com&#34;&gt;git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io&#34;&gt;hugo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nodejs.org&#34;&gt;node&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.npmjs.com/about&#34;&gt;npm&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;# clone hugo-boilerplate into new project folder
+git clone https://github.com/enten/hugo-boilerplate awesome-site
+
+# remove origin repository (enten/hugo-boilerplate)
+cd awesome-site
+git remote remove origin
+
+# start hugo development server
+npm run server
+
+Watching for changes in /home/steven/code/hugo-boilerplate/{data,content,layouts,static,themes/hyde-y}
+Serving pages from /home/steven/code/hugo-boilerplate/public
+Web Server is available at http://127.0.0.1:1313/hugo-boilerplate/
+Press Ctrl+C to stop
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;deployment&#34;&gt;Deployment&lt;/h2&gt;
+
+&lt;h3 id=&#34;github-pages-https-pages-github-com&#34;&gt;&lt;a href=&#34;https://pages.github.com/&#34;&gt;GitHub Pages&lt;/a&gt;&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;cd awesome-site
+
+# check hugo configuration
+vi config.toml
+
+# configure origin repository
+git remote add origin http://github.com/&amp;lt;USERNAME&amp;gt;/&amp;lt;REPONAME&amp;gt;
+
+# run deployment task
+npm run deploy:gh
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Warnings&lt;/strong&gt; :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;baseurl&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt; will be replace by the correct URL (&lt;a href=&#34;http://username.github.io/reponame&#34;&gt;http://username.github.io/reponame&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;static site is rebuilt in &lt;code&gt;public/&lt;/code&gt; folder when &lt;code&gt;deploy:gh&lt;/code&gt; is fired&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;ftp&#34;&gt;FTP&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;cd awesome-site
+
+# check hugo configuration
+vi config.toml
+
+# create ftp configuration
+echo &#39;{
+  &amp;quot;host&amp;quot;: &amp;quot;ftp.example.com&amp;quot;,
+  &amp;quot;port&amp;quot;: 21,
+  &amp;quot;remote&amp;quot;: &amp;quot;/www&amp;quot;,
+  &amp;quot;user&amp;quot;: &amp;quot;*****&amp;quot;,
+  &amp;quot;pass&amp;quot;: &amp;quot;*****&amp;quot;
+}&#39; &amp;gt; ftp-config.json
+
+# edit ftp configuration
+vi ftp-config.json
+
+# run deployment task
+npm run deploy
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Warnings&lt;/strong&gt; :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;remote&lt;/code&gt; folder must exists on the host&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;BUG&lt;/strong&gt;: several attempts are needed to deploy all files&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+
+&lt;p&gt;Open sourced under the &lt;a href=&#34;https://github.com/enten/hugo-boilerplate/blob/master/LICENSE&#34;&gt;MIT license&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hyde-Y</title>
+      <link>http://andrewrgoss.github.io/hyde-y/</link>
+      <pubDate>Sun, 13 Sep 2015 15:08:27 +0200</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.github.io/hyde-y/</guid>
+      <description>
+
+&lt;p&gt;&lt;small&gt;Forked from &lt;a href=&#34;https://github.com/zyro/hyde-x&#34;&gt;Hyde-X&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;You can find a live site using this theme &lt;a href=&#34;http://enten.github.io/hugo-boilerplate/&#34;&gt;here&lt;/a&gt;
+and the corresponding source code &lt;a href=&#34;https://github.com/enten/hugo-boilerplate&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;screenshot:52a9d38876c6a2e91364a4dafc994456&#34;&gt;Screenshot&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/enten/hugo-boilerplate/master/themes/hyde-y/images/screenshot.png&#34; alt=&#34;preview&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;installation:52a9d38876c6a2e91364a4dafc994456&#34;&gt;Installation&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code&gt;$ cd your_site_repo/
+$ mkdir themes
+$ cd themes
+$ git clone https://github.com/enten/hyde-y
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;See the &lt;a href=&#34;http://gohugo.io/themes/installing&#34;&gt;official Hugo themes documentation&lt;/a&gt; for more info.&lt;/p&gt;
+
+&lt;h2 id=&#34;usage:52a9d38876c6a2e91364a4dafc994456&#34;&gt;Usage&lt;/h2&gt;
+
+&lt;p&gt;This theme expects a relatively standard Hugo blog/personal site layout:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;.
+└── content
+    ├── post
+    |   ├── post1.md
+    |   └── post2.md
+    ├── code
+    |   ├── project1.md
+    |   ├── project2.md
+    ├── license.md        // this is used in the sidebar footer link
+    └── other_page.md
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Just run &lt;code&gt;hugo --theme=hyde-y&lt;/code&gt; to generate your site!&lt;/p&gt;
+
+&lt;h2 id=&#34;configuration:52a9d38876c6a2e91364a4dafc994456&#34;&gt;Configuration&lt;/h2&gt;
+
+&lt;h3 id=&#34;hugo:52a9d38876c6a2e91364a4dafc994456&#34;&gt;Hugo&lt;/h3&gt;
+
+&lt;p&gt;An example of what your site&amp;rsquo;s &lt;code&gt;config.toml&lt;/code&gt; could look like. All theme-specific parameters are under &lt;code&gt;[params]&lt;/code&gt; and standard Hugo parameters are used where possible.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-toml&#34;&gt;# hostname (and path) to the root eg. http://spf13.com/
+baseurl = &amp;quot;http://www.example.com&amp;quot;
+
+# Site title
+title = &amp;quot;sitename&amp;quot;
+
+# Copyright
+copyright = &amp;quot;(c) 2015 yourname.&amp;quot;
+
+# Language
+languageCode = &amp;quot;en-EN&amp;quot;
+
+# Metadata format
+# &amp;quot;yaml&amp;quot;, &amp;quot;toml&amp;quot;, &amp;quot;json&amp;quot;
+metaDataFormat = &amp;quot;yaml&amp;quot;
+
+# Theme to use (located in /themes/THEMENAME/)
+theme = &amp;quot;hyde-y&amp;quot;
+
+# Pagination
+paginate = 10
+paginatePath = &amp;quot;page&amp;quot;
+
+# Enable Disqus integration
+disqusShortname = &amp;quot;your_disqus_shortname&amp;quot;
+
+[permalinks]
+    post = &amp;quot;/:year/:month/:day/:slug/&amp;quot;
+    code = &amp;quot;/:slug/&amp;quot;
+
+[taxonomies]
+    tag = &amp;quot;tags&amp;quot;
+    topic = &amp;quot;topics&amp;quot;
+
+[author]
+    name = &amp;quot;yourname&amp;quot;
+    email = &amp;quot;yourname@example.com&amp;quot;
+
+#
+# All parameters below here are optional and can be mixed and matched.
+#
+[params]
+    # You can use markdown here.
+    brand = &amp;quot;foobar&amp;quot;
+    topline = &amp;quot;few words about your site&amp;quot;
+    footline = &amp;quot;code with &amp;lt;i class=&#39;fa fa-heart&#39;&amp;gt;&amp;lt;/i&amp;gt;&amp;quot;
+
+    # Sidebar position
+    # false, true, &amp;quot;left&amp;quot;, &amp;quot;right&amp;quot;
+    sidebar = &amp;quot;left&amp;quot;
+
+    # Text for the top menu link, which goes the root URL for the site.
+    # Default (if omitted) is &amp;quot;Home&amp;quot;.
+    home = &amp;quot;home&amp;quot;
+
+    # Select a syntax highight.
+    # Check the static/css/highlight directory for options.
+    highlight = &amp;quot;default&amp;quot;
+
+    # Google Analytics.
+    googleAnalytics = &amp;quot;Your Google Analytics tracking code&amp;quot;
+
+    # Sidebar social links.
+    github = &amp;quot;enten/hugo-boilerplate&amp;quot; # Your Github profile ID
+    bitbucket = &amp;quot;&amp;quot; # Your Bitbucket profile ID
+    linkedin = &amp;quot;&amp;quot; # Your LinkedIn profile ID (from public URL)
+    googleplus = &amp;quot;&amp;quot; # Your Google+ profile ID
+    facebook = &amp;quot;&amp;quot; # Your Facebook profile ID
+    twitter = &amp;quot;&amp;quot; # Your Twitter profile ID
+    youtube = &amp;quot;&amp;quot;  # Your Youtube channel ID
+    flattr = &amp;quot;&amp;quot;  # populate with your flattr uid
+
+[blackfriday]
+    angledQuotes = true
+    fractions = false
+    hrefTargetBlank = false
+    latexDashes = true
+    plainIdAnchors = true
+    extensions = []
+    extensionmask = []
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;menu:52a9d38876c6a2e91364a4dafc994456&#34;&gt;Menu&lt;/h3&gt;
+
+&lt;p&gt;Create &lt;code&gt;data/Menu.toml&lt;/code&gt; to configure the sidebar navigation links. Example below.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-toml&#34;&gt;[about]
+    Name = &amp;quot;About&amp;quot;
+    URL = &amp;quot;/about&amp;quot;
+
+[posts]
+    Name = &amp;quot;Posts&amp;quot;
+    Title = &amp;quot;Show list of posts&amp;quot;
+    URL = &amp;quot;/post&amp;quot;
+
+[tags]
+    Name = &amp;quot;Tags&amp;quot;
+    Title = &amp;quot;Show list of tags&amp;quot;
+    URL = &amp;quot;/tags&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;foot-menu:52a9d38876c6a2e91364a4dafc994456&#34;&gt;Foot menu&lt;/h3&gt;
+
+&lt;p&gt;Create &lt;code&gt;data/FootMenu.toml&lt;/code&gt; to configure the footer navigation links. Example below.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-toml&#34;&gt;[license]
+    Name = &amp;quot;license&amp;quot;
+    URL = &amp;quot;/license&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;built-in-colour-themes:52a9d38876c6a2e91364a4dafc994456&#34;&gt;Built-in colour themes&lt;/h2&gt;
+
+&lt;p&gt;You can rebuild the stylesheet. To do it you need &lt;a href=&#34;http://npmjs.com/&#34;&gt;npm&lt;/a&gt; and run the task &lt;code&gt;build:css&lt;/code&gt;.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ vi scss/_00-config.less
+# edit configuration
+
+$ npm install
+$ npm run build:css
+
+&amp;gt; hyde-y@0.0.4 build:css /home/steven/code/hyde-y
+&amp;gt; grunt build:css
+
+Running &amp;quot;less:development&amp;quot; (less) task
+File static/css/style.css created
+
+Running &amp;quot;cssmin:target&amp;quot; (cssmin) task
+&amp;gt;&amp;gt; 1 file created. 27.04 kB → 14.38 kB
+
+Done, without errors.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The task &lt;code&gt;watch&lt;/code&gt; allows to rebuild the stylesheet when a change is spotted on &lt;code&gt;scss/*.less&lt;/code&gt; files.&lt;/p&gt;
+
+&lt;h2 id=&#34;tips:52a9d38876c6a2e91364a4dafc994456&#34;&gt;Tips&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;If you&amp;rsquo;ve added &lt;code&gt;theme = &amp;quot;hyde-y&amp;quot;&lt;/code&gt; to your &lt;code&gt;config.toml&lt;/code&gt;, you don&amp;rsquo;t need to keep using the &lt;code&gt;--theme=hyde-y&lt;/code&gt; flag!&lt;/li&gt;
+&lt;li&gt;Although all of the syntax highlight CSS files under the theme&amp;rsquo;s &lt;code&gt;static/css/highlight&lt;/code&gt; are bundled with the site, only the one you choose will be included in the page and delivered to the browser.&lt;/li&gt;
+&lt;li&gt;Change the favicon by providing your own as &lt;code&gt;static/favicon.png&lt;/code&gt; (and &lt;code&gt;static/touch-icon-144-precomposed.png&lt;/code&gt; for Apple devices) in your site directory.&lt;/li&gt;
+&lt;li&gt;Hugo makes it easy to override theme layout and behaviour, read about it &lt;a href=&#34;http://gohugo.io/themes/customizing&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Pagination is set to 10 items by default, change it by updating &lt;code&gt;paginate = 10&lt;/code&gt; in your &lt;code&gt;config.toml&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;changes-and-enhancements-from-the-original-theme:52a9d38876c6a2e91364a4dafc994456&#34;&gt;Changes and enhancements from the original theme&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Highly customizable: every layout blocks are pieces of HTML code individually stored.&lt;/li&gt;
+&lt;li&gt;Consistent hierarchy for the partials and templates files to assist the overrides of any layout block.&lt;/li&gt;
+&lt;li&gt;Adjustable sidebar in config file.&lt;/li&gt;
+&lt;li&gt;Project layout (badges, github ribbon) for posts stored in &lt;code&gt;content/code/&lt;/code&gt; folder.&lt;/li&gt;
+&lt;li&gt;CSS built with &lt;a href=&#34;http://knacss.com/&#34;&gt;KNACSS&lt;/a&gt; micro-framework.&lt;/li&gt;
+&lt;li&gt;Client-side syntax highlighting through &lt;a href=&#34;https://highlightjs.org/&#34;&gt;highlight.js&lt;/a&gt;, sane fallback if disabled or no JS - infinitely more flexible than the standard Hugo highlighting.&lt;/li&gt;
+&lt;li&gt;Disqus integration: comment counts listed under blog entry names in post list, comments displayed at the bottom of each post.&lt;/li&gt;
+&lt;li&gt;Google Analytics integration.&lt;/li&gt;
+&lt;li&gt;Google Authorship metadata.&lt;/li&gt;
+&lt;li&gt;Paginated blog listing.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://fortawesome.github.io/Font-Awesome&#34;&gt;FontAwesome&lt;/a&gt; social links.&lt;/li&gt;
+&lt;li&gt;&amp;hellip;many other small layout tweaks!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;attribution:52a9d38876c6a2e91364a4dafc994456&#34;&gt;Attribution&lt;/h2&gt;
+
+&lt;p&gt;Obviously largely a port of the awesome &lt;a href=&#34;https://github.com/poole/hyde&#34;&gt;Hyde&lt;/a&gt; and &lt;a href=&#34;https://github.com/zyro/hyde-x&#34;&gt;Hyde-X&lt;/a&gt; themes.&lt;/p&gt;
+
+&lt;h2 id=&#34;questions-ideas-bugs-pull-requests:52a9d38876c6a2e91364a4dafc994456&#34;&gt;Questions, ideas, bugs, pull requests?&lt;/h2&gt;
+
+&lt;p&gt;All feedback is welcome! Head over to the &lt;a href=&#34;https://github.com/enten/hyde-y/issues&#34;&gt;issue tracker&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;license:52a9d38876c6a2e91364a4dafc994456&#34;&gt;License&lt;/h2&gt;
+
+&lt;p&gt;Open sourced under the &lt;a href=&#34;https://github.com/enten/hyde-y/blob/master/LICENSE&#34;&gt;MIT license&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>http://andrewrgoss.github.io/hugo/</link>
+      <pubDate>Wed, 26 Aug 2015 15:08:27 +0200</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.github.io/hugo/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/spf13/hugo/master/docs/static/img/hugo-logo.png&#34; alt=&#34;Hugo&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A Fast and Flexible Static Site Generator built with love by &lt;a href=&#34;http://spf13.com/&#34;&gt;spf13&lt;/a&gt; and &lt;a href=&#34;https://github.com/spf13/hugo/graphs/contributors&#34;&gt;friends&lt;/a&gt; in &lt;a href=&#34;http://golang.org/&#34;&gt;Go&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://gohugo.io&#34;&gt;Website&lt;/a&gt; |
+&lt;a href=&#34;http://discuss.gohugo.io&#34;&gt;Forum&lt;/a&gt; |
+&lt;a href=&#34;https://gitter.im/spf13/hugo&#34;&gt;Chat&lt;/a&gt; |
+&lt;a href=&#34;http://gohugo.io/overview/introduction/&#34;&gt;Documentation&lt;/a&gt; |
+&lt;a href=&#34;http://gohugo.io/overview/installing/&#34;&gt;Installation Guide&lt;/a&gt; |
+&lt;a href=&#34;http://twitter.com/spf13&#34;&gt;Twitter&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;Hugo is a static site generator written in &lt;a href=&#34;http://golang.org/&#34;&gt;Go&lt;/a&gt;. It is optimized for speed, easy use and configurability. Hugo takes a directory with content and templates and renders them into a full HTML website.&lt;/p&gt;
+
+&lt;p&gt;Hugo relies on Markdown files with front matter for meta data. And you can run Hugo from any directory. This works well for shared hosts and other systems where you don’t have a privileged account.&lt;/p&gt;
+
+&lt;p&gt;Hugo renders a typical website of moderate size in a fraction of a second. A good rule of thumb is that each piece of content renders in around 1 millisecond.&lt;/p&gt;
+
+&lt;p&gt;Hugo is meant to work well for any kind of website including blogs, tumbles and docs.&lt;/p&gt;
+
+&lt;h4 id=&#34;supported-architectures&#34;&gt;Supported Architectures&lt;/h4&gt;
+
+&lt;p&gt;Currently, we provide pre-built Hugo binaries for Windows, Linux, FreeBSD, NetBSD and OS&amp;nbsp;X (Darwin) for x64, i386 and ARM architectures.&lt;/p&gt;
+
+&lt;p&gt;Hugo may also be compiled from source wherever the Go compiler tool chain can run, e.g. for other operating systems including DragonFly BSD, OpenBSD, Plan&amp;nbsp;9 and Solaris.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Complete documentation is available at &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo Documentation&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;choose-how-to-install&#34;&gt;Choose How to Install&lt;/h2&gt;
+
+&lt;p&gt;If you want to use Hugo as your site generator, simply install the Hugo binaries. The Hugo binaries have no external dependencies.&lt;/p&gt;
+
+&lt;p&gt;To contribute to the Hugo source code or documentation, you should fork the Hugo GitHub project and clone it to your local machine.&lt;/p&gt;
+
+&lt;p&gt;Finally, you can install the Hugo source code with &lt;code&gt;go&lt;/code&gt;, build the binaries yourself, and run Hugo that way. Building the binaries is an easy task for an experienced &lt;code&gt;go&lt;/code&gt; getter.&lt;/p&gt;
+
+&lt;h3 id=&#34;install-hugo-as-your-site-generator-binary-install&#34;&gt;Install Hugo as Your Site Generator (Binary Install)&lt;/h3&gt;
+
+&lt;p&gt;Use the &lt;a href=&#34;http://gohugo.io/overview/installing/&#34;&gt;installation instructions in the Hugo documentation&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;clone-the-hugo-project-contributor&#34;&gt;Clone the Hugo Project (Contributor)&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Make sure your local environment has the following software installed:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://git-scm.com/&#34;&gt;Git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://mercurial.selenic.com/&#34;&gt;Mercurial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://golang.org/&#34;&gt;Go&lt;/a&gt; 1.3+ (Go 1.4+ on Windows, see Go &lt;a href=&#34;https://code.google.com/p/go/issues/detail?id=8090&#34;&gt;Issue #8090&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Fork the &lt;a href=&#34;https://github.com/spf13/hugo&#34;&gt;Hugo project on GitHub&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Clone your fork:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;git clone https://github.com/YOURNAME/hugo
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Change into the &lt;code&gt;hugo&lt;/code&gt; directory:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;cd hugo
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Install the Hugo project’s package dependencies:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;go get -u -v github.com/spf13/hugo
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Use a symbolic link to add your locally cloned Hugo repository to your &lt;code&gt;$GOPATH&lt;/code&gt;, assuming you prefer doing development work outside of &lt;code&gt;$GOPATH&lt;/code&gt;:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;rm -rf &amp;quot;$GOPATH/src/github.com/spf13/hugo&amp;quot;
+ln -s `pwd` &amp;quot;$GOPATH/src/github.com/spf13/hugo&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Go expects all of your libraries to be found in&lt;code&gt;$GOPATH&lt;/code&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;build-and-install-the-binaries-from-source-advanced-install&#34;&gt;Build and Install the Binaries from Source (Advanced Install)&lt;/h3&gt;
+
+&lt;p&gt;Add Hugo and its package dependencies to your go &lt;code&gt;src&lt;/code&gt; directory.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;go get -v github.com/spf13/hugo
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Once the &lt;code&gt;get&lt;/code&gt; completes, you should find your new &lt;code&gt;hugo&lt;/code&gt; (or &lt;code&gt;hugo.exe&lt;/code&gt;) executable sitting inside &lt;code&gt;$GOPATH/bin/&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;To update Hugo’s dependencies, use &lt;code&gt;go get&lt;/code&gt; with the &lt;code&gt;-u&lt;/code&gt; option.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;go get -u -v github.com/spf13/hugo
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;contributing-to-hugo&#34;&gt;Contributing to Hugo&lt;/h2&gt;
+
+&lt;p&gt;We welcome contributions to Hugo of any kind including documentation, themes, organization, tutorials, blog posts, bug reports, issues, feature requests, feature implementation, pull requests, answering questions on the forum, helping to manage issues, etc. The Hugo community and maintainers are very active and helpful and the project benefits greatly from this activity.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://waffle.io/spf13/hugo/metrics&#34;&gt;&lt;img src=&#34;https://graphs.waffle.io/spf13/hugo/throughput.svg&#34; alt=&#34;Throughput Graph&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you have any questions about how to contribute or what to contribute please ask on the &lt;a href=&#34;http://discuss.gohugo.io&#34;&gt;forum&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;code-contribution-guideline&#34;&gt;Code Contribution Guideline&lt;/h2&gt;
+
+&lt;p&gt;We welcome your contributions. To make the process as seamless as possible, we ask for the following:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Go ahead and fork the project and make your changes. We encourage pull requests to discuss code changes.&lt;/li&gt;
+&lt;li&gt;When you’re ready to create a pull request, be sure to:
+
+&lt;ul&gt;
+&lt;li&gt;Sign the &lt;a href=&#34;http://discuss.gohugo.io/t/switching-to-apache-2-license/173/26&#34;&gt;Forum Release thread&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Have test cases for the new code. If you have questions about how to do it, please ask in your pull request.&lt;/li&gt;
+&lt;li&gt;Run &lt;code&gt;go fmt&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Squash your commits into a single commit. &lt;code&gt;git rebase -i&lt;/code&gt;. It’s okay to force update your pull request.&lt;/li&gt;
+&lt;li&gt;This &lt;a href=&#34;http://chris.beams.io/posts/git-commit/&#34;&gt;blog article&lt;/a&gt; is a good resource for learning how to write good commit messages, the most important part being that each commit message should have a title/subject in imperative mode without trailing period: &lt;em&gt;&amp;laquo;Return error on wrong use of the Paginator&amp;raquo;&lt;/em&gt;, &lt;strong&gt;NOT&lt;/strong&gt; &lt;em&gt;&amp;laquo;Returning some error.&amp;raquo;&lt;/em&gt; Also, if your commit references one or more GitHub issues, always end your commit message body with &lt;em&gt;See #1234&lt;/em&gt; or &lt;em&gt;Fixes #1234&lt;/em&gt;. Replace &lt;em&gt;1234&lt;/em&gt; with the GitHub issue ID. The last example will close the issue when the commit is merged into &lt;em&gt;master&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Make sure &lt;code&gt;go test ./...&lt;/code&gt; passes, and &lt;code&gt;go build&lt;/code&gt; completes. Our &lt;a href=&#34;https://travis-ci.org/spf13/hugo&#34;&gt;Travis CI loop&lt;/a&gt; (Linux) and &lt;a href=&#34;https://ci.appveyor.com/project/spf13/hugo/branch/master&#34;&gt;AppVeyor&lt;/a&gt; (Windows) will catch most things that are missing.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;building-hugo-with-your-changes&#34;&gt;Building Hugo with Your Changes&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;cd /path/to/hugo
+go build -o hugo main.go
+mv hugo /usr/local/bin/
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;adding-compile-information-to-hugo&#34;&gt;Adding compile information to Hugo&lt;/h3&gt;
+
+&lt;p&gt;When Hugo is built using the above steps, the &lt;code&gt;version&lt;/code&gt; sub-command will include the &lt;code&gt;mdate&lt;/code&gt; of the Hugo executable, similar to the following:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Hugo Static Site Generator v0.13-DEV buildDate: 2014-12-24T04:46:03-07:00
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Instead, it is possible to have the &lt;code&gt;version&lt;/code&gt; sub-command return information about the git commit used and time of compilation using &lt;code&gt;build&lt;/code&gt; flags.&lt;/p&gt;
+
+&lt;p&gt;To do this, replace the &lt;code&gt;go build&lt;/code&gt; command with the following &lt;em&gt;(replace &lt;code&gt;/path/to/hugo&lt;/code&gt; with the actual path)&lt;/em&gt;:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;go build -ldflags &amp;quot;-X /path/to/hugo/hugolib.CommitHash `git rev-parse --short HEAD 2&amp;gt;/dev/null` -X github.com/spf13/hugo/hugolib.BuildDate `date +%FT%T%z`&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This will result in &lt;code&gt;hugo version&lt;/code&gt; output that looks similar to:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Hugo Static Site Generator v0.13-DEV-8042E77 buildDate: 2014-12-25T03:25:57-07:00
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Alternatively, just run &lt;code&gt;make&lt;/code&gt; &amp;mdash; all the “magic” above is already in the &lt;code&gt;Makefile&lt;/code&gt;.  :wink:&lt;/p&gt;
+
+&lt;h3 id=&#34;running-hugo&#34;&gt;Running Hugo&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;cd /path/to/hugo
+go install github.com/spf13/hugo/hugolib
+go run main.go
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Complete documentation is available at &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo Documentation&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/igrigorik/ga-beacon&#34;&gt;&lt;img src=&#34;https://ga-beacon.appspot.com/UA-7131036-6/hugo/readme&#34; alt=&#34;Analytics&#34; /&gt;&lt;/a&gt;
+&lt;a href=&#34;https://bitdeli.com/free&#34; title=&#34;Bitdeli Badge&#34;&gt;&lt;img src=&#34;https://d2weczhvl823v0.cloudfront.net/spf13/hugo/trend.png&#34; alt=&#34;Bitdeli Badge&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

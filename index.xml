@@ -1,0 +1,1240 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrewrgoss.com</title>
+    <link>http://andrewrgoss.github.io/</link>
+    <description>Recent content on Andrewrgoss.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
+    <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
+    <copyright>(c) 2016 Andrew Goss.</copyright>
+    <lastBuildDate>Mon, 14 Sep 2015 15:08:27 +0200</lastBuildDate>
+    <atom:link href="http://andrewrgoss.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hugo Boilerplate</title>
+      <link>http://andrewrgoss.github.io/hugo-boilerplate/</link>
+      <pubDate>Mon, 14 Sep 2015 15:08:27 +0200</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.github.io/hugo-boilerplate/</guid>
+      <description>
+
+&lt;p&gt;Boilerplate to start fast with &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;demo-http-enten-github-io-hugo-boilerplate&#34;&gt;&lt;a href=&#34;http://enten.github.io/hugo-boilerplate/&#34;&gt;Demo&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/enten/hugo-boilerplate/master/themes/hyde-y/images/screenshot.png&#34; alt=&#34;preview&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://git-scm.com&#34;&gt;git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io&#34;&gt;hugo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nodejs.org&#34;&gt;node&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.npmjs.com/about&#34;&gt;npm&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;# clone hugo-boilerplate into new project folder
+git clone https://github.com/enten/hugo-boilerplate awesome-site
+
+# remove origin repository (enten/hugo-boilerplate)
+cd awesome-site
+git remote remove origin
+
+# start hugo development server
+npm run server
+
+Watching for changes in /home/steven/code/hugo-boilerplate/{data,content,layouts,static,themes/hyde-y}
+Serving pages from /home/steven/code/hugo-boilerplate/public
+Web Server is available at http://127.0.0.1:1313/hugo-boilerplate/
+Press Ctrl+C to stop
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;deployment&#34;&gt;Deployment&lt;/h2&gt;
+
+&lt;h3 id=&#34;github-pages-https-pages-github-com&#34;&gt;&lt;a href=&#34;https://pages.github.com/&#34;&gt;GitHub Pages&lt;/a&gt;&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;cd awesome-site
+
+# check hugo configuration
+vi config.toml
+
+# configure origin repository
+git remote add origin http://github.com/&amp;lt;USERNAME&amp;gt;/&amp;lt;REPONAME&amp;gt;
+
+# run deployment task
+npm run deploy:gh
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Warnings&lt;/strong&gt; :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;baseurl&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt; will be replace by the correct URL (&lt;a href=&#34;http://username.github.io/reponame&#34;&gt;http://username.github.io/reponame&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;static site is rebuilt in &lt;code&gt;public/&lt;/code&gt; folder when &lt;code&gt;deploy:gh&lt;/code&gt; is fired&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;ftp&#34;&gt;FTP&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;cd awesome-site
+
+# check hugo configuration
+vi config.toml
+
+# create ftp configuration
+echo &#39;{
+  &amp;quot;host&amp;quot;: &amp;quot;ftp.example.com&amp;quot;,
+  &amp;quot;port&amp;quot;: 21,
+  &amp;quot;remote&amp;quot;: &amp;quot;/www&amp;quot;,
+  &amp;quot;user&amp;quot;: &amp;quot;*****&amp;quot;,
+  &amp;quot;pass&amp;quot;: &amp;quot;*****&amp;quot;
+}&#39; &amp;gt; ftp-config.json
+
+# edit ftp configuration
+vi ftp-config.json
+
+# run deployment task
+npm run deploy
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Warnings&lt;/strong&gt; :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;remote&lt;/code&gt; folder must exists on the host&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;BUG&lt;/strong&gt;: several attempts are needed to deploy all files&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+
+&lt;p&gt;Open sourced under the &lt;a href=&#34;https://github.com/enten/hugo-boilerplate/blob/master/LICENSE&#34;&gt;MIT license&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hyde-Y</title>
+      <link>http://andrewrgoss.github.io/hyde-y/</link>
+      <pubDate>Sun, 13 Sep 2015 15:08:27 +0200</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.github.io/hyde-y/</guid>
+      <description>
+
+&lt;p&gt;&lt;small&gt;Forked from &lt;a href=&#34;https://github.com/zyro/hyde-x&#34;&gt;Hyde-X&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;You can find a live site using this theme &lt;a href=&#34;http://enten.github.io/hugo-boilerplate/&#34;&gt;here&lt;/a&gt;
+and the corresponding source code &lt;a href=&#34;https://github.com/enten/hugo-boilerplate&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;screenshot:52a9d38876c6a2e91364a4dafc994456&#34;&gt;Screenshot&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/enten/hugo-boilerplate/master/themes/hyde-y/images/screenshot.png&#34; alt=&#34;preview&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;installation:52a9d38876c6a2e91364a4dafc994456&#34;&gt;Installation&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code&gt;$ cd your_site_repo/
+$ mkdir themes
+$ cd themes
+$ git clone https://github.com/enten/hyde-y
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;See the &lt;a href=&#34;http://gohugo.io/themes/installing&#34;&gt;official Hugo themes documentation&lt;/a&gt; for more info.&lt;/p&gt;
+
+&lt;h2 id=&#34;usage:52a9d38876c6a2e91364a4dafc994456&#34;&gt;Usage&lt;/h2&gt;
+
+&lt;p&gt;This theme expects a relatively standard Hugo blog/personal site layout:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;.
+└── content
+    ├── post
+    |   ├── post1.md
+    |   └── post2.md
+    ├── code
+    |   ├── project1.md
+    |   ├── project2.md
+    ├── license.md        // this is used in the sidebar footer link
+    └── other_page.md
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Just run &lt;code&gt;hugo --theme=hyde-y&lt;/code&gt; to generate your site!&lt;/p&gt;
+
+&lt;h2 id=&#34;configuration:52a9d38876c6a2e91364a4dafc994456&#34;&gt;Configuration&lt;/h2&gt;
+
+&lt;h3 id=&#34;hugo:52a9d38876c6a2e91364a4dafc994456&#34;&gt;Hugo&lt;/h3&gt;
+
+&lt;p&gt;An example of what your site&amp;rsquo;s &lt;code&gt;config.toml&lt;/code&gt; could look like. All theme-specific parameters are under &lt;code&gt;[params]&lt;/code&gt; and standard Hugo parameters are used where possible.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-toml&#34;&gt;# hostname (and path) to the root eg. http://spf13.com/
+baseurl = &amp;quot;http://www.example.com&amp;quot;
+
+# Site title
+title = &amp;quot;sitename&amp;quot;
+
+# Copyright
+copyright = &amp;quot;(c) 2015 yourname.&amp;quot;
+
+# Language
+languageCode = &amp;quot;en-EN&amp;quot;
+
+# Metadata format
+# &amp;quot;yaml&amp;quot;, &amp;quot;toml&amp;quot;, &amp;quot;json&amp;quot;
+metaDataFormat = &amp;quot;yaml&amp;quot;
+
+# Theme to use (located in /themes/THEMENAME/)
+theme = &amp;quot;hyde-y&amp;quot;
+
+# Pagination
+paginate = 10
+paginatePath = &amp;quot;page&amp;quot;
+
+# Enable Disqus integration
+disqusShortname = &amp;quot;your_disqus_shortname&amp;quot;
+
+[permalinks]
+    post = &amp;quot;/:year/:month/:day/:slug/&amp;quot;
+    code = &amp;quot;/:slug/&amp;quot;
+
+[taxonomies]
+    tag = &amp;quot;tags&amp;quot;
+    topic = &amp;quot;topics&amp;quot;
+
+[author]
+    name = &amp;quot;yourname&amp;quot;
+    email = &amp;quot;yourname@example.com&amp;quot;
+
+#
+# All parameters below here are optional and can be mixed and matched.
+#
+[params]
+    # You can use markdown here.
+    brand = &amp;quot;foobar&amp;quot;
+    topline = &amp;quot;few words about your site&amp;quot;
+    footline = &amp;quot;code with &amp;lt;i class=&#39;fa fa-heart&#39;&amp;gt;&amp;lt;/i&amp;gt;&amp;quot;
+
+    # Sidebar position
+    # false, true, &amp;quot;left&amp;quot;, &amp;quot;right&amp;quot;
+    sidebar = &amp;quot;left&amp;quot;
+
+    # Text for the top menu link, which goes the root URL for the site.
+    # Default (if omitted) is &amp;quot;Home&amp;quot;.
+    home = &amp;quot;home&amp;quot;
+
+    # Select a syntax highight.
+    # Check the static/css/highlight directory for options.
+    highlight = &amp;quot;default&amp;quot;
+
+    # Google Analytics.
+    googleAnalytics = &amp;quot;Your Google Analytics tracking code&amp;quot;
+
+    # Sidebar social links.
+    github = &amp;quot;enten/hugo-boilerplate&amp;quot; # Your Github profile ID
+    bitbucket = &amp;quot;&amp;quot; # Your Bitbucket profile ID
+    linkedin = &amp;quot;&amp;quot; # Your LinkedIn profile ID (from public URL)
+    googleplus = &amp;quot;&amp;quot; # Your Google+ profile ID
+    facebook = &amp;quot;&amp;quot; # Your Facebook profile ID
+    twitter = &amp;quot;&amp;quot; # Your Twitter profile ID
+    youtube = &amp;quot;&amp;quot;  # Your Youtube channel ID
+    flattr = &amp;quot;&amp;quot;  # populate with your flattr uid
+
+[blackfriday]
+    angledQuotes = true
+    fractions = false
+    hrefTargetBlank = false
+    latexDashes = true
+    plainIdAnchors = true
+    extensions = []
+    extensionmask = []
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;menu:52a9d38876c6a2e91364a4dafc994456&#34;&gt;Menu&lt;/h3&gt;
+
+&lt;p&gt;Create &lt;code&gt;data/Menu.toml&lt;/code&gt; to configure the sidebar navigation links. Example below.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-toml&#34;&gt;[about]
+    Name = &amp;quot;About&amp;quot;
+    URL = &amp;quot;/about&amp;quot;
+
+[posts]
+    Name = &amp;quot;Posts&amp;quot;
+    Title = &amp;quot;Show list of posts&amp;quot;
+    URL = &amp;quot;/post&amp;quot;
+
+[tags]
+    Name = &amp;quot;Tags&amp;quot;
+    Title = &amp;quot;Show list of tags&amp;quot;
+    URL = &amp;quot;/tags&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;foot-menu:52a9d38876c6a2e91364a4dafc994456&#34;&gt;Foot menu&lt;/h3&gt;
+
+&lt;p&gt;Create &lt;code&gt;data/FootMenu.toml&lt;/code&gt; to configure the footer navigation links. Example below.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-toml&#34;&gt;[license]
+    Name = &amp;quot;license&amp;quot;
+    URL = &amp;quot;/license&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;built-in-colour-themes:52a9d38876c6a2e91364a4dafc994456&#34;&gt;Built-in colour themes&lt;/h2&gt;
+
+&lt;p&gt;You can rebuild the stylesheet. To do it you need &lt;a href=&#34;http://npmjs.com/&#34;&gt;npm&lt;/a&gt; and run the task &lt;code&gt;build:css&lt;/code&gt;.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ vi scss/_00-config.less
+# edit configuration
+
+$ npm install
+$ npm run build:css
+
+&amp;gt; hyde-y@0.0.4 build:css /home/steven/code/hyde-y
+&amp;gt; grunt build:css
+
+Running &amp;quot;less:development&amp;quot; (less) task
+File static/css/style.css created
+
+Running &amp;quot;cssmin:target&amp;quot; (cssmin) task
+&amp;gt;&amp;gt; 1 file created. 27.04 kB → 14.38 kB
+
+Done, without errors.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The task &lt;code&gt;watch&lt;/code&gt; allows to rebuild the stylesheet when a change is spotted on &lt;code&gt;scss/*.less&lt;/code&gt; files.&lt;/p&gt;
+
+&lt;h2 id=&#34;tips:52a9d38876c6a2e91364a4dafc994456&#34;&gt;Tips&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;If you&amp;rsquo;ve added &lt;code&gt;theme = &amp;quot;hyde-y&amp;quot;&lt;/code&gt; to your &lt;code&gt;config.toml&lt;/code&gt;, you don&amp;rsquo;t need to keep using the &lt;code&gt;--theme=hyde-y&lt;/code&gt; flag!&lt;/li&gt;
+&lt;li&gt;Although all of the syntax highlight CSS files under the theme&amp;rsquo;s &lt;code&gt;static/css/highlight&lt;/code&gt; are bundled with the site, only the one you choose will be included in the page and delivered to the browser.&lt;/li&gt;
+&lt;li&gt;Change the favicon by providing your own as &lt;code&gt;static/favicon.png&lt;/code&gt; (and &lt;code&gt;static/touch-icon-144-precomposed.png&lt;/code&gt; for Apple devices) in your site directory.&lt;/li&gt;
+&lt;li&gt;Hugo makes it easy to override theme layout and behaviour, read about it &lt;a href=&#34;http://gohugo.io/themes/customizing&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Pagination is set to 10 items by default, change it by updating &lt;code&gt;paginate = 10&lt;/code&gt; in your &lt;code&gt;config.toml&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;changes-and-enhancements-from-the-original-theme:52a9d38876c6a2e91364a4dafc994456&#34;&gt;Changes and enhancements from the original theme&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Highly customizable: every layout blocks are pieces of HTML code individually stored.&lt;/li&gt;
+&lt;li&gt;Consistent hierarchy for the partials and templates files to assist the overrides of any layout block.&lt;/li&gt;
+&lt;li&gt;Adjustable sidebar in config file.&lt;/li&gt;
+&lt;li&gt;Project layout (badges, github ribbon) for posts stored in &lt;code&gt;content/code/&lt;/code&gt; folder.&lt;/li&gt;
+&lt;li&gt;CSS built with &lt;a href=&#34;http://knacss.com/&#34;&gt;KNACSS&lt;/a&gt; micro-framework.&lt;/li&gt;
+&lt;li&gt;Client-side syntax highlighting through &lt;a href=&#34;https://highlightjs.org/&#34;&gt;highlight.js&lt;/a&gt;, sane fallback if disabled or no JS - infinitely more flexible than the standard Hugo highlighting.&lt;/li&gt;
+&lt;li&gt;Disqus integration: comment counts listed under blog entry names in post list, comments displayed at the bottom of each post.&lt;/li&gt;
+&lt;li&gt;Google Analytics integration.&lt;/li&gt;
+&lt;li&gt;Google Authorship metadata.&lt;/li&gt;
+&lt;li&gt;Paginated blog listing.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://fortawesome.github.io/Font-Awesome&#34;&gt;FontAwesome&lt;/a&gt; social links.&lt;/li&gt;
+&lt;li&gt;&amp;hellip;many other small layout tweaks!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;attribution:52a9d38876c6a2e91364a4dafc994456&#34;&gt;Attribution&lt;/h2&gt;
+
+&lt;p&gt;Obviously largely a port of the awesome &lt;a href=&#34;https://github.com/poole/hyde&#34;&gt;Hyde&lt;/a&gt; and &lt;a href=&#34;https://github.com/zyro/hyde-x&#34;&gt;Hyde-X&lt;/a&gt; themes.&lt;/p&gt;
+
+&lt;h2 id=&#34;questions-ideas-bugs-pull-requests:52a9d38876c6a2e91364a4dafc994456&#34;&gt;Questions, ideas, bugs, pull requests?&lt;/h2&gt;
+
+&lt;p&gt;All feedback is welcome! Head over to the &lt;a href=&#34;https://github.com/enten/hyde-y/issues&#34;&gt;issue tracker&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;license:52a9d38876c6a2e91364a4dafc994456&#34;&gt;License&lt;/h2&gt;
+
+&lt;p&gt;Open sourced under the &lt;a href=&#34;https://github.com/enten/hyde-y/blob/master/LICENSE&#34;&gt;MIT license&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>http://andrewrgoss.github.io/hugo/</link>
+      <pubDate>Wed, 26 Aug 2015 15:08:27 +0200</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.github.io/hugo/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/spf13/hugo/master/docs/static/img/hugo-logo.png&#34; alt=&#34;Hugo&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A Fast and Flexible Static Site Generator built with love by &lt;a href=&#34;http://spf13.com/&#34;&gt;spf13&lt;/a&gt; and &lt;a href=&#34;https://github.com/spf13/hugo/graphs/contributors&#34;&gt;friends&lt;/a&gt; in &lt;a href=&#34;http://golang.org/&#34;&gt;Go&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://gohugo.io&#34;&gt;Website&lt;/a&gt; |
+&lt;a href=&#34;http://discuss.gohugo.io&#34;&gt;Forum&lt;/a&gt; |
+&lt;a href=&#34;https://gitter.im/spf13/hugo&#34;&gt;Chat&lt;/a&gt; |
+&lt;a href=&#34;http://gohugo.io/overview/introduction/&#34;&gt;Documentation&lt;/a&gt; |
+&lt;a href=&#34;http://gohugo.io/overview/installing/&#34;&gt;Installation Guide&lt;/a&gt; |
+&lt;a href=&#34;http://twitter.com/spf13&#34;&gt;Twitter&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;Hugo is a static site generator written in &lt;a href=&#34;http://golang.org/&#34;&gt;Go&lt;/a&gt;. It is optimized for speed, easy use and configurability. Hugo takes a directory with content and templates and renders them into a full HTML website.&lt;/p&gt;
+
+&lt;p&gt;Hugo relies on Markdown files with front matter for meta data. And you can run Hugo from any directory. This works well for shared hosts and other systems where you don’t have a privileged account.&lt;/p&gt;
+
+&lt;p&gt;Hugo renders a typical website of moderate size in a fraction of a second. A good rule of thumb is that each piece of content renders in around 1 millisecond.&lt;/p&gt;
+
+&lt;p&gt;Hugo is meant to work well for any kind of website including blogs, tumbles and docs.&lt;/p&gt;
+
+&lt;h4 id=&#34;supported-architectures&#34;&gt;Supported Architectures&lt;/h4&gt;
+
+&lt;p&gt;Currently, we provide pre-built Hugo binaries for Windows, Linux, FreeBSD, NetBSD and OS&amp;nbsp;X (Darwin) for x64, i386 and ARM architectures.&lt;/p&gt;
+
+&lt;p&gt;Hugo may also be compiled from source wherever the Go compiler tool chain can run, e.g. for other operating systems including DragonFly BSD, OpenBSD, Plan&amp;nbsp;9 and Solaris.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Complete documentation is available at &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo Documentation&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;choose-how-to-install&#34;&gt;Choose How to Install&lt;/h2&gt;
+
+&lt;p&gt;If you want to use Hugo as your site generator, simply install the Hugo binaries. The Hugo binaries have no external dependencies.&lt;/p&gt;
+
+&lt;p&gt;To contribute to the Hugo source code or documentation, you should fork the Hugo GitHub project and clone it to your local machine.&lt;/p&gt;
+
+&lt;p&gt;Finally, you can install the Hugo source code with &lt;code&gt;go&lt;/code&gt;, build the binaries yourself, and run Hugo that way. Building the binaries is an easy task for an experienced &lt;code&gt;go&lt;/code&gt; getter.&lt;/p&gt;
+
+&lt;h3 id=&#34;install-hugo-as-your-site-generator-binary-install&#34;&gt;Install Hugo as Your Site Generator (Binary Install)&lt;/h3&gt;
+
+&lt;p&gt;Use the &lt;a href=&#34;http://gohugo.io/overview/installing/&#34;&gt;installation instructions in the Hugo documentation&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;clone-the-hugo-project-contributor&#34;&gt;Clone the Hugo Project (Contributor)&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Make sure your local environment has the following software installed:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://git-scm.com/&#34;&gt;Git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://mercurial.selenic.com/&#34;&gt;Mercurial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://golang.org/&#34;&gt;Go&lt;/a&gt; 1.3+ (Go 1.4+ on Windows, see Go &lt;a href=&#34;https://code.google.com/p/go/issues/detail?id=8090&#34;&gt;Issue #8090&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Fork the &lt;a href=&#34;https://github.com/spf13/hugo&#34;&gt;Hugo project on GitHub&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Clone your fork:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;git clone https://github.com/YOURNAME/hugo
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Change into the &lt;code&gt;hugo&lt;/code&gt; directory:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;cd hugo
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Install the Hugo project’s package dependencies:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;go get -u -v github.com/spf13/hugo
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Use a symbolic link to add your locally cloned Hugo repository to your &lt;code&gt;$GOPATH&lt;/code&gt;, assuming you prefer doing development work outside of &lt;code&gt;$GOPATH&lt;/code&gt;:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;rm -rf &amp;quot;$GOPATH/src/github.com/spf13/hugo&amp;quot;
+ln -s `pwd` &amp;quot;$GOPATH/src/github.com/spf13/hugo&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Go expects all of your libraries to be found in&lt;code&gt;$GOPATH&lt;/code&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;build-and-install-the-binaries-from-source-advanced-install&#34;&gt;Build and Install the Binaries from Source (Advanced Install)&lt;/h3&gt;
+
+&lt;p&gt;Add Hugo and its package dependencies to your go &lt;code&gt;src&lt;/code&gt; directory.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;go get -v github.com/spf13/hugo
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Once the &lt;code&gt;get&lt;/code&gt; completes, you should find your new &lt;code&gt;hugo&lt;/code&gt; (or &lt;code&gt;hugo.exe&lt;/code&gt;) executable sitting inside &lt;code&gt;$GOPATH/bin/&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;To update Hugo’s dependencies, use &lt;code&gt;go get&lt;/code&gt; with the &lt;code&gt;-u&lt;/code&gt; option.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;go get -u -v github.com/spf13/hugo
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;contributing-to-hugo&#34;&gt;Contributing to Hugo&lt;/h2&gt;
+
+&lt;p&gt;We welcome contributions to Hugo of any kind including documentation, themes, organization, tutorials, blog posts, bug reports, issues, feature requests, feature implementation, pull requests, answering questions on the forum, helping to manage issues, etc. The Hugo community and maintainers are very active and helpful and the project benefits greatly from this activity.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://waffle.io/spf13/hugo/metrics&#34;&gt;&lt;img src=&#34;https://graphs.waffle.io/spf13/hugo/throughput.svg&#34; alt=&#34;Throughput Graph&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you have any questions about how to contribute or what to contribute please ask on the &lt;a href=&#34;http://discuss.gohugo.io&#34;&gt;forum&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;code-contribution-guideline&#34;&gt;Code Contribution Guideline&lt;/h2&gt;
+
+&lt;p&gt;We welcome your contributions. To make the process as seamless as possible, we ask for the following:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Go ahead and fork the project and make your changes. We encourage pull requests to discuss code changes.&lt;/li&gt;
+&lt;li&gt;When you’re ready to create a pull request, be sure to:
+
+&lt;ul&gt;
+&lt;li&gt;Sign the &lt;a href=&#34;http://discuss.gohugo.io/t/switching-to-apache-2-license/173/26&#34;&gt;Forum Release thread&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Have test cases for the new code. If you have questions about how to do it, please ask in your pull request.&lt;/li&gt;
+&lt;li&gt;Run &lt;code&gt;go fmt&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Squash your commits into a single commit. &lt;code&gt;git rebase -i&lt;/code&gt;. It’s okay to force update your pull request.&lt;/li&gt;
+&lt;li&gt;This &lt;a href=&#34;http://chris.beams.io/posts/git-commit/&#34;&gt;blog article&lt;/a&gt; is a good resource for learning how to write good commit messages, the most important part being that each commit message should have a title/subject in imperative mode without trailing period: &lt;em&gt;&amp;laquo;Return error on wrong use of the Paginator&amp;raquo;&lt;/em&gt;, &lt;strong&gt;NOT&lt;/strong&gt; &lt;em&gt;&amp;laquo;Returning some error.&amp;raquo;&lt;/em&gt; Also, if your commit references one or more GitHub issues, always end your commit message body with &lt;em&gt;See #1234&lt;/em&gt; or &lt;em&gt;Fixes #1234&lt;/em&gt;. Replace &lt;em&gt;1234&lt;/em&gt; with the GitHub issue ID. The last example will close the issue when the commit is merged into &lt;em&gt;master&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Make sure &lt;code&gt;go test ./...&lt;/code&gt; passes, and &lt;code&gt;go build&lt;/code&gt; completes. Our &lt;a href=&#34;https://travis-ci.org/spf13/hugo&#34;&gt;Travis CI loop&lt;/a&gt; (Linux) and &lt;a href=&#34;https://ci.appveyor.com/project/spf13/hugo/branch/master&#34;&gt;AppVeyor&lt;/a&gt; (Windows) will catch most things that are missing.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;building-hugo-with-your-changes&#34;&gt;Building Hugo with Your Changes&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;cd /path/to/hugo
+go build -o hugo main.go
+mv hugo /usr/local/bin/
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;adding-compile-information-to-hugo&#34;&gt;Adding compile information to Hugo&lt;/h3&gt;
+
+&lt;p&gt;When Hugo is built using the above steps, the &lt;code&gt;version&lt;/code&gt; sub-command will include the &lt;code&gt;mdate&lt;/code&gt; of the Hugo executable, similar to the following:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Hugo Static Site Generator v0.13-DEV buildDate: 2014-12-24T04:46:03-07:00
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Instead, it is possible to have the &lt;code&gt;version&lt;/code&gt; sub-command return information about the git commit used and time of compilation using &lt;code&gt;build&lt;/code&gt; flags.&lt;/p&gt;
+
+&lt;p&gt;To do this, replace the &lt;code&gt;go build&lt;/code&gt; command with the following &lt;em&gt;(replace &lt;code&gt;/path/to/hugo&lt;/code&gt; with the actual path)&lt;/em&gt;:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;go build -ldflags &amp;quot;-X /path/to/hugo/hugolib.CommitHash `git rev-parse --short HEAD 2&amp;gt;/dev/null` -X github.com/spf13/hugo/hugolib.BuildDate `date +%FT%T%z`&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This will result in &lt;code&gt;hugo version&lt;/code&gt; output that looks similar to:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Hugo Static Site Generator v0.13-DEV-8042E77 buildDate: 2014-12-25T03:25:57-07:00
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Alternatively, just run &lt;code&gt;make&lt;/code&gt; &amp;mdash; all the “magic” above is already in the &lt;code&gt;Makefile&lt;/code&gt;.  :wink:&lt;/p&gt;
+
+&lt;h3 id=&#34;running-hugo&#34;&gt;Running Hugo&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;cd /path/to/hugo
+go install github.com/spf13/hugo/hugolib
+go run main.go
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Complete documentation is available at &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo Documentation&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/igrigorik/ga-beacon&#34;&gt;&lt;img src=&#34;https://ga-beacon.appspot.com/UA-7131036-6/hugo/readme&#34; alt=&#34;Analytics&#34; /&gt;&lt;/a&gt;
+&lt;a href=&#34;https://bitdeli.com/free&#34; title=&#34;Bitdeli Badge&#34;&gt;&lt;img src=&#34;https://d2weczhvl823v0.cloudfront.net/spf13/hugo/trend.png&#34; alt=&#34;Bitdeli Badge&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Third</title>
+      <link>http://andrewrgoss.github.io/2015/08/26/third/</link>
+      <pubDate>Wed, 26 Aug 2015 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.github.io/2015/08/26/third/</guid>
+      <description>
+
+&lt;h2 id=&#34;inducere-de-premit-eodem-luserat-me-domos&#34;&gt;Inducere de premit eodem luserat me domos&lt;/h2&gt;
+
+&lt;p&gt;Lorem markdownum &lt;strong&gt;numerem et&lt;/strong&gt; puta vacantem: vidit agros melius deprensi et
+talia viribus bacis pondere non, in. Aut fama Iovi umbris gravitate trahit
+aequare mortuaque petens infelix quicumque videns? Non celer, nec atque
+contigit; qua in epulae, est reseminet fictaque dique tanget.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Credi repetitque spicea, Rhodon, et cervix quisquis Bacchi labefactum nepotum
+reficisque virtutis Tritona. Nec saevo fecit refundit curvamina! &lt;em&gt;Gemitum
+fecundaque&lt;/em&gt;, tamen est ore serior, &lt;strong&gt;et&lt;/strong&gt; domusque &lt;em&gt;qui ait&lt;/em&gt;, iura modo grana,
+subit. Atracides petite Venus, praeposuisse sacri servo Orphea herbas sed per
+gerentem.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Stridore latus lacrimis vetus, ponti cum Aethionque exsecrantia fontem etiam,
+novo sed. Cervice aperta loqui seque dique posset et, damnans, &lt;strong&gt;dolor nostrae&lt;/strong&gt;
+superare famam circumstant utile in ante inimica senilibus. Ignibus quoslibet
+urbes non. Volentes tot nihil solari licet fatebar, ac riget genitore non
+&lt;a href=&#34;http://news.ycombinator.com/&#34;&gt;illo&lt;/a&gt;: cava populus, sub? Omnia saucia regis
+aera, tela sit &lt;strong&gt;relicto columbas inquit&lt;/strong&gt; mihi, quae fecit desistere
+quaerensque magna prohibete.&lt;/p&gt;
+
+&lt;h2 id=&#34;viro-petit-cornua&#34;&gt;Viro petit cornua&lt;/h2&gt;
+
+&lt;p&gt;Atque oris abibat actis iners cortice perlucentibus miles curvarique rapido,
+nate ille. Crudeles suis super dubitare: pollue crede et rursus. Super Ino arbor
+vestibus, ante fulmine Orontes &lt;strong&gt;quoque cornua tibi&lt;/strong&gt;: fetus ita caducum rapit
+et avus caelumque colles.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Summissoque seque me alios mitte alto lintea&lt;/li&gt;
+&lt;li&gt;Celsoque inquirant baculum&lt;/li&gt;
+&lt;li&gt;Protinus belli&lt;/li&gt;
+&lt;li&gt;Eurystheus adunci splendidaque erat&lt;/li&gt;
+&lt;li&gt;Esse pes restat&lt;/li&gt;
+&lt;li&gt;Dedit rebus et sensimus aevo Abas sibi&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Alieno nec castra, &lt;a href=&#34;http://www.billmays.net/&#34;&gt;quondam&lt;/a&gt;; qua enim, hoc tantumne,
+et alis tum nemorisque. Ancaeus gladios.&lt;/p&gt;
+
+&lt;h2 id=&#34;dis-sine-ligavit-domus-aurea-quoque-fama&#34;&gt;Dis sine ligavit domus aurea quoque fama&lt;/h2&gt;
+
+&lt;p&gt;Status ut Danais auditurum vidisset est honor Erectheus crescit; aut factis
+intus quod perfudit Oceanumque. Teque fortia Amphimedon si &lt;strong&gt;Adoni mortalia&lt;/strong&gt;,
+sede cogeris! &lt;a href=&#34;http://www.uselessaccount.com/&#34;&gt;Alcmena omnia si&lt;/a&gt; animae, sinu
+tepidae adeste, est.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Illa ventre&lt;/li&gt;
+&lt;li&gt;Gelidos et laborum Esse&lt;/li&gt;
+&lt;li&gt;Femineo in Themis&lt;/li&gt;
+&lt;li&gt;Palilibus Lucina Lydos corpus in canor sociorum&lt;/li&gt;
+&lt;li&gt;Vincinaque nostros ignibus Dixit mollitaque amor vultus&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Sed iustis, turba iubentem, satiata tergum hoc, non suae, quo! Oblectamina aret
+crimine moventem, petis vulgasse?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Second</title>
+      <link>http://andrewrgoss.github.io/2015/08/25/second/</link>
+      <pubDate>Tue, 25 Aug 2015 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.github.io/2015/08/25/second/</guid>
+      <description>
+
+&lt;h2 id=&#34;title-2:9f7936f9b5c071ae81db818b80a44a0d&#34;&gt;Title 2&lt;/h2&gt;
+
+&lt;p&gt;Content of post 2&lt;/p&gt;
+
+&lt;h3 id=&#34;title-3:9f7936f9b5c071ae81db818b80a44a0d&#34;&gt;Title 3&lt;/h3&gt;
+
+&lt;p&gt;Content of post 2&lt;/p&gt;
+
+&lt;h4 id=&#34;title-4:9f7936f9b5c071ae81db818b80a44a0d&#34;&gt;Title 4&lt;/h4&gt;
+
+&lt;p&gt;Content of post 2&lt;/p&gt;
+
+&lt;h5 id=&#34;title-5:9f7936f9b5c071ae81db818b80a44a0d&#34;&gt;Title 5&lt;/h5&gt;
+
+&lt;p&gt;Content of post 2&lt;/p&gt;
+
+&lt;h6 id=&#34;title-6:9f7936f9b5c071ae81db818b80a44a0d&#34;&gt;Title 6&lt;/h6&gt;
+
+&lt;p&gt;Content of post 2&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://andrewrgoss.github.io/about/</link>
+      <pubDate>Mon, 24 Aug 2015 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.github.io/about/</guid>
+      <description>
+
+&lt;h2 id=&#34;skills:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Skills&lt;/h2&gt;
+
+
+&lt;span class=&#34;label&#34;&gt;appc&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;activemq&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;agile&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;ajax&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;android&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;angular&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;bootstrap&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;bower&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;cakephp&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;codeigniter&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;composer&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;continuous&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;deployment&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;css&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;debian&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;docker&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;flux&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;fuelphp&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;git&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;github&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;gohugo&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;google&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;maps&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;api&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;grunt&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;gulp&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;html&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;iojs&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;java&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;javascript&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;jenkins&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;jeykill&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;jquery&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;json&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;junit&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;koa&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;less&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;linux&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;lxc&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;open&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;container&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;maven&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;memcached&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;meterial&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;design&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;mesos&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;meteor&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;modelisation&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;mongodb&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;mysql&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;node&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;nosql&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;npm&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;php&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;poo&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;postgresql&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;prestashop&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;qemu&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;rkt&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;react&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;responsive&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;design&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;rest&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;runc&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;rom&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;cooking&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;sass&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;scrum&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;spring&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;sql&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;travis&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;ubuntu&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;uml&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;vagrant&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;virtualisation&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;web&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;services&lt;/span&gt;
+
+&lt;span class=&#34;label&#34;&gt;xml&lt;/span&gt;
+
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>http://andrewrgoss.github.io/2015/08/24/first/</link>
+      <pubDate>Mon, 24 Aug 2015 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.github.io/2015/08/24/first/</guid>
+      <description>&lt;p&gt;&lt;h2&gt;Level 02 Heading&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum &lt;em&gt;emphasised text&lt;/em&gt; dolor sit amet, &lt;strong&gt;strong text&lt;/strong&gt;
+consectetur adipisicing elit, &lt;abbr title=&#34;&#34;&gt;abbreviated text&lt;/abbr&gt; sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut
+&lt;q&gt;quoted text&lt;/q&gt; enim ad minim veniam, quis nostrud exercitation &lt;a href=&#34;http://andrewrgoss.github.io/&#34;&gt;link text&lt;/a&gt;
+ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+&lt;ins&gt;inserted text&lt;/ins&gt; irure dolor in reprehenderit in voluptate velit esse cillum
+dolore eu fugiat nulla pariatur. Excepteur sint occaecat &lt;code&gt;code text&lt;/code&gt; cupidatat
+non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;
+Suspendisse rhoncus, est ac sollicitudin viverra, leo orci sagittis massa, sed condimentum &lt;acronym title=&#34;&#34;&gt;acronym text&lt;/acronym&gt; est tortor a lectus. Curabitur porta feugiat ullamcorper. Integer lacinia mi id odio faucibus eget tincidunt nisl iaculis. Nam adipiscing hendrerit turpis, et porttitor felis sollicitudin et. Donec dictum massa ac neque accumsan tempor. Cras aliquam, ipsum sit amet laoreet hendrerit, purus &lt;del&gt;deleted text&lt;/del&gt; sapien convallis dui, et porta leo ipsum ac nunc. Nullam ornare porta dui ac semper. Cras aliquam laoreet hendrerit. Quisque vulputate dolor eget mi porta vel porta nisl pretium. Vivamus non leo magna, quis imperdiet risus. Morbi tempor risus placerat tellus imperdiet fringilla.
+&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;I am not one who was born in the possession of knowledge; I am one who is fond of antiquity, and earnest in seeking it there.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;cite&gt;&lt;a href=&#34;http://andrewrgoss.github.io/&#34;&gt;Confucius, The Confucian Analects&lt;/a&gt;&lt;/cite&gt;,  (551 BC - 479 BC)&lt;/p&gt;
+
+&lt;h3&gt;Level 03 Heading&lt;/h3&gt;
+
+&lt;p&gt;Extended paragraph. &lt;a href=&#34;&#34;&gt;Lorem ipsum&lt;/a&gt; dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Unus&lt;/li&gt;
+&lt;li&gt;Duo&lt;/li&gt;
+&lt;li&gt;Tres&lt;/li&gt;
+&lt;li&gt;Quattuor&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
+anim id est laborum.&lt;/p&gt;
+
+&lt;h3&gt;Header 3&lt;/h3&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
+ut labore et dolore magna aliqua.&lt;/p&gt;
+
+&lt;h4&gt;Unordered lists&lt;/h4&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Lorem ipsum dolor sit amet&lt;/li&gt;
+      &lt;li&gt;Consectetur adipisicing elit&lt;/li&gt;
+      &lt;li&gt;Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua&lt;/li&gt;
+      &lt;li&gt;Ut enim ad minim veniam&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet,consectetur adipisicing elit, sed do eiusmod tempor incididunt
+ut labore et dolore magna aliqua.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;body { font:0.8125em/1.618 Arial, sans-serif;
+background-color:#fff;  
+color:#111;
+}&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
+anim id est laborum.&lt;/p&gt;
+
+&lt;h4&gt;Header 4&lt;/h4&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
+ut labore et dolore magna aliqua.&lt;/p&gt;
+
+&lt;dl&gt;
+&lt;dt&gt;Definition list&lt;/dt&gt;
+&lt;dd&gt;Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
+aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat.&lt;/dd&gt;
+&lt;dt&gt;Lorem ipsum dolor sit amet&lt;/dt&gt;
+&lt;dd&gt;Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
+aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat.&lt;/dd&gt;
+
+&lt;/dl&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
+ut labore et dolore magna aliqua.&lt;/p&gt;
+&lt;h4&gt;Ordered list&lt;/h4&gt;
+&lt;ol&gt;
+                        &lt;li&gt;List item&lt;/li&gt;
+                        &lt;li&gt;List item&lt;/li&gt;
+                        &lt;li&gt;List item
+                            &lt;ol&gt;
+                                &lt;li&gt;List item level 2&lt;/li&gt;
+                                &lt;li&gt;List item level 2
+                                    &lt;ol&gt;
+                                        &lt;li&gt;List item level 3&lt;/li&gt;
+                                        &lt;li&gt;List item level 3&lt;/li&gt;
+                                    &lt;/ol&gt;
+                                &lt;/li&gt;
+                            &lt;/ol&gt;
+                        &lt;/li&gt;
+                    &lt;/ol&gt;
+                    &lt;h4&gt;Unordered list&lt;/h4&gt;
+                    &lt;ul&gt;
+                        &lt;li&gt;List item 01&lt;/li&gt;
+                        &lt;li&gt;List item 02&lt;/li&gt;
+                        &lt;li&gt;List item 03
+                            &lt;ul&gt;
+                                &lt;li&gt;List item level 2&lt;/li&gt;
+                                &lt;li&gt;List item level 2
+                                    &lt;ul&gt;
+                                        &lt;li&gt;List item level 3&lt;/li&gt;
+                                        &lt;li&gt;List item level 3&lt;/li&gt;
+                                    &lt;/ul&gt;
+                                &lt;/li&gt;
+
+                            &lt;/ul&gt;
+                        &lt;/li&gt;
+                    &lt;/ul&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
+ut labore et dolore magna aliqua.&lt;/p&gt;
+
+&lt;p&gt;&lt;h4&gt;Tables&lt;/h4&gt;
+    &lt;table summary=&#34;Jimi Hendrix albums&#34;&gt;
+  &lt;caption&gt;Jimi Hendrix - albums&lt;/caption&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+        &lt;th&gt;Album&lt;/th&gt;
+        &lt;th&gt;Year&lt;/th&gt;
+        &lt;th&gt;Price&lt;/th&gt;
+      &lt;/tr&gt;
+    &lt;/thead&gt;
+          &lt;tfoot&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Album&lt;/td&gt;
+        &lt;td&gt;Year&lt;/td&gt;
+        &lt;td&gt;Price&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/tfoot&gt;
+    &lt;tbody&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Are You Experienced &lt;/td&gt;
+        &lt;td&gt;1967&lt;/td&gt;
+        &lt;td&gt;$10.00&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Axis: Bold as Love&lt;/td&gt;
+        &lt;td&gt;1967&lt;/td&gt;
+        &lt;td&gt;$12.00&lt;/td&gt;
+      &lt;/tr&gt;
+     &lt;tr&gt;
+        &lt;td&gt;Electric Ladyland&lt;/td&gt;
+        &lt;td&gt;1968&lt;/td&gt;
+        &lt;td&gt;$10.00&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Band of Gypsys&lt;/td&gt;
+        &lt;td&gt;1970&lt;/td&gt;
+        &lt;td&gt;$12.00&lt;/td&gt;
+      &lt;/tr&gt;
+            &lt;tbody&gt;
+    &lt;/table&gt;
+  &lt;p&gt;
+I am &lt;a href=&#34;http://devkick.com/lab/tripoli/sample.php?abc123&#34;&gt;the a tag&lt;/a&gt; example&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;I am &lt;abbr title=&#34;test&#34;&gt;the abbr tag&lt;/abbr&gt; example&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;I am &lt;acronym&gt;the acronym tag&lt;/acronym&gt; example&lt;br&gt;
+I am &lt;b&gt;the b tag&lt;/b&gt; example&lt;br&gt;
+I am &lt;big&gt;the big tag&lt;/big&gt; example&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;I am &lt;cite&gt;the cite tag&lt;/cite&gt; example&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;I am &lt;code&gt;the code tag&lt;/code&gt; example&lt;br&gt;
+I am &lt;del&gt;the del tag&lt;/del&gt; example&lt;br&gt;
+I am &lt;dfn&gt;the dfn tag&lt;/dfn&gt; example&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;I am &lt;em&gt;the em tag&lt;/em&gt; example&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;I am &lt;font face=&#34;verdana&#34;&gt;the font tag&lt;/font&gt; example&lt;br&gt;
+I am &lt;i&gt;the i tag&lt;/i&gt; example&lt;br&gt;
+I am &lt;ins&gt;the ins tag&lt;/ins&gt; example&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;I am &lt;kbd&gt;the kbd tag&lt;/kbd&gt; example&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;I am &lt;q&gt;the q tag &lt;q&gt;inside&lt;/q&gt; a q tag&lt;/q&gt; example&lt;br&gt;
+I am &lt;s&gt;the s tag&lt;/s&gt; example&lt;br&gt;
+I am &lt;samp&gt;the samp tag&lt;/samp&gt; example&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;I am &lt;small&gt;the small tag&lt;/small&gt; example&lt;br&gt;
+I am &lt;span&gt;the span tag&lt;/span&gt; example&lt;br&gt;
+I am &lt;strike&gt;the strike tag&lt;/strike&gt; example&lt;br&gt;
+I am &lt;strong&gt;the strong tag&lt;/strong&gt; example&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;I am &lt;sub&gt;the sub tag&lt;/sub&gt; example&lt;br&gt;
+I am &lt;sup&gt;the sup tag&lt;/sup&gt; example&lt;br&gt;
+I am &lt;tt&gt;the tt tag&lt;/tt&gt; example&lt;br&gt;
+I am &lt;var&gt;the var tag&lt;/var&gt; example&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;I am &lt;u&gt;the u tag&lt;/u&gt; example
+&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;This is a &amp;lt;p&amp;gt; with some &lt;code&gt;code&lt;/code&gt; inside.&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;What is Lorem Ipsum?&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;Lorem Ipsum&lt;/b&gt; is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;This&lt;/strong&gt; Lorem Ipsum HTML example is created from the parts of Placeholder Markup with Lorem Ipsum - Jon Tan,
+Emastic CSS Framework,
+Tripoli CSS Framework and
+Baseline CSS Framework .&lt;/p&gt;
+
+&lt;address&gt;Address: somewhere, World&lt;/address&gt;
+
+&lt;p&gt;
+&lt;a href=&#34;#&#34;&gt;Link&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;&amp;lt;strong&amp;gt;&lt;/strong&gt;&lt;br&gt;
+&lt;del&gt;&amp;lt;del&amp;gt; deleted&lt;/del&gt;&lt;br&gt;
+&lt;dfn&gt;&amp;lt;dfn&amp;gt; dfn&lt;/dfn&gt;&lt;br&gt;
+&lt;em&gt;&amp;lt;em&amp;gt; emphasis&lt;/em&gt;
+&lt;/p&gt;
+&lt;pre&gt;
+&lt;code&gt;&amp;lt;html&amp;gt;
+  &amp;lt;head&amp;gt;
+  &amp;lt;/head&amp;gt;
+  &amp;lt;body&amp;gt;
+    &amp;lt;div class = &#34;main&#34;&amp;gt; &amp;lt;div&amp;gt;
+  &amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt; &lt;/code&gt;
+&lt;/pre&gt;
+
+&lt;tt&gt;&amp;lt;tt&amp;gt;
+Pellentesque tempor, dui ut ultrices viverra, neque urna blandit nisi, id accumsan dolor est vitae risus.
+&lt;/tt&gt;
+
+&lt;hr&gt;
+
+
+
+&lt;!-- this following markup from http://bluetrip.org/ --&gt;
+&lt;dl&gt;
+&lt;dt&gt;Description list title 01&lt;/dt&gt;
+
+&lt;dd&gt;Description list description 01&lt;/dd&gt;
+&lt;dt&gt;Description list title 02&lt;/dt&gt;
+&lt;dd&gt;Description list description 02&lt;/dd&gt;
+&lt;dd&gt;Description list description 03&lt;/dd&gt;
+
+&lt;/dl&gt;
+&lt;table&gt;
+&lt;caption&gt;Table Caption&lt;/caption&gt;
+
+&lt;thead&gt;
+&lt;tr&gt;
+  &lt;th&gt;Table head th&lt;/th&gt;
+  &lt;td&gt;Table head td&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;/thead&gt;
+&lt;tfoot&gt;
+&lt;tr&gt;
+
+  &lt;th&gt;Table foot th&lt;/th&gt;
+  &lt;td&gt;Table foot td&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tfoot&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+  &lt;th&gt;Table body th&lt;/th&gt;
+
+  &lt;td&gt;Table body td&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;Table body td&lt;/td&gt;
+
+  &lt;td&gt;Table body td&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+
+&lt;/table&gt;
+
+&lt;hr&gt;
+
+&lt;form action=&#34;#&#34;&gt;
+&lt;fieldset&gt;
+&lt;legend&gt;Form legend&lt;/legend&gt;
+
+&lt;div&gt;&lt;label for=&#34;f1&#34;&gt;Optional Text input:&lt;/label&gt;&lt;input type=&#34;text&#34; id=&#34;f1&#34; value=&#34;input text&#34; /&gt;&lt;/div&gt;
+&lt;div&gt;&lt;label for=&#34;rt1&#34;&gt;Required Text input:&lt;/label&gt;&lt;input type=&#34;text&#34; id=&#34;rt1&#34; required /&gt;&lt;/div&gt;
+&lt;div&gt;&lt;label for=&#34;twp1&#34;&gt;Text input with pattern requirement and placeholder:&lt;/label&gt;&lt;input type=&#34;text&#34; pattern=&#34;\d{5}(-\d{4})?&#34; title=&#34;a US Zip code, with or without the +4 exension&#34; placeholder=&#34;12345-6789&#34;/&gt;&lt;/div&gt;
+&lt;div&gt;&lt;label for=&#34;s1&#34;&gt;Search input:&lt;/label&gt;&lt;input type=&#34;search&#34; id=&#34;s1&#34; /&gt;&lt;/div&gt;
+&lt;div&gt;&lt;label for=&#34;e1&#34;&gt;Email input:&lt;/label&gt;&lt;input type=&#34;email&#34; id=&#34;e1&#34; /&gt;&lt;/div&gt;
+&lt;div&gt;&lt;label for=&#34;u1&#34;&gt;URL input:&lt;/label&gt;&lt;input type=&#34;url&#34; id=&#34;u1&#34; /&gt;&lt;/div&gt;
+&lt;div&gt;&lt;label for=&#34;pw&#34;&gt;Password input:&lt;/label&gt;&lt;input type=&#34;password&#34; id=&#34;pw&#34; value=&#34;password&#34; /&gt;&lt;/div&gt;
+&lt;div&gt;&lt;label for=&#34;f2&#34;&gt;Radio input:&lt;/label&gt;&lt;input type=&#34;radio&#34; id=&#34;f2&#34; /&gt;&lt;/div&gt;
+
+&lt;div&gt;&lt;label for=&#34;f3&#34;&gt;Checkbox input:&lt;/label&gt;&lt;input type=&#34;checkbox&#34; id=&#34;f3&#34; /&gt;&lt;/div&gt;
+&lt;div&gt;&lt;label for=&#34;f4&#34;&gt;Select field:&lt;/label&gt;&lt;select id=&#34;f4&#34;&gt;&lt;option&gt;Option 01&lt;/option&gt;&lt;option&gt;Option 02&lt;/option&gt;&lt;/select&gt;&lt;/div&gt;
+
+&lt;div&gt;&lt;label for=&#34;f5&#34;&gt;Textarea:&lt;/label&gt;&lt;textarea id=&#34;f5&#34; cols=&#34;30&#34; rows=&#34;5&#34; &gt;Textarea text&lt;/textarea&gt;&lt;/div&gt;
+&lt;div&gt;&lt;label for=&#34;f6&#34;&gt;Input Button:&lt;/label&gt; &lt;input type=&#34;button&#34; id=&#34;f6&#34; value=&#34;button text&#34; /&gt;&lt;/div&gt;
+
+&lt;div&gt;&lt;label for=&#34;f7&#34;&gt;Submit Button:&lt;/label&gt; &lt;input type=&#34;submit&#34; id=&#34;f7&#34; value=&#34;button text&#34; /&gt;&lt;/div&gt;
+
+&lt;/fieldset&gt;
+
+&lt;/form&gt;
+
+
+&lt;!-- thx peter beverloo: http://peter.sh/examples/?/html/meter-progress.html --&gt;
+
+
+&lt;p id=&#34;no-support&#34; style=&#34;color: red; margin-bottom: 12px;&#34;&gt;
+Your browser does not support these elements yet! Consider downloading a &lt;a href=&#34;http://tools.peter.sh/download-latest-chromium.php&#34;&gt;Chromium Nightly&lt;/a&gt;.&lt;br /&gt;
+
+&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&amp;lt;progress&amp;gt;&lt;/h3&gt;
+&lt;p&gt;
+The progress element (spec: &lt;a href=&#34;http://www.whatwg.org/specs/web-apps/current-work/multipage/the-button-element.html#the-progress-element&#34;&gt;4.10.16&lt;/a&gt;) represents the completion progress of a task and can be both indeterminate as determinate.
+&lt;/p&gt;
+&lt;ul class=&#34;compact&#34;&gt;
+&lt;li&gt;
+ &lt;label&gt;Indeterminate&lt;/label&gt;
+ &lt;progress max=&#34;100&#34;&gt;&lt;/progress&gt;
+&lt;/li&gt;
+&lt;li&gt;
+ &lt;label&gt;Progress: 0%&lt;/label&gt;
+ &lt;progress max=&#34;10&#34; value=&#34;0&#34;&gt;&lt;/progress&gt;
+&lt;/li&gt;
+&lt;li&gt;
+ &lt;label&gt;Progress: 100%&lt;/label&gt;
+ &lt;progress max=&#34;3254&#34; value=&#34;3254&#34;&gt;&lt;/progress&gt;
+&lt;/li&gt;
+&lt;li&gt;
+ &lt;label&gt;Progress: 57%&lt;/label&gt;
+ &lt;progress max=&#34;0.7&#34; value=&#34;0.4&#34;&gt;&lt;/progress&gt;
+&lt;/li&gt;
+&lt;li&gt;
+ &lt;label&gt;Javascript&lt;/label&gt;
+ &lt;progress id=&#34;progress-javascript-example&#34;&gt;&lt;/progress&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Another Hugo Post</title>
+      <link>http://andrewrgoss.github.io/2014/09/02/another-hugo-post/</link>
+      <pubDate>Tue, 02 Sep 2014 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.github.io/2014/09/02/another-hugo-post/</guid>
+      <description>
+
+&lt;h2 id=&#34;toml-yaml-json-oh-my&#34;&gt;TOML, YAML, JSON &amp;mdash; Oh my!&lt;/h2&gt;
+
+&lt;p&gt;One of the nifty Hugo features we should cover: flexible configuration and front matter formats! This entry has front
+matter in &lt;code&gt;toml&lt;/code&gt;, unlike the last one which used &lt;code&gt;yaml&lt;/code&gt;, and &lt;code&gt;json&lt;/code&gt; is also available if that&amp;rsquo;s your preference.&lt;/p&gt;
+
+&lt;p&gt;The &lt;code&gt;toml&lt;/code&gt; front matter used on this entry:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;+++
+title = &amp;quot;Another Hugo Post&amp;quot;
+description = &amp;quot;Nothing special, but one post is boring.&amp;quot;
+date = &amp;quot;2014-09-02&amp;quot;
+categories = [ &amp;quot;example&amp;quot;, &amp;quot;configuration&amp;quot; ]
+tags = [
+    &amp;quot;example&amp;quot;,
+    &amp;quot;hugo&amp;quot;,
+    &amp;quot;toml&amp;quot;
+]
++++
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This flexibility also extends to your site&amp;rsquo;s global configuration file. You&amp;rsquo;re free to use any format you prefer::simply
+name the file &lt;code&gt;config.yaml&lt;/code&gt;, &lt;code&gt;config.toml&lt;/code&gt; or &lt;code&gt;config.json&lt;/code&gt;, and go on your merry way.&lt;/p&gt;
+
+&lt;h2 id=&#34;json-example&#34;&gt;JSON Example&lt;/h2&gt;
+
+&lt;p&gt;How would this entry&amp;rsquo;s front matter look in &lt;code&gt;json&lt;/code&gt;? That&amp;rsquo;s easy enough to demonstrate:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{
+    &amp;quot;title&amp;quot;: &amp;quot;Another Hugo Post&amp;quot;,
+    &amp;quot;description&amp;quot;: &amp;quot;Nothing special, but one post is boring.&amp;quot;,
+    &amp;quot;date&amp;quot;: &amp;quot;2014-09-02&amp;quot;,
+    &amp;quot;categories&amp;quot;: [ &amp;quot;example&amp;quot;, &amp;quot;configuration&amp;quot; ],
+    &amp;quot;tags&amp;quot;: [
+        &amp;quot;example&amp;quot;,
+        &amp;quot;hugo&amp;quot;,
+        &amp;quot;toml&amp;quot;
+    ],
+}
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hello Hugo!</title>
+      <link>http://andrewrgoss.github.io/2014/09/01/hello-hugo/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.github.io/2014/09/01/hello-hugo/</guid>
+      <description>
+
+&lt;p&gt;Hello from Hugo! If you&amp;rsquo;re reading this in your browser, good job! The file &lt;code&gt;content/post/hello-hugo.md&lt;/code&gt; has been
+converted into a complete HTML document by Hugo. Isn&amp;rsquo;t that pretty nifty?&lt;/p&gt;
+
+&lt;h2 id=&#34;a-section:559804b0a39dd16d2d1d1238c597145a&#34;&gt;A Section&lt;/h2&gt;
+
+&lt;p&gt;Here&amp;rsquo;s a simple titled section where you can place whatever information you want.&lt;/p&gt;
+
+&lt;p&gt;You can use inline HTML if you want, but really there&amp;rsquo;s not much that Markdown can&amp;rsquo;t do.&lt;/p&gt;
+
+&lt;h2 id=&#34;showing-off-with-markdown:559804b0a39dd16d2d1d1238c597145a&#34;&gt;Showing off with Markdown&lt;/h2&gt;
+
+&lt;p&gt;A full cheat sheet can be found &lt;a href=&#34;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&#34;&gt;here&lt;/a&gt;
+or through &lt;a href=&#34;https://google.com/&#34;&gt;Google&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;There are some &lt;em&gt;easy&lt;/em&gt; examples for styling, though. I can&amp;rsquo;t &lt;strong&gt;emphasize&lt;/strong&gt; that enough.
+Creating &lt;a href=&#34;https://google.com/&#34;&gt;links&lt;/a&gt; or &lt;code&gt;inline code&lt;/code&gt; blocks are very straightforward.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;There are some *easy* examples for styling, though. I can&#39;t **emphasize** that enough.
+Creating [links](https://google.com/) or `inline code` blocks are very straightforward.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;front-matter-for-fun:559804b0a39dd16d2d1d1238c597145a&#34;&gt;Front Matter for Fun&lt;/h2&gt;
+
+&lt;p&gt;This is the meta data for this post. It is located at the top of the &lt;code&gt;content/post/hello-hugo.md&lt;/code&gt; markdown file.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;---
+title: &amp;quot;Hello Hugo!&amp;quot;
+description: &amp;quot;Saying &#39;Hello&#39; from Hugo&amp;quot;
+date: &amp;quot;2014-09-01&amp;quot;
+categories:
+  - &amp;quot;example&amp;quot;
+  - &amp;quot;hello&amp;quot;
+tags:
+  - &amp;quot;example&amp;quot;
+  - &amp;quot;hugo&amp;quot;
+  - &amp;quot;blog&amp;quot;
+---
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This section, called &amp;lsquo;Front Matter&amp;rsquo;, is what tells Hugo about the content in this file: the &lt;code&gt;title&lt;/code&gt; of the item, the
+&lt;code&gt;description&lt;/code&gt;, and the &lt;code&gt;date&lt;/code&gt; it was posted. In our example, we&amp;rsquo;ve added two custom bits of data too. The &lt;code&gt;categories&lt;/code&gt; and
+&lt;code&gt;tags&lt;/code&gt; sections are used in this example for indexing/grouping content. You will learn more about what that means by
+examining the code in this example and through reading the Hugo &lt;a href=&#34;http://gohugo.io/overview/introduction&#34;&gt;documentation&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
