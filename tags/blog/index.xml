@@ -23,13 +23,13 @@
 &lt;p&gt;Hello from Hugo! If you&amp;rsquo;re reading this in your browser, good job! The file &lt;code&gt;content/post/hello-hugo.md&lt;/code&gt; has been
 converted into a complete HTML document by Hugo. Isn&amp;rsquo;t that pretty nifty?&lt;/p&gt;
 
-&lt;h2 id=&#34;a-section&#34;&gt;A Section&lt;/h2&gt;
+&lt;h2 id=&#34;a-section:559804b0a39dd16d2d1d1238c597145a&#34;&gt;A Section&lt;/h2&gt;
 
 &lt;p&gt;Here&amp;rsquo;s a simple titled section where you can place whatever information you want.&lt;/p&gt;
 
 &lt;p&gt;You can use inline HTML if you want, but really there&amp;rsquo;s not much that Markdown can&amp;rsquo;t do.&lt;/p&gt;
 
-&lt;h2 id=&#34;showing-off-with-markdown&#34;&gt;Showing off with Markdown&lt;/h2&gt;
+&lt;h2 id=&#34;showing-off-with-markdown:559804b0a39dd16d2d1d1238c597145a&#34;&gt;Showing off with Markdown&lt;/h2&gt;
 
 &lt;p&gt;A full cheat sheet can be found &lt;a href=&#34;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&#34;&gt;here&lt;/a&gt;
 or through &lt;a href=&#34;https://google.com/&#34;&gt;Google&lt;/a&gt;.&lt;/p&gt;
@@ -41,7 +41,7 @@ Creating &lt;a href=&#34;https://google.com/&#34;&gt;links&lt;/a&gt; or &lt;code
 Creating [links](https://google.com/) or `inline code` blocks are very straightforward.
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;h2 id=&#34;front-matter-for-fun&#34;&gt;Front Matter for Fun&lt;/h2&gt;
+&lt;h2 id=&#34;front-matter-for-fun:559804b0a39dd16d2d1d1238c597145a&#34;&gt;Front Matter for Fun&lt;/h2&gt;
 
 &lt;p&gt;This is the meta data for this post. It is located at the top of the &lt;code&gt;content/post/hello-hugo.md&lt;/code&gt; markdown file.&lt;/p&gt;
 

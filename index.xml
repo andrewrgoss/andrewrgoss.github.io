@@ -9,8 +9,52 @@
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
     <copyright>(c) 2016 Andrew Goss.</copyright>
-    <lastBuildDate>Mon, 14 Sep 2015 15:08:27 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 07 Feb 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://andrewrgoss.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>http://andrewrgoss.github.io/about/</link>
+      <pubDate>Sun, 07 Feb 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.github.io/about/</guid>
+      <description>
+
+&lt;p&gt;Data engineer and business intelligence developer in the marketing &amp;amp; advertising industry. Skilled in developing and supporting crucial back-end functionality behind data-driven applications. Enabler of advanced analytics towards reaching the right audience at the right time. Designs, builds, and deploys information system programs across software development life cycles. Technical aptitude is complimented by a strong business acumen originating from a career that began in client marketing services. Top-notch consultant and project manager with a mindset towards identifying and solving challenging business problems. Consistently provides quality ongoing services, on-time deliverables, and open communication around project status, risks, and challenges. Takes proactive approach towards career growth and skill development. Results-oriented, well-organized, self-motivated, and effective team member.&lt;/p&gt;
+
+&lt;h1 id=&#34;skills&#34;&gt;Skills&lt;/h1&gt;
+
+&lt;h5 id=&#34;business&#34;&gt;Business&lt;/h5&gt;
+
+&lt;ul class=&#34;compact&#34;&gt;
+&lt;li&gt;
+ &lt;label&gt;Account Management&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&lt;/label&gt;
+ &lt;progress max=&#34;1.0&#34; value=&#34;0.7&#34;&gt;&lt;/progress&gt;
+&lt;/li&gt;
+&lt;li&gt;
+ &lt;label&gt;Consulting&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&lt;/label&gt;
+ &lt;progress max=&#34;1.0&#34; value=&#34;0.8&#34;&gt;&lt;/progress&gt;
+&lt;/li&gt;
+&lt;li&gt;
+ &lt;label&gt;Marketing Automation&amp;ensp;&amp;ensp;&amp;ensp;&lt;/label&gt;
+ &lt;progress max=&#34;1.0&#34; value=&#34;0.65&#34;&gt;&lt;/progress&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;technical&#34;&gt;Technical&lt;/h5&gt;
+
+&lt;ul class=&#34;compact&#34;&gt;
+&lt;li&gt;
+ &lt;label&gt;Relational Databases&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&lt;/label&gt;
+ &lt;progress max=&#34;1.0&#34; value=&#34;0.9&#34;&gt;&lt;/progress&gt;
+&lt;/li&gt;
+&lt;li&gt;
+ &lt;label&gt;Software Development&amp;ensp;&amp;ensp;&amp;ensp;&lt;/label&gt;
+ &lt;progress max=&#34;1.0&#34; value=&#34;0.8&#34;&gt;&lt;/progress&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Hugo Boilerplate</title>
@@ -128,11 +172,11 @@ npm run deploy
 &lt;p&gt;You can find a live site using this theme &lt;a href=&#34;http://enten.github.io/hugo-boilerplate/&#34;&gt;here&lt;/a&gt;
 and the corresponding source code &lt;a href=&#34;https://github.com/enten/hugo-boilerplate&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h2 id=&#34;screenshot:52a9d38876c6a2e91364a4dafc994456&#34;&gt;Screenshot&lt;/h2&gt;
+&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/enten/hugo-boilerplate/master/themes/hyde-y/images/screenshot.png&#34; alt=&#34;preview&#34; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;installation:52a9d38876c6a2e91364a4dafc994456&#34;&gt;Installation&lt;/h2&gt;
+&lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
 
 &lt;pre&gt;&lt;code&gt;$ cd your_site_repo/
 $ mkdir themes
@@ -142,7 +186,7 @@ $ git clone https://github.com/enten/hyde-y
 
 &lt;p&gt;See the &lt;a href=&#34;http://gohugo.io/themes/installing&#34;&gt;official Hugo themes documentation&lt;/a&gt; for more info.&lt;/p&gt;
 
-&lt;h2 id=&#34;usage:52a9d38876c6a2e91364a4dafc994456&#34;&gt;Usage&lt;/h2&gt;
+&lt;h2 id=&#34;usage&#34;&gt;Usage&lt;/h2&gt;
 
 &lt;p&gt;This theme expects a relatively standard Hugo blog/personal site layout:&lt;/p&gt;
 
@@ -160,9 +204,9 @@ $ git clone https://github.com/enten/hyde-y
 
 &lt;p&gt;Just run &lt;code&gt;hugo --theme=hyde-y&lt;/code&gt; to generate your site!&lt;/p&gt;
 
-&lt;h2 id=&#34;configuration:52a9d38876c6a2e91364a4dafc994456&#34;&gt;Configuration&lt;/h2&gt;
+&lt;h2 id=&#34;configuration&#34;&gt;Configuration&lt;/h2&gt;
 
-&lt;h3 id=&#34;hugo:52a9d38876c6a2e91364a4dafc994456&#34;&gt;Hugo&lt;/h3&gt;
+&lt;h3 id=&#34;hugo&#34;&gt;Hugo&lt;/h3&gt;
 
 &lt;p&gt;An example of what your site&amp;rsquo;s &lt;code&gt;config.toml&lt;/code&gt; could look like. All theme-specific parameters are under &lt;code&gt;[params]&lt;/code&gt; and standard Hugo parameters are used where possible.&lt;/p&gt;
 
@@ -249,7 +293,7 @@ disqusShortname = &amp;quot;your_disqus_shortname&amp;quot;
 
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;h3 id=&#34;menu:52a9d38876c6a2e91364a4dafc994456&#34;&gt;Menu&lt;/h3&gt;
+&lt;h3 id=&#34;menu&#34;&gt;Menu&lt;/h3&gt;
 
 &lt;p&gt;Create &lt;code&gt;data/Menu.toml&lt;/code&gt; to configure the sidebar navigation links. Example below.&lt;/p&gt;
 
@@ -268,7 +312,7 @@ disqusShortname = &amp;quot;your_disqus_shortname&amp;quot;
     URL = &amp;quot;/tags&amp;quot;
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;h3 id=&#34;foot-menu:52a9d38876c6a2e91364a4dafc994456&#34;&gt;Foot menu&lt;/h3&gt;
+&lt;h3 id=&#34;foot-menu&#34;&gt;Foot menu&lt;/h3&gt;
 
 &lt;p&gt;Create &lt;code&gt;data/FootMenu.toml&lt;/code&gt; to configure the footer navigation links. Example below.&lt;/p&gt;
 
@@ -277,7 +321,7 @@ disqusShortname = &amp;quot;your_disqus_shortname&amp;quot;
     URL = &amp;quot;/license&amp;quot;
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;h2 id=&#34;built-in-colour-themes:52a9d38876c6a2e91364a4dafc994456&#34;&gt;Built-in colour themes&lt;/h2&gt;
+&lt;h2 id=&#34;built-in-colour-themes&#34;&gt;Built-in colour themes&lt;/h2&gt;
 
 &lt;p&gt;You can rebuild the stylesheet. To do it you need &lt;a href=&#34;http://npmjs.com/&#34;&gt;npm&lt;/a&gt; and run the task &lt;code&gt;build:css&lt;/code&gt;.&lt;/p&gt;
 
@@ -301,7 +345,7 @@ Done, without errors.
 
 &lt;p&gt;The task &lt;code&gt;watch&lt;/code&gt; allows to rebuild the stylesheet when a change is spotted on &lt;code&gt;scss/*.less&lt;/code&gt; files.&lt;/p&gt;
 
-&lt;h2 id=&#34;tips:52a9d38876c6a2e91364a4dafc994456&#34;&gt;Tips&lt;/h2&gt;
+&lt;h2 id=&#34;tips&#34;&gt;Tips&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;If you&amp;rsquo;ve added &lt;code&gt;theme = &amp;quot;hyde-y&amp;quot;&lt;/code&gt; to your &lt;code&gt;config.toml&lt;/code&gt;, you don&amp;rsquo;t need to keep using the &lt;code&gt;--theme=hyde-y&lt;/code&gt; flag!&lt;/li&gt;
@@ -311,7 +355,7 @@ Done, without errors.
 &lt;li&gt;Pagination is set to 10 items by default, change it by updating &lt;code&gt;paginate = 10&lt;/code&gt; in your &lt;code&gt;config.toml&lt;/code&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;changes-and-enhancements-from-the-original-theme:52a9d38876c6a2e91364a4dafc994456&#34;&gt;Changes and enhancements from the original theme&lt;/h2&gt;
+&lt;h2 id=&#34;changes-and-enhancements-from-the-original-theme&#34;&gt;Changes and enhancements from the original theme&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Highly customizable: every layout blocks are pieces of HTML code individually stored.&lt;/li&gt;
@@ -328,15 +372,15 @@ Done, without errors.
 &lt;li&gt;&amp;hellip;many other small layout tweaks!&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;attribution:52a9d38876c6a2e91364a4dafc994456&#34;&gt;Attribution&lt;/h2&gt;
+&lt;h2 id=&#34;attribution&#34;&gt;Attribution&lt;/h2&gt;
 
 &lt;p&gt;Obviously largely a port of the awesome &lt;a href=&#34;https://github.com/poole/hyde&#34;&gt;Hyde&lt;/a&gt; and &lt;a href=&#34;https://github.com/zyro/hyde-x&#34;&gt;Hyde-X&lt;/a&gt; themes.&lt;/p&gt;
 
-&lt;h2 id=&#34;questions-ideas-bugs-pull-requests:52a9d38876c6a2e91364a4dafc994456&#34;&gt;Questions, ideas, bugs, pull requests?&lt;/h2&gt;
+&lt;h2 id=&#34;questions-ideas-bugs-pull-requests&#34;&gt;Questions, ideas, bugs, pull requests?&lt;/h2&gt;
 
 &lt;p&gt;All feedback is welcome! Head over to the &lt;a href=&#34;https://github.com/enten/hyde-y/issues&#34;&gt;issue tracker&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h2 id=&#34;license:52a9d38876c6a2e91364a4dafc994456&#34;&gt;License&lt;/h2&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
 
 &lt;p&gt;Open sourced under the &lt;a href=&#34;https://github.com/enten/hyde-y/blob/master/LICENSE&#34;&gt;MIT license&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -361,7 +405,7 @@ Done, without errors.
 &lt;a href=&#34;http://gohugo.io/overview/installing/&#34;&gt;Installation Guide&lt;/a&gt; |
 &lt;a href=&#34;http://twitter.com/spf13&#34;&gt;Twitter&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;overview:32ab7241d48fcc174c877413a917f8cf&#34;&gt;Overview&lt;/h2&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 
 &lt;p&gt;Hugo is a static site generator written in &lt;a href=&#34;http://golang.org/&#34;&gt;Go&lt;/a&gt;. It is optimized for speed, easy use and configurability. Hugo takes a directory with content and templates and renders them into a full HTML website.&lt;/p&gt;
 
@@ -371,7 +415,7 @@ Done, without errors.
 
 &lt;p&gt;Hugo is meant to work well for any kind of website including blogs, tumbles and docs.&lt;/p&gt;
 
-&lt;h4 id=&#34;supported-architectures:32ab7241d48fcc174c877413a917f8cf&#34;&gt;Supported Architectures&lt;/h4&gt;
+&lt;h4 id=&#34;supported-architectures&#34;&gt;Supported Architectures&lt;/h4&gt;
 
 &lt;p&gt;Currently, we provide pre-built Hugo binaries for Windows, Linux, FreeBSD, NetBSD and OS&amp;nbsp;X (Darwin) for x64, i386 and ARM architectures.&lt;/p&gt;
 
@@ -379,7 +423,7 @@ Done, without errors.
 
 &lt;p&gt;&lt;strong&gt;Complete documentation is available at &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo Documentation&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;choose-how-to-install:32ab7241d48fcc174c877413a917f8cf&#34;&gt;Choose How to Install&lt;/h2&gt;
+&lt;h2 id=&#34;choose-how-to-install&#34;&gt;Choose How to Install&lt;/h2&gt;
 
 &lt;p&gt;If you want to use Hugo as your site generator, simply install the Hugo binaries. The Hugo binaries have no external dependencies.&lt;/p&gt;
 
@@ -387,11 +431,11 @@ Done, without errors.
 
 &lt;p&gt;Finally, you can install the Hugo source code with &lt;code&gt;go&lt;/code&gt;, build the binaries yourself, and run Hugo that way. Building the binaries is an easy task for an experienced &lt;code&gt;go&lt;/code&gt; getter.&lt;/p&gt;
 
-&lt;h3 id=&#34;install-hugo-as-your-site-generator-binary-install:32ab7241d48fcc174c877413a917f8cf&#34;&gt;Install Hugo as Your Site Generator (Binary Install)&lt;/h3&gt;
+&lt;h3 id=&#34;install-hugo-as-your-site-generator-binary-install&#34;&gt;Install Hugo as Your Site Generator (Binary Install)&lt;/h3&gt;
 
 &lt;p&gt;Use the &lt;a href=&#34;http://gohugo.io/overview/installing/&#34;&gt;installation instructions in the Hugo documentation&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h3 id=&#34;clone-the-hugo-project-contributor:32ab7241d48fcc174c877413a917f8cf&#34;&gt;Clone the Hugo Project (Contributor)&lt;/h3&gt;
+&lt;h3 id=&#34;clone-the-hugo-project-contributor&#34;&gt;Clone the Hugo Project (Contributor)&lt;/h3&gt;
 
 &lt;ol&gt;
 &lt;li&gt;&lt;p&gt;Make sure your local environment has the following software installed:&lt;/p&gt;
@@ -428,7 +472,7 @@ ln -s `pwd` &amp;quot;$GOPATH/src/github.com/spf13/hugo&amp;quot;
 &lt;p&gt;Go expects all of your libraries to be found in&lt;code&gt;$GOPATH&lt;/code&gt;.&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h3 id=&#34;build-and-install-the-binaries-from-source-advanced-install:32ab7241d48fcc174c877413a917f8cf&#34;&gt;Build and Install the Binaries from Source (Advanced Install)&lt;/h3&gt;
+&lt;h3 id=&#34;build-and-install-the-binaries-from-source-advanced-install&#34;&gt;Build and Install the Binaries from Source (Advanced Install)&lt;/h3&gt;
 
 &lt;p&gt;Add Hugo and its package dependencies to your go &lt;code&gt;src&lt;/code&gt; directory.&lt;/p&gt;
 
@@ -442,7 +486,7 @@ ln -s `pwd` &amp;quot;$GOPATH/src/github.com/spf13/hugo&amp;quot;
 &lt;pre&gt;&lt;code&gt;go get -u -v github.com/spf13/hugo
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;h2 id=&#34;contributing-to-hugo:32ab7241d48fcc174c877413a917f8cf&#34;&gt;Contributing to Hugo&lt;/h2&gt;
+&lt;h2 id=&#34;contributing-to-hugo&#34;&gt;Contributing to Hugo&lt;/h2&gt;
 
 &lt;p&gt;We welcome contributions to Hugo of any kind including documentation, themes, organization, tutorials, blog posts, bug reports, issues, feature requests, feature implementation, pull requests, answering questions on the forum, helping to manage issues, etc. The Hugo community and maintainers are very active and helpful and the project benefits greatly from this activity.&lt;/p&gt;
 
@@ -450,7 +494,7 @@ ln -s `pwd` &amp;quot;$GOPATH/src/github.com/spf13/hugo&amp;quot;
 
 &lt;p&gt;If you have any questions about how to contribute or what to contribute please ask on the &lt;a href=&#34;http://discuss.gohugo.io&#34;&gt;forum&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;code-contribution-guideline:32ab7241d48fcc174c877413a917f8cf&#34;&gt;Code Contribution Guideline&lt;/h2&gt;
+&lt;h2 id=&#34;code-contribution-guideline&#34;&gt;Code Contribution Guideline&lt;/h2&gt;
 
 &lt;p&gt;We welcome your contributions. To make the process as seamless as possible, we ask for the following:&lt;/p&gt;
 
@@ -468,14 +512,14 @@ ln -s `pwd` &amp;quot;$GOPATH/src/github.com/spf13/hugo&amp;quot;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;building-hugo-with-your-changes:32ab7241d48fcc174c877413a917f8cf&#34;&gt;Building Hugo with Your Changes&lt;/h3&gt;
+&lt;h3 id=&#34;building-hugo-with-your-changes&#34;&gt;Building Hugo with Your Changes&lt;/h3&gt;
 
 &lt;pre&gt;&lt;code&gt;cd /path/to/hugo
 go build -o hugo main.go
 mv hugo /usr/local/bin/
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;h3 id=&#34;adding-compile-information-to-hugo:32ab7241d48fcc174c877413a917f8cf&#34;&gt;Adding compile information to Hugo&lt;/h3&gt;
+&lt;h3 id=&#34;adding-compile-information-to-hugo&#34;&gt;Adding compile information to Hugo&lt;/h3&gt;
 
 &lt;p&gt;When Hugo is built using the above steps, the &lt;code&gt;version&lt;/code&gt; sub-command will include the &lt;code&gt;mdate&lt;/code&gt; of the Hugo executable, similar to the following:&lt;/p&gt;
 
@@ -496,7 +540,7 @@ mv hugo /usr/local/bin/
 
 &lt;p&gt;Alternatively, just run &lt;code&gt;make&lt;/code&gt; &amp;mdash; all the “magic” above is already in the &lt;code&gt;Makefile&lt;/code&gt;.  :wink:&lt;/p&gt;
 
-&lt;h3 id=&#34;running-hugo:32ab7241d48fcc174c877413a917f8cf&#34;&gt;Running Hugo&lt;/h3&gt;
+&lt;h3 id=&#34;running-hugo&#34;&gt;Running Hugo&lt;/h3&gt;
 
 &lt;pre&gt;&lt;code&gt;cd /path/to/hugo
 go install github.com/spf13/hugo/hugolib
@@ -518,7 +562,7 @@ go run main.go
       <guid>http://andrewrgoss.github.io/2015/08/26/third/</guid>
       <description>
 
-&lt;h2 id=&#34;inducere-de-premit-eodem-luserat-me-domos&#34;&gt;Inducere de premit eodem luserat me domos&lt;/h2&gt;
+&lt;h2 id=&#34;inducere-de-premit-eodem-luserat-me-domos:1fe12548244a1733e38ed5b40fa959e0&#34;&gt;Inducere de premit eodem luserat me domos&lt;/h2&gt;
 
 &lt;p&gt;Lorem markdownum &lt;strong&gt;numerem et&lt;/strong&gt; puta vacantem: vidit agros melius deprensi et
 talia viribus bacis pondere non, in. Aut fama Iovi umbris gravitate trahit
@@ -541,7 +585,7 @@ urbes non. Volentes tot nihil solari licet fatebar, ac riget genitore non
 aera, tela sit &lt;strong&gt;relicto columbas inquit&lt;/strong&gt; mihi, quae fecit desistere
 quaerensque magna prohibete.&lt;/p&gt;
 
-&lt;h2 id=&#34;viro-petit-cornua&#34;&gt;Viro petit cornua&lt;/h2&gt;
+&lt;h2 id=&#34;viro-petit-cornua:1fe12548244a1733e38ed5b40fa959e0&#34;&gt;Viro petit cornua&lt;/h2&gt;
 
 &lt;p&gt;Atque oris abibat actis iners cortice perlucentibus miles curvarique rapido,
 nate ille. Crudeles suis super dubitare: pollue crede et rursus. Super Ino arbor
@@ -560,7 +604,7 @@ et avus caelumque colles.&lt;/p&gt;
 &lt;p&gt;Alieno nec castra, &lt;a href=&#34;http://www.billmays.net/&#34;&gt;quondam&lt;/a&gt;; qua enim, hoc tantumne,
 et alis tum nemorisque. Ancaeus gladios.&lt;/p&gt;
 
-&lt;h2 id=&#34;dis-sine-ligavit-domus-aurea-quoque-fama&#34;&gt;Dis sine ligavit domus aurea quoque fama&lt;/h2&gt;
+&lt;h2 id=&#34;dis-sine-ligavit-domus-aurea-quoque-fama:1fe12548244a1733e38ed5b40fa959e0&#34;&gt;Dis sine ligavit domus aurea quoque fama&lt;/h2&gt;
 
 &lt;p&gt;Status ut Danais auditurum vidisset est honor Erectheus crescit; aut factis
 intus quod perfudit Oceanumque. Teque fortia Amphimedon si &lt;strong&gt;Adoni mortalia&lt;/strong&gt;,
@@ -588,39 +632,25 @@ crimine moventem, petis vulgasse?&lt;/p&gt;
       <guid>http://andrewrgoss.github.io/2015/08/25/second/</guid>
       <description>
 
-&lt;h2 id=&#34;title-2:9f7936f9b5c071ae81db818b80a44a0d&#34;&gt;Title 2&lt;/h2&gt;
+&lt;h2 id=&#34;title-2&#34;&gt;Title 2&lt;/h2&gt;
 
 &lt;p&gt;Content of post 2&lt;/p&gt;
 
-&lt;h3 id=&#34;title-3:9f7936f9b5c071ae81db818b80a44a0d&#34;&gt;Title 3&lt;/h3&gt;
+&lt;h3 id=&#34;title-3&#34;&gt;Title 3&lt;/h3&gt;
 
 &lt;p&gt;Content of post 2&lt;/p&gt;
 
-&lt;h4 id=&#34;title-4:9f7936f9b5c071ae81db818b80a44a0d&#34;&gt;Title 4&lt;/h4&gt;
+&lt;h4 id=&#34;title-4&#34;&gt;Title 4&lt;/h4&gt;
 
 &lt;p&gt;Content of post 2&lt;/p&gt;
 
-&lt;h5 id=&#34;title-5:9f7936f9b5c071ae81db818b80a44a0d&#34;&gt;Title 5&lt;/h5&gt;
+&lt;h5 id=&#34;title-5&#34;&gt;Title 5&lt;/h5&gt;
 
 &lt;p&gt;Content of post 2&lt;/p&gt;
 
-&lt;h6 id=&#34;title-6:9f7936f9b5c071ae81db818b80a44a0d&#34;&gt;Title 6&lt;/h6&gt;
+&lt;h6 id=&#34;title-6&#34;&gt;Title 6&lt;/h6&gt;
 
 &lt;p&gt;Content of post 2&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://andrewrgoss.github.io/about/</link>
-      <pubDate>Mon, 24 Aug 2015 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.github.io/about/</guid>
-      <description>&lt;p&gt;Digital marketing technologist skilled in developing and supporting back-end functionality behind data-driven applications. Enabler of advanced analytics towards reaching the right audience at the right time. Designs, builds, and deploys information system programs across software development life cycles. Technical aptitude is complimented by a strong business acumen originating from a career that began in client marketing services. Top-notch consultant and project manager with a mindset towards identifying and solving challenging business problems. Consistently provides quality ongoing services, on-time deliverables, and open communication around project status, risks, and challenges. Takes proactive approach towards career growth and skill development. Results-oriented, well-organized, self-motivated, and effective team member.&lt;/p&gt;
-
-&lt;!-- ## Skills
-
-##### General--&gt;
 </description>
     </item>
     
@@ -1035,13 +1065,13 @@ name the file &lt;code&gt;config.yaml&lt;/code&gt;, &lt;code&gt;config.toml&lt;/
 &lt;p&gt;Hello from Hugo! If you&amp;rsquo;re reading this in your browser, good job! The file &lt;code&gt;content/post/hello-hugo.md&lt;/code&gt; has been
 converted into a complete HTML document by Hugo. Isn&amp;rsquo;t that pretty nifty?&lt;/p&gt;
 
-&lt;h2 id=&#34;a-section&#34;&gt;A Section&lt;/h2&gt;
+&lt;h2 id=&#34;a-section:559804b0a39dd16d2d1d1238c597145a&#34;&gt;A Section&lt;/h2&gt;
 
 &lt;p&gt;Here&amp;rsquo;s a simple titled section where you can place whatever information you want.&lt;/p&gt;
 
 &lt;p&gt;You can use inline HTML if you want, but really there&amp;rsquo;s not much that Markdown can&amp;rsquo;t do.&lt;/p&gt;
 
-&lt;h2 id=&#34;showing-off-with-markdown&#34;&gt;Showing off with Markdown&lt;/h2&gt;
+&lt;h2 id=&#34;showing-off-with-markdown:559804b0a39dd16d2d1d1238c597145a&#34;&gt;Showing off with Markdown&lt;/h2&gt;
 
 &lt;p&gt;A full cheat sheet can be found &lt;a href=&#34;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&#34;&gt;here&lt;/a&gt;
 or through &lt;a href=&#34;https://google.com/&#34;&gt;Google&lt;/a&gt;.&lt;/p&gt;
@@ -1053,7 +1083,7 @@ Creating &lt;a href=&#34;https://google.com/&#34;&gt;links&lt;/a&gt; or &lt;code
 Creating [links](https://google.com/) or `inline code` blocks are very straightforward.
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;h2 id=&#34;front-matter-for-fun&#34;&gt;Front Matter for Fun&lt;/h2&gt;
+&lt;h2 id=&#34;front-matter-for-fun:559804b0a39dd16d2d1d1238c597145a&#34;&gt;Front Matter for Fun&lt;/h2&gt;
 
 &lt;p&gt;This is the meta data for this post. It is located at the top of the &lt;code&gt;content/post/hello-hugo.md&lt;/code&gt; markdown file.&lt;/p&gt;
 

@@ -31,7 +31,7 @@
 &lt;a href=&#34;http://gohugo.io/overview/installing/&#34;&gt;Installation Guide&lt;/a&gt; |
 &lt;a href=&#34;http://twitter.com/spf13&#34;&gt;Twitter&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;overview:32ab7241d48fcc174c877413a917f8cf&#34;&gt;Overview&lt;/h2&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 
 &lt;p&gt;Hugo is a static site generator written in &lt;a href=&#34;http://golang.org/&#34;&gt;Go&lt;/a&gt;. It is optimized for speed, easy use and configurability. Hugo takes a directory with content and templates and renders them into a full HTML website.&lt;/p&gt;
 
@@ -41,7 +41,7 @@
 
 &lt;p&gt;Hugo is meant to work well for any kind of website including blogs, tumbles and docs.&lt;/p&gt;
 
-&lt;h4 id=&#34;supported-architectures:32ab7241d48fcc174c877413a917f8cf&#34;&gt;Supported Architectures&lt;/h4&gt;
+&lt;h4 id=&#34;supported-architectures&#34;&gt;Supported Architectures&lt;/h4&gt;
 
 &lt;p&gt;Currently, we provide pre-built Hugo binaries for Windows, Linux, FreeBSD, NetBSD and OS&amp;nbsp;X (Darwin) for x64, i386 and ARM architectures.&lt;/p&gt;
 
@@ -49,7 +49,7 @@
 
 &lt;p&gt;&lt;strong&gt;Complete documentation is available at &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo Documentation&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;choose-how-to-install:32ab7241d48fcc174c877413a917f8cf&#34;&gt;Choose How to Install&lt;/h2&gt;
+&lt;h2 id=&#34;choose-how-to-install&#34;&gt;Choose How to Install&lt;/h2&gt;
 
 &lt;p&gt;If you want to use Hugo as your site generator, simply install the Hugo binaries. The Hugo binaries have no external dependencies.&lt;/p&gt;
 
@@ -57,11 +57,11 @@
 
 &lt;p&gt;Finally, you can install the Hugo source code with &lt;code&gt;go&lt;/code&gt;, build the binaries yourself, and run Hugo that way. Building the binaries is an easy task for an experienced &lt;code&gt;go&lt;/code&gt; getter.&lt;/p&gt;
 
-&lt;h3 id=&#34;install-hugo-as-your-site-generator-binary-install:32ab7241d48fcc174c877413a917f8cf&#34;&gt;Install Hugo as Your Site Generator (Binary Install)&lt;/h3&gt;
+&lt;h3 id=&#34;install-hugo-as-your-site-generator-binary-install&#34;&gt;Install Hugo as Your Site Generator (Binary Install)&lt;/h3&gt;
 
 &lt;p&gt;Use the &lt;a href=&#34;http://gohugo.io/overview/installing/&#34;&gt;installation instructions in the Hugo documentation&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h3 id=&#34;clone-the-hugo-project-contributor:32ab7241d48fcc174c877413a917f8cf&#34;&gt;Clone the Hugo Project (Contributor)&lt;/h3&gt;
+&lt;h3 id=&#34;clone-the-hugo-project-contributor&#34;&gt;Clone the Hugo Project (Contributor)&lt;/h3&gt;
 
 &lt;ol&gt;
 &lt;li&gt;&lt;p&gt;Make sure your local environment has the following software installed:&lt;/p&gt;
@@ -98,7 +98,7 @@ ln -s `pwd` &amp;quot;$GOPATH/src/github.com/spf13/hugo&amp;quot;
 &lt;p&gt;Go expects all of your libraries to be found in&lt;code&gt;$GOPATH&lt;/code&gt;.&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h3 id=&#34;build-and-install-the-binaries-from-source-advanced-install:32ab7241d48fcc174c877413a917f8cf&#34;&gt;Build and Install the Binaries from Source (Advanced Install)&lt;/h3&gt;
+&lt;h3 id=&#34;build-and-install-the-binaries-from-source-advanced-install&#34;&gt;Build and Install the Binaries from Source (Advanced Install)&lt;/h3&gt;
 
 &lt;p&gt;Add Hugo and its package dependencies to your go &lt;code&gt;src&lt;/code&gt; directory.&lt;/p&gt;
 
@@ -112,7 +112,7 @@ ln -s `pwd` &amp;quot;$GOPATH/src/github.com/spf13/hugo&amp;quot;
 &lt;pre&gt;&lt;code&gt;go get -u -v github.com/spf13/hugo
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;h2 id=&#34;contributing-to-hugo:32ab7241d48fcc174c877413a917f8cf&#34;&gt;Contributing to Hugo&lt;/h2&gt;
+&lt;h2 id=&#34;contributing-to-hugo&#34;&gt;Contributing to Hugo&lt;/h2&gt;
 
 &lt;p&gt;We welcome contributions to Hugo of any kind including documentation, themes, organization, tutorials, blog posts, bug reports, issues, feature requests, feature implementation, pull requests, answering questions on the forum, helping to manage issues, etc. The Hugo community and maintainers are very active and helpful and the project benefits greatly from this activity.&lt;/p&gt;
 
@@ -120,7 +120,7 @@ ln -s `pwd` &amp;quot;$GOPATH/src/github.com/spf13/hugo&amp;quot;
 
 &lt;p&gt;If you have any questions about how to contribute or what to contribute please ask on the &lt;a href=&#34;http://discuss.gohugo.io&#34;&gt;forum&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;code-contribution-guideline:32ab7241d48fcc174c877413a917f8cf&#34;&gt;Code Contribution Guideline&lt;/h2&gt;
+&lt;h2 id=&#34;code-contribution-guideline&#34;&gt;Code Contribution Guideline&lt;/h2&gt;
 
 &lt;p&gt;We welcome your contributions. To make the process as seamless as possible, we ask for the following:&lt;/p&gt;
 
@@ -138,14 +138,14 @@ ln -s `pwd` &amp;quot;$GOPATH/src/github.com/spf13/hugo&amp;quot;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;building-hugo-with-your-changes:32ab7241d48fcc174c877413a917f8cf&#34;&gt;Building Hugo with Your Changes&lt;/h3&gt;
+&lt;h3 id=&#34;building-hugo-with-your-changes&#34;&gt;Building Hugo with Your Changes&lt;/h3&gt;
 
 &lt;pre&gt;&lt;code&gt;cd /path/to/hugo
 go build -o hugo main.go
 mv hugo /usr/local/bin/
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;h3 id=&#34;adding-compile-information-to-hugo:32ab7241d48fcc174c877413a917f8cf&#34;&gt;Adding compile information to Hugo&lt;/h3&gt;
+&lt;h3 id=&#34;adding-compile-information-to-hugo&#34;&gt;Adding compile information to Hugo&lt;/h3&gt;
 
 &lt;p&gt;When Hugo is built using the above steps, the &lt;code&gt;version&lt;/code&gt; sub-command will include the &lt;code&gt;mdate&lt;/code&gt; of the Hugo executable, similar to the following:&lt;/p&gt;
 
@@ -166,7 +166,7 @@ mv hugo /usr/local/bin/
 
 &lt;p&gt;Alternatively, just run &lt;code&gt;make&lt;/code&gt; &amp;mdash; all the “magic” above is already in the &lt;code&gt;Makefile&lt;/code&gt;.  :wink:&lt;/p&gt;
 
-&lt;h3 id=&#34;running-hugo:32ab7241d48fcc174c877413a917f8cf&#34;&gt;Running Hugo&lt;/h3&gt;
+&lt;h3 id=&#34;running-hugo&#34;&gt;Running Hugo&lt;/h3&gt;
 
 &lt;pre&gt;&lt;code&gt;cd /path/to/hugo
 go install github.com/spf13/hugo/hugolib
