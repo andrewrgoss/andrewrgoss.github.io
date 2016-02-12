@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrewrgoss.com</title>
+    <link>http://andrewrgoss.github.io/</link>
+    <description>Recent content on Andrewrgoss.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
+    <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
+    <copyright>(c) 2016 Andrew Goss.</copyright>
+    <lastBuildDate>Thu, 11 Feb 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://andrewrgoss.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Website Evaluation Links</title>
+      <link>http://andrewrgoss.github.io/2016/02/11/website-evaluation-links/</link>
+      <pubDate>Thu, 11 Feb 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.github.io/2016/02/11/website-evaluation-links/</guid>
+      <description>
+
+&lt;p&gt;Some links I&amp;rsquo;ve found over the years..&lt;/p&gt;
+
+&lt;h2 id=&#34;builtwith&#34;&gt;BuiltWith&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://builtwith.com&#34;&gt;http://builtwith.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;website-grader&#34;&gt;Website Grader&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://website.grader.com&#34;&gt;https://website.grader.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;who-is-hosting-this&#34;&gt;Who Is Hosting This&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.whoishostingthis.com&#34;&gt;http://www.whoishostingthis.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;wordpress-theme-detector&#34;&gt;Wordpress Theme Detector&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.wpthemedetector.com&#34;&gt;http://www.wpthemedetector.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://andrewrgoss.github.io/about/</link>
+      <pubDate>Sun, 07 Feb 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.github.io/about/</guid>
+      <description>
+
+&lt;p&gt;Data engineer and business intelligence developer in the marketing &amp;amp; advertising industry. Skilled in developing and supporting crucial back-end functionality behind data-driven applications. Enabler of advanced analytics towards reaching the right audience at the right time. Designs, builds, and deploys information system programs across software development life cycles. Technical aptitude is complimented by a strong business acumen originating from a career that began in client marketing services. Top-notch consultant and project manager with a mindset towards identifying and solving challenging business problems. Consistently provides quality ongoing services, on-time deliverables, and open communication around project status, risks, and challenges. Takes proactive approach towards career growth and skill development. Results-oriented, well-organized, self-motivated, and effective team member.&lt;/p&gt;
+
+&lt;h1 id=&#34;skills&#34;&gt;Skills&lt;/h1&gt;
+
+&lt;h5 id=&#34;business&#34;&gt;Business&lt;/h5&gt;
+
+&lt;ul class=&#34;compact&#34;&gt;
+&lt;li&gt;
+ &lt;label&gt;Account Management&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&lt;/label&gt;
+ &lt;progress max=&#34;1.0&#34; value=&#34;0.7&#34;&gt;&lt;/progress&gt;
+&lt;/li&gt;
+&lt;li&gt;
+ &lt;label&gt;Consulting&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&lt;/label&gt;
+ &lt;progress max=&#34;1.0&#34; value=&#34;0.8&#34;&gt;&lt;/progress&gt;
+&lt;/li&gt;
+&lt;li&gt;
+ &lt;label&gt;Marketing Automation&amp;ensp;&amp;ensp;&amp;ensp;&lt;/label&gt;
+ &lt;progress max=&#34;1.0&#34; value=&#34;0.65&#34;&gt;&lt;/progress&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;technical&#34;&gt;Technical&lt;/h5&gt;
+
+&lt;ul class=&#34;compact&#34;&gt;
+&lt;li&gt;
+ &lt;label&gt;Relational Databases&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&lt;/label&gt;
+ &lt;progress max=&#34;1.0&#34; value=&#34;0.9&#34;&gt;&lt;/progress&gt;
+&lt;/li&gt;
+&lt;li&gt;
+ &lt;label&gt;Software Development&amp;ensp;&amp;ensp;&amp;ensp;&lt;/label&gt;
+ &lt;progress max=&#34;1.0&#34; value=&#34;0.8&#34;&gt;&lt;/progress&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Caleb Doxsey- An Introduction to Programming in Go</title>
+      <link>http://andrewrgoss.github.io/learning/doxsey_intro_programming_in_go/</link>
+      <pubDate>Wed, 27 Jan 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.github.io/learning/doxsey_intro_programming_in_go/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;https://www.golang-book.com/books/intro&#34; target=&#34;_blank&#34;&gt;COURSE LINK&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;course-progress&#34;&gt;Course Progress&lt;/h5&gt;
+
+&lt;progress max=&#34;1.0&#34; value=&#34;1.0&#34;&gt;&lt;/progress&gt;
+
+&lt;p&gt;100% - completed 01/27/16.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/golang-book&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Why I Switched to Hugo</title>
+      <link>http://andrewrgoss.github.io/2016/01/26/why-i-switched-to-hugo/</link>
+      <pubDate>Tue, 26 Jan 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.github.io/2016/01/26/why-i-switched-to-hugo/</guid>
+      <description>&lt;p&gt;Why I made the switch from Wordpress to Hugo&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Udemy- Programming for Complete Beginners in C#</title>
+      <link>http://andrewrgoss.github.io/learning/udemy_csharp_for_beginners/</link>
+      <pubDate>Sun, 29 Nov 2015 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.github.io/learning/udemy_csharp_for_beginners/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;https://www.udemy.com/programming-for-complete-beginners-in-csharp/&#34; target=&#34;_blank&#34;&gt;COURSE LINK&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;course-progress:0419b73c29db8b0a8014c550c35f1f69&#34;&gt;Course Progress&lt;/h5&gt;
+
+&lt;progress max=&#34;1.0&#34; value=&#34;1.0&#34;&gt;&lt;/progress&gt;
+
+&lt;p&gt;100% - completed 11/29/15.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/codingbat-csharp&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
