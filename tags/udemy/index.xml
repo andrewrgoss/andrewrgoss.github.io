@@ -9,8 +9,28 @@
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
     <copyright>(c) 2016 Andrew Goss.</copyright>
-    <lastBuildDate>Sun, 29 Nov 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Feb 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://andrewrgoss.github.io/tags/udemy/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Udemy- Learn Google&#39;s Go (Golang) Programming Language</title>
+      <link>http://andrewrgoss.github.io/learning/udemy_learn_google_golang/</link>
+      <pubDate>Tue, 23 Feb 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.github.io/learning/udemy_learn_google_golang/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;https://www.udemy.com/learn-how-to-code/learn/&#34; target=&#34;_blank&#34;&gt;COURSE LINK&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;course-progress:ea26e6d17ee8d7a9676635c803e1df42&#34;&gt;Course Progress&lt;/h5&gt;
+
+&lt;progress max=&#34;1.0&#34; value=&#34;0.01&#34;&gt;&lt;/progress&gt;
+
+&lt;p&gt;1% - IN PROGRESS.&lt;/p&gt;
+
+&lt;!--&lt;a href=&#34;https://github.com/andrewrgoss/codingbat-csharp&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;--&gt;
+</description>
+    </item>
     
     <item>
       <title>Udemy- Programming for Beginners in C#</title>
@@ -22,7 +42,7 @@
 
 &lt;p&gt;&lt;a href=&#34;https://www.udemy.com/programming-for-complete-beginners-in-csharp/&#34; target=&#34;_blank&#34;&gt;COURSE LINK&lt;/a&gt;&lt;/p&gt;
 
-&lt;h5 id=&#34;course-progress&#34;&gt;Course Progress&lt;/h5&gt;
+&lt;h5 id=&#34;course-progress:0419b73c29db8b0a8014c550c35f1f69&#34;&gt;Course Progress&lt;/h5&gt;
 
 &lt;progress max=&#34;1.0&#34; value=&#34;1.0&#34;&gt;&lt;/progress&gt;
 

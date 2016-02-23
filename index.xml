@@ -13,6 +13,50 @@
     <atom:link href="http://andrewrgoss.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Learning</title>
+      <link>http://andrewrgoss.github.io/learning/</link>
+      <pubDate>Tue, 23 Feb 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.github.io/learning/</guid>
+      <description>
+
+&lt;p&gt;Never. Stop. Learning.&lt;/p&gt;
+
+&lt;p&gt;Udemy is my platform of choice.&lt;/p&gt;
+
+&lt;p&gt;Blog post ideas:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Building my first virtual machine (Ubuntu)&lt;/li&gt;
+&lt;li&gt;Why I started programming in Go (server side language)&lt;/li&gt;
+&lt;li&gt;Website iterations I went through (templates, Google App Engine, Wordpress, etc.)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;continuing-education&#34;&gt;Continuing Education&lt;/h1&gt;
+
+&lt;p&gt;These are courses I&amp;rsquo;ve been working on.&lt;/p&gt;
+
+&lt;div class=&#34;container hat&#34;&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://andrewrgoss.github.io/learning/udemy_learn_google_golang&#34;&gt;Udemy- Learn Google&#39;s Go (golang) Programming Language
+&lt;/a&gt;&lt;/h2&gt;&lt;font color=&#34;green&#34;&gt;[IN PROGRESS]&lt;/font&gt;&lt;/div&gt;
+
+&lt;div class=&#34;container hat&#34;&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://andrewrgoss.github.io/learning/doxsey_intro_programming_in_go&#34;&gt;Caleb Doxsey- An Introduction to Programming in Go
+&lt;/a&gt;
+&lt;/h2&gt;
+  &lt;time datetime=&#34;2016-01-27&#34;&gt;Jan 2016&lt;/time&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;container hat&#34;&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://andrewrgoss.github.io/learning/udemy_csharp_for_beginners&#34;&gt;Udemy- Programming for Beginners in C#
+&lt;/a&gt;
+&lt;/h2&gt;
+  &lt;time datetime=&#34;2015-11-29&#34;&gt;Nov 2015&lt;/time&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Travel</title>
       <link>http://andrewrgoss.github.io/travel/</link>
       <pubDate>Tue, 23 Feb 2016 00:00:00 +0000</pubDate>
@@ -20,41 +64,73 @@
       <guid>http://andrewrgoss.github.io/travel/</guid>
       <description>
 
-&lt;p&gt;Outside of work, I&amp;rsquo;ve got a long list of places that I want to see across the world. I decided to start logging where I&amp;rsquo;ve been and where I&amp;rsquo;d like to go in the future.&lt;/p&gt;
+&lt;p&gt;Outside of work, I&amp;rsquo;ve got a long list of places that I want to see across the world. I decided to start logging where I&amp;rsquo;ve been and where I&amp;rsquo;d like to go in the future. Technical people don&amp;rsquo;t tend to travel too much for work.&lt;/p&gt;
 
-&lt;h5 id=&#34;world-stats:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;World Stats&lt;/h5&gt;
+&lt;h5 id=&#34;world-stats&#34;&gt;World Stats&lt;/h5&gt;
 
 &lt;p&gt;Countries/Territories Visited: 17&lt;br&gt;
 Continents Visited: 4&lt;br&gt;
 Percent of World: ~8.71%&lt;/p&gt;
 
-&lt;h5 id=&#34;north-america:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;North America&lt;/h5&gt;
+&lt;p&gt;Grouped by geographical area, not cultural significance.&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;[x] Bahamas&lt;/li&gt;
-&lt;li&gt;[x] Canada&lt;/li&gt;
-&lt;li&gt;[x] Haiti&lt;/li&gt;
-&lt;li&gt;[x] Jamaica&lt;/li&gt;
-&lt;li&gt;[x] Mexico&lt;/li&gt;
-&lt;li&gt;[x] United States&lt;/li&gt;
-&lt;li&gt;[x] Cayman Islands&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h5 id=&#34;north-america&#34;&gt;North America&lt;/h5&gt;
 
-&lt;h5 id=&#34;south-america:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;South America&lt;/h5&gt;
+&lt;p&gt;&lt;input type=&#34;checkbox&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Bahamas&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Canada&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Cayman Islands&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Haiti&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Jamaica&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Mexico&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; checked=&#34;checked&#34;&gt;&amp;ensp;United States&amp;ensp;&amp;ensp;&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;[x] Peru&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Aruba&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Belize&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Costa Rica&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Turks and Caicos Islands&amp;ensp;&amp;ensp;&lt;/p&gt;
 
-&lt;h5 id=&#34;europe:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;Europe&lt;/h5&gt;
+&lt;h5 id=&#34;south-america&#34;&gt;South America&lt;/h5&gt;
 
-&lt;h5 id=&#34;africa:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;Africa&lt;/h5&gt;
+&lt;p&gt;&lt;input type=&#34;checkbox&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Peru&amp;ensp;&amp;ensp;&lt;/p&gt;
 
-&lt;h5 id=&#34;asia:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;Asia&lt;/h5&gt;
+&lt;p&gt;&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Argentina&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Brazil&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Chile&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Colombia&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Uruguay&amp;ensp;&amp;ensp;&lt;/p&gt;
 
-&lt;h5 id=&#34;oceania:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;Oceania&lt;/h5&gt;
+&lt;h5 id=&#34;europe&#34;&gt;Europe&lt;/h5&gt;
 
-&lt;script src=&#34;https://www.amcharts.com/lib/3/ammap.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
+&lt;p&gt;&lt;input type=&#34;checkbox&#34; checked=&#34;checked&#34;&gt;&amp;ensp;France&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Ireland&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Italy&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Monaco&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Spain&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; checked=&#34;checked&#34;&gt;&amp;ensp;United Kingdom&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Vatican City&amp;ensp;&amp;ensp;&lt;/p&gt;
+
+&lt;p&gt;&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Austria&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Belgium&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Denmark&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Germany&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Gibraltar&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Greece&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Luxembourg&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Netherlands&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Norway&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Portugal&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Sweden&amp;ensp;&amp;ensp;&lt;/p&gt;
+
+&lt;h5 id=&#34;africa&#34;&gt;Africa&lt;/h5&gt;
+
+&lt;h5 id=&#34;asia&#34;&gt;Asia&lt;/h5&gt;
+
+&lt;p&gt;&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Russia&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Turkey&amp;ensp;&amp;ensp;&lt;/p&gt;
+
+&lt;h5 id=&#34;oceania&#34;&gt;Oceania&lt;/h5&gt;
+
+&lt;!--&lt;script src=&#34;https://www.amcharts.com/lib/3/ammap.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://www.amcharts.com/lib/3/maps/js/worldHigh.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://www.amcharts.com/lib/3/themes/dark.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
 &lt;div id=&#34;mapdiv&#34; style=&#34;width: 600px; height: 350px;&#34;&gt;&lt;/div&gt;
@@ -154,7 +230,27 @@ rollOverColor : &#34;#9EC2F7&#34;,
 rollOverOutlineColor : &#34;#000000&#34;
 }
 });
-&lt;/script&gt;
+&lt;/script&gt;--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Udemy- Learn Google&#39;s Go (Golang) Programming Language</title>
+      <link>http://andrewrgoss.github.io/learning/udemy_learn_google_golang/</link>
+      <pubDate>Tue, 23 Feb 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.github.io/learning/udemy_learn_google_golang/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;https://www.udemy.com/learn-how-to-code/learn/&#34; target=&#34;_blank&#34;&gt;COURSE LINK&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;course-progress:ea26e6d17ee8d7a9676635c803e1df42&#34;&gt;Course Progress&lt;/h5&gt;
+
+&lt;progress max=&#34;1.0&#34; value=&#34;0.01&#34;&gt;&lt;/progress&gt;
+
+&lt;p&gt;1% - IN PROGRESS.&lt;/p&gt;
+
+&lt;!--&lt;a href=&#34;https://github.com/andrewrgoss/codingbat-csharp&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;--&gt;
 </description>
     </item>
     
@@ -168,15 +264,15 @@ rollOverOutlineColor : &#34;#000000&#34;
 
 &lt;p&gt;There&amp;rsquo;s a lot you can learn about a website by simply having the URL address.&lt;/p&gt;
 
-&lt;h2 id=&#34;builtwith:4bad1ad5850f28d82da8c8c5ec807869&#34;&gt;BuiltWith&lt;/h2&gt;
+&lt;h2 id=&#34;builtwith&#34;&gt;BuiltWith&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://builtwith.com&#34; target=&#34;_blank&#34;&gt;http://builtwith.com&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;website-grader:4bad1ad5850f28d82da8c8c5ec807869&#34;&gt;Website Grader&lt;/h2&gt;
+&lt;h2 id=&#34;website-grader&#34;&gt;Website Grader&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://website.grader.com&#34; target=&#34;_blank&#34;&gt;https://website.grader.com&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;who-is-hosting-this:4bad1ad5850f28d82da8c8c5ec807869&#34;&gt;Who Is Hosting This&lt;/h2&gt;
+&lt;h2 id=&#34;who-is-hosting-this&#34;&gt;Who Is Hosting This&lt;/h2&gt;
 
 &lt;!--![WhoIsHostingThis.com](http://media.whoishostingthis.com/2/v98/images/wiht-logo.png)--&gt;
 
@@ -186,7 +282,7 @@ rollOverOutlineColor : &#34;#000000&#34;
 
 &lt;p&gt;Using WhoIsHostingThis.com has given me useful insight about web hosting that should prove valuable to me when it comes time to selecting a web hosting provider for my own personal website. Also of note, the IP address is displayed. There are lots of IP address services across the web that allow a user to pinpoint the location of the server that is powering any given website. In this case, CloudFlare&amp;rsquo;s servers are located at the company&amp;rsquo;s headquarters in San Francisco. I may explore IP addresses a bit further in a future blog post.&lt;/p&gt;
 
-&lt;h2 id=&#34;wordpress-theme-detector:4bad1ad5850f28d82da8c8c5ec807869&#34;&gt;Wordpress Theme Detector&lt;/h2&gt;
+&lt;h2 id=&#34;wordpress-theme-detector&#34;&gt;Wordpress Theme Detector&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://www.wpthemedetector.com&#34; target=&#34;_blank&#34;&gt;http://www.wpthemedetector.com&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -231,19 +327,21 @@ rollOverOutlineColor : &#34;#000000&#34;
 &lt;img src=&#34;https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/gears.png&#34; alt=&#34;Marketing Automation&#34; title=&#34;Marketing Automation&#34; /&gt;
 &lt;img src=&#34;https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/projectmanagement.png&#34; alt=&#34;Project Management&#34; title=&#34;Project Management&#34; /&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;sub&gt;Application Development, Business Intelligence, Database Architecture, Marketing Automation, Project Management&lt;/sub&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
 &lt;h5 id=&#34;business&#34;&gt;Business&lt;/h5&gt;
 
 &lt;ul class=&#34;compact&#34;&gt;
 &lt;li&gt;
- &lt;label&gt;Account Management&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&lt;/label&gt;
+ &lt;label&gt;Account Management&lt;/label&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;
  &lt;progress max=&#34;1.0&#34; value=&#34;0.7&#34;&gt;&lt;/progress&gt;
 &lt;/li&gt;
 &lt;li&gt;
- &lt;label&gt;Consulting&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&lt;/label&gt;
+ &lt;label&gt;Consulting&lt;/label&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;
  &lt;progress max=&#34;1.0&#34; value=&#34;0.8&#34;&gt;&lt;/progress&gt;
 &lt;/li&gt;
 &lt;li&gt;
- &lt;label&gt;Marketing Automation&amp;ensp;&amp;ensp;&amp;ensp;&lt;/label&gt;
+ &lt;label&gt;Marketing Automation&lt;/label&gt;&amp;ensp;&amp;ensp;&amp;ensp;
  &lt;progress max=&#34;1.0&#34; value=&#34;0.65&#34;&gt;&lt;/progress&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -252,11 +350,11 @@ rollOverOutlineColor : &#34;#000000&#34;
 
 &lt;ul class=&#34;compact&#34;&gt;
 &lt;li&gt;
- &lt;label&gt;Relational Databases&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&lt;/label&gt;
+ &lt;label&gt;Relational Databases&lt;/label&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;
  &lt;progress max=&#34;1.0&#34; value=&#34;0.9&#34;&gt;&lt;/progress&gt;
 &lt;/li&gt;
 &lt;li&gt;
- &lt;label&gt;Software Development&amp;ensp;&amp;ensp;&amp;ensp;&lt;/label&gt;
+ &lt;label&gt;Software Development&lt;/label&gt;&amp;ensp;&amp;ensp;&amp;ensp;
  &lt;progress max=&#34;1.0&#34; value=&#34;0.8&#34;&gt;&lt;/progress&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -303,7 +401,7 @@ rollOverOutlineColor : &#34;#000000&#34;
 
 &lt;p&gt;&lt;a href=&#34;https://www.udemy.com/programming-for-complete-beginners-in-csharp/&#34; target=&#34;_blank&#34;&gt;COURSE LINK&lt;/a&gt;&lt;/p&gt;
 
-&lt;h5 id=&#34;course-progress&#34;&gt;Course Progress&lt;/h5&gt;
+&lt;h5 id=&#34;course-progress:0419b73c29db8b0a8014c550c35f1f69&#34;&gt;Course Progress&lt;/h5&gt;
 
 &lt;progress max=&#34;1.0&#34; value=&#34;1.0&#34;&gt;&lt;/progress&gt;
 
