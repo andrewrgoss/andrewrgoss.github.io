@@ -22,13 +22,13 @@
 
 &lt;p&gt;Outside of work, I&amp;rsquo;ve got a long list of places that I want to see across the world. I decided to start logging where I&amp;rsquo;ve been and where I&amp;rsquo;d like to go in the future.&lt;/p&gt;
 
-&lt;h5 id=&#34;world-stats&#34;&gt;World Stats&lt;/h5&gt;
+&lt;h5 id=&#34;world-stats:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;World Stats&lt;/h5&gt;
 
 &lt;p&gt;Countries/Territories Visited: 17&lt;br&gt;
 Continents Visited: 4&lt;br&gt;
 Percent of World: ~8.71%&lt;/p&gt;
 
-&lt;h5 id=&#34;north-america&#34;&gt;North America&lt;/h5&gt;
+&lt;h5 id=&#34;north-america:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;North America&lt;/h5&gt;
 
 &lt;ul&gt;
 &lt;li&gt;[x] Bahamas&lt;/li&gt;
@@ -40,19 +40,19 @@ Percent of World: ~8.71%&lt;/p&gt;
 &lt;li&gt;[x] Cayman Islands&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h5 id=&#34;south-america&#34;&gt;South America&lt;/h5&gt;
+&lt;h5 id=&#34;south-america:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;South America&lt;/h5&gt;
 
 &lt;ul&gt;
 &lt;li&gt;[x] Peru&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h5 id=&#34;europe&#34;&gt;Europe&lt;/h5&gt;
+&lt;h5 id=&#34;europe:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;Europe&lt;/h5&gt;
 
-&lt;h5 id=&#34;africa&#34;&gt;Africa&lt;/h5&gt;
+&lt;h5 id=&#34;africa:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;Africa&lt;/h5&gt;
 
-&lt;h5 id=&#34;asia&#34;&gt;Asia&lt;/h5&gt;
+&lt;h5 id=&#34;asia:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;Asia&lt;/h5&gt;
 
-&lt;h5 id=&#34;oceania&#34;&gt;Oceania&lt;/h5&gt;
+&lt;h5 id=&#34;oceania:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;Oceania&lt;/h5&gt;
 
 &lt;script src=&#34;https://www.amcharts.com/lib/3/ammap.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://www.amcharts.com/lib/3/maps/js/worldHigh.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
@@ -168,15 +168,15 @@ rollOverOutlineColor : &#34;#000000&#34;
 
 &lt;p&gt;There&amp;rsquo;s a lot you can learn about a website by simply having the URL address.&lt;/p&gt;
 
-&lt;h2 id=&#34;builtwith&#34;&gt;BuiltWith&lt;/h2&gt;
+&lt;h2 id=&#34;builtwith:4bad1ad5850f28d82da8c8c5ec807869&#34;&gt;BuiltWith&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://builtwith.com&#34; target=&#34;_blank&#34;&gt;http://builtwith.com&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;website-grader&#34;&gt;Website Grader&lt;/h2&gt;
+&lt;h2 id=&#34;website-grader:4bad1ad5850f28d82da8c8c5ec807869&#34;&gt;Website Grader&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://website.grader.com&#34; target=&#34;_blank&#34;&gt;https://website.grader.com&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;who-is-hosting-this&#34;&gt;Who Is Hosting This&lt;/h2&gt;
+&lt;h2 id=&#34;who-is-hosting-this:4bad1ad5850f28d82da8c8c5ec807869&#34;&gt;Who Is Hosting This&lt;/h2&gt;
 
 &lt;!--![WhoIsHostingThis.com](http://media.whoishostingthis.com/2/v98/images/wiht-logo.png)--&gt;
 
@@ -186,7 +186,7 @@ rollOverOutlineColor : &#34;#000000&#34;
 
 &lt;p&gt;Using WhoIsHostingThis.com has given me useful insight about web hosting that should prove valuable to me when it comes time to selecting a web hosting provider for my own personal website. Also of note, the IP address is displayed. There are lots of IP address services across the web that allow a user to pinpoint the location of the server that is powering any given website. In this case, CloudFlare&amp;rsquo;s servers are located at the company&amp;rsquo;s headquarters in San Francisco. I may explore IP addresses a bit further in a future blog post.&lt;/p&gt;
 
-&lt;h2 id=&#34;wordpress-theme-detector&#34;&gt;Wordpress Theme Detector&lt;/h2&gt;
+&lt;h2 id=&#34;wordpress-theme-detector:4bad1ad5850f28d82da8c8c5ec807869&#34;&gt;Wordpress Theme Detector&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://www.wpthemedetector.com&#34; target=&#34;_blank&#34;&gt;http://www.wpthemedetector.com&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -200,15 +200,9 @@ rollOverOutlineColor : &#34;#000000&#34;
       <guid>http://andrewrgoss.github.io/about/</guid>
       <description>
 
-<<<<<<< HEAD
 &lt;p&gt;Thanks for visiting my website! For more on my professional background, you can visit my &lt;a href=&#34;https://www.linkedin.com/in/andrewrgoss&#34; target=&#34;_blank&#34;&gt;LinkedIn&lt;/a&gt; profile. You can also find a downloadable copy of my resume here, via my &lt;a href=&#34;https://github.com/andrewrgoss&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt; account.&lt;/p&gt;
 
 &lt;p&gt;I&amp;rsquo;ve spent most of my career as a consultant in the marketing &amp;amp; advertising industry. I&amp;rsquo;ve held both business and technical roles in this space while providing services across numerous verticals including finance, higher education, insurance, and commercial software. Here are some of the clients I&amp;rsquo;ve worked with over the years:&lt;/p&gt;
-=======
-&lt;p&gt;Thanks for visiting my website! On this page, I&amp;rsquo;d like to communicate my core competencies, what makes me different, and most importantly, the problem-solving value I bring to the table. For more on my professional background, you can visit my &lt;a href=&#34;https://www.linkedin.com/in/andrewrgoss&#34; target=&#34;_blank&#34;&gt;LinkedIn&lt;/a&gt; profile. You can also find a downloadable copy of my resume here, via my Github account.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;ve spent most of my career as a consultant in the marketing &amp;amp; advertising industry. I&amp;rsquo;ve held both business and technical roles in this space while working across numerous verticals. Here are some of the clients I&amp;rsquo;ve provided services for:&lt;/p&gt;
->>>>>>> 9232842f9326f979369830ac11ca771ec9e49455
 
 &lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/BoA_logo.png&#34; alt=&#34;WhoIsHostingThis.com&#34; /&gt;
 &lt;img src=&#34;https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/Correlsense_logo.png&#34; alt=&#34;WhoIsHostingThis.com&#34; /&gt;
@@ -218,7 +212,6 @@ rollOverOutlineColor : &#34;#000000&#34;
 &lt;img src=&#34;https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/HPE_logo.png&#34; alt=&#34;WhoIsHostingThis.com&#34; /&gt;
 &lt;img src=&#34;https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/Reed_Elsevier_logo.png&#34; alt=&#34;WhoIsHostingThis.com&#34; /&gt;
 &lt;img src=&#34;https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/UTI_logo.jpg&#34; alt=&#34;WhoIsHostingThis.com&#34; /&gt;&lt;/p&gt;
-<<<<<<< HEAD
 
 &lt;p&gt;My unique combination of hard and soft skills is what makes me different and something I take pride in. Early in my career, I gained experience building out marketing campaigns using automation platforms such as &lt;a href=&#34;https://www.marketo.com&#34; target=&#34;_blank&#34;&gt;Marketo&lt;/a&gt; and &lt;a href=&#34;http://marketing.teradata.com&#34; target=&#34;_blank&#34;&gt;Aprimo&lt;/a&gt; (since acquired by Teradata).&lt;/p&gt;
 
@@ -227,21 +220,6 @@ rollOverOutlineColor : &#34;#000000&#34;
 &lt;p&gt;Data engineer and business intelligence developer in the marketing &amp;amp; advertising industry. Skilled in developing and supporting crucial back-end functionality behind data-driven applications. Enabler of advanced analytics towards reaching the right audience at the right time. Designs, builds, and deploys information system programs across software development life cycles. Technical aptitude is complimented by a strong business acumen originating from a career that began in client marketing services. Top-notch consultant and project manager with a mindset towards identifying and solving challenging business problems. Consistently provides quality ongoing services, on-time deliverables, and open communication around project status, risks, and challenges. Takes proactive approach towards career growth and skill development. Results-oriented, well-organized, self-motivated, and effective team member.&lt;/p&gt;
 
 &lt;p&gt;Another characteristic that sets me apart is my strong desire to never stop learning. I set up the &amp;lsquo;Learning&amp;rsquo; section of this website to document and track my progress in learning new concepts and abilities.&lt;/p&gt;
-
-&lt;h1 id=&#34;skills:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Skills&lt;/h1&gt;
-
-&lt;h5 id=&#34;core-competencies:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Core Competencies&lt;/h5&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/coding.png&#34; alt=&#34;Application Development&#34; title=&#34;Application Development&#34; /&gt;
-&lt;img src=&#34;https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/analysis.png&#34; alt=&#34;Business Intelligence&#34; title=&#34;Business Intelligence&#34; /&gt;
-&lt;img src=&#34;https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/database.png&#34; alt=&#34;Database Architecture&#34; title=&#34;Database Architecture&#34; /&gt;
-&lt;img src=&#34;https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/gears.png&#34; alt=&#34;Marketing Automation&#34; title=&#34;Marketing Automation&#34; /&gt;
-&lt;img src=&#34;https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/projectmanagement.png&#34; alt=&#34;Project Management&#34; title=&#34;Project Management&#34; /&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;business:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Business&lt;/h5&gt;
-=======
-
-&lt;p&gt;Data engineer and business intelligence developer in the marketing &amp;amp; advertising industry. Skilled in developing and supporting crucial back-end functionality behind data-driven applications. Enabler of advanced analytics towards reaching the right audience at the right time. Designs, builds, and deploys information system programs across software development life cycles. Technical aptitude is complimented by a strong business acumen originating from a career that began in client marketing services. Top-notch consultant and project manager with a mindset towards identifying and solving challenging business problems. Consistently provides quality ongoing services, on-time deliverables, and open communication around project status, risks, and challenges. Takes proactive approach towards career growth and skill development. Results-oriented, well-organized, self-motivated, and effective team member.&lt;/p&gt;
 
 &lt;h1 id=&#34;skills&#34;&gt;Skills&lt;/h1&gt;
 
@@ -254,7 +232,6 @@ rollOverOutlineColor : &#34;#000000&#34;
 &lt;img src=&#34;https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/projectmanagement.png&#34; alt=&#34;Project Management&#34; title=&#34;Project Management&#34; /&gt;&lt;/p&gt;
 
 &lt;h5 id=&#34;business&#34;&gt;Business&lt;/h5&gt;
->>>>>>> 9232842f9326f979369830ac11ca771ec9e49455
 
 &lt;ul class=&#34;compact&#34;&gt;
 &lt;li&gt;
@@ -296,7 +273,7 @@ rollOverOutlineColor : &#34;#000000&#34;
 
 &lt;p&gt;&lt;a href=&#34;https://www.golang-book.com/books/intro&#34; target=&#34;_blank&#34;&gt;COURSE LINK&lt;/a&gt;&lt;/p&gt;
 
-&lt;h5 id=&#34;course-progress:c587c0792512b02996a2b4d2d5abf088&#34;&gt;Course Progress&lt;/h5&gt;
+&lt;h5 id=&#34;course-progress&#34;&gt;Course Progress&lt;/h5&gt;
 
 &lt;progress max=&#34;1.0&#34; value=&#34;1.0&#34;&gt;&lt;/progress&gt;
 
