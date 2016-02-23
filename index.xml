@@ -9,8 +9,154 @@
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
     <copyright>(c) 2016 Andrew Goss.</copyright>
-    <lastBuildDate>Thu, 11 Feb 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Feb 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://andrewrgoss.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Travel</title>
+      <link>http://andrewrgoss.github.io/travel/</link>
+      <pubDate>Tue, 23 Feb 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.github.io/travel/</guid>
+      <description>
+
+&lt;p&gt;Outside of work, I&amp;rsquo;ve got a long list of places that I want to see across the world. I decided to start logging where I&amp;rsquo;ve been and where I&amp;rsquo;d like to go in the future.&lt;/p&gt;
+
+&lt;h5 id=&#34;world-stats&#34;&gt;World Stats&lt;/h5&gt;
+
+&lt;p&gt;Countries/Territories Visited: 17&lt;br&gt;
+Continents Visited: 4&lt;br&gt;
+Percent of World: ~8.71%&lt;/p&gt;
+
+&lt;h5 id=&#34;north-america&#34;&gt;North America&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;[x] Bahamas&lt;/li&gt;
+&lt;li&gt;[x] Canada&lt;/li&gt;
+&lt;li&gt;[x] Haiti&lt;/li&gt;
+&lt;li&gt;[x] Jamaica&lt;/li&gt;
+&lt;li&gt;[x] Mexico&lt;/li&gt;
+&lt;li&gt;[x] United States&lt;/li&gt;
+&lt;li&gt;[x] Cayman Islands&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;south-america&#34;&gt;South America&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;[x] Peru&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;europe&#34;&gt;Europe&lt;/h5&gt;
+
+&lt;h5 id=&#34;africa&#34;&gt;Africa&lt;/h5&gt;
+
+&lt;h5 id=&#34;asia&#34;&gt;Asia&lt;/h5&gt;
+
+&lt;h5 id=&#34;oceania&#34;&gt;Oceania&lt;/h5&gt;
+
+&lt;script src=&#34;https://www.amcharts.com/lib/3/ammap.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://www.amcharts.com/lib/3/maps/js/worldHigh.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://www.amcharts.com/lib/3/themes/dark.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
+&lt;div id=&#34;mapdiv&#34; style=&#34;width: 600px; height: 350px;&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;text/javascript&#34;&gt;
+var map = AmCharts.makeChart(&#34;mapdiv&#34;,{
+type: &#34;map&#34;,
+theme: &#34;dark&#34;,
+projection: &#34;mercator&#34;,
+panEventsEnabled : true,
+backgroundColor : &#34;#535364&#34;,
+backgroundAlpha : 1,
+zoomControl: {
+zoomControlEnabled : true
+},
+dataProvider : {
+map : &#34;worldHigh&#34;,
+getAreasFromMap : true,
+areas :
+[
+    {
+        &#34;id&#34;: &#34;ES&#34;,
+        &#34;showAsSelected&#34;: true
+    },
+    {
+        &#34;id&#34;: &#34;FR&#34;,
+        &#34;showAsSelected&#34;: true
+    },
+    {
+        &#34;id&#34;: &#34;GB&#34;,
+        &#34;showAsSelected&#34;: true
+    },
+    {
+        &#34;id&#34;: &#34;HT&#34;,
+        &#34;showAsSelected&#34;: true
+    },
+    {
+        &#34;id&#34;: &#34;IE&#34;,
+        &#34;showAsSelected&#34;: true
+    },
+    {
+        &#34;id&#34;: &#34;IT&#34;,
+        &#34;showAsSelected&#34;: true
+    },
+    {
+        &#34;id&#34;: &#34;VA&#34;,
+        &#34;showAsSelected&#34;: true
+    },
+    {
+        &#34;id&#34;: &#34;MC&#34;,
+        &#34;showAsSelected&#34;: true
+    },
+    {
+        &#34;id&#34;: &#34;BS&#34;,
+        &#34;showAsSelected&#34;: true
+    },
+    {
+        &#34;id&#34;: &#34;CA&#34;,
+        &#34;showAsSelected&#34;: true
+    },
+    {
+        &#34;id&#34;: &#34;JM&#34;,
+        &#34;showAsSelected&#34;: true
+    },
+    {
+        &#34;id&#34;: &#34;MX&#34;,
+        &#34;showAsSelected&#34;: true
+    },
+    {
+        &#34;id&#34;: &#34;US&#34;,
+        &#34;showAsSelected&#34;: true
+    },
+    {
+        &#34;id&#34;: &#34;KY&#34;,
+        &#34;showAsSelected&#34;: true
+    },
+    {
+        &#34;id&#34;: &#34;PE&#34;,
+        &#34;showAsSelected&#34;: true
+    },
+    {
+        &#34;id&#34;: &#34;PS&#34;,
+        &#34;showAsSelected&#34;: true
+    },
+    {
+        &#34;id&#34;: &#34;IL&#34;,
+        &#34;showAsSelected&#34;: true
+    }
+]
+},
+areasSettings : {
+autoZoom : true,
+color : &#34;#B4B4B7&#34;,
+colorSolid : &#34;#84ADE9&#34;,
+selectedColor : &#34;#84ADE9&#34;,
+outlineColor : &#34;#666666&#34;,
+rollOverColor : &#34;#9EC2F7&#34;,
+rollOverOutlineColor : &#34;#000000&#34;
+}
+});
+&lt;/script&gt;
+</description>
+    </item>
     
     <item>
       <title>Website Evaluation Links</title>
@@ -24,11 +170,11 @@
 
 &lt;h2 id=&#34;builtwith&#34;&gt;BuiltWith&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://builtwith.com&#34;&gt;http://builtwith.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://builtwith.com&#34; target=&#34;_blank&#34;&gt;http://builtwith.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;website-grader&#34;&gt;Website Grader&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://website.grader.com&#34;&gt;https://website.grader.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://website.grader.com&#34; target=&#34;_blank&#34;&gt;https://website.grader.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;who-is-hosting-this&#34;&gt;Who Is Hosting This&lt;/h2&gt;
 
@@ -42,7 +188,7 @@
 
 &lt;h2 id=&#34;wordpress-theme-detector&#34;&gt;Wordpress Theme Detector&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://www.wpthemedetector.com&#34;&gt;http://www.wpthemedetector.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.wpthemedetector.com&#34; target=&#34;_blank&#34;&gt;http://www.wpthemedetector.com&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -54,13 +200,36 @@
       <guid>http://andrewrgoss.github.io/about/</guid>
       <description>
 
-&lt;p&gt;For my professional background, please visit my &lt;a href=&#34;https://www.linkedin.com/in/andrewrgoss&#34; target=&#34;_blank&#34;&gt;LinkedIn&lt;/a&gt; page. You can also find a downloadable copy of my resume here, via my Github account. On this page, I&amp;rsquo;d like to communicate my core competencies, what makes me different, and most importantly, the problem-solving value I bring to the table.&lt;/p&gt;
+&lt;p&gt;Thanks for visiting my website! For more on my professional background, you can visit my &lt;a href=&#34;https://www.linkedin.com/in/andrewrgoss&#34; target=&#34;_blank&#34;&gt;LinkedIn&lt;/a&gt; profile. You can also find a downloadable copy of my resume here, via my &lt;a href=&#34;https://github.com/andrewrgoss&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt; account.&lt;/p&gt;
 
-&lt;p&gt;I&amp;rsquo;ve spent most of my career as a consultant in the marketing &amp;amp; advertising industry. I&amp;rsquo;ve held both business and technical roles in this space while working across numerous client verticals.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve spent most of my career as a consultant in the marketing &amp;amp; advertising industry. I&amp;rsquo;ve held both business and technical roles in this space while providing services across numerous verticals including finance, higher education, insurance, and commercial software. Here are some of the clients I&amp;rsquo;ve worked with over the years:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/BoA_logo.png&#34; alt=&#34;WhoIsHostingThis.com&#34; /&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/Correlsense_logo.png&#34; alt=&#34;WhoIsHostingThis.com&#34; /&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/DBC_logo.png&#34; alt=&#34;WhoIsHostingThis.com&#34; /&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/EDMC_logo.png&#34; alt=&#34;WhoIsHostingThis.com&#34; /&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/HP_logo.png&#34; alt=&#34;WhoIsHostingThis.com&#34; /&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/HPE_logo.png&#34; alt=&#34;WhoIsHostingThis.com&#34; /&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/Reed_Elsevier_logo.png&#34; alt=&#34;WhoIsHostingThis.com&#34; /&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/UTI_logo.jpg&#34; alt=&#34;WhoIsHostingThis.com&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;My unique combination of hard and soft skills is what makes me different and something I take pride in. Early in my career, I gained experience building out marketing campaigns using automation platforms such as &lt;a href=&#34;https://www.marketo.com&#34; target=&#34;_blank&#34;&gt;Marketo&lt;/a&gt; and &lt;a href=&#34;http://marketing.teradata.com&#34; target=&#34;_blank&#34;&gt;Aprimo&lt;/a&gt; (since acquired by Teradata).&lt;/p&gt;
+
+&lt;p&gt;Writing - started this blog to keep my writing skills sharp.&lt;/p&gt;
 
 &lt;p&gt;Data engineer and business intelligence developer in the marketing &amp;amp; advertising industry. Skilled in developing and supporting crucial back-end functionality behind data-driven applications. Enabler of advanced analytics towards reaching the right audience at the right time. Designs, builds, and deploys information system programs across software development life cycles. Technical aptitude is complimented by a strong business acumen originating from a career that began in client marketing services. Top-notch consultant and project manager with a mindset towards identifying and solving challenging business problems. Consistently provides quality ongoing services, on-time deliverables, and open communication around project status, risks, and challenges. Takes proactive approach towards career growth and skill development. Results-oriented, well-organized, self-motivated, and effective team member.&lt;/p&gt;
 
+&lt;p&gt;Another characteristic that sets me apart is my strong desire to never stop learning. I set up the &amp;lsquo;Learning&amp;rsquo; section of this website to document and track my progress in learning new concepts and abilities.&lt;/p&gt;
+
 &lt;h1 id=&#34;skills:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Skills&lt;/h1&gt;
+
+&lt;h5 id=&#34;core-competencies:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Core Competencies&lt;/h5&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/coding.png&#34; alt=&#34;Application Development&#34; title=&#34;Application Development&#34; /&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/analysis.png&#34; alt=&#34;Business Intelligence&#34; title=&#34;Business Intelligence&#34; /&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/database.png&#34; alt=&#34;Database Architecture&#34; title=&#34;Database Architecture&#34; /&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/gears.png&#34; alt=&#34;Marketing Automation&#34; title=&#34;Marketing Automation&#34; /&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/projectmanagement.png&#34; alt=&#34;Project Management&#34; title=&#34;Project Management&#34; /&gt;&lt;/p&gt;
 
 &lt;h5 id=&#34;business:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Business&lt;/h5&gt;
 
@@ -120,12 +289,12 @@
       <pubDate>Tue, 26 Jan 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>http://andrewrgoss.github.io/2016/01/26/why-i-switched-to-hugo/</guid>
-      <description>&lt;p&gt;Why I made the switch from Wordpress to Hugo&amp;hellip;&lt;/p&gt;
+      <description>&lt;p&gt;Why I made the switch from Wordpress to Hugo…&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Udemy- Programming for Complete Beginners in C#</title>
+      <title>Udemy- Programming for Beginners in C#</title>
       <link>http://andrewrgoss.github.io/learning/udemy_csharp_for_beginners/</link>
       <pubDate>Sun, 29 Nov 2015 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
