@@ -32,12 +32,12 @@
 &lt;li&gt;Website iterations I went through (templates, Google App Engine, Wordpress, etc.)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;continuing-education&#34;&gt;Continuing Education&lt;/h1&gt;
+&lt;h1 id=&#34;continuing-education:52ea219ccf26d74b265a5b04e62a9828&#34;&gt;Continuing Education&lt;/h1&gt;
 
 &lt;p&gt;These are courses I&amp;rsquo;ve been working on.&lt;/p&gt;
 
 &lt;div class=&#34;container hat&#34;&gt;
-  &lt;h2&gt;&lt;a href=&#34;http://andrewrgoss.github.io/learning/udemy_learn_google_golang&#34;&gt;Udemy- Learn Google&#39;s Go (golang) Programming Language
+  &lt;h2&gt;&lt;a href=&#34;http://andrewrgoss.github.io/learning/udemy_learn_google_golang&#34;&gt;Udemy- Learn Google&#39;s Go (Golang) Programming Language
 &lt;/a&gt;&lt;/h2&gt;&lt;font color=&#34;green&#34;&gt;[IN PROGRESS]&lt;/font&gt;&lt;/div&gt;
 
 &lt;div class=&#34;container hat&#34;&gt;
@@ -51,7 +51,7 @@
   &lt;h2&gt;&lt;a href=&#34;http://andrewrgoss.github.io/learning/udemy_csharp_for_beginners&#34;&gt;Udemy- Programming for Beginners in C#
 &lt;/a&gt;
 &lt;/h2&gt;
-  &lt;time datetime=&#34;2015-11-29&#34;&gt;Nov 2015&lt;/time&gt;
+  &lt;time datetime=&#34;2015-11-28&#34;&gt;Nov 2015&lt;/time&gt;
 &lt;/div&gt;
 </description>
     </item>
@@ -66,7 +66,9 @@
 
 &lt;p&gt;Outside of work, I&amp;rsquo;ve got a long list of places that I want to see across the world. I decided to start logging where I&amp;rsquo;ve been and where I&amp;rsquo;d like to go in the future. Technical people don&amp;rsquo;t tend to travel too much for work.&lt;/p&gt;
 
-&lt;h5 id=&#34;world-stats&#34;&gt;World Stats&lt;/h5&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/matador_network_my_world_map.png&#34; alt=&#34;WhoIsHostingThis.com&#34; /&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;world-stats:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;World Stats&lt;/h5&gt;
 
 &lt;p&gt;Countries/Territories Visited: 17&lt;br&gt;
 Continents Visited: 4&lt;br&gt;
@@ -74,24 +76,24 @@ Percent of World: ~8.71%&lt;/p&gt;
 
 &lt;p&gt;Grouped by geographical area, not cultural significance.&lt;/p&gt;
 
-&lt;h5 id=&#34;north-america&#34;&gt;North America&lt;/h5&gt;
+&lt;h5 id=&#34;north-america:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;North America&lt;/h5&gt;
 
-&lt;p&gt;&lt;input type=&#34;checkbox&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Bahamas&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Canada&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Cayman Islands&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Haiti&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Jamaica&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Mexico&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; checked=&#34;checked&#34;&gt;&amp;ensp;United States&amp;ensp;&amp;ensp;&lt;/p&gt;
+&lt;p&gt;&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Bahamas&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Canada&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Cayman Islands&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Haiti&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Jamaica&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Mexico&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;United States&amp;ensp;&amp;ensp;&lt;/p&gt;
 
 &lt;p&gt;&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Aruba&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Belize&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Costa Rica&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Turks and Caicos Islands&amp;ensp;&amp;ensp;&lt;/p&gt;
 
-&lt;h5 id=&#34;south-america&#34;&gt;South America&lt;/h5&gt;
+&lt;h5 id=&#34;south-america:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;South America&lt;/h5&gt;
 
-&lt;p&gt;&lt;input type=&#34;checkbox&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Peru&amp;ensp;&amp;ensp;&lt;/p&gt;
+&lt;p&gt;&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Peru&amp;ensp;&amp;ensp;&lt;/p&gt;
 
 &lt;p&gt;&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Argentina&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Brazil&amp;ensp;&amp;ensp;
@@ -99,138 +101,75 @@ Percent of World: ~8.71%&lt;/p&gt;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Colombia&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Uruguay&amp;ensp;&amp;ensp;&lt;/p&gt;
 
-&lt;h5 id=&#34;europe&#34;&gt;Europe&lt;/h5&gt;
+&lt;h5 id=&#34;europe:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;Europe&lt;/h5&gt;
 
-&lt;p&gt;&lt;input type=&#34;checkbox&#34; checked=&#34;checked&#34;&gt;&amp;ensp;France&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Ireland&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Italy&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Monaco&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Spain&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; checked=&#34;checked&#34;&gt;&amp;ensp;United Kingdom&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Vatican City&amp;ensp;&amp;ensp;&lt;/p&gt;
+&lt;p&gt;&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;France&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Ireland&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Italy&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Monaco&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Spain&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;United Kingdom&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Vatican City&amp;ensp;&amp;ensp;&lt;/p&gt;
 
 &lt;p&gt;&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Austria&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Belgium&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Croatia&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Czech Republic&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Denmark&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Germany&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Gibraltar&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Greece&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Iceland&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Luxembourg&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Netherlands&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Norway&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Poland&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Portugal&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Sweden&amp;ensp;&amp;ensp;&lt;/p&gt;
 
-&lt;h5 id=&#34;africa&#34;&gt;Africa&lt;/h5&gt;
+&lt;h5 id=&#34;africa:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;Africa&lt;/h5&gt;
 
-&lt;h5 id=&#34;asia&#34;&gt;Asia&lt;/h5&gt;
+&lt;p&gt;&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Egypt&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Ethiopia&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Ghana&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Kenya&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Madagascar&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Morocco&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Saint Helena&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;South Africa&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Tanzania&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Zimbabwe&amp;ensp;&amp;ensp;&lt;/p&gt;
 
-&lt;p&gt;&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Russia&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Turkey&amp;ensp;&amp;ensp;&lt;/p&gt;
+&lt;h5 id=&#34;antartica:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;Antartica&lt;/h5&gt;
 
-&lt;h5 id=&#34;oceania&#34;&gt;Oceania&lt;/h5&gt;
+&lt;p&gt;&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Antartica&amp;ensp;&amp;ensp;&lt;/p&gt;
 
-&lt;!--&lt;script src=&#34;https://www.amcharts.com/lib/3/ammap.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://www.amcharts.com/lib/3/maps/js/worldHigh.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://www.amcharts.com/lib/3/themes/dark.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
-&lt;div id=&#34;mapdiv&#34; style=&#34;width: 600px; height: 350px;&#34;&gt;&lt;/div&gt;
-&lt;script type=&#34;text/javascript&#34;&gt;
-var map = AmCharts.makeChart(&#34;mapdiv&#34;,{
-type: &#34;map&#34;,
-theme: &#34;dark&#34;,
-projection: &#34;mercator&#34;,
-panEventsEnabled : true,
-backgroundColor : &#34;#535364&#34;,
-backgroundAlpha : 1,
-zoomControl: {
-zoomControlEnabled : true
-},
-dataProvider : {
-map : &#34;worldHigh&#34;,
-getAreasFromMap : true,
-areas :
-[
-    {
-        &#34;id&#34;: &#34;ES&#34;,
-        &#34;showAsSelected&#34;: true
-    },
-    {
-        &#34;id&#34;: &#34;FR&#34;,
-        &#34;showAsSelected&#34;: true
-    },
-    {
-        &#34;id&#34;: &#34;GB&#34;,
-        &#34;showAsSelected&#34;: true
-    },
-    {
-        &#34;id&#34;: &#34;HT&#34;,
-        &#34;showAsSelected&#34;: true
-    },
-    {
-        &#34;id&#34;: &#34;IE&#34;,
-        &#34;showAsSelected&#34;: true
-    },
-    {
-        &#34;id&#34;: &#34;IT&#34;,
-        &#34;showAsSelected&#34;: true
-    },
-    {
-        &#34;id&#34;: &#34;VA&#34;,
-        &#34;showAsSelected&#34;: true
-    },
-    {
-        &#34;id&#34;: &#34;MC&#34;,
-        &#34;showAsSelected&#34;: true
-    },
-    {
-        &#34;id&#34;: &#34;BS&#34;,
-        &#34;showAsSelected&#34;: true
-    },
-    {
-        &#34;id&#34;: &#34;CA&#34;,
-        &#34;showAsSelected&#34;: true
-    },
-    {
-        &#34;id&#34;: &#34;JM&#34;,
-        &#34;showAsSelected&#34;: true
-    },
-    {
-        &#34;id&#34;: &#34;MX&#34;,
-        &#34;showAsSelected&#34;: true
-    },
-    {
-        &#34;id&#34;: &#34;US&#34;,
-        &#34;showAsSelected&#34;: true
-    },
-    {
-        &#34;id&#34;: &#34;KY&#34;,
-        &#34;showAsSelected&#34;: true
-    },
-    {
-        &#34;id&#34;: &#34;PE&#34;,
-        &#34;showAsSelected&#34;: true
-    },
-    {
-        &#34;id&#34;: &#34;PS&#34;,
-        &#34;showAsSelected&#34;: true
-    },
-    {
-        &#34;id&#34;: &#34;IL&#34;,
-        &#34;showAsSelected&#34;: true
-    }
-]
-},
-areasSettings : {
-autoZoom : true,
-color : &#34;#B4B4B7&#34;,
-colorSolid : &#34;#84ADE9&#34;,
-selectedColor : &#34;#84ADE9&#34;,
-outlineColor : &#34;#666666&#34;,
-rollOverColor : &#34;#9EC2F7&#34;,
-rollOverOutlineColor : &#34;#000000&#34;
-}
-});
-&lt;/script&gt;--&gt;
+&lt;h5 id=&#34;asia:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;Asia&lt;/h5&gt;
+
+&lt;p&gt;&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Israel&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Palestine&amp;ensp;&amp;ensp;&lt;/p&gt;
+
+&lt;p&gt;&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;China&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Hong Kong&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;India&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Indonesia&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Japan&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Malaysia&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Maldives&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Nepal&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Russia&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Singapore&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;South Korea&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Sri Lanka&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Thailand&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Turkey&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;United Arab Emirates&amp;ensp;&amp;ensp;&lt;/p&gt;
+
+&lt;h5 id=&#34;oceania:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;Oceania&lt;/h5&gt;
+
+&lt;p&gt;&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Australia&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Fiji&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;New Zealand&amp;ensp;&amp;ensp;&lt;/p&gt;
 </description>
     </item>
     
@@ -267,6 +206,13 @@ rollOverOutlineColor : &#34;#000000&#34;
 &lt;h2 id=&#34;builtwith&#34;&gt;BuiltWith&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://builtwith.com&#34; target=&#34;_blank&#34;&gt;http://builtwith.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;google-design-resizer&#34;&gt;Google Design: Resizer&lt;/h2&gt;
+
+&lt;p&gt;An interactive viewer to see and test how digital products respond to material design breakpoints across desktop, mobile, and tablet.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://design.google.com/resizer&#34; target=&#34;_blank&#34;&gt;http://design.google.com/resizer&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://design.google.com/articles/introducing-resizer&#34; target=&#34;_blank&#34;&gt;https://design.google.com/articles/introducing-resizer&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;website-grader&#34;&gt;Website Grader&lt;/h2&gt;
 
@@ -317,9 +263,9 @@ rollOverOutlineColor : &#34;#000000&#34;
 
 &lt;p&gt;Another characteristic that sets me apart is my strong desire to never stop learning. I set up the &amp;lsquo;Learning&amp;rsquo; section of this website to document and track my progress in learning new concepts and abilities.&lt;/p&gt;
 
-&lt;h1 id=&#34;skills&#34;&gt;Skills&lt;/h1&gt;
+&lt;h1 id=&#34;skills:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Skills&lt;/h1&gt;
 
-&lt;h5 id=&#34;core-competencies&#34;&gt;Core Competencies&lt;/h5&gt;
+&lt;h5 id=&#34;core-competencies:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Core Competencies&lt;/h5&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/coding.png&#34; alt=&#34;Application Development&#34; title=&#34;Application Development&#34; /&gt;
 &lt;img src=&#34;https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/analysis.png&#34; alt=&#34;Business Intelligence&#34; title=&#34;Business Intelligence&#34; /&gt;
@@ -329,7 +275,7 @@ rollOverOutlineColor : &#34;#000000&#34;
 
 &lt;p&gt;&lt;sub&gt;Application Development, Business Intelligence, Database Architecture, Marketing Automation, Project Management&lt;/sub&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 
-&lt;h5 id=&#34;business&#34;&gt;Business&lt;/h5&gt;
+&lt;h5 id=&#34;business:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Business&lt;/h5&gt;
 
 &lt;ul class=&#34;compact&#34;&gt;
 &lt;li&gt;
@@ -346,7 +292,7 @@ rollOverOutlineColor : &#34;#000000&#34;
 &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h5 id=&#34;technical&#34;&gt;Technical&lt;/h5&gt;
+&lt;h5 id=&#34;technical:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Technical&lt;/h5&gt;
 
 &lt;ul class=&#34;compact&#34;&gt;
 &lt;li&gt;
@@ -369,9 +315,9 @@ rollOverOutlineColor : &#34;#000000&#34;
       <guid>http://andrewrgoss.github.io/learning/doxsey_intro_programming_in_go/</guid>
       <description>
 
-&lt;p&gt;&lt;a href=&#34;https://www.golang-book.com/books/intro&#34; target=&#34;_blank&#34;&gt;COURSE LINK&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.golang-book.com/books/intro&#34; target=&#34;_blank&#34;&gt;BOOK LINK&lt;/a&gt;&lt;/p&gt;
 
-&lt;h5 id=&#34;course-progress&#34;&gt;Course Progress&lt;/h5&gt;
+&lt;h5 id=&#34;book-progress:c587c0792512b02996a2b4d2d5abf088&#34;&gt;Book Progress&lt;/h5&gt;
 
 &lt;progress max=&#34;1.0&#34; value=&#34;1.0&#34;&gt;&lt;/progress&gt;
 
@@ -394,20 +340,21 @@ rollOverOutlineColor : &#34;#000000&#34;
     <item>
       <title>Udemy- Programming for Beginners in C#</title>
       <link>http://andrewrgoss.github.io/learning/udemy_csharp_for_beginners/</link>
-      <pubDate>Sun, 29 Nov 2015 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 28 Nov 2015 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>http://andrewrgoss.github.io/learning/udemy_csharp_for_beginners/</guid>
       <description>
 
-&lt;p&gt;&lt;a href=&#34;https://www.udemy.com/programming-for-complete-beginners-in-csharp/&#34; target=&#34;_blank&#34;&gt;COURSE LINK&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.udemy.com/programming-for-complete-beginners-in-csharp/&#34; target=&#34;_blank&#34;&gt;COURSE LINK&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://github.com/andrewrgoss/udemy-beginning-csharp/blob/master/Course%20Completion%20Certificate%20(UC-TT5IFIPW).pdf&#34; target=&#34;_blank&#34;&gt;COMPLETION CERTIFICATE&lt;/a&gt;&lt;/p&gt;
 
 &lt;h5 id=&#34;course-progress:0419b73c29db8b0a8014c550c35f1f69&#34;&gt;Course Progress&lt;/h5&gt;
 
 &lt;progress max=&#34;1.0&#34; value=&#34;1.0&#34;&gt;&lt;/progress&gt;
 
-&lt;p&gt;100% - completed 11/29/15.&lt;/p&gt;
+&lt;p&gt;100% - completed 11/28/15.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/codingbat-csharp&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-beginning-csharp&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

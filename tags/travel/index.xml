@@ -22,7 +22,9 @@
 
 &lt;p&gt;Outside of work, I&amp;rsquo;ve got a long list of places that I want to see across the world. I decided to start logging where I&amp;rsquo;ve been and where I&amp;rsquo;d like to go in the future. Technical people don&amp;rsquo;t tend to travel too much for work.&lt;/p&gt;
 
-&lt;h5 id=&#34;world-stats&#34;&gt;World Stats&lt;/h5&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/matador_network_my_world_map.png&#34; alt=&#34;WhoIsHostingThis.com&#34; /&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;world-stats:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;World Stats&lt;/h5&gt;
 
 &lt;p&gt;Countries/Territories Visited: 17&lt;br&gt;
 Continents Visited: 4&lt;br&gt;
@@ -30,24 +32,24 @@ Percent of World: ~8.71%&lt;/p&gt;
 
 &lt;p&gt;Grouped by geographical area, not cultural significance.&lt;/p&gt;
 
-&lt;h5 id=&#34;north-america&#34;&gt;North America&lt;/h5&gt;
+&lt;h5 id=&#34;north-america:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;North America&lt;/h5&gt;
 
-&lt;p&gt;&lt;input type=&#34;checkbox&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Bahamas&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Canada&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Cayman Islands&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Haiti&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Jamaica&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Mexico&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; checked=&#34;checked&#34;&gt;&amp;ensp;United States&amp;ensp;&amp;ensp;&lt;/p&gt;
+&lt;p&gt;&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Bahamas&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Canada&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Cayman Islands&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Haiti&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Jamaica&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Mexico&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;United States&amp;ensp;&amp;ensp;&lt;/p&gt;
 
 &lt;p&gt;&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Aruba&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Belize&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Costa Rica&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Turks and Caicos Islands&amp;ensp;&amp;ensp;&lt;/p&gt;
 
-&lt;h5 id=&#34;south-america&#34;&gt;South America&lt;/h5&gt;
+&lt;h5 id=&#34;south-america:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;South America&lt;/h5&gt;
 
-&lt;p&gt;&lt;input type=&#34;checkbox&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Peru&amp;ensp;&amp;ensp;&lt;/p&gt;
+&lt;p&gt;&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Peru&amp;ensp;&amp;ensp;&lt;/p&gt;
 
 &lt;p&gt;&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Argentina&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Brazil&amp;ensp;&amp;ensp;
@@ -55,138 +57,75 @@ Percent of World: ~8.71%&lt;/p&gt;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Colombia&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Uruguay&amp;ensp;&amp;ensp;&lt;/p&gt;
 
-&lt;h5 id=&#34;europe&#34;&gt;Europe&lt;/h5&gt;
+&lt;h5 id=&#34;europe:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;Europe&lt;/h5&gt;
 
-&lt;p&gt;&lt;input type=&#34;checkbox&#34; checked=&#34;checked&#34;&gt;&amp;ensp;France&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Ireland&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Italy&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Monaco&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Spain&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; checked=&#34;checked&#34;&gt;&amp;ensp;United Kingdom&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Vatican City&amp;ensp;&amp;ensp;&lt;/p&gt;
+&lt;p&gt;&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;France&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Ireland&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Italy&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Monaco&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Spain&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;United Kingdom&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Vatican City&amp;ensp;&amp;ensp;&lt;/p&gt;
 
 &lt;p&gt;&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Austria&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Belgium&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Croatia&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Czech Republic&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Denmark&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Germany&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Gibraltar&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Greece&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Iceland&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Luxembourg&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Netherlands&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Norway&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Poland&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Portugal&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Sweden&amp;ensp;&amp;ensp;&lt;/p&gt;
 
-&lt;h5 id=&#34;africa&#34;&gt;Africa&lt;/h5&gt;
+&lt;h5 id=&#34;africa:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;Africa&lt;/h5&gt;
 
-&lt;h5 id=&#34;asia&#34;&gt;Asia&lt;/h5&gt;
+&lt;p&gt;&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Egypt&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Ethiopia&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Ghana&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Kenya&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Madagascar&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Morocco&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Saint Helena&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;South Africa&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Tanzania&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Zimbabwe&amp;ensp;&amp;ensp;&lt;/p&gt;
 
-&lt;p&gt;&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Russia&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Turkey&amp;ensp;&amp;ensp;&lt;/p&gt;
+&lt;h5 id=&#34;antartica:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;Antartica&lt;/h5&gt;
 
-&lt;h5 id=&#34;oceania&#34;&gt;Oceania&lt;/h5&gt;
+&lt;p&gt;&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Antartica&amp;ensp;&amp;ensp;&lt;/p&gt;
 
-&lt;!--&lt;script src=&#34;https://www.amcharts.com/lib/3/ammap.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://www.amcharts.com/lib/3/maps/js/worldHigh.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://www.amcharts.com/lib/3/themes/dark.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
-&lt;div id=&#34;mapdiv&#34; style=&#34;width: 600px; height: 350px;&#34;&gt;&lt;/div&gt;
-&lt;script type=&#34;text/javascript&#34;&gt;
-var map = AmCharts.makeChart(&#34;mapdiv&#34;,{
-type: &#34;map&#34;,
-theme: &#34;dark&#34;,
-projection: &#34;mercator&#34;,
-panEventsEnabled : true,
-backgroundColor : &#34;#535364&#34;,
-backgroundAlpha : 1,
-zoomControl: {
-zoomControlEnabled : true
-},
-dataProvider : {
-map : &#34;worldHigh&#34;,
-getAreasFromMap : true,
-areas :
-[
-    {
-        &#34;id&#34;: &#34;ES&#34;,
-        &#34;showAsSelected&#34;: true
-    },
-    {
-        &#34;id&#34;: &#34;FR&#34;,
-        &#34;showAsSelected&#34;: true
-    },
-    {
-        &#34;id&#34;: &#34;GB&#34;,
-        &#34;showAsSelected&#34;: true
-    },
-    {
-        &#34;id&#34;: &#34;HT&#34;,
-        &#34;showAsSelected&#34;: true
-    },
-    {
-        &#34;id&#34;: &#34;IE&#34;,
-        &#34;showAsSelected&#34;: true
-    },
-    {
-        &#34;id&#34;: &#34;IT&#34;,
-        &#34;showAsSelected&#34;: true
-    },
-    {
-        &#34;id&#34;: &#34;VA&#34;,
-        &#34;showAsSelected&#34;: true
-    },
-    {
-        &#34;id&#34;: &#34;MC&#34;,
-        &#34;showAsSelected&#34;: true
-    },
-    {
-        &#34;id&#34;: &#34;BS&#34;,
-        &#34;showAsSelected&#34;: true
-    },
-    {
-        &#34;id&#34;: &#34;CA&#34;,
-        &#34;showAsSelected&#34;: true
-    },
-    {
-        &#34;id&#34;: &#34;JM&#34;,
-        &#34;showAsSelected&#34;: true
-    },
-    {
-        &#34;id&#34;: &#34;MX&#34;,
-        &#34;showAsSelected&#34;: true
-    },
-    {
-        &#34;id&#34;: &#34;US&#34;,
-        &#34;showAsSelected&#34;: true
-    },
-    {
-        &#34;id&#34;: &#34;KY&#34;,
-        &#34;showAsSelected&#34;: true
-    },
-    {
-        &#34;id&#34;: &#34;PE&#34;,
-        &#34;showAsSelected&#34;: true
-    },
-    {
-        &#34;id&#34;: &#34;PS&#34;,
-        &#34;showAsSelected&#34;: true
-    },
-    {
-        &#34;id&#34;: &#34;IL&#34;,
-        &#34;showAsSelected&#34;: true
-    }
-]
-},
-areasSettings : {
-autoZoom : true,
-color : &#34;#B4B4B7&#34;,
-colorSolid : &#34;#84ADE9&#34;,
-selectedColor : &#34;#84ADE9&#34;,
-outlineColor : &#34;#666666&#34;,
-rollOverColor : &#34;#9EC2F7&#34;,
-rollOverOutlineColor : &#34;#000000&#34;
-}
-});
-&lt;/script&gt;--&gt;
+&lt;h5 id=&#34;asia:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;Asia&lt;/h5&gt;
+
+&lt;p&gt;&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Israel&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Palestine&amp;ensp;&amp;ensp;&lt;/p&gt;
+
+&lt;p&gt;&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;China&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Hong Kong&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;India&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Indonesia&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Japan&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Malaysia&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Maldives&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Nepal&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Russia&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Singapore&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;South Korea&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Sri Lanka&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Thailand&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Turkey&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;United Arab Emirates&amp;ensp;&amp;ensp;&lt;/p&gt;
+
+&lt;h5 id=&#34;oceania:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;Oceania&lt;/h5&gt;
+
+&lt;p&gt;&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Australia&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Fiji&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;New Zealand&amp;ensp;&amp;ensp;&lt;/p&gt;
 </description>
     </item>
     
