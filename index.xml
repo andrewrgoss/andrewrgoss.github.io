@@ -24,14 +24,6 @@
 
 &lt;p&gt;Udemy is my platform of choice.&lt;/p&gt;
 
-&lt;p&gt;Blog post ideas:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Building my first virtual machine (Ubuntu)&lt;/li&gt;
-&lt;li&gt;Why I started programming in Go (server side language)&lt;/li&gt;
-&lt;li&gt;Website iterations I went through (templates, Google App Engine, Wordpress, etc.)&lt;/li&gt;
-&lt;/ul&gt;
-
 &lt;h1 id=&#34;continuing-education:52ea219ccf26d74b265a5b04e62a9828&#34;&gt;Continuing Education&lt;/h1&gt;
 
 &lt;p&gt;These are courses I&amp;rsquo;ve been working on.&lt;/p&gt;
@@ -68,7 +60,7 @@
 
 &lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/matador_network_my_world_map.png&#34; alt=&#34;WhoIsHostingThis.com&#34; /&gt;&lt;/p&gt;
 
-&lt;h5 id=&#34;world-stats:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;World Stats&lt;/h5&gt;
+&lt;h5 id=&#34;world-stats&#34;&gt;World Stats&lt;/h5&gt;
 
 &lt;p&gt;Countries/Territories Visited: 17&lt;br&gt;
 Continents Visited: 4&lt;br&gt;
@@ -76,7 +68,7 @@ Percent of World: ~8.71%&lt;/p&gt;
 
 &lt;p&gt;Grouped by geographical area, not cultural significance.&lt;/p&gt;
 
-&lt;h5 id=&#34;north-america:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;North America&lt;/h5&gt;
+&lt;h5 id=&#34;north-america&#34;&gt;North America&lt;/h5&gt;
 
 &lt;p&gt;&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Bahamas&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Canada&amp;ensp;&amp;ensp;
@@ -91,7 +83,7 @@ Percent of World: ~8.71%&lt;/p&gt;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Costa Rica&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Turks and Caicos Islands&amp;ensp;&amp;ensp;&lt;/p&gt;
 
-&lt;h5 id=&#34;south-america:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;South America&lt;/h5&gt;
+&lt;h5 id=&#34;south-america&#34;&gt;South America&lt;/h5&gt;
 
 &lt;p&gt;&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Peru&amp;ensp;&amp;ensp;&lt;/p&gt;
 
@@ -101,7 +93,7 @@ Percent of World: ~8.71%&lt;/p&gt;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Colombia&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Uruguay&amp;ensp;&amp;ensp;&lt;/p&gt;
 
-&lt;h5 id=&#34;europe:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;Europe&lt;/h5&gt;
+&lt;h5 id=&#34;europe&#34;&gt;Europe&lt;/h5&gt;
 
 &lt;p&gt;&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;France&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Ireland&amp;ensp;&amp;ensp;
@@ -127,7 +119,7 @@ Percent of World: ~8.71%&lt;/p&gt;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Portugal&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Sweden&amp;ensp;&amp;ensp;&lt;/p&gt;
 
-&lt;h5 id=&#34;africa:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;Africa&lt;/h5&gt;
+&lt;h5 id=&#34;africa&#34;&gt;Africa&lt;/h5&gt;
 
 &lt;p&gt;&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Egypt&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Ethiopia&amp;ensp;&amp;ensp;
@@ -140,11 +132,11 @@ Percent of World: ~8.71%&lt;/p&gt;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Tanzania&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Zimbabwe&amp;ensp;&amp;ensp;&lt;/p&gt;
 
-&lt;h5 id=&#34;antartica:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;Antartica&lt;/h5&gt;
+&lt;h5 id=&#34;antartica&#34;&gt;Antartica&lt;/h5&gt;
 
 &lt;p&gt;&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Antartica&amp;ensp;&amp;ensp;&lt;/p&gt;
 
-&lt;h5 id=&#34;asia:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;Asia&lt;/h5&gt;
+&lt;h5 id=&#34;asia&#34;&gt;Asia&lt;/h5&gt;
 
 &lt;p&gt;&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Israel&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Palestine&amp;ensp;&amp;ensp;&lt;/p&gt;
@@ -165,7 +157,7 @@ Percent of World: ~8.71%&lt;/p&gt;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Turkey&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;United Arab Emirates&amp;ensp;&amp;ensp;&lt;/p&gt;
 
-&lt;h5 id=&#34;oceania:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;Oceania&lt;/h5&gt;
+&lt;h5 id=&#34;oceania&#34;&gt;Oceania&lt;/h5&gt;
 
 &lt;p&gt;&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Australia&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Fiji&amp;ensp;&amp;ensp;
@@ -203,22 +195,22 @@ Percent of World: ~8.71%&lt;/p&gt;
 
 &lt;p&gt;There&amp;rsquo;s a lot you can learn about a website by simply having the URL address.&lt;/p&gt;
 
-&lt;h2 id=&#34;builtwith&#34;&gt;BuiltWith&lt;/h2&gt;
+&lt;h2 id=&#34;builtwith:4bad1ad5850f28d82da8c8c5ec807869&#34;&gt;BuiltWith&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://builtwith.com&#34; target=&#34;_blank&#34;&gt;http://builtwith.com&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;google-design-resizer&#34;&gt;Google Design: Resizer&lt;/h2&gt;
+&lt;h2 id=&#34;google-design-resizer:4bad1ad5850f28d82da8c8c5ec807869&#34;&gt;Google Design: Resizer&lt;/h2&gt;
 
 &lt;p&gt;An interactive viewer to see and test how digital products respond to material design breakpoints across desktop, mobile, and tablet.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://design.google.com/resizer&#34; target=&#34;_blank&#34;&gt;http://design.google.com/resizer&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;https://design.google.com/articles/introducing-resizer&#34; target=&#34;_blank&#34;&gt;https://design.google.com/articles/introducing-resizer&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;website-grader&#34;&gt;Website Grader&lt;/h2&gt;
+&lt;h2 id=&#34;website-grader:4bad1ad5850f28d82da8c8c5ec807869&#34;&gt;Website Grader&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://website.grader.com&#34; target=&#34;_blank&#34;&gt;https://website.grader.com&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;who-is-hosting-this&#34;&gt;Who Is Hosting This&lt;/h2&gt;
+&lt;h2 id=&#34;who-is-hosting-this:4bad1ad5850f28d82da8c8c5ec807869&#34;&gt;Who Is Hosting This&lt;/h2&gt;
 
 &lt;!--![WhoIsHostingThis.com](http://media.whoishostingthis.com/2/v98/images/wiht-logo.png)--&gt;
 
@@ -228,7 +220,7 @@ Percent of World: ~8.71%&lt;/p&gt;
 
 &lt;p&gt;Using WhoIsHostingThis.com has given me useful insight about web hosting that should prove valuable to me when it comes time to selecting a web hosting provider for my own personal website. Also of note, the IP address is displayed. There are lots of IP address services across the web that allow a user to pinpoint the location of the server that is powering any given website. In this case, CloudFlare&amp;rsquo;s servers are located at the company&amp;rsquo;s headquarters in San Francisco. I may explore IP addresses a bit further in a future blog post.&lt;/p&gt;
 
-&lt;h2 id=&#34;wordpress-theme-detector&#34;&gt;Wordpress Theme Detector&lt;/h2&gt;
+&lt;h2 id=&#34;wordpress-theme-detector:4bad1ad5850f28d82da8c8c5ec807869&#34;&gt;Wordpress Theme Detector&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://www.wpthemedetector.com&#34; target=&#34;_blank&#34;&gt;http://www.wpthemedetector.com&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -242,20 +234,29 @@ Percent of World: ~8.71%&lt;/p&gt;
       <guid>http://andrewrgoss.github.io/about/</guid>
       <description>
 
-&lt;p&gt;Thanks for visiting my website! For more on my professional background, you can visit my &lt;a href=&#34;https://www.linkedin.com/in/andrewrgoss&#34; target=&#34;_blank&#34;&gt;LinkedIn&lt;/a&gt; profile. You can also find a downloadable copy of my resume here, via my &lt;a href=&#34;https://github.com/andrewrgoss&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt; account.&lt;/p&gt;
+&lt;!--Blog post ideas:
+
+- Building my first virtual machine (Ubuntu)
+- Why I started programming in Go (server side language)
+- Website iterations I went through (templates, Google App Engine, Wordpress, etc.)
+- Why it is important to have a web presence as a developer
+- Twitter API authentication for Go--&gt;
+
+&lt;p&gt;Thanks for visiting my website! For more on my professional background, you can visit my &lt;a href=&#34;https://www.linkedin.com/in/andrewrgoss&#34; target=&#34;_blank&#34;&gt;LinkedIn&lt;/a&gt; profile. &lt;!--You can also find a downloadable copy of my resume here, via my &lt;a href=&#34;https://github.com/andrewrgoss&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt; account.--&gt;&lt;/p&gt;
 
 &lt;p&gt;I&amp;rsquo;ve spent most of my career as a consultant in the marketing &amp;amp; advertising industry. I&amp;rsquo;ve held both business and technical roles in this space while providing services across numerous verticals including finance, higher education, insurance, and commercial software. Here are some of the clients I&amp;rsquo;ve worked with over the years:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/BoA_logo.png&#34; alt=&#34;WhoIsHostingThis.com&#34; /&gt;
-&lt;img src=&#34;https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/Correlsense_logo.png&#34; alt=&#34;WhoIsHostingThis.com&#34; /&gt;
-&lt;img src=&#34;https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/DBC_logo.png&#34; alt=&#34;WhoIsHostingThis.com&#34; /&gt;
-&lt;img src=&#34;https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/EDMC_logo.png&#34; alt=&#34;WhoIsHostingThis.com&#34; /&gt;
-&lt;img src=&#34;https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/HP_logo.png&#34; alt=&#34;WhoIsHostingThis.com&#34; /&gt;
-&lt;img src=&#34;https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/HPE_logo.png&#34; alt=&#34;WhoIsHostingThis.com&#34; /&gt;
-&lt;img src=&#34;https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/Reed_Elsevier_logo.png&#34; alt=&#34;WhoIsHostingThis.com&#34; /&gt;
-&lt;img src=&#34;https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/UTI_logo.jpg&#34; alt=&#34;WhoIsHostingThis.com&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/BoA_logo.png&#34; alt=&#34;WhoIsHostingThis.com&#34; title=&#34;Bank of America&#34; /&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/Correlsense_logo.png&#34; alt=&#34;WhoIsHostingThis.com&#34; title=&#34;Correlsense&#34; /&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/DBC_logo.png&#34; alt=&#34;WhoIsHostingThis.com&#34; title=&#34;Diversified Communications&#34; /&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/EDMC_logo.png&#34; alt=&#34;WhoIsHostingThis.com&#34; title=&#34;Education Management Corporation&#34; /&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/HP_logo.png&#34; alt=&#34;WhoIsHostingThis.com&#34; title=&#34;HP Inc.&#34; /&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/HPE_logo.png&#34; alt=&#34;WhoIsHostingThis.com&#34; title=&#34;Hewlett Packard Enterprise&#34; /&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/Reed_Elsevier_logo.png&#34; alt=&#34;WhoIsHostingThis.com&#34; title=&#34;Reed Elsevier&#34; /&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/UTI_logo.jpg&#34; alt=&#34;WhoIsHostingThis.com&#34; title=&#34;Universal Technical Institute&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;My unique combination of hard and soft skills is what makes me different and something I take pride in. Early in my career, I gained experience building out marketing campaigns using automation platforms such as &lt;a href=&#34;https://www.marketo.com&#34; target=&#34;_blank&#34;&gt;Marketo&lt;/a&gt; and &lt;a href=&#34;http://marketing.teradata.com&#34; target=&#34;_blank&#34;&gt;Aprimo&lt;/a&gt; (since acquired by Teradata).&lt;/p&gt;
+&lt;p&gt;My unique combination of hard and soft skills is what makes me different and something I take pride in. Early in my career, I gained experience building out marketing campaigns using automation platforms such as &lt;a href=&#34;https://www.marketo.com&#34; target=&#34;_blank&#34;&gt;Marketo&lt;/a&gt;,
+&lt;a href=&#34;https://www.oracle.com/marketingcloud/products/cross-channel/marketing-to-businesses.html&#34; target=&#34;_blank&#34;&gt;Eloqua&lt;/a&gt; (acquired by Oracle), and &lt;a href=&#34;http://marketing.teradata.com&#34; target=&#34;_blank&#34;&gt;Aprimo&lt;/a&gt; (acquired by Teradata). I developed core consulting skills in interfacing directly with clients and being able to summarize and present key performance metrics. I also gravitated towards wanting to further understand the backend functionality behind these marketing technologies and quickly showed an aptitude for it.&lt;/p&gt;
 
 &lt;p&gt;Writing - started this blog to keep my writing skills sharp.&lt;/p&gt;
 

@@ -24,7 +24,7 @@
 
 &lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/andrewrgoss/andrewrgoss.com/master/content/media/matador_network_my_world_map.png&#34; alt=&#34;WhoIsHostingThis.com&#34; /&gt;&lt;/p&gt;
 
-&lt;h5 id=&#34;world-stats:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;World Stats&lt;/h5&gt;
+&lt;h5 id=&#34;world-stats&#34;&gt;World Stats&lt;/h5&gt;
 
 &lt;p&gt;Countries/Territories Visited: 17&lt;br&gt;
 Continents Visited: 4&lt;br&gt;
@@ -32,7 +32,7 @@ Percent of World: ~8.71%&lt;/p&gt;
 
 &lt;p&gt;Grouped by geographical area, not cultural significance.&lt;/p&gt;
 
-&lt;h5 id=&#34;north-america:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;North America&lt;/h5&gt;
+&lt;h5 id=&#34;north-america&#34;&gt;North America&lt;/h5&gt;
 
 &lt;p&gt;&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Bahamas&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Canada&amp;ensp;&amp;ensp;
@@ -47,7 +47,7 @@ Percent of World: ~8.71%&lt;/p&gt;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Costa Rica&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Turks and Caicos Islands&amp;ensp;&amp;ensp;&lt;/p&gt;
 
-&lt;h5 id=&#34;south-america:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;South America&lt;/h5&gt;
+&lt;h5 id=&#34;south-america&#34;&gt;South America&lt;/h5&gt;
 
 &lt;p&gt;&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Peru&amp;ensp;&amp;ensp;&lt;/p&gt;
 
@@ -57,7 +57,7 @@ Percent of World: ~8.71%&lt;/p&gt;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Colombia&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Uruguay&amp;ensp;&amp;ensp;&lt;/p&gt;
 
-&lt;h5 id=&#34;europe:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;Europe&lt;/h5&gt;
+&lt;h5 id=&#34;europe&#34;&gt;Europe&lt;/h5&gt;
 
 &lt;p&gt;&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;France&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Ireland&amp;ensp;&amp;ensp;
@@ -83,7 +83,7 @@ Percent of World: ~8.71%&lt;/p&gt;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Portugal&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Sweden&amp;ensp;&amp;ensp;&lt;/p&gt;
 
-&lt;h5 id=&#34;africa:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;Africa&lt;/h5&gt;
+&lt;h5 id=&#34;africa&#34;&gt;Africa&lt;/h5&gt;
 
 &lt;p&gt;&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Egypt&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Ethiopia&amp;ensp;&amp;ensp;
@@ -96,11 +96,11 @@ Percent of World: ~8.71%&lt;/p&gt;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Tanzania&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Zimbabwe&amp;ensp;&amp;ensp;&lt;/p&gt;
 
-&lt;h5 id=&#34;antartica:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;Antartica&lt;/h5&gt;
+&lt;h5 id=&#34;antartica&#34;&gt;Antartica&lt;/h5&gt;
 
 &lt;p&gt;&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Antartica&amp;ensp;&amp;ensp;&lt;/p&gt;
 
-&lt;h5 id=&#34;asia:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;Asia&lt;/h5&gt;
+&lt;h5 id=&#34;asia&#34;&gt;Asia&lt;/h5&gt;
 
 &lt;p&gt;&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Israel&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Palestine&amp;ensp;&amp;ensp;&lt;/p&gt;
@@ -121,7 +121,7 @@ Percent of World: ~8.71%&lt;/p&gt;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Turkey&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;United Arab Emirates&amp;ensp;&amp;ensp;&lt;/p&gt;
 
-&lt;h5 id=&#34;oceania:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;Oceania&lt;/h5&gt;
+&lt;h5 id=&#34;oceania&#34;&gt;Oceania&lt;/h5&gt;
 
 &lt;p&gt;&lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Australia&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34;&gt;&amp;ensp;Fiji&amp;ensp;&amp;ensp;
