@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrewrgoss.com</title>
+    <link>http://andrewrgoss.github.io/</link>
+    <description>Recent content on Andrewrgoss.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
+    <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
+    <lastBuildDate>Fri, 04 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://andrewrgoss.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Udemy- Learn Google&#39;s Go (Golang) Programming Language</title>
+      <link>http://andrewrgoss.github.io/learning/udemy_learn_google_golang/</link>
+      <pubDate>Fri, 04 Mar 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.github.io/learning/udemy_learn_google_golang/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;https://www.udemy.com/learn-how-to-code/learn/&#34; target=&#34;_blank&#34;&gt;COURSE LINK&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;course-progress:ea26e6d17ee8d7a9676635c803e1df42&#34;&gt;Course Progress&lt;/h5&gt;
+
+&lt;progress max=&#34;1.0&#34; value=&#34;0.05&#34;&gt;&lt;/progress&gt;
+
+&lt;p&gt;5% - &lt;font color=&#34;green&#34;&gt;[IN PROGRESS]&lt;/font&gt;.&lt;/p&gt;
+
+&lt;!--&lt;a href=&#34;https://github.com/andrewrgoss/codingbat-csharp&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Travel</title>
+      <link>http://andrewrgoss.github.io/travel/</link>
+      <pubDate>Tue, 23 Feb 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.github.io/travel/</guid>
+      <description>
+
+&lt;p&gt;Outside of work, I&amp;rsquo;m passionate about traveling the world, having new experiences, and broadening my life perspective. I have a long, ambitious list of places that I want to visit. While it&amp;rsquo;s highly unlikely that I&amp;rsquo;ll accomplish all of these in my lifetime, I decided to start tracking where I&amp;rsquo;ve been and where I&amp;rsquo;d like to go in the future with the belief that simply writing these down increases the likelihood of achieving more of these travel goals. My blog posts about travel are tagged as such and you can view them all &lt;a href=&#34;http://andrewrgoss.github.io/tags/travel&#34;&gt;here&lt;/a&gt;.&lt;!--While it&#39;s true that traveling carries some risks (just as staying put in the US does), travel to me is too vital, too important a part of civilized life to give up.--&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;world-stats:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;World Stats&lt;/h5&gt;
+
+&lt;p&gt;Countries/Territories Visited: 17&lt;br&gt;
+Continents Visited: 4&lt;br&gt;
+Percent of World: ~8.71%&lt;/p&gt;
+
+&lt;p&gt;I do not count laying over in an airport as having visited a destination. I mark a country or state as having been visited when I actually set foot on it.&lt;/p&gt;
+
+&lt;p&gt;Grouped by geographical area, not cultural significance.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/matador_network_my_world_map.png&#34; alt=&#34;My World Map&#34; title=&#34;My World Map&#34; /&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;north-america:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;North America&lt;/h5&gt;
+
+&lt;p&gt;&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Bahamas&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Canada&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Cayman Islands&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Haiti&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Jamaica&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Mexico&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;United States&amp;ensp;&amp;ensp;&lt;/p&gt;
+
+&lt;p&gt;&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Aruba&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Belize&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Costa Rica&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Turks and Caicos Islands&amp;ensp;&amp;ensp;&lt;/p&gt;
+
+&lt;h5 id=&#34;south-america:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;South America&lt;/h5&gt;
+
+&lt;p&gt;&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Peru&amp;ensp;&amp;ensp;&lt;/p&gt;
+
+&lt;p&gt;&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Argentina&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Brazil&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Chile&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Colombia&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Uruguay&amp;ensp;&amp;ensp;&lt;/p&gt;
+
+&lt;h5 id=&#34;europe:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;Europe&lt;/h5&gt;
+
+&lt;p&gt;&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;France&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Ireland&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Italy&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Monaco&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Spain&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;United Kingdom&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Vatican City&amp;ensp;&amp;ensp;&lt;/p&gt;
+
+&lt;p&gt;&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Austria&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Belgium&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Croatia&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Czech Republic&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Denmark&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Germany&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Gibraltar&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Greece&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Iceland&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Luxembourg&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Netherlands&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Norway&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Poland&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Portugal&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Sweden&amp;ensp;&amp;ensp;&lt;/p&gt;
+
+&lt;h5 id=&#34;africa:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;Africa&lt;/h5&gt;
+
+&lt;p&gt;&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Egypt&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Ethiopia&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Ghana&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Kenya&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Madagascar&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Morocco&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Saint Helena&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;South Africa&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Tanzania&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Zimbabwe&amp;ensp;&amp;ensp;&lt;/p&gt;
+
+&lt;h5 id=&#34;antartica:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;Antartica&lt;/h5&gt;
+
+&lt;p&gt;&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Antartica&amp;ensp;&amp;ensp;&lt;/p&gt;
+
+&lt;h5 id=&#34;asia:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;Asia&lt;/h5&gt;
+
+&lt;p&gt;&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Israel&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Palestine&amp;ensp;&amp;ensp;&lt;/p&gt;
+
+&lt;p&gt;&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;China&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Hong Kong&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;India&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Indonesia&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Japan&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Malaysia&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Maldives&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Nepal&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Russia&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Singapore&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;South Korea&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Sri Lanka&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Thailand&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Turkey&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;United Arab Emirates&amp;ensp;&amp;ensp;&lt;/p&gt;
+
+&lt;h5 id=&#34;oceania:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;Oceania&lt;/h5&gt;
+
+&lt;p&gt;&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Australia&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Fiji&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;New Zealand&amp;ensp;&amp;ensp;&lt;/p&gt;
+
+&lt;p&gt;Another goal is to visit all 50 states.&lt;/p&gt;
+
+&lt;h5 id=&#34;us-stats:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;US Stats&lt;/h5&gt;
+
+&lt;p&gt;States Visited: 35&lt;br&gt;
+Percent of US: 70%&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/matador_network_my_us_map.png&#34; alt=&#34;My US Map&#34; title=&#34;My US Map&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Alabama&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Alaska&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Arizona&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Arkansas&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;California&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Colorado&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Connecticut&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Delaware&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Florida&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Georgia&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Hawaii&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Idaho&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Illinois&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Indiana&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Iowa&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Kansas&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Kentucky&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Louisiana&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Maine&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Maryland&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Massachusetts&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Michigan&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Minnesota&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Mississippi&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Missouri&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Montana&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Nebraska&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Nevada&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;New Hampshire&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;New Jersey&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;New Mexico&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;New York&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;North Carolina&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;North Dakota&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Ohio&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Oklahoma&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Oregon&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Pennsylvania&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Rhode Island&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;South Carolina&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;South Dakota&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Tennessee&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Texas&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Utah&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Vermont&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Virginia&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Washington&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;West Virginia&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Wisconsin&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Wyoming&amp;ensp;&amp;ensp;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Website Evaluation Links</title>
+      <link>http://andrewrgoss.github.io/2016/website-evaluation-links/</link>
+      <pubDate>Thu, 11 Feb 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.github.io/2016/website-evaluation-links/</guid>
+      <description>
+
+&lt;p&gt;There&amp;rsquo;s a lot you can learn about a website by simply having the URL address.&lt;/p&gt;
+
+&lt;h2 id=&#34;builtwith:4bad1ad5850f28d82da8c8c5ec807869&#34;&gt;BuiltWith&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://builtwith.com&#34;&gt;http://builtwith.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;google-design-resizer:4bad1ad5850f28d82da8c8c5ec807869&#34;&gt;Google Design: Resizer&lt;/h2&gt;
+
+&lt;p&gt;An interactive viewer to see and test how digital products respond to material design breakpoints across desktop, mobile, and tablet.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://design.google.com/resizer&#34;&gt;http://design.google.com/resizer&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://design.google.com/articles/introducing-resizer&#34;&gt;https://design.google.com/articles/introducing-resizer&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;website-grader:4bad1ad5850f28d82da8c8c5ec807869&#34;&gt;Website Grader&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://website.grader.com&#34;&gt;https://website.grader.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;who-is-hosting-this:4bad1ad5850f28d82da8c8c5ec807869&#34;&gt;Who Is Hosting This&lt;/h2&gt;
+
+&lt;!--![WhoIsHostingThis.com](http://media.whoishostingthis.com/2/v98/images/wiht-logo.png)--&gt;
+
+&lt;p&gt;For a long time, I looked at websites owned by either companies or individuals and wondered who the web hosting provider was; who was responsible for powering the website? No more. &lt;a href=&#34;http://www.whoishostingthis.com&#34; target=&#34;_blank&#34;&gt;WhoIsHostingThis&lt;/a&gt; allows a user to simply enter the domain name of any site and instantly uncover the identity of the company that is hosting the site. For example, I follow a web developer at HubSpot on Twitter by the name of Jonathan Kim. I&amp;rsquo;ve read his personal blog several times and wondered who he chose for his provider. After all, he is a developer at a marketing company and so I figured he might be interested in a hosting company that could provide advanced analytics as part of their package.&lt;/p&gt;
+
+&lt;p&gt;Turns out my hunches were at least partially right. WhoIsHostingThis.com showed me that Kim is powering his personal blog by a web hosting company called CloudFlare. While there was not a review particular for this particular provider, it drove me to visit the website of this hosting company that I was not previously familiar with. Although CloudFlare does provide insight into website traffic, its biggest draw seems to be that it is designed to be a community for webmasters. It protects and accelerates websites by blocking threats and limiting bots and crawlers from wasting bandwidth and server resources.&lt;/p&gt;
+
+&lt;p&gt;Using WhoIsHostingThis.com has given me useful insight about web hosting that should prove valuable to me when it comes time to selecting a web hosting provider for my own personal website. Also of note, the IP address is displayed. There are lots of IP address services across the web that allow a user to pinpoint the location of the server that is powering any given website. In this case, CloudFlare&amp;rsquo;s servers are located at the company&amp;rsquo;s headquarters in San Francisco. I may explore IP addresses a bit further in a future blog post.&lt;/p&gt;
+
+&lt;h2 id=&#34;wordpress-theme-detector:4bad1ad5850f28d82da8c8c5ec807869&#34;&gt;Wordpress Theme Detector&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.wpthemedetector.com&#34;&gt;http://www.wpthemedetector.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Caleb Doxsey- An Introduction to Programming in Go</title>
+      <link>http://andrewrgoss.github.io/learning/doxsey_intro_programming_in_go/</link>
+      <pubDate>Wed, 27 Jan 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.github.io/learning/doxsey_intro_programming_in_go/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;https://www.golang-book.com/books/intro&#34; target=&#34;_blank&#34;&gt;BOOK LINK&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;book-progress:c587c0792512b02996a2b4d2d5abf088&#34;&gt;Book Progress&lt;/h5&gt;
+
+&lt;progress max=&#34;1.0&#34; value=&#34;1.0&#34;&gt;&lt;/progress&gt;
+
+&lt;p&gt;100% - completed 01/27/16.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/golang-book&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Why I Switched to Hugo</title>
+      <link>http://andrewrgoss.github.io/2016/why-i-switched-to-hugo/</link>
+      <pubDate>Tue, 26 Jan 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.github.io/2016/why-i-switched-to-hugo/</guid>
+      <description>&lt;p&gt;Why I made the switch from Wordpress to Hugo…&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Udemy- Programming for Beginners in C#</title>
+      <link>http://andrewrgoss.github.io/learning/udemy_csharp_for_beginners/</link>
+      <pubDate>Sat, 28 Nov 2015 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.github.io/learning/udemy_csharp_for_beginners/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;https://www.udemy.com/programming-for-complete-beginners-in-csharp/&#34; target=&#34;_blank&#34;&gt;COURSE LINK&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://github.com/andrewrgoss/udemy-beginning-csharp/blob/master/Course%20Completion%20Certificate%20(UC-TT5IFIPW).pdf&#34; target=&#34;_blank&#34;&gt;COMPLETION CERTIFICATE&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;course-progress:0419b73c29db8b0a8014c550c35f1f69&#34;&gt;Course Progress&lt;/h5&gt;
+
+&lt;progress max=&#34;1.0&#34; value=&#34;1.0&#34;&gt;&lt;/progress&gt;
+
+&lt;p&gt;100% - completed 11/28/15.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-beginning-csharp&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>http://andrewrgoss.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.github.io/about/</guid>
+      <description>
+
+&lt;blockquote&gt;
+&lt;p&gt;TLDR; Data engineer, tech consultant, business intelligence developer in the marketing/advertising industry. Also a reader, gamer, sports fan, runner, and world traveler.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!--Blog post ideas:
+
+- Building my first virtual machine (Ubuntu)
+- Why I started programming in Go (server side language)
+- Website iterations I went through (templates, Google App Engine, Wordpress, etc.)
+- Why it is important to have a web presence as a developer
+- Twitter API authentication for Go
+- Top travel photos (my favorites)--&gt;
+
+&lt;p&gt;Thanks for visiting my website! For more on my professional background, you can visit my &lt;a href=&#34;https://www.linkedin.com/in/andrewrgoss&#34; target=&#34;_blank&#34;&gt;LinkedIn&lt;/a&gt; profile. You can also find a downloadable copy of my resume &lt;a href=&#34;http://andrewrgoss.github.io/AndrewGoss_Resume.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve spent most of my career as a consultant in the marketing &amp;amp; advertising industry. I&amp;rsquo;ve held both business and technical roles in this space while providing services across numerous verticals including finance, higher education, insurance, and commercial software. Here are some of the clients I&amp;rsquo;ve worked with over the years:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/BoA_logo.png&#34; alt=&#34;Bank of America&#34; title=&#34;Bank of America&#34; /&gt;
+&lt;img src=&#34;http://andrewrgoss.github.io/img/Correlsense_logo.png&#34; alt=&#34;Correlsense&#34; title=&#34;Correlsense&#34; /&gt;
+&lt;img src=&#34;http://andrewrgoss.github.io/img/DBC_logo.png&#34; alt=&#34;Diversified Communications&#34; title=&#34;Diversified Communications&#34; /&gt;
+&lt;img src=&#34;http://andrewrgoss.github.io/img/EDMC_logo.png&#34; alt=&#34;Education Management Corporation&#34; title=&#34;Education Management Corporation&#34; /&gt;
+&lt;img src=&#34;http://andrewrgoss.github.io/img/HP_logo.png&#34; alt=&#34;HP Inc.&#34; title=&#34;HP Inc.&#34; /&gt;
+&lt;img src=&#34;http://andrewrgoss.github.io/img/HPE_logo.png&#34; alt=&#34;Hewlett Packard Enterprise&#34; title=&#34;Hewlett Packard Enterprise&#34; /&gt;
+&lt;img src=&#34;http://andrewrgoss.github.io/img/Reed_Elsevier_logo.png&#34; alt=&#34;Reed Elsevier&#34; title=&#34;Reed Elsevier&#34; /&gt;
+&lt;img src=&#34;http://andrewrgoss.github.io/img/UTI_logo.jpg&#34; alt=&#34;Universal Technical Institute&#34; title=&#34;Universal Technical Institute&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;My unique combination of hard and soft skills is what makes me different and something I take pride in. Early in my career, I gained experience building out marketing campaigns using automation platforms such as &lt;a href=&#34;https://www.marketo.com&#34; target=&#34;_blank&#34;&gt;Marketo&lt;/a&gt;,
+&lt;a href=&#34;https://www.oracle.com/marketingcloud/products/cross-channel/marketing-to-businesses.html&#34; target=&#34;_blank&#34;&gt;Eloqua&lt;/a&gt; (acquired by Oracle), and &lt;a href=&#34;http://marketing.teradata.com&#34; target=&#34;_blank&#34;&gt;Aprimo&lt;/a&gt; (acquired by Teradata). I developed core consulting skills in interfacing directly with clients and being able to summarize and present key performance metrics. I also gravitated towards wanting to further understand the backend functionality behind these marketing technologies and quickly showed an aptitude for it.&lt;/p&gt;
+
+&lt;p&gt;Writing - started this blog to keep my writing skills sharp.&lt;/p&gt;
+
+&lt;p&gt;Data engineer and business intelligence developer in the marketing &amp;amp; advertising industry. Skilled in developing and supporting crucial back-end functionality behind data-driven applications. Enabler of advanced analytics towards reaching the right audience at the right time. Designs, builds, and deploys information system programs across software development life cycles. Technical aptitude is complimented by a strong business acumen originating from a career that began in client marketing services. Top-notch consultant and project manager with a mindset towards identifying and solving challenging business problems. Consistently provides quality ongoing services, on-time deliverables, and open communication around project status, risks, and challenges. Takes proactive approach towards career growth and skill development. Results-oriented, well-organized, self-motivated, and effective team member.&lt;/p&gt;
+
+&lt;p&gt;Another characteristic that sets me apart is my strong desire to never stop learning. I set up the &amp;lsquo;Learning&amp;rsquo; section of this website to document and track my progress in learning new concepts and abilities.&lt;/p&gt;
+
+&lt;h1 id=&#34;skills:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Skills&lt;/h1&gt;
+
+&lt;h5 id=&#34;core-competencies:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Core Competencies&lt;/h5&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/coding.png&#34; alt=&#34;Application Development&#34; title=&#34;Application Development&#34; /&gt;
+&lt;img src=&#34;http://andrewrgoss.github.io/img/analysis.png&#34; alt=&#34;Business Intelligence&#34; title=&#34;Business Intelligence&#34; /&gt;
+&lt;img src=&#34;http://andrewrgoss.github.io/img/database.png&#34; alt=&#34;Database Architecture&#34; title=&#34;Database Architecture&#34; /&gt;
+&lt;img src=&#34;http://andrewrgoss.github.io/img/gears.png&#34; alt=&#34;Marketing Automation&#34; title=&#34;Marketing Automation&#34; /&gt;
+&lt;img src=&#34;http://andrewrgoss.github.io/img/projectmanagement.png&#34; alt=&#34;Project Management&#34; title=&#34;Project Management&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;sub&gt;Application Development, Business Intelligence, Database Architecture, Marketing Automation, Project Management&lt;/sub&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;!--&lt;div class=&#34;img&#34;&gt;
+    &lt;img src=&#34;http://andrewrgoss.github.io/img/coding.png&#34; alt=&#34;Application Development&#34;&gt;
+  &lt;div class=&#34;desc&#34;&gt;Application Development&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;img&#34;&gt;
+    &lt;img src=&#34;http://andrewrgoss.github.io/img/analysis.png&#34; alt=&#34;Business Intelligence&#34;&gt;
+  &lt;div class=&#34;desc&#34;&gt;Business Intelligence&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;img&#34;&gt;
+    &lt;img src=&#34;http://andrewrgoss.github.io/img/database.png&#34; alt=&#34;Database Architecture&#34;&gt;
+  &lt;div class=&#34;desc&#34;&gt;Database Architecture&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;img&#34;&gt;
+    &lt;img src=&#34;http://andrewrgoss.github.io/img/gears.png&#34; alt=&#34;Marketing Automation&#34;&gt;
+  &lt;div class=&#34;desc&#34;&gt;Marketing Automation&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;img&#34;&gt;
+    &lt;img src=&#34;http://andrewrgoss.github.io/img/projectmanagement.png&#34; alt=&#34;Project Management&#34;&gt;
+  &lt;div class=&#34;desc&#34;&gt;Project Management&lt;/div&gt;
+&lt;/div&gt;--&gt;
+
+&lt;h5 id=&#34;business:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Business&lt;/h5&gt;
+
+&lt;ul class=&#34;compact&#34;&gt;
+&lt;li&gt;
+ &lt;label&gt;Account Management&lt;/label&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;
+ &lt;progress max=&#34;1.0&#34; value=&#34;0.7&#34;&gt;&lt;/progress&gt;
+&lt;/li&gt;
+&lt;li&gt;
+ &lt;label&gt;Consulting&lt;/label&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;
+ &lt;progress max=&#34;1.0&#34; value=&#34;0.8&#34;&gt;&lt;/progress&gt;
+&lt;/li&gt;
+&lt;li&gt;
+ &lt;label&gt;Marketing Automation&lt;/label&gt;&amp;ensp;&amp;ensp;&amp;ensp;
+ &lt;progress max=&#34;1.0&#34; value=&#34;0.65&#34;&gt;&lt;/progress&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;technical:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Technical&lt;/h5&gt;
+
+&lt;ul class=&#34;compact&#34;&gt;
+&lt;li&gt;
+ &lt;label&gt;Relational Databases&lt;/label&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;
+ &lt;progress max=&#34;1.0&#34; value=&#34;0.9&#34;&gt;&lt;/progress&gt;
+&lt;/li&gt;
+&lt;li&gt;
+ &lt;label&gt;Software Development&lt;/label&gt;&amp;ensp;&amp;ensp;&amp;ensp;
+ &lt;progress max=&#34;1.0&#34; value=&#34;0.8&#34;&gt;&lt;/progress&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Résumé</title>
+      <link>http://andrewrgoss.github.io/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.github.io/cv/</guid>
+      <description>&lt;p&gt;Download my résumé &lt;a href=&#34;http://andrewrgoss.github.io/SamuelDebruyn_CV_EN.pdf&#34;&gt;here&lt;/a&gt;. You can also visit my profile on &lt;a href=&#34;https://www.linkedin.com/in/andrewrgoss&#34;&gt;LinkedIn&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Search results</title>
+      <link>http://andrewrgoss.github.io/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.github.io/search/</guid>
+      <description>A lot of ad/tracker blockers like Ghostery are blocking Google Custom Search Engine. Allow &lt;i&gt;Google AJAX Search API&lt;/i&gt; to show your search results.
+&lt;br&gt;
+&lt;br&gt;
+
+&lt;gcse:searchresults-only linktarget=&#34;_parent&#34;&gt;&lt;/gcse:searchresults-only&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>http://andrewrgoss.github.io/tags/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.github.io/tags/</guid>
+      <description>&lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;http://andrewrgoss.github.io/tags/csharp&#34;&gt;csharp&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&#34;http://andrewrgoss.github.io/tags/golang&#34;&gt;golang [2]&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&#34;http://andrewrgoss.github.io/tags/hugo&#34;&gt;hugo&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&#34;http://andrewrgoss.github.io/tags/links&#34;&gt;links&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&#34;http://andrewrgoss.github.io/tags/udemy&#34;&gt;udemy [2]&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&#34;http://andrewrgoss.github.io/tags/web&#34;&gt;web [2]&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&#34;http://andrewrgoss.github.io/tags/wordpress&#34;&gt;wordpress [2]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!--
+&lt;ul class=&#34;sitetaglist&#34;&gt;
+  {{ range .Site.Taxonomies.tags.ByCount }}
+      &lt;li&gt;&lt;a href=&#34;http://andrewrgoss.github.io/tags/{{ .Name | urlize }}&#34;&gt;{{ .Name }} ({{ .Count }})&lt;/a&gt;&lt;/li&gt;
+    {{ end }}
+  {{ end }}
+&lt;/ul&gt;--&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
