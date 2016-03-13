@@ -438,7 +438,8 @@ Percent of US: 70%&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>http://andrewrgoss.github.io/tags/</guid>
-      <description>&lt;ul&gt;
+      <description>Tags here.
+&lt;!--&lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;http://andrewrgoss.github.io/tags/csharp&#34;&gt;csharp&lt;/a&gt;&lt;/li&gt;
 	&lt;li&gt;&lt;a href=&#34;http://andrewrgoss.github.io/tags/golang&#34;&gt;golang [2]&lt;/a&gt;&lt;/li&gt;
 	&lt;li&gt;&lt;a href=&#34;http://andrewrgoss.github.io/tags/hugo&#34;&gt;hugo&lt;/a&gt;&lt;/li&gt;
@@ -447,8 +448,6 @@ Percent of US: 70%&lt;/p&gt;
 	&lt;li&gt;&lt;a href=&#34;http://andrewrgoss.github.io/tags/web&#34;&gt;web [2]&lt;/a&gt;&lt;/li&gt;
 	&lt;li&gt;&lt;a href=&#34;http://andrewrgoss.github.io/tags/wordpress&#34;&gt;wordpress [2]&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;!--
 &lt;ul class=&#34;sitetaglist&#34;&gt;
   {{ range .Site.Taxonomies.tags.ByCount }}
       &lt;li&gt;&lt;a href=&#34;http://andrewrgoss.github.io/tags/{{ .Name | urlize }}&#34;&gt;{{ .Name }} ({{ .Count }})&lt;/a&gt;&lt;/li&gt;
