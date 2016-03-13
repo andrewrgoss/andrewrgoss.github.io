@@ -68,9 +68,9 @@
                 },
                 "datePublished": "Jan 2016",
                 "description": "Why I made the switch from using Wordpress to Hugo.",
-                "wordCount":  9 ,
+                "wordCount":  299 ,
                 "articleSection": "post",
-                "timeRequired": "0:1:0",
+                "timeRequired": "0:2:0",
                 "url": "http:\/\/andrewrgoss.github.io\/2016\/why-i-switched-to-hugo\/"
             }
         </script>
@@ -260,7 +260,7 @@ hr
 
 ol,ul
 {
-	margin-left: 3em;
+	margin-left: 2em;
 }
 
 code
@@ -636,7 +636,7 @@ footer a:hover
 
 	ol,ul
 	{
-		margin-left: 2em;
+		margin-left: 1em;
 	};
 }
 
@@ -790,7 +790,35 @@ footer a:hover
         </span>
     </div>
     <h1 class="post-title">Why I Switched to Hugo</h1>
-    <p>Why I made the switch from Wordpress to Hugo…</p>
+    
+
+<p>Why I made the switch from Wordpress to Hugo…</p>
+
+<h2 id="a-good-blogging-platform:f3941651fa35be8fa9dd1215cdae54e4">A good blogging platform</h2>
+
+<p>What makes a good blogging platform really good? Well, that depends on the blogger. Programmers would need different features than make-up bloggers. As a programmer, I need to be able to easily integrate pieces of code with syntax highlighting in my posts and I&rsquo;d prefer writing them in my favorite text/code editor instead of in a WYSIWYG editor.</p>
+
+<h2 id="wordpress:f3941651fa35be8fa9dd1215cdae54e4">Wordpress</h2>
+
+<p>Started out using this.</p>
+
+<h2 id="hugo:f3941651fa35be8fa9dd1215cdae54e4">Hugo</h2>
+
+<p>I never used Jekyll personally, but I&rsquo;ve heard of it. A few other static site generators <a href="https://www.staticgen.com" target="_blank">have sprung up</a> since Jekyll&rsquo;s success.</p>
+
+<p>The one that caught my attention was <a href="http://gohugo.io">Hugo</a>. It has all the goodness from Jekyll, but it&rsquo;s way easier to setup. Hugo itself is written in <a href="http://golang.org">Go</a>, but they build <a href="https://github.com/spf13/hugo/releases">executable binaries</a> for a lot of platforms and architectures. So you don&rsquo;t need to install anything else. Even compiling it yourself isn&rsquo;t that hard.</p>
+
+<p>The process of creating a new website is very similar to Jekyll. The <code>hugo</code> command literally explains itself (<code>hugo help</code>) and the <a href="http://gohugo.io/overview/introduction/">documentation</a> on its website should suffice for most users.</p>
+
+<p>I&rsquo;ve successfully migrated my <a href="https://github.com/SamuelDebruyn/samueldebruyn.github.io/tree/5f5719a9d4519f8fbd4cdfffa2a10b3f066401ef">Jekyll blog</a> to <a href="https://github.com/SamuelDebruyn/sa.muel.be-hugo">Hugo</a> and haven&rsquo;t regretted it ever since.</p>
+
+<h2 id="disadvantages:f3941651fa35be8fa9dd1215cdae54e4">Disadvantages</h2>
+
+<p>One of the major disadvantages of Hugo, or any static site generator for that matter, is integrating <strong>search</strong>. You need some <a href="http://discuss.gohugo.io/t/how-are-you-implementing-site-search/986/14">JavaScript magic</a> or a 3rd party search provider like <a href="https://cse.google.com">Google Custom Search Engine</a> (which I went for).</p>
+
+<p>The other dynamic part of an ordinary blog is <strong>the comment section</strong>. Again, the easiest way to <em>fix</em> this is relying on a 3rd party comments plugin like <a href="https://disqus.com/">Disqus</a>.</p>
+
+<p>Still, these two disadvantages are easily outweighed by the advantages of a static website. Your website will survive <a href="https://en.wikipedia.org/wiki/Slashdot_effect">slashdotting</a> and the only required maintenance is literally making sure your web server stays online.</p>
 
     <div id="social-bar">
 	<ul class="rrssb-buttons clearfix">
@@ -815,7 +843,7 @@ footer a:hover
           </a>
       </li>
 			<li class="linkedin">
-          <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://andrewrgoss.github.io/2016/why-i-switched-to-hugo/&amp;title=Why%20I%20Switched%20to%20Hugo&amp;summary=Why%20I%20made%20the%20switch%20from%20Wordpress%20to%20Hugo%e2%80%a6..." class="popup">
+          <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://andrewrgoss.github.io/2016/why-i-switched-to-hugo/&amp;title=Why%20I%20Switched%20to%20Hugo&amp;summary=Why%20I%20made%20the%20switch%20from%20Wordpress%20to%20Hugo%e2%80%a6%20A%20good%20blogging%20platform%20What%20makes%20a%20good%20blogging%20platform%20really%20good%3f%20Well%2c%20that%20depends%20on%20the%20blogger.%20Programmers%20would%20need%20different%20features%20than%20make-up%20bloggers.%20As%20a%20programmer%2c%20I%20need%20to%20be%20able%20to%20easily%20integrate%20pieces%20of%20code%20with%20syntax%20highlighting%20in%20my%20posts%20and%20I%26rsquo%3bd%20prefer%20writing%20them%20in%20my%20favorite%20text%2fcode%20editor%20instead%20of%20in%20a%20WYSIWYG%20editor...." class="popup">
               <span class="icon">
                   <svg version="1.1" id="btn-li" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="28px" height="28px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve">
                       <path d="M25.424,15.887v8.447h-4.896v-7.882c0-1.979-0.709-3.331-2.48-3.331c-1.354,0-2.158,0.911-2.514,1.803 c-0.129,0.315-0.162,0.753-0.162,1.194v8.216h-4.899c0,0,0.066-13.349,0-14.731h4.899v2.088c-0.01,0.016-0.023,0.032-0.033,0.048 h0.033V11.69c0.65-1.002,1.812-2.435,4.414-2.435C23.008,9.254,25.424,11.361,25.424,15.887z M5.348,2.501 c-1.676,0-2.772,1.092-2.772,2.539c0,1.421,1.066,2.538,2.717,2.546h0.032c1.709,0,2.771-1.132,2.771-2.546 C8.054,3.593,7.019,2.501,5.343,2.501H5.348z M2.867,24.334h4.897V9.603H2.867V24.334z"/>

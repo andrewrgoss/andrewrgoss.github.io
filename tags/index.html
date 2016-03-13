@@ -9,10 +9,6 @@
     
 
 
-    
-        
-    
-
 
     <head>
 
@@ -30,50 +26,23 @@
         <meta name="twitter:url" content="http://andrewrgoss.github.io/tags/" />
         <link rel="canonical" href="http://andrewrgoss.github.io/tags/" />
         
-        <meta name="description" content="Tags here. csharp golang [2] hugo links udemy [2] web [2] wordpress [2] {{ range .Site.Taxonomies.tags.ByCount }} {{ .Name }} ({{ .Count }}) {{ end }} {{ end }} --" />
-        <meta name="twitter:description" content="Tags here. csharp golang [2] hugo links udemy [2] web [2] wordpress [2] {{ range .Site.Taxonomies.tags.ByCount }} {{ .Name }} ({{ .Count }}) {{ end }} {{ end }} --" />
-        <meta property="og:description" content="Tags here. csharp golang [2] hugo links udemy [2] web [2] wordpress [2] {{ range .Site.Taxonomies.tags.ByCount }} {{ .Name }} ({{ .Count }}) {{ end }} {{ end }} --" />
+        <meta name="description" content="Andrew Goss is a data engineer, technical consultant, business intelligence developer in Boston, MA." />
+        <meta name="twitter:description" content="Andrew Goss is a data engineer, technical consultant, business intelligence developer in Boston, MA." />
+        <meta property="og:description" content="Andrew Goss is a data engineer, technical consultant, business intelligence developer in Boston, MA." />
         
         <meta name="twitter:site" content="@Andrewrgoss" />
         <meta name="twitter:creator" content="@Andrewrgoss" />
 
     
     
-           
-            <meta name="twitter:card" content="summary" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:image" content="http://andrewrgoss.github.io/avatar.jpg" />
+        <meta property="og:image" content="http://andrewrgoss.github.io/avatar.jpg" />
         
         
-        <meta property="og:type" content="article" />
-        <meta property="og:article:published_time" content="Jan 0001" />
-        <meta property="og:article:section" content="page" />
-        <meta property="og:article:author" content="http://andrewrgoss.github.io/about/" />
         
-        <script type="application/ld+json">
-            { 
-                "@context": "http://schema.org",
-                "@type": "BlogPosting",
-                "headline": "Tags",
-                "name": "Tags",
-                "author": {
-                    "@type": "Person",
-"name": "Andrew Goss",
-"email": "andrewrgoss@gmail.com",
-"url": "http:\/\/andrewrgoss.github.io\/",
-"sameAs":
-	[
-		"https://twitter.com/andrewrgoss",
-		"https://linkedin.com/in/andrewrgoss",
-		"https://github.com/andrewrgoss"
-	]
-                },
-                "datePublished": "Jan 0001",
-                "description": "Tags here. csharp golang [2] hugo links udemy [2] web [2] wordpress [2] {{ range .Site.Taxonomies.tags.ByCount }} {{ .Name }} ({{ .Count }}) {{ end }} {{ end }} --",
-                "wordCount":  30 ,
-                "articleSection": "page",
-                "timeRequired": "0:1:0",
-                "url": "http:\/\/andrewrgoss.github.io\/tags\/"
-            }
-        </script>
+            <meta property="og:type" content="website" />
+            
         
     
  
@@ -260,7 +229,7 @@ hr
 
 ol,ul
 {
-	margin-left: 3em;
+	margin-left: 2em;
 }
 
 code
@@ -636,7 +605,7 @@ footer a:hover
 
 	ol,ul
 	{
-		margin-left: 2em;
+		margin-left: 1em;
 	};
 }
 
@@ -771,28 +740,69 @@ footer a:hover
         </header>
 <main id="content">
 
-<article class="page">
-    <h1 class="post-title">Tags</h1>
-    Tags here.
-<!--<ul>
-    <li><a href="/tags/csharp">csharp</a></li>
-	<li><a href="/tags/golang">golang [2]</a></li>
-	<li><a href="/tags/hugo">hugo</a></li>
-	<li><a href="/tags/links">links</a></li>
-	<li><a href="/tags/udemy">udemy [2]</a></li>
-	<li><a href="/tags/web">web [2]</a></li>
-	<li><a href="/tags/wordpress">wordpress [2]</a></li>
-</ul>
-<ul class="sitetaglist">
-  {{ range .Site.Taxonomies.tags.ByCount }}
-      <li><a href="/tags/{{ .Name | urlize }}">{{ .Name }} ({{ .Count }})</a></li>
-    {{ end }}
-  {{ end }}
-</ul>-->
-</article>
+<h1 class="post-title">Tags</h1>
+
+<ul class="tags-listing">
+	    
+	    
+	    
+	    <li class="site-tag">
+		<a href="/tags/csharp">
+		csharp [1]</a>
+		</li>
+	    
+	    <li class="site-tag">
+		<a href="/tags/golang">
+		golang [2]</a>
+		</li>
+	    
+	    <li class="site-tag">
+		<a href="/tags/hugo">
+		hugo [1]</a>
+		</li>
+	    
+	    <li class="site-tag">
+		<a href="/tags/links">
+		links [1]</a>
+		</li>
+	    
+	    <li class="site-tag">
+		<a href="/tags/udemy">
+		udemy [2]</a>
+		</li>
+	    
+	    <li class="site-tag">
+		<a href="/tags/web">
+		web [2]</a>
+		</li>
+	    
+	    <li class="site-tag">
+		<a href="/tags/wordpress">
+		wordpress [2]</a>
+		</li>
+	    
+ </ul>
 
 </main>
 
+
+
+<script type="application/ld+json">
+    { 
+        "@context": "http://schema.org",
+        "@type": "Person",
+"name": "Andrew Goss",
+"email": "andrewrgoss@gmail.com",
+"url": "http:\/\/andrewrgoss.github.io\/",
+"sameAs":
+	[
+		"https://twitter.com/andrewrgoss",
+		"https://linkedin.com/in/andrewrgoss",
+		"https://github.com/andrewrgoss"
+	]
+    }
+</script>
+    
 
 
 		<footer id="footer">
@@ -818,11 +828,6 @@ footer a:hover
           ], { callback:function() {
               hljs.initHighlighting();
               
-              
-                var isMobile = window.matchMedia("only screen and (max-width: 800px)");
-                if(isMobile.matches) {
-                    $("html, body").animate({scrollTop: $('#content').offset().top }, 500);
-                }
               
           }});
         }

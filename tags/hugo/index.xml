@@ -17,7 +17,35 @@
       <pubDate>Tue, 26 Jan 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>http://andrewrgoss.github.io/2016/why-i-switched-to-hugo/</guid>
-      <description>&lt;p&gt;Why I made the switch from Wordpress to Hugo…&lt;/p&gt;
+      <description>
+
+&lt;p&gt;Why I made the switch from Wordpress to Hugo…&lt;/p&gt;
+
+&lt;h2 id=&#34;a-good-blogging-platform:f3941651fa35be8fa9dd1215cdae54e4&#34;&gt;A good blogging platform&lt;/h2&gt;
+
+&lt;p&gt;What makes a good blogging platform really good? Well, that depends on the blogger. Programmers would need different features than make-up bloggers. As a programmer, I need to be able to easily integrate pieces of code with syntax highlighting in my posts and I&amp;rsquo;d prefer writing them in my favorite text/code editor instead of in a WYSIWYG editor.&lt;/p&gt;
+
+&lt;h2 id=&#34;wordpress:f3941651fa35be8fa9dd1215cdae54e4&#34;&gt;Wordpress&lt;/h2&gt;
+
+&lt;p&gt;Started out using this.&lt;/p&gt;
+
+&lt;h2 id=&#34;hugo:f3941651fa35be8fa9dd1215cdae54e4&#34;&gt;Hugo&lt;/h2&gt;
+
+&lt;p&gt;I never used Jekyll personally, but I&amp;rsquo;ve heard of it. A few other static site generators &lt;a href=&#34;https://www.staticgen.com&#34; target=&#34;_blank&#34;&gt;have sprung up&lt;/a&gt; since Jekyll&amp;rsquo;s success.&lt;/p&gt;
+
+&lt;p&gt;The one that caught my attention was &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo&lt;/a&gt;. It has all the goodness from Jekyll, but it&amp;rsquo;s way easier to setup. Hugo itself is written in &lt;a href=&#34;http://golang.org&#34;&gt;Go&lt;/a&gt;, but they build &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;executable binaries&lt;/a&gt; for a lot of platforms and architectures. So you don&amp;rsquo;t need to install anything else. Even compiling it yourself isn&amp;rsquo;t that hard.&lt;/p&gt;
+
+&lt;p&gt;The process of creating a new website is very similar to Jekyll. The &lt;code&gt;hugo&lt;/code&gt; command literally explains itself (&lt;code&gt;hugo help&lt;/code&gt;) and the &lt;a href=&#34;http://gohugo.io/overview/introduction/&#34;&gt;documentation&lt;/a&gt; on its website should suffice for most users.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve successfully migrated my &lt;a href=&#34;https://github.com/SamuelDebruyn/samueldebruyn.github.io/tree/5f5719a9d4519f8fbd4cdfffa2a10b3f066401ef&#34;&gt;Jekyll blog&lt;/a&gt; to &lt;a href=&#34;https://github.com/SamuelDebruyn/sa.muel.be-hugo&#34;&gt;Hugo&lt;/a&gt; and haven&amp;rsquo;t regretted it ever since.&lt;/p&gt;
+
+&lt;h2 id=&#34;disadvantages:f3941651fa35be8fa9dd1215cdae54e4&#34;&gt;Disadvantages&lt;/h2&gt;
+
+&lt;p&gt;One of the major disadvantages of Hugo, or any static site generator for that matter, is integrating &lt;strong&gt;search&lt;/strong&gt;. You need some &lt;a href=&#34;http://discuss.gohugo.io/t/how-are-you-implementing-site-search/986/14&#34;&gt;JavaScript magic&lt;/a&gt; or a 3rd party search provider like &lt;a href=&#34;https://cse.google.com&#34;&gt;Google Custom Search Engine&lt;/a&gt; (which I went for).&lt;/p&gt;
+
+&lt;p&gt;The other dynamic part of an ordinary blog is &lt;strong&gt;the comment section&lt;/strong&gt;. Again, the easiest way to &lt;em&gt;fix&lt;/em&gt; this is relying on a 3rd party comments plugin like &lt;a href=&#34;https://disqus.com/&#34;&gt;Disqus&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Still, these two disadvantages are easily outweighed by the advantages of a static website. Your website will survive &lt;a href=&#34;https://en.wikipedia.org/wiki/Slashdot_effect&#34;&gt;slashdotting&lt;/a&gt; and the only required maintenance is literally making sure your web server stays online.&lt;/p&gt;
 </description>
     </item>
     
