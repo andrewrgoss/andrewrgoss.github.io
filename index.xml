@@ -305,6 +305,23 @@ Percent of US: 70%&lt;/p&gt;
 &lt;p&gt;The other dynamic part of an ordinary blog is &lt;strong&gt;the comment section&lt;/strong&gt;. Again, the easiest way to &lt;em&gt;fix&lt;/em&gt; this is relying on a 3rd party comments plugin like &lt;a href=&#34;https://disqus.com/&#34;&gt;Disqus&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Still, these two disadvantages are easily outweighed by the advantages of a static website. Your website will survive &lt;a href=&#34;https://en.wikipedia.org/wiki/Slashdot_effect&#34;&gt;slashdotting&lt;/a&gt; and the only required maintenance is literally making sure your web server stays online.&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#34;comments&#34; data-role=&#34;none&#34;&gt;
+  &lt;h2&gt;
+    Comments
+  &lt;/h2&gt;
+  &lt;ol class=&#34;commentlist unstyled&#34;&gt;
+      &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
+    &lt;script type=&#34;text/javascript&#34;&gt;
+        var disqus_shortname = &amp;lsquo;andrewrgoss&amp;rsquo;;
+        (function() {
+            var dsq = document.createElement(&amp;lsquo;script&amp;rsquo;); dsq.type = &amp;lsquo;text/javascript&amp;rsquo;; dsq.async = true;
+            dsq.src = &amp;lsquo;//&amp;rsquo; + disqus_shortname + &amp;lsquo;.disqus.com/embed.js&amp;rsquo;;
+            (document.getElementsByTagName(&amp;lsquo;head&amp;rsquo;)[0] || document.getElementsByTagName(&amp;lsquo;body&amp;rsquo;)[0]).appendChild(dsq);
+        })();
+    &lt;/script&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;&lt;!-- #comments --&gt;&lt;/p&gt;
 </description>
     </item>
     
