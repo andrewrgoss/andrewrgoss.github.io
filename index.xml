@@ -19,7 +19,25 @@
       <guid>http://andrewrgoss.github.io/learning/udemy_learn_google_golang/</guid>
       <description>
 
-&lt;p&gt;&lt;a href=&#34;https://www.udemy.com/learn-how-to-code/learn/&#34; target=&#34;_blank&#34;&gt;COURSE LINK&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/golang_gopher.png&#34; alt=&#34;Golang Gopher&#34; title=&#34;Golang Gopher&#34; /&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.udemy.com/learn-how-to-code/learn/&#34; target=&#34;_blank&#34;&gt;COURSE LINK&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://docs.google.com/document/d/18-0u5CvNIr83oOfMXPoM4klVFASXGl3Vvua1wBGMIoQ/&#34; target=&#34;_blank&#34;&gt;COURSE RESOURCES&lt;/a&gt;
+&lt;hr&gt;
+&lt;a href=&#34;https://golang.org&#34; target=&#34;_blank&#34;&gt;Go (Golang)&lt;/a&gt; is an open source programming language that makes it easy to build simple, reliable, and efficient software. I first started using Go through my work at &lt;a href=&#34;http://www.digitaslbi.com/us&#34; target=&#34;_blank&#34;&gt;DigitasLBi&lt;/a&gt;. My department adopted this language as one of our tech stacks for the following reasons:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;It’s open source (i.e. free) and intended to be simple yet expressive.&lt;/li&gt;
+&lt;li&gt;It’s intended to be a good middleware layer to provide for both quick one-off applications as well as large collaborative code bases.&lt;/li&gt;
+&lt;li&gt;It&amp;rsquo;s a static simple language, which allows for static analysis tooling and fast compilation.&lt;/li&gt;
+&lt;li&gt;It can easily be compiled across multiple platforms, which is important for us since we host several different commercial and open source operating systems.&lt;/li&gt;
+&lt;li&gt;It&amp;rsquo;s based around composition instead of OOP inheritance, which avoids a whole class of issues. There&amp;rsquo;s no type casting hell. Things are either a type or not.&lt;/li&gt;
+&lt;li&gt;Objects and functionality can easily be combined. Structs provide simple blue-prints. Interfaces provide a lightweight polymorphism without complicating things too much.&lt;/li&gt;
+&lt;li&gt;Concurrency is built in through Go routines and channels, which are a simple and efficient means to run multiple executions at once.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;My goal in taking this course is to strengthen my knowledge around the fundamentals of the Go programming language and to get more practice.&lt;/p&gt;
+
+&lt;hr&gt;
 
 &lt;h5 id=&#34;course-progress:ea26e6d17ee8d7a9676635c803e1df42&#34;&gt;Course Progress&lt;/h5&gt;
 
@@ -27,7 +45,7 @@
 
 &lt;p&gt;5% - &lt;font color=&#34;green&#34;&gt;[IN PROGRESS]&lt;/font&gt;.&lt;/p&gt;
 
-&lt;!--&lt;a href=&#34;https://github.com/andrewrgoss/codingbat-csharp&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;--&gt;
+&lt;!--&lt;a href=&#34;https://github.com/andrewrgoss/&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;--&gt;
 </description>
     </item>
     
@@ -39,17 +57,21 @@
       <guid>http://andrewrgoss.github.io/travel/</guid>
       <description>
 
-&lt;p&gt;Outside of work, I&amp;rsquo;m passionate about traveling the world, having new experiences, and broadening my life perspective. I have a long, ambitious list of places that I want to visit. While it&amp;rsquo;s highly unlikely that I&amp;rsquo;ll accomplish all of these in my lifetime, I decided to start tracking where I&amp;rsquo;ve been and where I&amp;rsquo;d like to go in the future with the belief that simply writing these down increases the likelihood of achieving more of these travel goals. My blog posts about travel are tagged as such and you can view them all &lt;a href=&#34;http://andrewrgoss.github.io/tags/travel&#34;&gt;here&lt;/a&gt;.&lt;!--While it&#39;s true that traveling carries some risks (just as staying put in the US does), travel to me is too vital, too important a part of civilized life to give up.--&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;You can check out my blog posts about travel &lt;a href=&#34;http://andrewrgoss.github.io/tags/travel&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;h5 id=&#34;world-stats:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;World Stats&lt;/h5&gt;
+&lt;p&gt;Outside of work, I&amp;rsquo;m passionate about traveling the world, having new experiences, and broadening my life perspective. Some believe that traveling to foreign destinations carries too much risk in the world we live in today. I don&amp;rsquo;t deny there is some level of risk, but crime can happen in your home country too. Travel to me is too vital, too important a part of civilized life to give up out of fear. Link to post on this topic.&lt;/p&gt;
+
+&lt;p&gt;I have a long, ambitious list of places that I want to visit. I&amp;rsquo;m not naive enough to expect that I&amp;rsquo;ll accomplish all of these in my lifetime. But with that being said, I decided to start tracking where I&amp;rsquo;ve been and where I&amp;rsquo;d like to go in the future. I hold the belief that simply writing these down increases the likelihood of achieving more of these travel goals.&lt;/p&gt;
+
+&lt;p&gt;The places I&amp;rsquo;ve listed out below are grouped by geographical belonging, not cultural significance (for example, Russia being listed under Asia and not Europe). Additionally, I do not count laying over in an airport as having visited a destination. I mark a country or state as having been visited when I actually set foot on it.&lt;/p&gt;
+
+&lt;h2 id=&#34;world-stats:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;World Stats&lt;/h2&gt;
 
 &lt;p&gt;Countries/Territories Visited: 17&lt;br&gt;
 Continents Visited: 4&lt;br&gt;
 Percent of World: ~8.71%&lt;/p&gt;
-
-&lt;p&gt;I do not count laying over in an airport as having visited a destination. I mark a country or state as having been visited when I actually set foot on it.&lt;/p&gt;
-
-&lt;p&gt;Grouped by geographical area, not cultural significance.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/matador_network_my_world_map.png&#34; alt=&#34;My World Map&#34; title=&#34;My World Map&#34; /&gt;&lt;/p&gt;
 
@@ -144,12 +166,11 @@ Percent of World: ~8.71%&lt;/p&gt;
 &lt;h5 id=&#34;oceania:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;Oceania&lt;/h5&gt;
 
 &lt;p&gt;&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Australia&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Bora Bora&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Fiji&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;New Zealand&amp;ensp;&amp;ensp;&lt;/p&gt;
 
-&lt;p&gt;Another goal is to visit all 50 states.&lt;/p&gt;
-
-&lt;h5 id=&#34;us-stats:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;US Stats&lt;/h5&gt;
+&lt;h2 id=&#34;us-stats:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;US Stats&lt;/h2&gt;
 
 &lt;p&gt;States Visited: 35&lt;br&gt;
 Percent of US: 70%&lt;/p&gt;
@@ -258,7 +279,23 @@ Percent of US: 70%&lt;/p&gt;
       <guid>http://andrewrgoss.github.io/learning/doxsey_intro_programming_in_go/</guid>
       <description>
 
-&lt;p&gt;&lt;a href=&#34;https://www.golang-book.com/books/intro&#34; target=&#34;_blank&#34;&gt;BOOK LINK&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/golang_gopher.png&#34; alt=&#34;Golang Gopher&#34; title=&#34;Golang Gopher&#34; /&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.golang-book.com/books/intro&#34; target=&#34;_blank&#34;&gt;BOOK LINK&lt;/a&gt;
+&lt;hr&gt;
+&lt;a href=&#34;https://golang.org&#34; target=&#34;_blank&#34;&gt;Go (Golang)&lt;/a&gt; is an open source programming language that makes it easy to build simple, reliable, and efficient software. I first started using Go through my work at &lt;a href=&#34;http://www.digitaslbi.com/us&#34; target=&#34;_blank&#34;&gt;DigitasLBi&lt;/a&gt;. My department adopted this language as one of our tech stacks for the following reasons:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;It’s open source (i.e. free) and intended to be simple yet expressive.&lt;/li&gt;
+&lt;li&gt;It’s intended to be a good middleware layer to provide for both quick one-off applications as well as large collaborative code bases.&lt;/li&gt;
+&lt;li&gt;It&amp;rsquo;s a static simple language, which allows for static analysis tooling and fast compilation.&lt;/li&gt;
+&lt;li&gt;It can easily be compiled across multiple platforms, which is important for us since we host several different commercial and open source operating systems.&lt;/li&gt;
+&lt;li&gt;It&amp;rsquo;s based around composition instead of OOP inheritance, which avoids a whole class of issues. There&amp;rsquo;s no type casting hell. Things are either a type or not.&lt;/li&gt;
+&lt;li&gt;Objects and functionality can easily be combined. Structs provide simple blue-prints. Interfaces provide a lightweight polymorphism without complicating things too much.&lt;/li&gt;
+&lt;li&gt;Concurrency is built in through Go routines and channels, which are a simple and efficient means to run multiple executions at once.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;My aim in reading this book and completing the accompanying exercises was to gain a thorough understanding on the fundamentals of the Go programming language.
+&lt;hr&gt;&lt;/p&gt;
 
 &lt;h5 id=&#34;book-progress:c587c0792512b02996a2b4d2d5abf088&#34;&gt;Book Progress&lt;/h5&gt;
 
@@ -316,8 +353,14 @@ Percent of US: 70%&lt;/p&gt;
       <guid>http://andrewrgoss.github.io/learning/udemy_csharp_for_beginners/</guid>
       <description>
 
-&lt;p&gt;&lt;a href=&#34;https://www.udemy.com/programming-for-complete-beginners-in-csharp/&#34; target=&#34;_blank&#34;&gt;COURSE LINK&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://github.com/andrewrgoss/udemy-beginning-csharp/blob/master/Course%20Completion%20Certificate%20(UC-TT5IFIPW).pdf&#34; target=&#34;_blank&#34;&gt;COMPLETION CERTIFICATE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/csharp.png&#34; alt=&#34;C#&#34; title=&#34;C#&#34; /&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.udemy.com/programming-for-complete-beginners-in-csharp/&#34; target=&#34;_blank&#34;&gt;COURSE LINK&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://github.com/andrewrgoss/udemy-beginning-csharp/blob/master/Course%20Completion%20Certificate%20(UC-TT5IFIPW).pdf&#34; target=&#34;_blank&#34;&gt;COMPLETION CERTIFICATE&lt;/a&gt;
+&lt;hr&gt;
+I&amp;rsquo;ve worked on Windows servers throughout my career, which initially got me started with this language. Learning some of the Base Class Library (BCL) of the Microsoft .NET Framework and using these classes through C# has helped me automate various tasks within these environments.&lt;/p&gt;
+
+&lt;p&gt;My goal in taking this course was to strengthen my knowledge around the fundamentals of C# programming (and objected-oriented programming in general) and to get more practice.
+&lt;hr&gt;&lt;/p&gt;
 
 &lt;h5 id=&#34;course-progress:0419b73c29db8b0a8014c550c35f1f69&#34;&gt;Course Progress&lt;/h5&gt;
 
@@ -330,6 +373,22 @@ Percent of US: 70%&lt;/p&gt;
     </item>
     
     <item>
+      <title>Favorite Travel Pics From Each Country</title>
+      <link>http://andrewrgoss.github.io/2015/favorite-travel-pics-from-each-country/</link>
+      <pubDate>Mon, 16 Nov 2015 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.github.io/2015/favorite-travel-pics-from-each-country/</guid>
+      <description>
+
+&lt;p&gt;My favorite travel pictures from each country I&amp;rsquo;ve visited.&lt;/p&gt;
+
+&lt;h2 id=&#34;peru:f120e07de792c8e26ccd0b69913a5c3d&#34;&gt;Peru&lt;/h2&gt;
+
+&lt;h2 id=&#34;israel:f120e07de792c8e26ccd0b69913a5c3d&#34;&gt;Israel&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
       <title>About Me</title>
       <link>http://andrewrgoss.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -337,8 +396,10 @@ Percent of US: 70%&lt;/p&gt;
       <guid>http://andrewrgoss.github.io/about/</guid>
       <description>
 
+&lt;p&gt;&lt;a href=&#34;#what_i_can_do_for_you&#34;&gt;What I Can Do For You&lt;/a&gt; | &lt;a href=&#34;#resume&#34;&gt;Resume&lt;/a&gt;&lt;/p&gt;
+
 &lt;blockquote&gt;
-&lt;p&gt;&lt;b&gt;TL;DR&lt;/b&gt; &amp;ndash; Data engineer, technical consultant, and business intelligence developer in the marketing/advertising industry. Also a world traveler.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;TL;DR&lt;/b&gt; &amp;ndash; Data engineer, technical consultant, and business intelligence developer in the marketing/advertising industry. Also a &lt;a href=&#34;http://andrewrgoss.github.io/travel&#34;&gt;world traveler&lt;/a&gt;.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;!--Blog post ideas:
@@ -346,13 +407,14 @@ Percent of US: 70%&lt;/p&gt;
 - Why I started programming in Go (server side language)
 - Website iterations I went through (templates, Google App Engine, Wordpress, etc.)
 - Why it is important to have a web presence as a developer
+- Why starting a blog/personal website has been hard for me (no one cares what I have to say?). Important to have &#39;home base&#39; for personal brand and put thoughts, learnings down as I navigate my career.
+    &#34;I think the &#39;About&#39; page of any website is the most important one, yet it&#39;s also the one that is the hardest to write. I&#39;ve looked at tons of these pages on personal websites over the years. Like any writing piece, you need to start with something compelling to convince the person viewing the content to keep reading. Don&#39;t want to be self-aggrandizing.&#34;
 - Twitter API authentication for Go
 - Coding practice sites
+- The need to come up with a design before starting development (eliminating communication gaps with business team) 
 - Top travel photos (my favorites)--&gt;
 
-&lt;p&gt;Thanks for visiting my website! For more on my professional background, you can visit my &lt;a href=&#34;https://www.linkedin.com/in/andrewrgoss&#34; target=&#34;_blank&#34;&gt;LinkedIn&lt;/a&gt; profile. You can also find a downloadable copy of my resume &lt;a href=&#34;http://andrewrgoss.github.io/AndrewGoss_Resume.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;ve spent most of my career as a consultant in the marketing &amp;amp; advertising industry. I&amp;rsquo;ve held both business and technical roles in this space while providing services across numerous verticals including finance, higher education, insurance, and commercial software. Here are some of the clients I&amp;rsquo;ve worked with over the years:&lt;/p&gt;
+&lt;p&gt;Hey, I&amp;rsquo;m Andrew. I&amp;rsquo;ve spent most of my career as a consultant at marketing &amp;amp; advertising agencies. I&amp;rsquo;ve held both business and technical roles in this space while providing services across numerous industries such as finance, food &amp;amp; beverage, higher education, and technology. Here are some of the clients I&amp;rsquo;ve worked with over the years:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/BoA_logo.png&#34; alt=&#34;Bank of America&#34; title=&#34;Bank of America&#34; /&gt;
 &lt;img src=&#34;http://andrewrgoss.github.io/img/Correlsense_logo.png&#34; alt=&#34;Correlsense&#34; title=&#34;Correlsense&#34; /&gt;
@@ -364,16 +426,22 @@ Percent of US: 70%&lt;/p&gt;
 &lt;img src=&#34;http://andrewrgoss.github.io/img/TB_logo.png&#34; alt=&#34;Taco Bell&#34; title=&#34;Taco Bell&#34; /&gt;
 &lt;img src=&#34;http://andrewrgoss.github.io/img/UTI_logo.jpg&#34; alt=&#34;Universal Technical Institute&#34; title=&#34;Universal Technical Institute&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;My unique combination of hard and soft skills is what makes me different and something I take pride in. Early in my career, I gained experience building out marketing campaigns using automation platforms such as &lt;a href=&#34;https://www.marketo.com&#34; target=&#34;_blank&#34;&gt;Marketo&lt;/a&gt;,
+&lt;p&gt;Early in my career, I gained experience building out marketing campaigns using automation platforms such as &lt;a href=&#34;https://www.marketo.com&#34; target=&#34;_blank&#34;&gt;Marketo&lt;/a&gt;,
 &lt;a href=&#34;https://www.oracle.com/marketingcloud/products/cross-channel/marketing-to-businesses.html&#34; target=&#34;_blank&#34;&gt;Eloqua&lt;/a&gt; (acquired by Oracle), and &lt;a href=&#34;http://marketing.teradata.com&#34; target=&#34;_blank&#34;&gt;Aprimo&lt;/a&gt; (acquired by Teradata). I developed core consulting skills in interfacing directly with clients and being able to summarize and present key performance metrics. I also gravitated towards wanting to further understand the backend functionality behind these marketing technologies and quickly showed an aptitude for it.&lt;/p&gt;
 
-&lt;p&gt;Writing - started this blog to keep my writing skills sharp.&lt;/p&gt;
+&lt;p&gt;Writing - started this blog to keep my writing skills sharp. Establishing a personal brand. Centralize all of my thoughts in one place. Measure progress.&lt;/p&gt;
 
-&lt;p&gt;Data engineer and business intelligence developer in the marketing &amp;amp; advertising industry. Skilled in developing and supporting crucial back-end functionality behind data-driven applications. Enabler of advanced analytics towards reaching the right audience at the right time. Designs, builds, and deploys information system programs across software development life cycles. Technical aptitude is complimented by a strong business acumen originating from a career that began in client marketing services. Top-notch consultant and project manager with a mindset towards identifying and solving challenging business problems. Consistently provides quality ongoing services, on-time deliverables, and open communication around project status, risks, and challenges. Takes proactive approach towards career growth and skill development. Results-oriented, well-organized, self-motivated, and effective team member.&lt;/p&gt;
+&lt;p&gt;Another characteristic that sets me apart is my strong desire to never stop learning. I set up the &amp;lsquo;Learning&amp;rsquo; section of this website to document and track my progress in learning new concepts and abilities. Always reading articles and staying on top of trends.&lt;/p&gt;
 
-&lt;p&gt;Another characteristic that sets me apart is my strong desire to never stop learning. I set up the &amp;lsquo;Learning&amp;rsquo; section of this website to document and track my progress in learning new concepts and abilities.&lt;/p&gt;
+&lt;h2 id=&#34;a-name-what-i-can-do-for-you-a-what-i-can-do-for-you:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;&lt;a name=&#34;what_i_can_do_for_you&#34;&gt;&lt;/a&gt;What I Can Do For You&lt;/h2&gt;
 
-&lt;h1 id=&#34;skills:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Skills&lt;/h1&gt;
+&lt;p&gt;Many clients I&amp;rsquo;ve worked with over the years are trying to address similar problems. There&amp;rsquo;s a deluge of data available, and businesses know they need to be using it to make smarter marketing/advertising decisions. However, the data is typically fragmented across disparate datasets. Often times, these are siloed within the organization.&lt;/p&gt;
+
+&lt;p&gt;There&amp;rsquo;s too much manual work going on. You&amp;rsquo;d think this would only be happening at smaller companies, but it happens at larger ones too. A lot of this stems from not knowing of a better approach, or people being too fearful of being automated out of a job. &lt;a href=&#34;https://www.oreilly.com/ideas/insightful-applications-the-next-inflection-in-big-data&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; to blog post on data warehousing.&lt;/p&gt;
+
+&lt;p&gt;Bridge the gap between business and technical. Versatility. My unique combination of hard and soft skills is what makes me different and something I take pride in.&lt;/p&gt;
+
+&lt;h2 id=&#34;a-name-skills-a-skills:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;&lt;a name=&#34;skills&#34;&gt;&lt;/a&gt;Skills&lt;/h2&gt;
 
 &lt;h5 id=&#34;core-competencies:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Core Competencies&lt;/h5&gt;
 
@@ -425,7 +493,7 @@ Percent of US: 70%&lt;/p&gt;
 
 &lt;h5 id=&#34;technical:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Technical&lt;/h5&gt;
 
-&lt;ul class=&#34;compact&#34;&gt;
+&lt;p&gt;&lt;ul class=&#34;compact&#34;&gt;
 &lt;li&gt;
  &lt;label&gt;Relational Databases&lt;/label&gt;&lt;br&gt;
  &lt;progress max=&#34;1.0&#34; value=&#34;0.9&#34;&gt;&lt;/progress&gt;
@@ -435,6 +503,11 @@ Percent of US: 70%&lt;/p&gt;
  &lt;progress max=&#34;1.0&#34; value=&#34;0.8&#34;&gt;&lt;/progress&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;br&gt;&lt;hr&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;a-name-resume-a-resume:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;&lt;a name=&#34;resume&#34;&gt;&lt;/a&gt;Resume&lt;/h2&gt;
+
+&lt;p&gt;For more on my professional background, you can visit my &lt;a href=&#34;https://www.linkedin.com/in/andrewrgoss&#34; target=&#34;_blank&#34;&gt;LinkedIn&lt;/a&gt; profile. You can also find a downloadable copy of my resume &lt;a href=&#34;http://andrewrgoss.github.io/AndrewGoss_Resume.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
