@@ -61,11 +61,11 @@
 &lt;p&gt;You can check out my blog posts about travel &lt;a href=&#34;http://andrewrgoss.github.io/tags/travel&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Outside of work, I&amp;rsquo;m passionate about traveling the world, having new experiences, and broadening my life perspective. Some believe that traveling to foreign destinations carries too much risk in the world we live in today. I don&amp;rsquo;t deny there is some level of risk, but crime can happen in your home country too. Travel to me is too vital, too important a part of civilized life to give up out of fear. Link to post on this topic.&lt;/p&gt;
-
-&lt;p&gt;I have a long, ambitious list of places that I want to visit. I&amp;rsquo;m not naive enough to expect that I&amp;rsquo;ll accomplish all of these in my lifetime. But with that being said, I decided to start tracking where I&amp;rsquo;ve been and where I&amp;rsquo;d like to go in the future. I hold the belief that simply writing these down increases the likelihood of achieving more of these travel goals.&lt;/p&gt;
+&lt;p&gt;Outside of work, I&amp;rsquo;m passionate about traveling the world, having new experiences, and broadening my life perspective. I have a long, ambitious list of places that I want to visit, but I&amp;rsquo;m not naive enough to expect that I&amp;rsquo;ll accomplish all of these in my lifetime. That being said, I decided to start tracking where I&amp;rsquo;ve been and where I&amp;rsquo;d like to go in the future. I believe that simply writing these down increases the likelihood of achieving more of my travel goals.&lt;/p&gt;
 
 &lt;p&gt;The places I&amp;rsquo;ve listed out below are grouped by geographical belonging, not cultural significance (for example, Russia being listed under Asia and not Europe). Additionally, I do not count laying over in an airport as having visited a destination. I mark a country or state as having been visited when I actually set foot on it.&lt;/p&gt;
+
+&lt;!--Some believe that traveling to foreign destinations carries too much risk in the world we live in today. I don&#39;t deny there is some level of risk, but crime can happen in your home country too. Travel to me is too vital, too important a part of civilized life to give up out of fear. Link to post on this topic.--&gt;
 
 &lt;h2 id=&#34;world-stats:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;World Stats&lt;/h2&gt;
 
@@ -373,18 +373,18 @@ I&amp;rsquo;ve worked on Windows servers throughout my career, which initially g
     </item>
     
     <item>
-      <title>Favorite Travel Pics From Each Country</title>
-      <link>http://andrewrgoss.github.io/2015/favorite-travel-pics-from-each-country/</link>
+      <title>Favorite Travel Pics</title>
+      <link>http://andrewrgoss.github.io/2015/favorite-travel-pics/</link>
       <pubDate>Mon, 16 Nov 2015 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.github.io/2015/favorite-travel-pics-from-each-country/</guid>
+      <guid>http://andrewrgoss.github.io/2015/favorite-travel-pics/</guid>
       <description>
 
 &lt;p&gt;My favorite travel pictures from each country I&amp;rsquo;ve visited.&lt;/p&gt;
 
-&lt;h2 id=&#34;peru:f120e07de792c8e26ccd0b69913a5c3d&#34;&gt;Peru&lt;/h2&gt;
+&lt;h2 id=&#34;peru:4f58b1b2f5f84237aafed561791021c7&#34;&gt;Peru&lt;/h2&gt;
 
-&lt;h2 id=&#34;israel:f120e07de792c8e26ccd0b69913a5c3d&#34;&gt;Israel&lt;/h2&gt;
+&lt;h2 id=&#34;israel:4f58b1b2f5f84237aafed561791021c7&#34;&gt;Israel&lt;/h2&gt;
 </description>
     </item>
     
@@ -396,7 +396,7 @@ I&amp;rsquo;ve worked on Windows servers throughout my career, which initially g
       <guid>http://andrewrgoss.github.io/about/</guid>
       <description>
 
-&lt;p&gt;&lt;a href=&#34;#what_i_can_do_for_you&#34;&gt;What I Can Do For You&lt;/a&gt; | &lt;a href=&#34;#resume&#34;&gt;Resume&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;#what_i_can_do_for_you&#34;&gt;What I Can Do For You&lt;/a&gt; | &lt;a href=&#34;http://andrewrgoss.github.io/skills&#34;&gt;Skills Overview&lt;/a&gt; | &lt;a href=&#34;http://andrewrgoss.github.io/resume&#34;&gt;Resume&lt;/a&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;&lt;b&gt;TL;DR&lt;/b&gt; &amp;ndash; Data engineer, technical consultant, and business intelligence developer in the marketing/advertising industry. Also a &lt;a href=&#34;http://andrewrgoss.github.io/travel&#34;&gt;world traveler&lt;/a&gt;.&lt;/p&gt;
@@ -414,7 +414,15 @@ I&amp;rsquo;ve worked on Windows servers throughout my career, which initially g
 - The need to come up with a design before starting development (eliminating communication gaps with business team) 
 - Top travel photos (my favorites)--&gt;
 
-&lt;p&gt;Hey, I&amp;rsquo;m Andrew. I&amp;rsquo;ve spent most of my career as a consultant at marketing &amp;amp; advertising agencies. I&amp;rsquo;ve held both business and technical roles in this space while providing services across numerous industries such as finance, food &amp;amp; beverage, higher education, and technology. Here are some of the clients I&amp;rsquo;ve worked with over the years:&lt;/p&gt;
+&lt;p&gt;Hey, I&amp;rsquo;m Andrew. I&amp;rsquo;m currently a manager in the Media Systems and Technology team at &lt;a href=&#34;http://www.digitaslbi.com/us&#34; target=&#34;_blank&#34;&gt;DigitasLBi&lt;/a&gt;, where we work to achieve three primary things:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Business Intelligence Development, where we focus on distilling business rules and workflows, and translating those into code. This involves a lot of data modeling work under close coordination with client teams.&lt;/li&gt;
+&lt;li&gt;Automation engineering, wherein we automate common work patterns and tedious data-oriented tasks. This frees up our S&amp;amp;A and Media staff to work efficiently and focus their energies on more challenging and interesting problems. We monitor all of these  automated tasks using a tool called Bosun.&lt;/li&gt;
+&lt;li&gt;API and Data integration: We work to combine many disparate sources into a holistic view to help our analysts and clients better understand the wealth of information available.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I&amp;rsquo;ve spent most of my career as a consultant at marketing &amp;amp; advertising agencies. I&amp;rsquo;ve held both business and technical roles in this space while providing services across numerous industries such as finance, food &amp;amp; beverage, higher education, and technology. Here are some of the clients I&amp;rsquo;ve worked with over the years:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/BoA_logo.png&#34; alt=&#34;Bank of America&#34; title=&#34;Bank of America&#34; /&gt;
 &lt;img src=&#34;http://andrewrgoss.github.io/img/Correlsense_logo.png&#34; alt=&#34;Correlsense&#34; title=&#34;Correlsense&#34; /&gt;
@@ -435,15 +443,46 @@ I&amp;rsquo;ve worked on Windows servers throughout my career, which initially g
 
 &lt;h2 id=&#34;a-name-what-i-can-do-for-you-a-what-i-can-do-for-you:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;&lt;a name=&#34;what_i_can_do_for_you&#34;&gt;&lt;/a&gt;What I Can Do For You&lt;/h2&gt;
 
-&lt;p&gt;Many clients I&amp;rsquo;ve worked with over the years are trying to address similar problems. There&amp;rsquo;s a deluge of data available, and businesses know they need to be using it to make smarter marketing/advertising decisions. However, the data is typically fragmented across disparate datasets. Often times, these are siloed within the organization.&lt;/p&gt;
+&lt;p&gt;Many clients I&amp;rsquo;ve worked with over the years are trying to address similar problems. There&amp;rsquo;s a deluge of data available, and businesses know they need to be using it to make smarter marketing/advertising decisions. However, the data is typically fragmented across disparate datasets. Often times, these are siloed within the organization. Everyone wants the holistic, 360-view of a person&amp;rsquo;s interactions with the company to create a better end user experience.&lt;/p&gt;
 
 &lt;p&gt;There&amp;rsquo;s too much manual work going on. You&amp;rsquo;d think this would only be happening at smaller companies, but it happens at larger ones too. A lot of this stems from not knowing of a better approach, or people being too fearful of being automated out of a job. &lt;a href=&#34;https://www.oreilly.com/ideas/insightful-applications-the-next-inflection-in-big-data&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; to blog post on data warehousing.&lt;/p&gt;
 
 &lt;p&gt;Bridge the gap between business and technical. Versatility. My unique combination of hard and soft skills is what makes me different and something I take pride in.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>http://andrewrgoss.github.io/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.github.io/resume/</guid>
+      <description>&lt;p&gt;For more on my professional background, you can visit my &lt;a href=&#34;https://www.linkedin.com/in/andrewrgoss&#34; target=&#34;_blank&#34;&gt;LinkedIn&lt;/a&gt; profile. You can also find a downloadable copy of my resume &lt;a href=&#34;http://andrewrgoss.github.io/AndrewGoss_Resume.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Search results</title>
+      <link>http://andrewrgoss.github.io/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.github.io/search/</guid>
+      <description>A lot of ad/tracker blockers like Ghostery are blocking Google Custom Search Engine. Allow &lt;i&gt;Google AJAX Search API&lt;/i&gt; to show your search results.
+&lt;br&gt;
+&lt;br&gt;
 
-&lt;h2 id=&#34;a-name-skills-a-skills:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;&lt;a name=&#34;skills&#34;&gt;&lt;/a&gt;Skills&lt;/h2&gt;
+&lt;gcse:searchresults-only linktarget=&#34;_parent&#34;&gt;&lt;/gcse:searchresults-only&gt;</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>http://andrewrgoss.github.io/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.github.io/skills/</guid>
+      <description>
 
-&lt;h5 id=&#34;core-competencies:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Core Competencies&lt;/h5&gt;
+&lt;h5 id=&#34;core-competencies:a36058eafe01cd26b16c80f89806a069&#34;&gt;Core Competencies&lt;/h5&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/coding.png&#34; alt=&#34;Application Development&#34; title=&#34;Application Development&#34; /&gt;
 &lt;img src=&#34;http://andrewrgoss.github.io/img/analysis.png&#34; alt=&#34;Business Intelligence&#34; title=&#34;Business Intelligence&#34; /&gt;
@@ -474,7 +513,7 @@ I&amp;rsquo;ve worked on Windows servers throughout my career, which initially g
   &lt;div class=&#34;desc&#34;&gt;Project Management&lt;/div&gt;
 &lt;/div&gt;--&gt;
 
-&lt;h5 id=&#34;business:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Business&lt;/h5&gt;
+&lt;h5 id=&#34;business:a36058eafe01cd26b16c80f89806a069&#34;&gt;Business&lt;/h5&gt;
 
 &lt;ul class=&#34;compact&#34;&gt;
 &lt;li&gt;
@@ -491,9 +530,9 @@ I&amp;rsquo;ve worked on Windows servers throughout my career, which initially g
 &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h5 id=&#34;technical:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Technical&lt;/h5&gt;
+&lt;h5 id=&#34;technical:a36058eafe01cd26b16c80f89806a069&#34;&gt;Technical&lt;/h5&gt;
 
-&lt;p&gt;&lt;ul class=&#34;compact&#34;&gt;
+&lt;ul class=&#34;compact&#34;&gt;
 &lt;li&gt;
  &lt;label&gt;Relational Databases&lt;/label&gt;&lt;br&gt;
  &lt;progress max=&#34;1.0&#34; value=&#34;0.9&#34;&gt;&lt;/progress&gt;
@@ -503,35 +542,7 @@ I&amp;rsquo;ve worked on Windows servers throughout my career, which initially g
  &lt;progress max=&#34;1.0&#34; value=&#34;0.8&#34;&gt;&lt;/progress&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;br&gt;&lt;hr&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;a-name-resume-a-resume:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;&lt;a name=&#34;resume&#34;&gt;&lt;/a&gt;Resume&lt;/h2&gt;
-
-&lt;p&gt;For more on my professional background, you can visit my &lt;a href=&#34;https://www.linkedin.com/in/andrewrgoss&#34; target=&#34;_blank&#34;&gt;LinkedIn&lt;/a&gt; profile. You can also find a downloadable copy of my resume &lt;a href=&#34;http://andrewrgoss.github.io/AndrewGoss_Resume.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Resume</title>
-      <link>http://andrewrgoss.github.io/cv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.github.io/cv/</guid>
-      <description>&lt;p&gt;You can download my resume &lt;a href=&#34;http://andrewrgoss.github.io/AndrewGoss_Resume.pdf&#34;&gt;here&lt;/a&gt;. You can also visit my profile on &lt;a href=&#34;https://www.linkedin.com/in/andrewrgoss&#34;&gt;LinkedIn&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Search results</title>
-      <link>http://andrewrgoss.github.io/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.github.io/search/</guid>
-      <description>A lot of ad/tracker blockers like Ghostery are blocking Google Custom Search Engine. Allow &lt;i&gt;Google AJAX Search API&lt;/i&gt; to show your search results.
-&lt;br&gt;
-&lt;br&gt;
-
-&lt;gcse:searchresults-only linktarget=&#34;_parent&#34;&gt;&lt;/gcse:searchresults-only&gt;</description>
     </item>
     
   </channel>
