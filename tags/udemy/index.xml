@@ -30,7 +30,7 @@
 &lt;li&gt;It’s intended to be a good middleware layer to provide for both quick one-off applications as well as large collaborative code bases.&lt;/li&gt;
 &lt;li&gt;It&amp;rsquo;s a static simple language, which allows for static analysis tooling and fast compilation.&lt;/li&gt;
 &lt;li&gt;It can easily be compiled across multiple platforms, which is important for us since we host several different commercial and open source operating systems.&lt;/li&gt;
-&lt;li&gt;It&amp;rsquo;s based around composition instead of OOP inheritance, which avoids a whole class of issues. There&amp;rsquo;s no type casting hell. Things are either a type or not.&lt;/li&gt;
+&lt;li&gt;It&amp;rsquo;s based around composition instead of OOP inheritance, which avoids a whole bunch of potential issues. For example, there&amp;rsquo;s no type casting hell. Things are either a type or not.&lt;/li&gt;
 &lt;li&gt;Objects and functionality can easily be combined. Structs provide simple blue-prints. Interfaces provide a lightweight polymorphism without complicating things too much.&lt;/li&gt;
 &lt;li&gt;Concurrency is built in through Go routines and channels, which are a simple and efficient means to run multiple executions at once.&lt;/li&gt;
 &lt;/ul&gt;
@@ -41,9 +41,9 @@
 
 &lt;h5 id=&#34;course-progress:ea26e6d17ee8d7a9676635c803e1df42&#34;&gt;Course Progress&lt;/h5&gt;
 
-&lt;progress max=&#34;1.0&#34; value=&#34;0.05&#34;&gt;&lt;/progress&gt;
+&lt;progress max=&#34;1.0&#34; value=&#34;0.095&#34;&gt;&lt;/progress&gt;
 
-&lt;p&gt;5% - &lt;font color=&#34;green&#34;&gt;[IN PROGRESS]&lt;/font&gt;.&lt;/p&gt;
+&lt;p&gt;9.5% - &lt;font color=&#34;green&#34;&gt;[IN PROGRESS]&lt;/font&gt;.&lt;/p&gt;
 
 &lt;!--&lt;a href=&#34;https://github.com/andrewrgoss/&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;--&gt;
 </description>

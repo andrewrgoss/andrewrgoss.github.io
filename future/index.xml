@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Future on Andrewrgoss.com</title>
+    <link>http://andrewrgoss.github.io/future/</link>
+    <description>Recent content in Future on Andrewrgoss.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
+    <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
+    <lastBuildDate>Mon, 16 Nov 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://andrewrgoss.github.io/future/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Favorite Travel Pics</title>
+      <link>http://andrewrgoss.github.io/future/favorite-travel-pics/</link>
+      <pubDate>Mon, 16 Nov 2015 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.github.io/future/favorite-travel-pics/</guid>
+      <description>
+
+&lt;p&gt;My favorite travel pictures from each country I&amp;rsquo;ve visited.&lt;/p&gt;
+
+&lt;h2 id=&#34;peru:4f58b1b2f5f84237aafed561791021c7&#34;&gt;Peru&lt;/h2&gt;
+
+&lt;h2 id=&#34;israel:4f58b1b2f5f84237aafed561791021c7&#34;&gt;Israel&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

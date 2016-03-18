@@ -30,7 +30,7 @@
 &lt;li&gt;It’s intended to be a good middleware layer to provide for both quick one-off applications as well as large collaborative code bases.&lt;/li&gt;
 &lt;li&gt;It&amp;rsquo;s a static simple language, which allows for static analysis tooling and fast compilation.&lt;/li&gt;
 &lt;li&gt;It can easily be compiled across multiple platforms, which is important for us since we host several different commercial and open source operating systems.&lt;/li&gt;
-&lt;li&gt;It&amp;rsquo;s based around composition instead of OOP inheritance, which avoids a whole class of issues. There&amp;rsquo;s no type casting hell. Things are either a type or not.&lt;/li&gt;
+&lt;li&gt;It&amp;rsquo;s based around composition instead of OOP inheritance, which avoids a whole bunch of potential issues. For example, there&amp;rsquo;s no type casting hell. Things are either a type or not.&lt;/li&gt;
 &lt;li&gt;Objects and functionality can easily be combined. Structs provide simple blue-prints. Interfaces provide a lightweight polymorphism without complicating things too much.&lt;/li&gt;
 &lt;li&gt;Concurrency is built in through Go routines and channels, which are a simple and efficient means to run multiple executions at once.&lt;/li&gt;
 &lt;/ul&gt;
@@ -41,9 +41,9 @@
 
 &lt;h5 id=&#34;course-progress:ea26e6d17ee8d7a9676635c803e1df42&#34;&gt;Course Progress&lt;/h5&gt;
 
-&lt;progress max=&#34;1.0&#34; value=&#34;0.05&#34;&gt;&lt;/progress&gt;
+&lt;progress max=&#34;1.0&#34; value=&#34;0.095&#34;&gt;&lt;/progress&gt;
 
-&lt;p&gt;5% - &lt;font color=&#34;green&#34;&gt;[IN PROGRESS]&lt;/font&gt;.&lt;/p&gt;
+&lt;p&gt;9.5% - &lt;font color=&#34;green&#34;&gt;[IN PROGRESS]&lt;/font&gt;.&lt;/p&gt;
 
 &lt;!--&lt;a href=&#34;https://github.com/andrewrgoss/&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;--&gt;
 </description>
@@ -57,9 +57,7 @@
       <guid>http://andrewrgoss.github.io/travel/</guid>
       <description>
 
-&lt;blockquote&gt;
-&lt;p&gt;You can check out my blog posts about travel &lt;a href=&#34;http://andrewrgoss.github.io/tags/travel&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;!-- &gt; You can check out my blog posts about travel &lt;a href=&#34;http://andrewrgoss.github.io/tags/travel&#34;&gt;here&lt;/a&gt;.--&gt;
 
 &lt;p&gt;Outside of work, I&amp;rsquo;m passionate about traveling the world, having new experiences, and broadening my life perspective. I have a long, ambitious list of places that I want to visit, but I&amp;rsquo;m not naive enough to expect that I&amp;rsquo;ll accomplish all of these in my lifetime. That being said, I decided to start tracking where I&amp;rsquo;ve been and where I&amp;rsquo;d like to go in the future. I believe that simply writing these down increases the likelihood of achieving more of my travel goals.&lt;/p&gt;
 
@@ -374,10 +372,10 @@ I&amp;rsquo;ve worked on Windows servers throughout my career, which initially g
     
     <item>
       <title>Favorite Travel Pics</title>
-      <link>http://andrewrgoss.github.io/2015/favorite-travel-pics/</link>
+      <link>http://andrewrgoss.github.io/future/favorite-travel-pics/</link>
       <pubDate>Mon, 16 Nov 2015 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.github.io/2015/favorite-travel-pics/</guid>
+      <guid>http://andrewrgoss.github.io/future/favorite-travel-pics/</guid>
       <description>
 
 &lt;p&gt;My favorite travel pictures from each country I&amp;rsquo;ve visited.&lt;/p&gt;
@@ -407,6 +405,7 @@ I&amp;rsquo;ve worked on Windows servers throughout my career, which initially g
 - Why I started programming in Go (server side language)
 - Website iterations I went through (templates, Google App Engine, Wordpress, etc.)
 - Why it is important to have a web presence as a developer
+- Why you should talk to recruiters, even when you&#39;re not looking for a new job. https://www.linkedin.com/pulse/5-reasons-you-should-talk-recruiters-kerry-stano-ciejek
 - Why starting a blog/personal website has been hard for me (no one cares what I have to say?). Important to have &#39;home base&#39; for personal brand and put thoughts, learnings down as I navigate my career.
     &#34;I think the &#39;About&#39; page of any website is the most important one, yet it&#39;s also the one that is the hardest to write. I&#39;ve looked at tons of these pages on personal websites over the years. Like any writing piece, you need to start with something compelling to convince the person viewing the content to keep reading. Don&#39;t want to be self-aggrandizing.&#34;
 - Twitter API authentication for Go
@@ -414,15 +413,7 @@ I&amp;rsquo;ve worked on Windows servers throughout my career, which initially g
 - The need to come up with a design before starting development (eliminating communication gaps with business team) 
 - Top travel photos (my favorites)--&gt;
 
-&lt;p&gt;Hey, I&amp;rsquo;m Andrew. I&amp;rsquo;m currently a manager on the Media Systems and Technology team at &lt;a href=&#34;http://www.digitaslbi.com/us&#34; target=&#34;_blank&#34;&gt;DigitasLBi&lt;/a&gt;, where we work continuously to deliver in these areas:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Business intelligence development, where we focus on distilling business rules and workflows and translating those into code. This involves a lot of data modeling work under close coordination with client teams.&lt;/li&gt;
-&lt;li&gt;Automation engineering, where we automate common work patterns and tedious data-oriented tasks. This frees up internal analysts to work more efficiently and focus energies on deeper, more challenging insights. And to do so with clean, manageable data.&lt;/li&gt;
-&lt;li&gt;API and data integrations, where we work to combine many disparate sources into a holistic view of the client&amp;rsquo;s marketing ecosystem and its touchpoints with each intended audience member.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I&amp;rsquo;ve spent most of my career as a consultant at marketing &amp;amp; advertising agencies. I&amp;rsquo;ve held both business and technical roles in this space while providing services across numerous industries such as finance, food &amp;amp; beverage, higher education, and technology. Here are some of the clients I&amp;rsquo;ve worked with over the years:&lt;/p&gt;
+&lt;p&gt;Hey, I&amp;rsquo;m Andrew. I&amp;rsquo;ve spent most of my career as a consultant at marketing &amp;amp; advertising agencies working closely with big data. I&amp;rsquo;ve held both client-facing and technical roles in this space while providing services across numerous industries such as finance, food &amp;amp; beverage, higher education, and technology. Here are some of the clients I&amp;rsquo;ve worked with over the years:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/BoA_logo.png&#34; alt=&#34;Bank of America&#34; title=&#34;Bank of America&#34; /&gt;
 &lt;img src=&#34;http://andrewrgoss.github.io/img/Correlsense_logo.png&#34; alt=&#34;Correlsense&#34; title=&#34;Correlsense&#34; /&gt;
@@ -433,6 +424,20 @@ I&amp;rsquo;ve worked on Windows servers throughout my career, which initially g
 &lt;img src=&#34;http://andrewrgoss.github.io/img/Reed_Elsevier_logo.png&#34; alt=&#34;Reed Elsevier&#34; title=&#34;Reed Elsevier&#34; /&gt;
 &lt;img src=&#34;http://andrewrgoss.github.io/img/TB_logo.png&#34; alt=&#34;Taco Bell&#34; title=&#34;Taco Bell&#34; /&gt;
 &lt;img src=&#34;http://andrewrgoss.github.io/img/UTI_logo.jpg&#34; alt=&#34;Universal Technical Institute&#34; title=&#34;Universal Technical Institute&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m currently a manager on the Media Systems and Technology team at &lt;a href=&#34;http://www.digitaslbi.com/us&#34; target=&#34;_blank&#34;&gt;DigitasLBi&lt;/a&gt;, where I work continuously on the following things to help deliver our value proposition:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Business intelligence development. My focus is on distilling business rules/workflows and translating these into code. This involves a lot of data modeling work under close coordination with client teams.&lt;/li&gt;
+&lt;li&gt;Automation engineering. This is where I automate common work patterns and tedious data-oriented tasks. This frees up internal analysts to work more efficiently and focus energies on deeper, more challenging insights. And to do so with clean, manageable data.&lt;/li&gt;
+&lt;li&gt;API and data integrations. This is where I work to combine many disparate sources into a holistic view of the client&amp;rsquo;s marketing ecosystem and its touchpoints with each intended audience member. For instance, I&amp;rsquo;ve utilized real-time data, such as weather APIs, to enable customized marketing offers.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We also support various applications, data visualization tools, and host server environments.&lt;/p&gt;
+
+&lt;p&gt;I go beyond just coding and setting up automated processes. I work to understand the data too and identify anomalies. As the architect in setting everything up, I have a different level of understanding. It&amp;rsquo;s my job to call things out and facilitate communication rather than discovering an issue 8 months down the road.&lt;/p&gt;
+
+&lt;p&gt;Prior to this, I spent 3.5 years at &lt;a href=&#34;http://www.quickpivot.com&#34; target=&#34;_blank&#34;&gt;QuickPivot&lt;/a&gt;, a marketing automation software company.&lt;/p&gt;
 
 &lt;p&gt;Early in my career, I gained experience building out marketing campaigns using automation platforms such as &lt;a href=&#34;https://www.marketo.com&#34; target=&#34;_blank&#34;&gt;Marketo&lt;/a&gt;,
 &lt;a href=&#34;https://www.oracle.com/marketingcloud/products/cross-channel/marketing-to-businesses.html&#34; target=&#34;_blank&#34;&gt;Eloqua&lt;/a&gt; (acquired by Oracle), and &lt;a href=&#34;http://marketing.teradata.com&#34; target=&#34;_blank&#34;&gt;Aprimo&lt;/a&gt; (acquired by Teradata). I developed core consulting skills in interfacing directly with clients and being able to summarize and present key performance metrics. I also gravitated towards wanting to further understand the backend functionality behind these marketing technologies and quickly showed an aptitude for it.&lt;/p&gt;
@@ -448,6 +453,8 @@ I&amp;rsquo;ve worked on Windows servers throughout my career, which initially g
 &lt;p&gt;There&amp;rsquo;s too much manual work going on. You&amp;rsquo;d think this would only be happening at smaller companies, but it happens at larger ones too. A lot of this stems from not knowing of a better approach, or people being too fearful of being automated out of a job. &lt;a href=&#34;https://www.oreilly.com/ideas/insightful-applications-the-next-inflection-in-big-data&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; to blog post on data warehousing.&lt;/p&gt;
 
 &lt;p&gt;Bridge the gap between business and technical. Versatility. My unique combination of hard and soft skills is what makes me different and something I take pride in.&lt;/p&gt;
+
+&lt;p&gt;There is still so much I don&amp;rsquo;t know and I&amp;rsquo;m always hungry to keep learning through online materials and conversations with smart people.&lt;/p&gt;
 </description>
     </item>
     
@@ -482,7 +489,9 @@ I&amp;rsquo;ve worked on Windows servers throughout my career, which initially g
       <guid>http://andrewrgoss.github.io/skills/</guid>
       <description>
 
-&lt;h5 id=&#34;core-competencies:a36058eafe01cd26b16c80f89806a069&#34;&gt;Core Competencies&lt;/h5&gt;
+&lt;!--\&lt;bragging\&gt;I know this might seem like a bit of a self-aggrandizing section of my website.\&lt;/bragging\&gt;--&gt;
+
+&lt;h3 id=&#34;core-competencies:a36058eafe01cd26b16c80f89806a069&#34;&gt;Core Competencies&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/coding.png&#34; alt=&#34;Application Development&#34; title=&#34;Application Development&#34; /&gt;
 &lt;img src=&#34;http://andrewrgoss.github.io/img/analysis.png&#34; alt=&#34;Business Intelligence&#34; title=&#34;Business Intelligence&#34; /&gt;
@@ -513,12 +522,16 @@ I&amp;rsquo;ve worked on Windows servers throughout my career, which initially g
   &lt;div class=&#34;desc&#34;&gt;Project Management&lt;/div&gt;
 &lt;/div&gt;--&gt;
 
-&lt;h5 id=&#34;business:a36058eafe01cd26b16c80f89806a069&#34;&gt;Business&lt;/h5&gt;
+&lt;h3 id=&#34;business:a36058eafe01cd26b16c80f89806a069&#34;&gt;Business&lt;/h3&gt;
 
 &lt;ul class=&#34;compact&#34;&gt;
 &lt;li&gt;
  &lt;label&gt;Account Management&lt;/label&gt;&lt;br&gt;
  &lt;progress max=&#34;1.0&#34; value=&#34;0.7&#34;&gt;&lt;/progress&gt;
+&lt;/li&gt;
+&lt;li&gt;
+ &lt;label&gt;Client-Facing Communication&lt;/label&gt;&lt;br&gt;
+ &lt;progress max=&#34;1.0&#34; value=&#34;0.85&#34;&gt;&lt;/progress&gt;
 &lt;/li&gt;
 &lt;li&gt;
  &lt;label&gt;Consulting&lt;/label&gt;&lt;br&gt;
@@ -530,7 +543,7 @@ I&amp;rsquo;ve worked on Windows servers throughout my career, which initially g
 &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h5 id=&#34;technical:a36058eafe01cd26b16c80f89806a069&#34;&gt;Technical&lt;/h5&gt;
+&lt;h3 id=&#34;technical:a36058eafe01cd26b16c80f89806a069&#34;&gt;Technical&lt;/h3&gt;
 
 &lt;ul class=&#34;compact&#34;&gt;
 &lt;li&gt;
@@ -538,7 +551,28 @@ I&amp;rsquo;ve worked on Windows servers throughout my career, which initially g
  &lt;progress max=&#34;1.0&#34; value=&#34;0.9&#34;&gt;&lt;/progress&gt;
 &lt;/li&gt;
 &lt;li&gt;
+ &lt;label&gt;SaaS&lt;/label&gt;&lt;br&gt;
+ &lt;progress max=&#34;1.0&#34; value=&#34;0.72&#34;&gt;&lt;/progress&gt;
+&lt;/li&gt;
+&lt;li&gt;
  &lt;label&gt;Software Development&lt;/label&gt;&lt;br&gt;
+ &lt;progress max=&#34;1.0&#34; value=&#34;0.8&#34;&gt;&lt;/progress&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;programming-languages:a36058eafe01cd26b16c80f89806a069&#34;&gt;Programming Languages&lt;/h3&gt;
+
+&lt;ul class=&#34;compact&#34;&gt;
+&lt;li&gt;
+ &lt;label&gt;C#&lt;/label&gt;&lt;br&gt;
+ &lt;progress max=&#34;1.0&#34; value=&#34;0.9&#34;&gt;&lt;/progress&gt;
+&lt;/li&gt;
+&lt;li&gt;
+ &lt;label&gt;Go&lt;/label&gt;&lt;br&gt;
+ &lt;progress max=&#34;1.0&#34; value=&#34;0.72&#34;&gt;&lt;/progress&gt;
+&lt;/li&gt;
+&lt;li&gt;
+ &lt;label&gt;SQL&lt;/label&gt;&lt;br&gt;
  &lt;progress max=&#34;1.0&#34; value=&#34;0.8&#34;&gt;&lt;/progress&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
