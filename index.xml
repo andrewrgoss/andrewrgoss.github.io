@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Andrewrgoss.com</title>
+    <title>Data Engineer | Technical Consultant | Business Intelligence Developer - Andrew Goss</title>
     <link>http://andrewrgoss.github.io/</link>
-    <description>Recent content on Andrewrgoss.com</description>
+    <description>Recent content on Data Engineer | Technical Consultant | Business Intelligence Developer - Andrew Goss</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
@@ -50,7 +50,7 @@
     </item>
     
     <item>
-      <title>My Travel</title>
+      <title>Travel</title>
       <link>http://andrewrgoss.github.io/travel/</link>
       <pubDate>Tue, 23 Feb 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
@@ -387,17 +387,17 @@ I&amp;rsquo;ve worked on Windows servers throughout my career, which initially g
     </item>
     
     <item>
-      <title>About Me</title>
+      <title>About</title>
       <link>http://andrewrgoss.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>http://andrewrgoss.github.io/about/</guid>
       <description>
 
-&lt;p&gt;&lt;a href=&#34;#what_i_can_do_for_you&#34;&gt;What I Can Do For You&lt;/a&gt; | &lt;a href=&#34;http://andrewrgoss.github.io/skills&#34;&gt;Skills Overview&lt;/a&gt; | &lt;a href=&#34;http://andrewrgoss.github.io/resume&#34;&gt;Resume&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;#my_background&#34;&gt;My Background&lt;/a&gt; | &lt;a href=&#34;http://andrewrgoss.github.io/skills&#34;&gt;Skills Overview&lt;/a&gt; | &lt;a href=&#34;http://andrewrgoss.github.io/resume&#34;&gt;Resume&lt;/a&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;&lt;b&gt;TL;DR&lt;/b&gt; &amp;ndash; Data engineer, technical consultant, and business intelligence developer in the marketing/advertising industry. Also a &lt;a href=&#34;http://andrewrgoss.github.io/travel&#34;&gt;world traveler&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;TL;DR&lt;/b&gt; &amp;ndash; Data engineer, technical consultant, and business intelligence developer in the marketing/advertising industry working to solve big data challenges. Also a &lt;a href=&#34;http://andrewrgoss.github.io/travel&#34;&gt;world traveler&lt;/a&gt;.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;!--Blog post ideas:
@@ -413,7 +413,31 @@ I&amp;rsquo;ve worked on Windows servers throughout my career, which initially g
 - The need to come up with a design before starting development (eliminating communication gaps with business team) 
 - Top travel photos (my favorites)--&gt;
 
-&lt;p&gt;Hey, I&amp;rsquo;m Andrew. I&amp;rsquo;ve spent most of my career as a consultant at marketing &amp;amp; advertising agencies working closely with big data. I&amp;rsquo;ve held both client-facing and technical roles in this space while providing services across numerous industries such as finance, food &amp;amp; beverage, higher education, and technology. Here are some of the clients I&amp;rsquo;ve worked with over the years:&lt;/p&gt;
+&lt;h2 id=&#34;common-problems:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Common Problems&lt;/h2&gt;
+
+&lt;p&gt;Many clients I&amp;rsquo;ve worked with over the years are trying to address similar issues. There&amp;rsquo;s a deluge of data available, and businesses know they need to be using it to make smarter marketing/advertising decisions. However, the data is typically fragmented across disparate datasets. Often times, these are siloed within the organization. Everyone wants the holistic, 360-view of a person&amp;rsquo;s interactions with the company to create a better end user experience. But there&amp;rsquo;s no centralized repository. And there&amp;rsquo;s not a standardized way of working with the data, too many people following their own methods instead of a documented process. When people leave the organization, things get lost in translation. There ends up being legacy programs and processes that no longer get used, often with poor documentation (or none at all). It&amp;rsquo;s too risky or impossible to start over, so things get built on top of each other. Eventually the system becomes an entangled mess of files and code.&lt;/p&gt;
+
+&lt;p&gt;There&amp;rsquo;s too much manual work going on. You&amp;rsquo;d think this would only be happening at smaller companies, but it happens at larger ones too. A lot of this stems from not knowing of a better approach, or people being too fearful of being automated out of a job. &lt;a href=&#34;https://www.oreilly.com/ideas/insightful-applications-the-next-inflection-in-big-data&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; to blog post on data warehousing.&lt;/p&gt;
+
+&lt;p&gt;Bridge the gap between business and technical. Versatility. My unique combination of hard and soft skills is what makes me different and something I take pride in.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-i-can-help:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;How I Can Help&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Business intelligence development. My focus is on distilling business rules/workflows and translating these into code. This involves a lot of data modeling work under close coordination with client teams.&lt;/li&gt;
+&lt;li&gt;Automation engineering. This is where I automate common work patterns and tedious data-oriented tasks. This frees up internal analysts to work more efficiently and focus energies on deeper, more challenging insights. And to do so with clean, manageable data.&lt;/li&gt;
+&lt;li&gt;API and data integrations. This is where I work to combine many disparate sources into a holistic view of the client&amp;rsquo;s marketing ecosystem and its touchpoints with each intended audience member. For instance, I&amp;rsquo;ve utilized real-time data, such as weather APIs, to enable customized marketing offers.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I also support various applications, data visualization tools, and host server environments.&lt;/p&gt;
+
+&lt;p&gt;Impeccable organization.&lt;/p&gt;
+
+&lt;p&gt;I go beyond just coding and setting up automated processes. I work to understand the data too and identify anomalies. As the architect in setting everything up, I have a different level of understanding. It&amp;rsquo;s my job to call things out and facilitate communication rather than discovering an issue 8 months down the road.&lt;/p&gt;
+
+&lt;h2 id=&#34;a-name-my-background-a-my-background:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;&lt;a name=&#34;my_background&#34;&gt;&lt;/a&gt;My Background&lt;/h2&gt;
+
+&lt;p&gt;I&amp;rsquo;ve spent most of my career as a consultant at marketing &amp;amp; advertising agencies working closely with big data. I&amp;rsquo;ve held both client-facing and technical roles in this space while providing services across numerous industries such as finance, food &amp;amp; beverage, higher education, and technology. Here are some of the clients I&amp;rsquo;ve worked with over the years:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/BoA_logo.png&#34; alt=&#34;Bank of America&#34; title=&#34;Bank of America&#34; /&gt;
 &lt;img src=&#34;http://andrewrgoss.github.io/img/Correlsense_logo.png&#34; alt=&#34;Correlsense&#34; title=&#34;Correlsense&#34; /&gt;
@@ -425,17 +449,7 @@ I&amp;rsquo;ve worked on Windows servers throughout my career, which initially g
 &lt;img src=&#34;http://andrewrgoss.github.io/img/TB_logo.png&#34; alt=&#34;Taco Bell&#34; title=&#34;Taco Bell&#34; /&gt;
 &lt;img src=&#34;http://andrewrgoss.github.io/img/UTI_logo.jpg&#34; alt=&#34;Universal Technical Institute&#34; title=&#34;Universal Technical Institute&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;I&amp;rsquo;m currently a manager on the Media Systems and Technology team at &lt;a href=&#34;http://www.digitaslbi.com/us&#34; target=&#34;_blank&#34;&gt;DigitasLBi&lt;/a&gt;, where I work continuously on the following things to help deliver our value proposition:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Business intelligence development. My focus is on distilling business rules/workflows and translating these into code. This involves a lot of data modeling work under close coordination with client teams.&lt;/li&gt;
-&lt;li&gt;Automation engineering. This is where I automate common work patterns and tedious data-oriented tasks. This frees up internal analysts to work more efficiently and focus energies on deeper, more challenging insights. And to do so with clean, manageable data.&lt;/li&gt;
-&lt;li&gt;API and data integrations. This is where I work to combine many disparate sources into a holistic view of the client&amp;rsquo;s marketing ecosystem and its touchpoints with each intended audience member. For instance, I&amp;rsquo;ve utilized real-time data, such as weather APIs, to enable customized marketing offers.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;We also support various applications, data visualization tools, and host server environments.&lt;/p&gt;
-
-&lt;p&gt;I go beyond just coding and setting up automated processes. I work to understand the data too and identify anomalies. As the architect in setting everything up, I have a different level of understanding. It&amp;rsquo;s my job to call things out and facilitate communication rather than discovering an issue 8 months down the road.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m currently a manager on the Media Systems and Technology team at &lt;a href=&#34;http://www.digitaslbi.com/us&#34; target=&#34;_blank&#34;&gt;DigitasLBi&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Prior to this, I spent 3.5 years at &lt;a href=&#34;http://www.quickpivot.com&#34; target=&#34;_blank&#34;&gt;QuickPivot&lt;/a&gt;, a marketing automation software company.&lt;/p&gt;
 
@@ -446,15 +460,7 @@ I&amp;rsquo;ve worked on Windows servers throughout my career, which initially g
 
 &lt;p&gt;Another characteristic that sets me apart is my strong desire to never stop learning. I set up the &amp;lsquo;Learning&amp;rsquo; section of this website to document and track my progress in learning new concepts and abilities. Always reading articles and staying on top of trends.&lt;/p&gt;
 
-&lt;h2 id=&#34;a-name-what-i-can-do-for-you-a-what-i-can-do-for-you:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;&lt;a name=&#34;what_i_can_do_for_you&#34;&gt;&lt;/a&gt;What I Can Do For You&lt;/h2&gt;
-
-&lt;p&gt;Many clients I&amp;rsquo;ve worked with over the years are trying to address similar problems. There&amp;rsquo;s a deluge of data available, and businesses know they need to be using it to make smarter marketing/advertising decisions. However, the data is typically fragmented across disparate datasets. Often times, these are siloed within the organization. Everyone wants the holistic, 360-view of a person&amp;rsquo;s interactions with the company to create a better end user experience.&lt;/p&gt;
-
-&lt;p&gt;There&amp;rsquo;s too much manual work going on. You&amp;rsquo;d think this would only be happening at smaller companies, but it happens at larger ones too. A lot of this stems from not knowing of a better approach, or people being too fearful of being automated out of a job. &lt;a href=&#34;https://www.oreilly.com/ideas/insightful-applications-the-next-inflection-in-big-data&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; to blog post on data warehousing.&lt;/p&gt;
-
-&lt;p&gt;Bridge the gap between business and technical. Versatility. My unique combination of hard and soft skills is what makes me different and something I take pride in.&lt;/p&gt;
-
-&lt;p&gt;There is still so much I don&amp;rsquo;t know and I&amp;rsquo;m always hungry to keep learning through online materials and conversations with smart people.&lt;/p&gt;
+&lt;p&gt;There is still so much I don&amp;rsquo;t know, but learning new things fuels me and excites me. It&amp;rsquo;s one of my biggest reasons for working with technology. I&amp;rsquo;m always hungry to keep learning through online materials and conversations with smart people.&lt;/p&gt;
 </description>
     </item>
     
