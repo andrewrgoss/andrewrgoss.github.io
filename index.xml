@@ -77,9 +77,9 @@
 
 &lt;h5 id=&#34;course-progress:ea26e6d17ee8d7a9676635c803e1df42&#34;&gt;Course Progress&lt;/h5&gt;
 
-&lt;progress max=&#34;1.0&#34; value=&#34;0.095&#34;&gt;&lt;/progress&gt;
+&lt;progress max=&#34;1.0&#34; value=&#34;0.12&#34;&gt;&lt;/progress&gt;
 
-&lt;p&gt;9.5% - &lt;font color=&#34;green&#34;&gt;[IN PROGRESS]&lt;/font&gt;.&lt;/p&gt;
+&lt;p&gt;12% - &lt;font color=&#34;green&#34;&gt;[IN PROGRESS]&lt;/font&gt;.&lt;/p&gt;
 
 &lt;!--&lt;a href=&#34;https://github.com/andrewrgoss/&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;--&gt;
 </description>
@@ -435,7 +435,7 @@ I&amp;rsquo;ve worked on Windows servers throughout my career, which initially g
 &lt;p&gt;&lt;a href=&#34;#problems_i_solve&#34;&gt;Problems I Solve&lt;/a&gt; | &lt;a href=&#34;http://andrewrgoss.github.io/skills&#34;&gt;Skills Overview&lt;/a&gt; | &lt;a href=&#34;http://andrewrgoss.github.io/resume&#34;&gt;Resume&lt;/a&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;&lt;b&gt;TL;DR&lt;/b&gt; &amp;ndash; Data engineer, technical consultant, and business intelligence developer living at the intersection of marketing and technology. Working to solve the challenges that come with the territory. Also a &lt;a href=&#34;http://andrewrgoss.github.io/travel&#34;&gt;world traveler&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;TL;DR&lt;/b&gt; &amp;ndash; Data engineer, technical consultant, and business intelligence developer working to solve challenges at the intersection of marketing and technology &lt;a href=&#34;http://andrewrgoss.github.io/tags/martech&#34;&gt;(#martech)&lt;/a&gt;. Also a &lt;a href=&#34;http://andrewrgoss.github.io/travel&#34;&gt;world traveler&lt;/a&gt;.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;!--Blog post ideas:
@@ -445,58 +445,23 @@ I&amp;rsquo;ve worked on Windows servers throughout my career, which initially g
 - Why it is important to have a web presence as a developer
 - Why you should talk to recruiters, even when you&#39;re not looking for a new job. https://www.linkedin.com/pulse/5-reasons-you-should-talk-recruiters-kerry-stano-ciejek
 - Why starting a blog/personal website has been hard for me (no one cares what I have to say?). Important to have &#39;home base&#39; for personal brand and put thoughts, learnings down as I navigate my career.
-    &#34;I think the &#39;About&#39; page of any website is the most important one, yet it&#39;s also the one that is the hardest to write. I&#39;ve looked at tons of these pages on personal websites over the years. Like any writing piece, you need to start with something compelling to convince the person viewing the content to keep reading. Don&#39;t want to be self-aggrandizing.&#34;
+    &#34;I think the &#39;About&#39; page of any website is the most important one, yet it&#39;s also the one that is the hardest to write. I&#39;ve looked at tons of these pages on personal websites over the years. Like any writing piece, you need to start with something compelling to convince the person viewing the content to keep reading. Don&#39;t want to be self-aggrandizing.&#34; http://blog.hubspot.com/marketing/how-to-write-blog-post-simple-formula-ht
 - Twitter API authentication for Go
 - Coding practice sites
 - The need to come up with a design before starting development (eliminating communication gaps with business team) 
 - Top travel photos (my favorites)--&gt;
 
-&lt;p&gt;Hi, I&amp;rsquo;m Andrew Goss. I&amp;rsquo;ve spent my career immersed in marketing and technology, &lt;a href=&#34;http://andrewrgoss.github.io/tags/martech&#34;&gt;two disciplines that are more intertwined&lt;/a&gt; than they&amp;rsquo;ve ever been. I&amp;rsquo;m a business/technology hybrid in this new world and I can help you navigate the challenges associated with this increasingly sophisticated ecosystem.&lt;/p&gt;
+&lt;p&gt;Hi, I&amp;rsquo;m Andrew Goss. I&amp;rsquo;ve spent my career immersed in marketing and technology, &lt;a href=&#34;http://andrewrgoss.github.io/tags/martech&#34;&gt;two disciplines that are more intertwined&lt;/a&gt; than they&amp;rsquo;ve ever been. I&amp;rsquo;m a business/technology hybrid in this new world and I can help you navigate the challenges associated with this increasingly sophisticated ecosystem. &lt;a href=&#34;#problems_i_solve&#34;&gt;Learn more&lt;/a&gt; about problems I help organizations with, or read on to hear about my career path to this point.&lt;/p&gt;
 
 &lt;h2 id=&#34;my-background:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;My Background&lt;/h2&gt;
 
-&lt;p&gt;I&amp;rsquo;ve been on both sides of the fence in terms of marketing and IT departments, but that &amp;lsquo;fence&amp;rsquo; is less of a divider than it used to be. It&amp;rsquo;s already starting to happen in some cases, but I would contend that we&amp;rsquo;re going to start seeing more and more organizations that structure themselves with an IT arm within marketing, or perhaps an IT branch that is dedicated to serving marketing/advertising capabilities. I currently fall in the latter, more on that in a bit.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve spent most of my career as a consultant at marketing &amp;amp; advertising agencies, holding both client-facing and technical roles in this space while providing services across numerous industries such as finance, food &amp;amp; beverage, higher education, and technology. I&amp;rsquo;ve been on both sides of the fence in terms of marketing and IT departments, but that &amp;lsquo;fence&amp;rsquo; isn&amp;rsquo;t much of a divider like it used to be. It&amp;rsquo;s already starting to happen in some cases, but I would contend that we&amp;rsquo;re going to start seeing more and more organizations that structure themselves with an IT arm within marketing, or perhaps an IT branch that is dedicated to serving marketing/advertising capabilities. I currently fall in the former but I&amp;rsquo;ve been in the latter too, more on that in a bit.&lt;/p&gt;
 
-&lt;p&gt;I got my start out of college as a marketer and early on, I developed core consulting skills in interfacing directly with clients and being able to summarize and present key performance metrics. During this time, I also gravitated towards wanting to further understand the backend functionality behind behind the marketing automation tools (&lt;a href=&#34;https://www.marketo.com&#34; target=&#34;_blank&#34;&gt;Marketo&lt;/a&gt;, &lt;a href=&#34;https://www.oracle.com/marketingcloud/products/cross-channel/marketing-to-businesses.html&#34; target=&#34;_blank&#34;&gt;Eloqua&lt;/a&gt;, and &lt;a href=&#34;http://marketing.teradata.com&#34; target=&#34;_blank&#34;&gt;Aprimo&lt;/a&gt;) I was using. I really started getting into computer programming and quickly showed an aptitude towards learning the technologies that power these platforms. I read any marketing technology article I could get my hands on.&lt;/p&gt;
+&lt;p&gt;I got my start out of college as a marketer and early on, I developed core consulting skills in interfacing directly with clients and being able to summarize and present key performance metrics. During this time, I also gravitated towards wanting to further understand the backend functionality behind behind the marketing automation tools (&lt;a href=&#34;https://www.marketo.com&#34; target=&#34;_blank&#34;&gt;Marketo&lt;/a&gt;, &lt;a href=&#34;https://www.oracle.com/marketingcloud/products/cross-channel/marketing-to-businesses.html&#34; target=&#34;_blank&#34;&gt;Eloqua&lt;/a&gt;, and &lt;a href=&#34;http://marketing.teradata.com&#34; target=&#34;_blank&#34;&gt;Aprimo&lt;/a&gt;) I was using. I really started getting into computer programming and quickly showed an aptitude towards learning the technologies that power these platforms. I read any technology article I could get my hands on.&lt;/p&gt;
 
-&lt;p&gt;Marketing software companies were blowing up all over the place too. I followed the local startup, HubSpot, as it rocketed from a tiny unknown in Cambridge to a publicly-traded global powerhouse. Other companies sprung up to fill niches in this fast-growing space and the marketplace soon exploded to look like this: (link to Scott Brinker diagram).&lt;/p&gt;
+&lt;p&gt;Marketing software companies were (and still are) blowing up all over the place too. I followed the local startup, &lt;a href=&#34;http://www.hubspot.com&#34; target=&#34;_blank&#34;&gt;HubSpot&lt;/a&gt;, as it rocketed from a tiny unknown in Cambridge to a publicly-traded global powerhouse. Other companies sprung up to fill niches in this fast-growing space and the marketplace soon exploded to look like &lt;a href=&#34;http://chiefmartec.com/2016/03/marketing-technology-landscape-supergraphic-2016&#34; target=&#34;_blank&#34;&gt;this&lt;/a&gt;. And that graphic doesn&amp;rsquo;t cover everything, such as all of the infrastructure categories (databases, cloud infrastructure, big data, web dev).&lt;/p&gt;
 
-&lt;p&gt;I decided to hitch my wagon to this phenomenon and went all-in.&lt;/p&gt;
-
-&lt;p&gt;Help get data to where it needs to be, and make sense of it too.&lt;/p&gt;
-
-&lt;p&gt;Computational marketing can leverage the tsunami of big data with real-time experimentation, optimization, and personalization — intertwined with human marketing expertise and judgment — to transform this industry over the next 10 years. homogeneous mixture&lt;/p&gt;
-
-&lt;p&gt;Thanks to the economies of cloud computing, these computational marketing capabilities will not be limited to a handful of the Fortune 500. Marketers of any size will be able to utilize them — if they know how.&lt;/p&gt;
-
-&lt;p&gt;Portrait of a Chief Marketing Technologist:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;A business/technology hybrid&lt;/li&gt;
-&lt;li&gt;Strong engineering, IT skill set&lt;/li&gt;
-&lt;li&gt;Early adopter &amp;amp; pragmatist&lt;/li&gt;
-&lt;li&gt;Lives &amp;amp; breathes marketing&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;And the value of developing such innate technical savvy will only increase as scale and scope of marketing technology grows.&lt;/p&gt;
-
-&lt;p&gt;One of the most fascinating fields of research today is at the intersection of computer science and marketing.&lt;/p&gt;
-
-&lt;p&gt;Bridge the gap between business and technical. Versatility. My unique combination of hard and soft skills is what makes me different and something I take pride in.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Business intelligence development. My focus is on distilling business rules/workflows and translating these into code. This involves a lot of data modeling work under close coordination with client teams.&lt;/li&gt;
-&lt;li&gt;Automation engineering. This is where I automate common work patterns and tedious data-oriented tasks. This frees up internal analysts to work more efficiently and focus energies on deeper, more challenging insights. And to do so with clean, manageable data.&lt;/li&gt;
-&lt;li&gt;API and data integrations. This is where I work to combine many disparate sources into a holistic view of the client&amp;rsquo;s marketing ecosystem and its touchpoints with each intended audience member. For instance, I&amp;rsquo;ve utilized real-time data, such as weather APIs, to enable customized marketing offers.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I also support various applications, data visualization tools, and host server environments.&lt;/p&gt;
-
-&lt;p&gt;Impeccable organization.&lt;/p&gt;
-
-&lt;p&gt;I go beyond just coding and setting up automated processes. I work to understand the data too and identify anomalies. As the architect in setting everything up, I have a different level of understanding. It&amp;rsquo;s my job to call things out and facilitate communication rather than discovering an issue 8 months down the road.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;ve spent most of my career as a consultant at marketing &amp;amp; advertising agencies working closely with big data. I&amp;rsquo;ve held both client-facing and technical roles in this space while providing services across numerous industries such as finance, food &amp;amp; beverage, higher education, and technology. Here are some of the clients I&amp;rsquo;ve worked with over the years:&lt;/p&gt;
+&lt;p&gt;This is an exciting, challenging, complex field to be a part of. Following my start as a marketer using automation software, I became a technical consultant with a focus on ETL development for HP (and later on, HPE following their split into two separate entities). Here are some of the clients I&amp;rsquo;ve worked with over the years:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/BoA_logo.png&#34; alt=&#34;Bank of America&#34; title=&#34;Bank of America&#34; /&gt;
 &lt;img src=&#34;http://andrewrgoss.github.io/img/Correlsense_logo.png&#34; alt=&#34;Correlsense&#34; title=&#34;Correlsense&#34; /&gt;
@@ -508,15 +473,11 @@ I&amp;rsquo;ve worked on Windows servers throughout my career, which initially g
 &lt;img src=&#34;http://andrewrgoss.github.io/img/TB_logo.png&#34; alt=&#34;Taco Bell&#34; title=&#34;Taco Bell&#34; /&gt;
 &lt;img src=&#34;http://andrewrgoss.github.io/img/UTI_logo.jpg&#34; alt=&#34;Universal Technical Institute&#34; title=&#34;Universal Technical Institute&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;I&amp;rsquo;m currently a manager on the Media Systems and Technology team at &lt;a href=&#34;http://www.digitaslbi.com/us&#34; target=&#34;_blank&#34;&gt;DigitasLBi&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m currently a manager on the Media Systems and Technology team at &lt;a href=&#34;http://www.digitaslbi.com/us&#34; target=&#34;_blank&#34;&gt;DigitasLBi&lt;/a&gt;. I help tame the tsunami of big data with real-time optimization and personalization combined with human marketing expertise and judgment. My unique combination of hard and soft skills is what makes me different and something I take pride in. I aim to be versatile in bridging the gap between business and technical disciplines. I go beyond just coding and setting up automated processes. I work to understand the data through deep dives and proactively identify anomalies and other patterns. As the architect in setting everything up, I have a different level of understanding. It&amp;rsquo;s my job to call things out and facilitate communication rather than discovering an issue 8 months down the road. I am a very well-organized project manager.&lt;/p&gt;
 
-&lt;p&gt;Prior to this, I spent 3.5 years at &lt;a href=&#34;http://www.quickpivot.com&#34; target=&#34;_blank&#34;&gt;QuickPivot&lt;/a&gt;, a marketing automation software company.&lt;/p&gt;
+&lt;p&gt;Another characteristic that sets me apart is my strong desire to never stop seeking new knowledge. I set up the &lt;a href=&#34;http://andrewrgoss.github.io/learning&#34;&gt;Learning&lt;/a&gt; section of this website to document and track my progress in learning important concepts and abilities. I&amp;rsquo;m always reading articles and trying to stay on top of trends. I &lt;a href=&#34;https://twitter.com/andrewrgoss&#34; target=&#34;_blank&#34;&gt;tweet&lt;/a&gt; lots of links to these regularly so others can also check out these interesting stories. There is still so much I don&amp;rsquo;t know, but learning new things fuels me and excites me. I&amp;rsquo;m always hungry to keep learning through online materials and conversations with smart people. It&amp;rsquo;s one of my biggest reasons for working in marketing and technology.&lt;/p&gt;
 
-&lt;p&gt;Writing - started this blog to keep my writing skills sharp. Establishing a personal brand. Centralize all of my thoughts in one place. Measure progress.&lt;/p&gt;
-
-&lt;p&gt;Another characteristic that sets me apart is my strong desire to never stop learning. I set up the &amp;lsquo;Learning&amp;rsquo; section of this website to document and track my progress in learning new concepts and abilities. Always reading articles and staying on top of trends.&lt;/p&gt;
-
-&lt;p&gt;There is still so much I don&amp;rsquo;t know, but learning new things fuels me and excites me. It&amp;rsquo;s one of my biggest reasons for working with technology. I&amp;rsquo;m always hungry to keep learning through online materials and conversations with smart people.&lt;/p&gt;
+&lt;p&gt;I started this blog not only as a personal branding tool but also a place to centralize my thoughts, to measure progress, and keep my writing skills sharp. Thanks for taking the time to get to know me a little better, now let&amp;rsquo;s talk about some specific problems I can help with.&lt;/p&gt;
 
 &lt;h2 id=&#34;a-name-problems-i-solve-a-problems-i-solve:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;&lt;a name=&#34;problems_i_solve&#34;&gt;&lt;/a&gt;Problems I Solve&lt;/h2&gt;
 
@@ -532,7 +493,7 @@ I&amp;rsquo;ve worked on Windows servers throughout my career, which initially g
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>http://andrewrgoss.github.io/resume/</guid>
-      <description>&lt;p&gt;For more on my professional background, you can visit my &lt;a href=&#34;https://www.linkedin.com/in/andrewrgoss&#34; target=&#34;_blank&#34;&gt;LinkedIn&lt;/a&gt; profile. You can also find a downloadable copy of my resume &lt;a href=&#34;http://andrewrgoss.github.io/AndrewGoss_Resume.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;For more on my professional background including additional details around my work history, you can visit my &lt;a href=&#34;https://www.linkedin.com/in/andrewrgoss&#34; target=&#34;_blank&#34;&gt;LinkedIn&lt;/a&gt; profile. &lt;!--You can also find a downloadable copy of my resume [here](/AndrewGoss_Resume.pdf).--&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -557,7 +518,13 @@ I&amp;rsquo;ve worked on Windows servers throughout my career, which initially g
       <guid>http://andrewrgoss.github.io/skills/</guid>
       <description>
 
-&lt;!--\&lt;bragging\&gt;I know this might seem like a bit of a self-aggrandizing section of my website.\&lt;/bragging\&gt;--&gt;
+&lt;ul&gt;
+&lt;li&gt;Business intelligence development. My focus is on distilling business rules/workflows and translating these into code. This involves a lot of data modeling work under close coordination with client teams.&lt;/li&gt;
+&lt;li&gt;Automation engineering. This is where I automate common work patterns and tedious data-oriented tasks. This frees up internal analysts to work more efficiently and focus energies on deeper, more challenging insights. And to do so with clean, manageable data.&lt;/li&gt;
+&lt;li&gt;API and data integrations. This is where I work to combine many disparate sources into a holistic view of the client&amp;rsquo;s marketing ecosystem and its touchpoints with each intended audience member. For instance, I&amp;rsquo;ve utilized real-time data, such as weather APIs, to enable customized marketing offers.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I also support various applications, data visualization tools, and host server environments.&lt;/p&gt;
 
 &lt;h3 id=&#34;core-competencies:a36058eafe01cd26b16c80f89806a069&#34;&gt;Core Competencies&lt;/h3&gt;
 
