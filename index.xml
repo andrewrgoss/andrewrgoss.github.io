@@ -8,16 +8,40 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Tue, 22 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Mar 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://andrewrgoss.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>How Marketing and Technology Became a Portmanteau</title>
-      <link>http://andrewrgoss.github.io/2016/how-marketing-and-technology-became-a-portmanteau/</link>
+      <title>AWSome Day Boston</title>
+      <link>http://andrewrgoss.github.io/learning/awsome_day_boston/</link>
+      <pubDate>Tue, 29 Mar 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.github.io/learning/awsome_day_boston/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/learning/awsome_day.png&#34; alt=&#34;AWSome Day&#34; title=&#34;AWSome Day&#34; /&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;In March 2016 I joined Amazon Web Services for an all-day training event at the Westin Copley Place in Boston. The workshop provided a step-by-step introduction to the core AWS services for compute, storage, database and networking. AWS technical experts explained key features and use cases, shared best practices, and walked through technical demos. We specifically covered the following topics:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;Module 1&lt;/b&gt;: AWS Introduction and History&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Module 2&lt;/b&gt;: Infrastructure Services: Amazon EC2, Amazon S3, Amazon EBS, and Amazon VPC&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Module 3&lt;/b&gt;: Security, Identity, and Access Management: IAM&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Module 4&lt;/b&gt;: Databases: Amazon DynamoDB and Amazon RDS&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Module 5&lt;/b&gt;: AWS Elasticity and Management Tools: Auto Scaling, Elastic Load Balancing, Amazon CloudWatch, and AWS Trusted Advisor&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The day was a great for networking, learning more about cloud computing (from the clear market leader in this space) and how to get started on AWS Cloud. It is particularly valuable as some of my working environment is being shifted to Amazon&amp;rsquo;s data warehouse solution, &lt;a href=&#34;https://aws.amazon.com/redshift&#34; target=&#34;_blank&#34;&gt;Amazon Redshift&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The slides from this event can be viewed &lt;a href=&#34;https://www.slideshare.net/secret/fcDgOrIt5Eldb6&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Marketing and Technology Portmanteau</title>
+      <link>http://andrewrgoss.github.io/2016/the-marketing-and-technology-portmanteau/</link>
       <pubDate>Tue, 22 Mar 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.github.io/2016/how-marketing-and-technology-became-a-portmanteau/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Portmanteau&#34;&gt;https://en.wikipedia.org/wiki/Portmanteau&lt;/a&gt;&lt;/p&gt;
+      <guid>http://andrewrgoss.github.io/2016/the-marketing-and-technology-portmanteau/</guid>
+      <description>&lt;p&gt;You may be wondering, what on earth is a &lt;a href=&#34;https://en.wikipedia.org/wiki/Portmanteau&#34; target=&#34;_blank&#34;&gt;portmanteau&lt;/a&gt;? Never heard that term before.&lt;/p&gt;
 
 &lt;p&gt;Marketing technology is not just about making existing processes more efficient. It’s the interface by which marketing sees and touches the digital world. Your choice of marketing software — and how you use it — will shape the experiences you deliver to prospects and customers. (from &lt;a href=&#34;http://chiefmartec.com/2014/01/strategy-marketing-technology-intertwined/&#34;&gt;http://chiefmartec.com/2014/01/strategy-marketing-technology-intertwined/&lt;/a&gt;)&lt;/p&gt;
 
@@ -55,7 +79,7 @@
       <guid>http://andrewrgoss.github.io/learning/udemy_learn_google_golang/</guid>
       <description>
 
-&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/golang_gopher.png&#34; alt=&#34;Golang Gopher&#34; title=&#34;Golang Gopher&#34; /&gt;&lt;br&gt;
+&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/learning/golang_gopher.png&#34; alt=&#34;Golang Gopher&#34; title=&#34;Golang Gopher&#34; /&gt;&lt;br&gt;
 &lt;a href=&#34;https://www.udemy.com/learn-how-to-code/learn/&#34; target=&#34;_blank&#34;&gt;COURSE LINK&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;https://docs.google.com/document/d/18-0u5CvNIr83oOfMXPoM4klVFASXGl3Vvua1wBGMIoQ/&#34; target=&#34;_blank&#34;&gt;COURSE RESOURCES&lt;/a&gt;
 &lt;hr&gt;
@@ -315,7 +339,7 @@ Percent of US: 70%&lt;/p&gt;
       <guid>http://andrewrgoss.github.io/learning/doxsey_intro_programming_in_go/</guid>
       <description>
 
-&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/golang_gopher.png&#34; alt=&#34;Golang Gopher&#34; title=&#34;Golang Gopher&#34; /&gt;&lt;br&gt;
+&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/learning/golang_gopher.png&#34; alt=&#34;Golang Gopher&#34; title=&#34;Golang Gopher&#34; /&gt;&lt;br&gt;
 &lt;a href=&#34;https://www.golang-book.com/books/intro&#34; target=&#34;_blank&#34;&gt;BOOK LINK&lt;/a&gt;
 &lt;hr&gt;
 &lt;a href=&#34;https://golang.org&#34; target=&#34;_blank&#34;&gt;Go (Golang)&lt;/a&gt; is an open source programming language that makes it easy to build simple, reliable, and efficient software. I first started using Go through my work at &lt;a href=&#34;http://www.digitaslbi.com/us&#34; target=&#34;_blank&#34;&gt;DigitasLBi&lt;/a&gt;. My department adopted this language as one of our tech stacks for the following reasons:&lt;/p&gt;
@@ -389,7 +413,7 @@ Percent of US: 70%&lt;/p&gt;
       <guid>http://andrewrgoss.github.io/learning/udemy_csharp_for_beginners/</guid>
       <description>
 
-&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/csharp.png&#34; alt=&#34;C#&#34; title=&#34;C#&#34; /&gt;&lt;br&gt;
+&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/learning/csharp.png&#34; alt=&#34;C#&#34; title=&#34;C#&#34; /&gt;&lt;br&gt;
 &lt;a href=&#34;https://www.udemy.com/programming-for-complete-beginners-in-csharp/&#34; target=&#34;_blank&#34;&gt;COURSE LINK&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;https://github.com/andrewrgoss/udemy-beginning-csharp/blob/master/Course%20Completion%20Certificate%20(UC-TT5IFIPW).pdf&#34; target=&#34;_blank&#34;&gt;COMPLETION CERTIFICATE&lt;/a&gt;
 &lt;hr&gt;
@@ -435,7 +459,7 @@ I&amp;rsquo;ve worked on Windows servers throughout my career, which initially g
 &lt;p&gt;&lt;a href=&#34;#problems_i_solve&#34;&gt;Problems I Solve&lt;/a&gt; | &lt;a href=&#34;http://andrewrgoss.github.io/skills&#34;&gt;Skills Overview&lt;/a&gt; | &lt;a href=&#34;http://andrewrgoss.github.io/resume&#34;&gt;Resume&lt;/a&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;&lt;b&gt;TL;DR&lt;/b&gt; &amp;ndash; Data engineer, technical consultant, and business intelligence developer working to solve challenges at the intersection of marketing and technology &lt;a href=&#34;http://andrewrgoss.github.io/tags/martech&#34;&gt;(#martech)&lt;/a&gt;. Also a &lt;a href=&#34;http://andrewrgoss.github.io/travel&#34;&gt;world traveler&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;TL;DR&lt;/b&gt; &amp;ndash; Data engineer, technical consultant, and business intelligence developer working to solve challenges at the intersection of marketing and technology &lt;a href=&#34;http://andrewrgoss.github.io/tags/martech&#34;&gt;(martech)&lt;/a&gt;. Also a &lt;a href=&#34;http://andrewrgoss.github.io/travel&#34;&gt;world traveler&lt;/a&gt;.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;!--Blog post ideas:
@@ -459,9 +483,9 @@ I&amp;rsquo;ve worked on Windows servers throughout my career, which initially g
 
 &lt;p&gt;I got my start out of college as a marketer and early on, I developed core consulting skills in interfacing directly with clients and being able to summarize and present key performance metrics. During this time, I also gravitated towards wanting to further understand the backend functionality behind behind the marketing automation tools (&lt;a href=&#34;https://www.marketo.com&#34; target=&#34;_blank&#34;&gt;Marketo&lt;/a&gt;, &lt;a href=&#34;https://www.oracle.com/marketingcloud/products/cross-channel/marketing-to-businesses.html&#34; target=&#34;_blank&#34;&gt;Eloqua&lt;/a&gt;, and &lt;a href=&#34;http://marketing.teradata.com&#34; target=&#34;_blank&#34;&gt;Aprimo&lt;/a&gt;) I was using. I really started getting into computer programming and quickly showed an aptitude towards learning the technologies that power these platforms. I read any technology article I could get my hands on.&lt;/p&gt;
 
-&lt;p&gt;Marketing software companies were (and still are) blowing up all over the place too. I followed the local startup, &lt;a href=&#34;http://www.hubspot.com&#34; target=&#34;_blank&#34;&gt;HubSpot&lt;/a&gt;, as it rocketed from a tiny unknown in Cambridge to a publicly-traded global powerhouse. Other companies sprung up to fill niches in this fast-growing space and the marketplace soon exploded to look like &lt;a href=&#34;http://chiefmartec.com/2016/03/marketing-technology-landscape-supergraphic-2016&#34; target=&#34;_blank&#34;&gt;this&lt;/a&gt;. And that graphic doesn&amp;rsquo;t cover everything, such as all of the infrastructure categories (databases, cloud infrastructure, big data, web dev).&lt;/p&gt;
+&lt;p&gt;Marketing software companies were (and still are) blowing up all over the place too. I followed the local startup, &lt;a href=&#34;http://www.hubspot.com&#34; target=&#34;_blank&#34;&gt;HubSpot&lt;/a&gt;, as it rocketed from a tiny unknown in Cambridge to a publicly-traded global powerhouse. Other companies sprung up to fill niches in this fast-growing space and the marketplace soon exploded to look like &lt;a href=&#34;http://chiefmartec.com/2016/03/marketing-technology-landscape-supergraphic-2016&#34; target=&#34;_blank&#34;&gt;this&lt;/a&gt;. And that graphic doesn&amp;rsquo;t even cover everything, such as all of the infrastructure categories (databases, cloud infrastructure, big data, web dev).&lt;/p&gt;
 
-&lt;p&gt;This is an exciting, challenging, complex field to be a part of. Following my start as a marketer using automation software, I became a technical consultant with a focus on ETL development for HP (and later on, HPE following their split into two separate entities). Here are some of the clients I&amp;rsquo;ve worked with over the years:&lt;/p&gt;
+&lt;p&gt;Following my start as a marketer using automation software, I became a technical consultant with a focus on ETL development for HP (and later on, HPE following their split into two separate entities). Here are some of the clients I&amp;rsquo;ve worked with over the years:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/BoA_logo.png&#34; alt=&#34;Bank of America&#34; title=&#34;Bank of America&#34; /&gt;
 &lt;img src=&#34;http://andrewrgoss.github.io/img/Correlsense_logo.png&#34; alt=&#34;Correlsense&#34; title=&#34;Correlsense&#34; /&gt;
@@ -473,17 +497,22 @@ I&amp;rsquo;ve worked on Windows servers throughout my career, which initially g
 &lt;img src=&#34;http://andrewrgoss.github.io/img/TB_logo.png&#34; alt=&#34;Taco Bell&#34; title=&#34;Taco Bell&#34; /&gt;
 &lt;img src=&#34;http://andrewrgoss.github.io/img/UTI_logo.jpg&#34; alt=&#34;Universal Technical Institute&#34; title=&#34;Universal Technical Institute&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;I&amp;rsquo;m currently a manager on the Media Systems and Technology team at &lt;a href=&#34;http://www.digitaslbi.com/us&#34; target=&#34;_blank&#34;&gt;DigitasLBi&lt;/a&gt;. I help tame the tsunami of big data with real-time optimization and personalization combined with human marketing expertise and judgment. My unique combination of hard and soft skills is what makes me different and something I take pride in. I aim to be versatile in bridging the gap between business and technical disciplines. I go beyond just coding and setting up automated processes. I work to understand the data through deep dives and proactively identify anomalies and other patterns. As the architect in setting everything up, I have a different level of understanding. It&amp;rsquo;s my job to call things out and facilitate communication rather than discovering an issue 8 months down the road. I am a very well-organized project manager.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m currently a manager on the Media Systems and Technology team at &lt;a href=&#34;http://www.digitaslbi.com/us&#34; target=&#34;_blank&#34;&gt;DigitasLBi&lt;/a&gt;. I help tame the tsunami of big data with real-time optimization and personalization combined with human marketing expertise and judgment. I aim to be versatile in bridging the gap between business and technical disciplines and my unique combination of hard and soft skills is something I take pride in. I go beyond coding and setting up automated processes. I work to analyze big data through deep dives and proactively identify anomalies and other patterns. As the architect in building new system processes (or being able to translate legacy code into business logic), I have a different level of understanding. It&amp;rsquo;s my job to call things out and facilitate communication rather than discovering an issue 8 months down the road. I am a very well-organized project manager.&lt;/p&gt;
 
-&lt;p&gt;Another characteristic that sets me apart is my strong desire to never stop seeking new knowledge. I set up the &lt;a href=&#34;http://andrewrgoss.github.io/learning&#34;&gt;Learning&lt;/a&gt; section of this website to document and track my progress in learning important concepts and abilities. I&amp;rsquo;m always reading articles and trying to stay on top of trends. I &lt;a href=&#34;https://twitter.com/andrewrgoss&#34; target=&#34;_blank&#34;&gt;tweet&lt;/a&gt; lots of links to these regularly so others can also check out these interesting stories. There is still so much I don&amp;rsquo;t know, but learning new things fuels me and excites me. I&amp;rsquo;m always hungry to keep learning through online materials and conversations with smart people. It&amp;rsquo;s one of my biggest reasons for working in marketing and technology.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m a big believer in the idea that one should never stop seeking new knowledge. I use the &lt;a href=&#34;http://andrewrgoss.github.io/learning&#34;&gt;Learning&lt;/a&gt; section of this website to document and track my progress in learning important concepts and furthering my abilities. It also makes it easy to go back and reference materials. I&amp;rsquo;m always reading articles and following the thought leaders to stay on top of trends. I &lt;a href=&#34;https://twitter.com/andrewrgoss&#34; target=&#34;_blank&#34;&gt;tweet&lt;/a&gt; lots of links regularly so others can also read about these ever-shifting &lt;a href=&#34;http://andrewrgoss.github.io/tags/martech&#34;&gt;martech&lt;/a&gt; patterns shaping businesses. And of course, I never underestimate the power of asking questions and seeking mentorship from the smart people I work with and across the industry.&lt;/p&gt;
 
-&lt;p&gt;I started this blog not only as a personal branding tool but also a place to centralize my thoughts, to measure progress, and keep my writing skills sharp. Thanks for taking the time to get to know me a little better, now let&amp;rsquo;s talk about some specific problems I can help with.&lt;/p&gt;
+&lt;p&gt;I started this blog not only as a personal branding tool but also a place to centralize my thoughts, to measure progress, and keep my writing skills sharp. Thanks for taking the time to get to know me a little better, now let&amp;rsquo;s talk about some specific problems I can help with. You can also check out my &lt;a href=&#34;http://andrewrgoss.github.io/resume&#34;&gt;LinkedIn&lt;/a&gt; profile for more details on my professional background or you can learn more about my specific &lt;a href=&#34;http://andrewrgoss.github.io/skills&#34;&gt;skillset&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&#34;a-name-problems-i-solve-a-problems-i-solve:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;&lt;a name=&#34;problems_i_solve&#34;&gt;&lt;/a&gt;Problems I Solve&lt;/h2&gt;
 
-&lt;p&gt;Many clients I&amp;rsquo;ve worked with over the years are trying to address similar issues. There&amp;rsquo;s a deluge of data available, and businesses know they need to be using it to make smarter marketing/advertising decisions. However, the data is typically fragmented across disparate datasets. Often times, these are siloed within the organization. Everyone wants the holistic, 360-view of a person&amp;rsquo;s interactions with the company to create a better end user experience. But there&amp;rsquo;s no centralized repository. And there&amp;rsquo;s not a standardized way of working with the data, too many people following their own methods instead of a documented process. When people leave the organization, things get lost in translation. There ends up being legacy programs and processes that no longer get used, often with poor documentation (or none at all). It&amp;rsquo;s too risky or impossible to start over, so things get built on top of each other. Eventually the system becomes an entangled mess of files and code.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve found that many clients I&amp;rsquo;ve worked with over the years are trying to address fairly similar issues (albeit within far different business contexts) from a high-level perspective when it comes to technology solutions for their marketing and advertising intiatives. There&amp;rsquo;s a deluge of data available and businesses know they need to be using it to make smarter decisions in reaching their target audiences about their brand. However, the data is typically fragmented across disparate datasets. Often times, these are siloed within the organization itself and there isn&amp;rsquo;t always a way to easily join the data together to tell the full story. Further exasperating the problem is the fact that the data hygiene is lousy. Sales reps at the end of the pipeline complain about the quality of the leads they are trying to work with. Or analysts complain that when evaluating the effectiveness of advertising content that their results are skewed. Or their reports are taking forever to run (unbeknownst to them this is because of poorly-tuned databases on the backend). Through the implementation of comprehensive business rules and well thought-out architecture and procedural scripts, I help alleviate these data challenges.&lt;/p&gt;
 
-&lt;p&gt;There&amp;rsquo;s too much manual work going on. You&amp;rsquo;d think this would only be happening at smaller companies, but it happens at larger ones too. A lot of this stems from not knowing of a better approach, or people being too fearful of being automated out of a job. &lt;a href=&#34;https://www.oreilly.com/ideas/insightful-applications-the-next-inflection-in-big-data&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; to blog post on data warehousing.&lt;/p&gt;
+&lt;p&gt;Everyone wants the holistic, 360-view of a person&amp;rsquo;s interactions with the company to create a better end user experience. But there&amp;rsquo;s no centralized repository and no standardized way of working with the data. Lack of documentation can be a problem too, with many people following their own methods instead of a formalized process. When people leave the organization, things get lost in translation. There ends up being legacy programs and processes that no longer get used but since it&amp;rsquo;s too risky or impossible to start over, things get built on top of each other. Eventually the system becomes an entangled mess of files and code. I can&amp;rsquo;t predict future use for the programs I develop but I always try to emphasize clean, readable code that is easily configurable (through the use of parameters and such) with anticipation that needs will inevitably change.&lt;/p&gt;
+
+&lt;p&gt;Lastly, there&amp;rsquo;s too much manual work going on. You&amp;rsquo;d think this would only be happening at smaller companies, but it happens at larger ones too. A lot of this stems from people not knowing of a better approach or simply being set in their ways. I&amp;rsquo;m the guy shouting from the rooftops that anything remotely repititive should be automated. This frees up resources to focus their time on more meaningful insights that drive business impact and reduces the potential for human error.
+&lt;!--&lt;a href=&#34;https://www.oreilly.com/ideas/insightful-applications-the-next-inflection-in-big-data&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; to blog post on data warehousing.--&gt;&lt;/p&gt;
+
+&lt;p&gt;These are some of the types of challenges that I love to tackle. If these kinds of issues are all too familiar to you, let&amp;rsquo;s get in touch.&lt;/p&gt;
 </description>
     </item>
     
