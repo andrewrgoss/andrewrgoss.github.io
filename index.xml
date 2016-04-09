@@ -8,8 +8,34 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Tue, 29 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Apr 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://andrewrgoss.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Udemy- Ultimate Python Programming Tutorial</title>
+      <link>http://andrewrgoss.github.io/learning/udemy_ultimate_python_tutorial/</link>
+      <pubDate>Sat, 09 Apr 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.github.io/learning/udemy_ultimate_python_tutorial/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/learning/python.png&#34; alt=&#34;Python&#34; title=&#34;Python&#34; /&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.udemy.com/the-ultimate-python-programming-course&#34; target=&#34;_blank&#34;&gt;COURSE LINK&lt;/a&gt;&lt;br&gt;
+&lt;hr&gt;
+I&amp;rsquo;ve been wanting to add Python to my personal tech stack for some time now as it is a powerful (and popular) all-purpose programming language. It is also one of the most commonly-used languages for analytics, data mining, and data science.&lt;/p&gt;
+
+&lt;p&gt;My goal in taking this course is to build my knowledge around the fundamentals of the language.
+&lt;hr&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;course-progress:b609afaabbef53e4f3d69f90af30ad86&#34;&gt;Course Progress&lt;/h5&gt;
+
+&lt;progress max=&#34;1.0&#34; value=&#34;0.2&#34;&gt;&lt;/progress&gt;
+
+&lt;p&gt;20% - &lt;font color=&#34;green&#34;&gt;[IN PROGRESS]&lt;/font&gt;.&lt;/p&gt;
+
+&lt;!--&lt;a href=&#34;https://github.com/andrewrgoss/udemy-beginning-csharp&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;--&gt;
+</description>
+    </item>
     
     <item>
       <title>AWSome Day Boston</title>
@@ -429,22 +455,6 @@ I&amp;rsquo;ve worked on Windows servers throughout my career, which initially g
 &lt;p&gt;100% - completed 11/28/15.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-beginning-csharp&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Favorite Travel Pics</title>
-      <link>http://andrewrgoss.github.io/future/favorite-travel-pics/</link>
-      <pubDate>Mon, 16 Nov 2015 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.github.io/future/favorite-travel-pics/</guid>
-      <description>
-
-&lt;p&gt;My favorite travel pictures from each country I&amp;rsquo;ve visited.&lt;/p&gt;
-
-&lt;h2 id=&#34;peru:4f58b1b2f5f84237aafed561791021c7&#34;&gt;Peru&lt;/h2&gt;
-
-&lt;h2 id=&#34;israel:4f58b1b2f5f84237aafed561791021c7&#34;&gt;Israel&lt;/h2&gt;
 </description>
     </item>
     
