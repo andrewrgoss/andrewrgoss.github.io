@@ -68,9 +68,9 @@
                 },
                 "datePublished": "Jan 2016",
                 "description": "Why I made the switch from using Wordpress to Hugo.",
-                "wordCount":  299 ,
+                "wordCount":  577 ,
                 "articleSection": "post",
-                "timeRequired": "0:2:0",
+                "timeRequired": "0:3:0",
                 "url": "http:\/\/andrewrgoss.github.io\/2016\/why-i-switched-to-hugo\/"
             }
         </script>
@@ -767,8 +767,8 @@ footer a:hover
 	<a href="https://github.com/andrewrgoss" target="_blank" rel="me"><i class="fa fa-github fa-3x"></i></a>
 </div>  
             <h6><a rel="prerender" href="http://andrewrgoss.github.io/about">About</a></h6>
-
 <h6><a href="http://andrewrgoss.github.io/learning">Learning</a></h6>
+<h6><a href="http://andrewrgoss.github.io/resume">Resume</a></h6>
 <h6><a href="http://andrewrgoss.github.io/tags">Tags</a></h6>
 <h6><a href="http://andrewrgoss.github.io/travel">Travel</a></h6>
             
@@ -797,17 +797,22 @@ footer a:hover
     <h1 class="post-title">Why I Switched to Hugo</h1>
     
 
-<p>Why I made the switch from Wordpress to Hugo…</p>
+<p><img src="/img/post/hugo.png" alt="Hugo" title="Hugo" /><br>
+For a long time I&rsquo;ve believed in the importance of having a blog but have struggled to keep one going. I started out using Blogger back in the day and most recently was using Wordpress. But there were features about these blogging platforms that consistently bugged me.</p>
 
-<h2 id="a-good-blogging-platform:f3941651fa35be8fa9dd1215cdae54e4">A good blogging platform</h2>
+<p>Every time I prepared a post with the text and articles I would have to publish it to see how it looks within the context of the overall site. Yes- it&rsquo;s true that you can save content in draft mode and only make it live after proof-reading. But this was in a different screen - the admin section. I much prefer to see a live preview as I work.</p>
 
-<p>What makes a good blogging platform really good? Well, that depends on the blogger. Programmers would need different features than make-up bloggers. As a programmer, I need to be able to easily integrate pieces of code with syntax highlighting in my posts and I&rsquo;d prefer writing them in my favorite text/code editor instead of in a WYSIWYG editor.</p>
+<p>I knew that some of my more technical posts needed to contain code snippets but Wordpress is too-friendly for this working in a WYSIWYG editor. Simply copying and pasting this code within a post didn&rsquo;t work as it removed all of the syntax highlighting and formatting from my favorite IDE (interactive development environment) tools.</p>
 
-<h2 id="wordpress:f3941651fa35be8fa9dd1215cdae54e4">Wordpress</h2>
+<p>With Wordpress it was the setup was easy enough using a one-click install from a hosting dashboard (BlueHost in my case) and then being able to install plugins, themes, and updates, all from the Wordpress admin. But I had to login through that dashboard every time to access my Wordpress site. On top of that, I was paying a small monthly cost for this hosting.</p>
 
-<p>Started out using this.</p>
+<p>Lastly, my site rendered very slowly with Wordpress.</p>
 
-<h2 id="hugo:f3941651fa35be8fa9dd1215cdae54e4">Hugo</h2>
+<h2 id="hugo-a-static-site-generator:f3941651fa35be8fa9dd1215cdae54e4">Hugo: A Static Site Generator</h2>
+
+<p>Hugo solves these problems.</p>
+
+<p>I’m already a fan and user of the Go language, and so in following a number of the Go social communities, I discovered Hugo. A static site generator is an application that can take content in some original description (markdown in the case of Hugo), and renders final content by applying rules. This final content can then be hosted anywhere, without the need for server-side runtime support, such as Python/PHP/Go/Node/etc, because it does not require server-side processing to handle rendering the pages on the fly. This makes the site very portable and simple to deploy, and can be served out of aggressive caching.</p>
 
 <p>I never used Jekyll personally, but I&rsquo;ve heard of it. A few other static site generators <a href="https://www.staticgen.com" target="_blank">have sprung up</a> since Jekyll&rsquo;s success.</p>
 
@@ -828,7 +833,7 @@ footer a:hover
     <div>
   <hr>
   <h5>About Me</h5>
-    <p>I'm a data engineer, technical consultant, and business intelligence developer in the marketing/advertising industry. I combine technology with human marketing expertise and judgment to help clients make smarter, data-driven decisions towards reaching their target audiences. <a href="http://andrewrgoss.github.io/about">Learn More</a></p>
+    <p>I'm a data engineer, technical consultant, and business intelligence developer in the marketing/advertising industry. I combine technology with human marketing savviness and judgment to help clients make smarter, data-driven decisions towards reaching their target audiences. <a href="http://andrewrgoss.github.io/about">Learn More</a></p>
   <hr>
 </div>
 	<div id="social-bar">
@@ -854,7 +859,7 @@ footer a:hover
           </a>
       </li>
 			<li class="linkedin">
-          <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://andrewrgoss.github.io/2016/why-i-switched-to-hugo/&amp;title=Why%20I%20Switched%20to%20Hugo&amp;summary=Why%20I%20made%20the%20switch%20from%20Wordpress%20to%20Hugo%e2%80%a6%20A%20good%20blogging%20platform%20What%20makes%20a%20good%20blogging%20platform%20really%20good%3f%20Well%2c%20that%20depends%20on%20the%20blogger.%20Programmers%20would%20need%20different%20features%20than%20make-up%20bloggers.%20As%20a%20programmer%2c%20I%20need%20to%20be%20able%20to%20easily%20integrate%20pieces%20of%20code%20with%20syntax%20highlighting%20in%20my%20posts%20and%20I%26rsquo%3bd%20prefer%20writing%20them%20in%20my%20favorite%20text%2fcode%20editor%20instead%20of%20in%20a%20WYSIWYG%20editor...." class="popup">
+          <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://andrewrgoss.github.io/2016/why-i-switched-to-hugo/&amp;title=Why%20I%20Switched%20to%20Hugo&amp;summary=For%20a%20long%20time%20I%26rsquo%3bve%20believed%20in%20the%20importance%20of%20having%20a%20blog%20but%20have%20struggled%20to%20keep%20one%20going.%20I%20started%20out%20using%20Blogger%20back%20in%20the%20day%20and%20most%20recently%20was%20using%20Wordpress.%20But%20there%20were%20features%20about%20these%20blogging%20platforms%20that%20consistently%20bugged%20me.%20Every%20time%20I%20prepared%20a%20post%20with%20the%20text%20and%20articles%20I%20would%20have%20to%20publish%20it%20to%20see%20how%20it%20looks%20within%20the%20context%20of%20the%20overall%20site...." class="popup">
               <span class="icon">
                   <svg version="1.1" id="btn-li" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="28px" height="28px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve">
                       <path d="M25.424,15.887v8.447h-4.896v-7.882c0-1.979-0.709-3.331-2.48-3.331c-1.354,0-2.158,0.911-2.514,1.803 c-0.129,0.315-0.162,0.753-0.162,1.194v8.216h-4.899c0,0,0.066-13.349,0-14.731h4.899v2.088c-0.01,0.016-0.023,0.032-0.033,0.048 h0.033V11.69c0.65-1.002,1.812-2.435,4.414-2.435C23.008,9.254,25.424,11.361,25.424,15.887z M5.348,2.501 c-1.676,0-2.772,1.092-2.772,2.539c0,1.421,1.066,2.538,2.717,2.546h0.032c1.709,0,2.771-1.132,2.771-2.546 C8.054,3.593,7.019,2.501,5.343,2.501H5.348z M2.867,24.334h4.897V9.603H2.867V24.334z"/>

@@ -401,17 +401,22 @@ Percent of US: 70%&lt;/p&gt;
       <guid>http://andrewrgoss.github.io/2016/why-i-switched-to-hugo/</guid>
       <description>
 
-&lt;p&gt;Why I made the switch from Wordpress to Hugo…&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/post/hugo.png&#34; alt=&#34;Hugo&#34; title=&#34;Hugo&#34; /&gt;&lt;br&gt;
+For a long time I&amp;rsquo;ve believed in the importance of having a blog but have struggled to keep one going. I started out using Blogger back in the day and most recently was using Wordpress. But there were features about these blogging platforms that consistently bugged me.&lt;/p&gt;
 
-&lt;h2 id=&#34;a-good-blogging-platform:f3941651fa35be8fa9dd1215cdae54e4&#34;&gt;A good blogging platform&lt;/h2&gt;
+&lt;p&gt;Every time I prepared a post with the text and articles I would have to publish it to see how it looks within the context of the overall site. Yes- it&amp;rsquo;s true that you can save content in draft mode and only make it live after proof-reading. But this was in a different screen - the admin section. I much prefer to see a live preview as I work.&lt;/p&gt;
 
-&lt;p&gt;What makes a good blogging platform really good? Well, that depends on the blogger. Programmers would need different features than make-up bloggers. As a programmer, I need to be able to easily integrate pieces of code with syntax highlighting in my posts and I&amp;rsquo;d prefer writing them in my favorite text/code editor instead of in a WYSIWYG editor.&lt;/p&gt;
+&lt;p&gt;I knew that some of my more technical posts needed to contain code snippets but Wordpress is too-friendly for this working in a WYSIWYG editor. Simply copying and pasting this code within a post didn&amp;rsquo;t work as it removed all of the syntax highlighting and formatting from my favorite IDE (interactive development environment) tools.&lt;/p&gt;
 
-&lt;h2 id=&#34;wordpress:f3941651fa35be8fa9dd1215cdae54e4&#34;&gt;Wordpress&lt;/h2&gt;
+&lt;p&gt;With Wordpress it was the setup was easy enough using a one-click install from a hosting dashboard (BlueHost in my case) and then being able to install plugins, themes, and updates, all from the Wordpress admin. But I had to login through that dashboard every time to access my Wordpress site. On top of that, I was paying a small monthly cost for this hosting.&lt;/p&gt;
 
-&lt;p&gt;Started out using this.&lt;/p&gt;
+&lt;p&gt;Lastly, my site rendered very slowly with Wordpress.&lt;/p&gt;
 
-&lt;h2 id=&#34;hugo:f3941651fa35be8fa9dd1215cdae54e4&#34;&gt;Hugo&lt;/h2&gt;
+&lt;h2 id=&#34;hugo-a-static-site-generator:f3941651fa35be8fa9dd1215cdae54e4&#34;&gt;Hugo: A Static Site Generator&lt;/h2&gt;
+
+&lt;p&gt;Hugo solves these problems.&lt;/p&gt;
+
+&lt;p&gt;I’m already a fan and user of the Go language, and so in following a number of the Go social communities, I discovered Hugo. A static site generator is an application that can take content in some original description (markdown in the case of Hugo), and renders final content by applying rules. This final content can then be hosted anywhere, without the need for server-side runtime support, such as Python/PHP/Go/Node/etc, because it does not require server-side processing to handle rendering the pages on the fly. This makes the site very portable and simple to deploy, and can be served out of aggressive caching.&lt;/p&gt;
 
 &lt;p&gt;I never used Jekyll personally, but I&amp;rsquo;ve heard of it. A few other static site generators &lt;a href=&#34;https://www.staticgen.com&#34; target=&#34;_blank&#34;&gt;have sprung up&lt;/a&gt; since Jekyll&amp;rsquo;s success.&lt;/p&gt;
 
@@ -465,8 +470,6 @@ I&amp;rsquo;ve worked on Windows servers throughout my career, which initially g
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>http://andrewrgoss.github.io/about/</guid>
       <description>
-
-&lt;p&gt;&lt;a href=&#34;#problems_i_solve&#34;&gt;Problems I Solve&lt;/a&gt; | &lt;a href=&#34;http://andrewrgoss.github.io/skills&#34;&gt;Skills Overview&lt;/a&gt; | &lt;a href=&#34;http://andrewrgoss.github.io/resume&#34;&gt;Resume&lt;/a&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;&lt;b&gt;TL;DR&lt;/b&gt; &amp;ndash; Data engineer, technical consultant, and business intelligence developer working to solve challenges at the intersection of marketing and technology &lt;a href=&#34;http://andrewrgoss.github.io/tags/martech&#34;&gt;(martech)&lt;/a&gt;. Also a &lt;a href=&#34;http://andrewrgoss.github.io/travel&#34;&gt;world traveler&lt;/a&gt;.&lt;/p&gt;
@@ -532,30 +535,9 @@ I&amp;rsquo;ve worked on Windows servers throughout my career, which initially g
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>http://andrewrgoss.github.io/resume/</guid>
-      <description>&lt;p&gt;For more on my professional background including additional details around my work history, you can visit my &lt;a href=&#34;https://www.linkedin.com/in/andrewrgoss&#34; target=&#34;_blank&#34;&gt;LinkedIn&lt;/a&gt; profile. &lt;!--You can also find a downloadable copy of my resume [here](/AndrewGoss_Resume.pdf).--&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Search results</title>
-      <link>http://andrewrgoss.github.io/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.github.io/search/</guid>
-      <description>A lot of ad/tracker blockers like Ghostery are blocking Google Custom Search Engine. Allow &lt;i&gt;Google AJAX Search API&lt;/i&gt; to show your search results.
-&lt;br&gt;
-&lt;br&gt;
-
-&lt;gcse:searchresults-only linktarget=&#34;_parent&#34;&gt;&lt;/gcse:searchresults-only&gt;</description>
-    </item>
-    
-    <item>
-      <title>Skills</title>
-      <link>http://andrewrgoss.github.io/skills/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.github.io/skills/</guid>
       <description>
+
+&lt;p&gt;For more on my professional background including additional details around my work history, you can visit my &lt;a href=&#34;https://www.linkedin.com/in/andrewrgoss&#34; target=&#34;_blank&#34;&gt;LinkedIn&lt;/a&gt; profile. &lt;!--You can also find a downloadable copy of my resume [here](/AndrewGoss_Resume.pdf).--&gt;&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Business intelligence development. My focus is on distilling business rules/workflows and translating these into code. This involves a lot of data modeling work under close coordination with client teams.&lt;/li&gt;
@@ -565,7 +547,7 @@ I&amp;rsquo;ve worked on Windows servers throughout my career, which initially g
 
 &lt;p&gt;I also support various applications, data visualization tools, and host server environments.&lt;/p&gt;
 
-&lt;h3 id=&#34;core-competencies:a36058eafe01cd26b16c80f89806a069&#34;&gt;Core Competencies&lt;/h3&gt;
+&lt;h3 id=&#34;core-competencies:c59a67a3c7bc5faa453847420267045e&#34;&gt;Core Competencies&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/coding.png&#34; alt=&#34;Application Development&#34; title=&#34;Application Development&#34; /&gt;
 &lt;img src=&#34;http://andrewrgoss.github.io/img/analysis.png&#34; alt=&#34;Business Intelligence&#34; title=&#34;Business Intelligence&#34; /&gt;
@@ -596,7 +578,7 @@ I&amp;rsquo;ve worked on Windows servers throughout my career, which initially g
   &lt;div class=&#34;desc&#34;&gt;Project Management&lt;/div&gt;
 &lt;/div&gt;--&gt;
 
-&lt;h3 id=&#34;business:a36058eafe01cd26b16c80f89806a069&#34;&gt;Business&lt;/h3&gt;
+&lt;h3 id=&#34;business:c59a67a3c7bc5faa453847420267045e&#34;&gt;Business&lt;/h3&gt;
 
 &lt;ul class=&#34;compact&#34;&gt;
 &lt;li&gt;
@@ -617,7 +599,7 @@ I&amp;rsquo;ve worked on Windows servers throughout my career, which initially g
 &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;technical:a36058eafe01cd26b16c80f89806a069&#34;&gt;Technical&lt;/h3&gt;
+&lt;h3 id=&#34;technical:c59a67a3c7bc5faa453847420267045e&#34;&gt;Technical&lt;/h3&gt;
 
 &lt;ul class=&#34;compact&#34;&gt;
 &lt;li&gt;
@@ -634,7 +616,7 @@ I&amp;rsquo;ve worked on Windows servers throughout my career, which initially g
 &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;programming-languages:a36058eafe01cd26b16c80f89806a069&#34;&gt;Programming Languages&lt;/h3&gt;
+&lt;h3 id=&#34;programming-languages:c59a67a3c7bc5faa453847420267045e&#34;&gt;Programming Languages&lt;/h3&gt;
 
 &lt;ul class=&#34;compact&#34;&gt;
 &lt;li&gt;
@@ -651,6 +633,19 @@ I&amp;rsquo;ve worked on Windows servers throughout my career, which initially g
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Search results</title>
+      <link>http://andrewrgoss.github.io/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.github.io/search/</guid>
+      <description>A lot of ad/tracker blockers like Ghostery are blocking Google Custom Search Engine. Allow &lt;i&gt;Google AJAX Search API&lt;/i&gt; to show your search results.
+&lt;br&gt;
+&lt;br&gt;
+
+&lt;gcse:searchresults-only linktarget=&#34;_parent&#34;&gt;&lt;/gcse:searchresults-only&gt;</description>
     </item>
     
   </channel>
