@@ -29,9 +29,9 @@ I&amp;rsquo;ve been wanting to add Python to my personal tech stack for some tim
 
 &lt;h5 id=&#34;course-progress:b609afaabbef53e4f3d69f90af30ad86&#34;&gt;Course Progress&lt;/h5&gt;
 
-&lt;progress max=&#34;1.0&#34; value=&#34;0.39&#34;&gt;&lt;/progress&gt;
+&lt;progress max=&#34;1.0&#34; value=&#34;0.49&#34;&gt;&lt;/progress&gt;
 
-&lt;p&gt;39% - &lt;font color=&#34;green&#34;&gt;[IN PROGRESS]&lt;/font&gt;.&lt;/p&gt;
+&lt;p&gt;49% - &lt;font color=&#34;green&#34;&gt;[IN PROGRESS]&lt;/font&gt;.&lt;/p&gt;
 
 &lt;!--&lt;a href=&#34;https://github.com/andrewrgoss/udemy-beginning-csharp&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;--&gt;
 </description>
@@ -197,7 +197,8 @@ Percent of World: ~8.71%&lt;/p&gt;
 &lt;p&gt;&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Israel&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Palestine&amp;ensp;&amp;ensp;&lt;/p&gt;
 
-&lt;p&gt;&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;China&amp;ensp;&amp;ensp;
+&lt;p&gt;&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Cambodia&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;China&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Hong Kong&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;India&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Indonesia&amp;ensp;&amp;ensp;
@@ -483,17 +484,7 @@ I&amp;rsquo;ve worked on Windows servers throughout my career, which initially g
       <guid>http://andrewrgoss.github.io/resume/</guid>
       <description>
 
-&lt;p&gt;&lt;a href=&#34;#core_competencies&#34;&gt;Core Competencies&lt;/a&gt;&lt;/p&gt;
-
 &lt;p&gt;For more on my professional background including additional details around my work history, you can visit my &lt;a href=&#34;https://www.linkedin.com/in/andrewrgoss&#34; target=&#34;_blank&#34;&gt;LinkedIn&lt;/a&gt; profile. &lt;!--You can also find a downloadable copy of my resume [here](/AndrewGoss_Resume.pdf).--&gt;
-&lt;hr&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;experience:c59a67a3c7bc5faa453847420267045e&#34;&gt;Experience&lt;/h3&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.digitaslbi.com/us&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/digitaslbi_logo.png&#34;&gt;&lt;/a&gt;
-&lt;a href=&#34;http://www.quickpivot.com&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/quickpivot_logo.png&#34;&gt;&lt;/a&gt;
 &lt;hr&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;a-name-core-competencies-a-core-competencies:c59a67a3c7bc5faa453847420267045e&#34;&gt;&lt;a name=&#34;core_competencies&#34;&gt;&lt;/a&gt;Core Competencies&lt;/h3&gt;
@@ -506,71 +497,23 @@ I&amp;rsquo;ve worked on Windows servers throughout my career, which initially g
 &lt;img src=&#34;http://andrewrgoss.github.io/img/gears.png&#34; alt=&#34;Marketing Automation&#34; title=&#34;Marketing Automation&#34; /&gt;
 &lt;img src=&#34;http://andrewrgoss.github.io/img/projectmanagement.png&#34; alt=&#34;Project Management&#34; title=&#34;Project Management&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;sub&gt;Application Development, Business Intelligence, Database Architecture, Marketing Automation, Project Management&lt;/sub&gt;&lt;br&gt;&lt;br&gt;
-&lt;hr&gt;&lt;/p&gt;
+&lt;p&gt;&lt;sub&gt;Application Development, Business Intelligence, Database Architecture, Marketing Automation, Project Management&lt;/sub&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;Other specialties: data engineering, marketing analytics, application development, consulting, data security, marketing systems, digital marketing, data transformation, vendor management, marketing operations&lt;/p&gt;
+
+&lt;hr&gt;
 
 &lt;h3 id=&#34;skills-overview:c59a67a3c7bc5faa453847420267045e&#34;&gt;Skills Overview&lt;/h3&gt;
 
 &lt;hr&gt;
 
-&lt;h4 id=&#34;business:c59a67a3c7bc5faa453847420267045e&#34;&gt;Business&lt;/h4&gt;
-
-&lt;ul class=&#34;compact&#34;&gt;
-&lt;li&gt;
- &lt;label&gt;Account Management&lt;/label&gt;&lt;br&gt;
- &lt;progress max=&#34;1.0&#34; value=&#34;0.7&#34;&gt;&lt;/progress&gt;
-&lt;/li&gt;
-&lt;li&gt;
- &lt;label&gt;Client-Facing Communication&lt;/label&gt;&lt;br&gt;
- &lt;progress max=&#34;1.0&#34; value=&#34;0.85&#34;&gt;&lt;/progress&gt;
-&lt;/li&gt;
-&lt;li&gt;
- &lt;label&gt;Consulting&lt;/label&gt;&lt;br&gt;
- &lt;progress max=&#34;1.0&#34; value=&#34;0.8&#34;&gt;&lt;/progress&gt;
-&lt;/li&gt;
-&lt;li&gt;
- &lt;label&gt;Marketing Automation&lt;/label&gt;&lt;br&gt;
- &lt;progress max=&#34;1.0&#34; value=&#34;0.65&#34;&gt;&lt;/progress&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h3 id=&#34;experience:c59a67a3c7bc5faa453847420267045e&#34;&gt;Experience&lt;/h3&gt;
 
 &lt;hr&gt;
 
-&lt;h4 id=&#34;technical:c59a67a3c7bc5faa453847420267045e&#34;&gt;Technical&lt;/h4&gt;
-
-&lt;ul class=&#34;compact&#34;&gt;
-&lt;li&gt;
- &lt;label&gt;Relational Databases&lt;/label&gt;&lt;br&gt;
- &lt;progress max=&#34;1.0&#34; value=&#34;0.9&#34;&gt;&lt;/progress&gt;
-&lt;/li&gt;
-&lt;li&gt;
- &lt;label&gt;SaaS&lt;/label&gt;&lt;br&gt;
- &lt;progress max=&#34;1.0&#34; value=&#34;0.72&#34;&gt;&lt;/progress&gt;
-&lt;/li&gt;
-&lt;li&gt;
- &lt;label&gt;Software Development&lt;/label&gt;&lt;br&gt;
- &lt;progress max=&#34;1.0&#34; value=&#34;0.8&#34;&gt;&lt;/progress&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr&gt;
-
-&lt;h4 id=&#34;programming-languages:c59a67a3c7bc5faa453847420267045e&#34;&gt;Programming Languages&lt;/h4&gt;
-
-&lt;ul class=&#34;compact&#34;&gt;
-&lt;li&gt;
- &lt;label&gt;C#&lt;/label&gt;&lt;br&gt;
- &lt;progress max=&#34;1.0&#34; value=&#34;0.9&#34;&gt;&lt;/progress&gt;
-&lt;/li&gt;
-&lt;li&gt;
- &lt;label&gt;Go&lt;/label&gt;&lt;br&gt;
- &lt;progress max=&#34;1.0&#34; value=&#34;0.72&#34;&gt;&lt;/progress&gt;
-&lt;/li&gt;
-&lt;li&gt;
- &lt;label&gt;SQL&lt;/label&gt;&lt;br&gt;
- &lt;progress max=&#34;1.0&#34; value=&#34;0.8&#34;&gt;&lt;/progress&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.digitaslbi.com/us&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/digitaslbi_logo.png&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;http://www.quickpivot.com&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/quickpivot_logo.png&#34;&gt;&lt;/a&gt;
+&lt;hr&gt;&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Business intelligence development. My focus is on distilling business rules/workflows and translating these into code. This involves a lot of data modeling work under close coordination with client teams.&lt;/li&gt;
