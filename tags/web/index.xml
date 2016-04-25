@@ -8,33 +8,37 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Tue, 26 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Apr 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://andrewrgoss.github.io/tags/web/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Why I Switched to Hugo</title>
-      <link>http://andrewrgoss.github.io/2016/why-i-switched-to-hugo/</link>
-      <pubDate>Tue, 26 Jan 2016 00:00:00 +0000</pubDate>
+      <title>Why I Switched to Hugo... And Love It</title>
+      <link>http://andrewrgoss.github.io/2016/why-i-switched-to-hugo...-and-love-it/</link>
+      <pubDate>Mon, 25 Apr 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.github.io/2016/why-i-switched-to-hugo/</guid>
+      <guid>http://andrewrgoss.github.io/2016/why-i-switched-to-hugo...-and-love-it/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/post/hugo.png&#34; alt=&#34;Hugo&#34; title=&#34;Hugo&#34; /&gt;&lt;br&gt;
 For a long time I&amp;rsquo;ve believed in the importance of having a blog but have struggled to keep one going. I started out using Blogger back in the day and most recently was using Wordpress. But there were features about these blogging platforms that consistently bugged me.&lt;/p&gt;
 
-&lt;p&gt;Every time I prepared a post with the text and articles I would have to publish it to see how it looks within the context of the overall site. Yes- it&amp;rsquo;s true that you can save content in draft mode and only make it live after proof-reading. But this was in a different screen - the admin section. I much prefer to see a live preview as I work.&lt;/p&gt;
+&lt;p&gt;Every time I prepared a post with the text and articles I would have to publish it to see how it looks within the context of the overall site. Yes- it&amp;rsquo;s true that you can save content in draft mode and only make it live after proof-reading. But this was in a different screen - the admin section. I much prefer to see a live preview as I work. When I discovered Hugo and started experimenting with it, I fell in love with the &lt;code&gt;hugo server&lt;/code&gt; command. This is an inbuilt server that can serve up your website content so that you can instantly preview changes the second you save them. There is a way to render drafts too with the &lt;code&gt;--buildDrafts&lt;/code&gt; parameter but I prefer just running the production version knowing that since my site is hosted on &lt;a href=&#34;https://pages.github.com&#34; target=&#34;_blank&#34;&gt;GitHub Pages&lt;/a&gt;, nothing will happen until I commit and push the changes.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;Change detected, rebuilding site
+2016-04-25 17:17 -0400
+0 draft content
+0 future content
+10 pages created
+13 paginator pages created
+9 tags created
+in 96 ms
+&lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;I knew that some of my more technical posts needed to contain code snippets but Wordpress is too-friendly for this working in a WYSIWYG editor. Simply copying and pasting this code within a post didn&amp;rsquo;t work as it removed all of the syntax highlighting and formatting from my favorite IDE (interactive development environment) tools.&lt;/p&gt;
 
 &lt;p&gt;With Wordpress it was the setup was easy enough using a one-click install from a hosting dashboard (BlueHost in my case) and then being able to install plugins, themes, and updates, all from the Wordpress admin. But I had to login through that dashboard every time to access my Wordpress site. On top of that, I was paying a small monthly cost for this hosting.&lt;/p&gt;
 
-&lt;p&gt;Lastly, my site rendered very slowly with Wordpress.&lt;/p&gt;
-
-&lt;h2 id=&#34;hugo-a-static-site-generator:f3941651fa35be8fa9dd1215cdae54e4&#34;&gt;Hugo: A Static Site Generator&lt;/h2&gt;
-
-&lt;p&gt;Hugo solves these problems.&lt;/p&gt;
-
-&lt;p&gt;I’m already a fan and user of the Go language, and so in following a number of the Go social communities, I discovered Hugo. A static site generator is an application that can take content in some original description (markdown in the case of Hugo), and renders final content by applying rules. This final content can then be hosted anywhere, without the need for server-side runtime support, such as Python/PHP/Go/Node/etc, because it does not require server-side processing to handle rendering the pages on the fly. This makes the site very portable and simple to deploy, and can be served out of aggressive caching.&lt;/p&gt;
+&lt;p&gt;Lastly, my site rendered very slowly with Wordpress. I’m already a fan and user of the Go language, and so in following a number of the Go social communities, I discovered Hugo. A static site generator is an application that can take content in some original description (markdown in the case of Hugo), and renders final content by applying rules. This final content can then be hosted anywhere, without the need for server-side runtime support, such as Python/PHP/Go/Node/etc, because it does not require server-side processing to handle rendering the pages on the fly. This makes the site very portable and simple to deploy, and can be served out of aggressive caching.&lt;/p&gt;
 
 &lt;p&gt;I never used Jekyll personally, but I&amp;rsquo;ve heard of it. A few other static site generators &lt;a href=&#34;https://www.staticgen.com&#34; target=&#34;_blank&#34;&gt;have sprung up&lt;/a&gt; since Jekyll&amp;rsquo;s success.&lt;/p&gt;
 
