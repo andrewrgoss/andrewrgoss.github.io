@@ -8,62 +8,15 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Mon, 25 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Apr 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://andrewrgoss.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Why I Switched to Hugo... And Love It</title>
-      <link>http://andrewrgoss.github.io/2016/why-i-switched-to-hugo...-and-love-it/</link>
-      <pubDate>Mon, 25 Apr 2016 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.github.io/2016/why-i-switched-to-hugo...-and-love-it/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/post/hugo.png&#34; alt=&#34;Hugo&#34; title=&#34;Hugo&#34; /&gt;&lt;br&gt;
-For a long time I&amp;rsquo;ve believed in the importance of having a blog but have struggled to keep one going. I started out using Blogger back in the day and most recently was using Wordpress. But there were features about these blogging platforms that consistently bugged me.&lt;/p&gt;
-
-&lt;p&gt;Every time I prepared a post with the text and articles I would have to publish it to see how it looks within the context of the overall site. Yes- it&amp;rsquo;s true that you can save content in draft mode and only make it live after proof-reading. But this was in a different screen - the admin section. I much prefer to see a live preview as I work. When I discovered Hugo and started experimenting with it, I fell in love with the &lt;code&gt;hugo server&lt;/code&gt; command. This is an inbuilt server that can serve up your website content so that you can instantly preview changes the second you save them. There is a way to render drafts too with the &lt;code&gt;--buildDrafts&lt;/code&gt; parameter but I prefer just running the production version knowing that since my site is hosted on &lt;a href=&#34;https://pages.github.com&#34; target=&#34;_blank&#34;&gt;GitHub Pages&lt;/a&gt;, nothing will happen until I commit and push the changes.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;Change detected, rebuilding site
-2016-04-25 17:17 -0400
-0 draft content
-0 future content
-10 pages created
-13 paginator pages created
-9 tags created
-in 96 ms
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;I knew that some of my more technical posts needed to contain code snippets but Wordpress is too-friendly for this working in a WYSIWYG editor. Simply copying and pasting this code within a post didn&amp;rsquo;t work as it removed all of the syntax highlighting and formatting from my favorite IDE (interactive development environment) tools.&lt;/p&gt;
-
-&lt;p&gt;With Wordpress it was the setup was easy enough using a one-click install from a hosting dashboard (BlueHost in my case) and then being able to install plugins, themes, and updates, all from the Wordpress admin. But I had to login through that dashboard every time to access my Wordpress site. On top of that, I was paying a small monthly cost for this hosting.&lt;/p&gt;
-
-&lt;p&gt;Lastly, my site rendered very slowly with Wordpress. I’m already a fan and user of the Go language, and so in following a number of the Go social communities, I discovered Hugo. A static site generator is an application that can take content in some original description (markdown in the case of Hugo), and renders final content by applying rules. This final content can then be hosted anywhere, without the need for server-side runtime support, such as Python/PHP/Go/Node/etc, because it does not require server-side processing to handle rendering the pages on the fly. This makes the site very portable and simple to deploy, and can be served out of aggressive caching.&lt;/p&gt;
-
-&lt;p&gt;I never used Jekyll personally, but I&amp;rsquo;ve heard of it. A few other static site generators &lt;a href=&#34;https://www.staticgen.com&#34; target=&#34;_blank&#34;&gt;have sprung up&lt;/a&gt; since Jekyll&amp;rsquo;s success.&lt;/p&gt;
-
-&lt;p&gt;The one that caught my attention was &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo&lt;/a&gt;. It has all the goodness from Jekyll, but it&amp;rsquo;s way easier to setup. Hugo itself is written in &lt;a href=&#34;http://golang.org&#34;&gt;Go&lt;/a&gt;, but they build &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;executable binaries&lt;/a&gt; for a lot of platforms and architectures. So you don&amp;rsquo;t need to install anything else. Even compiling it yourself isn&amp;rsquo;t that hard.&lt;/p&gt;
-
-&lt;p&gt;The process of creating a new website is very similar to Jekyll. The &lt;code&gt;hugo&lt;/code&gt; command literally explains itself (&lt;code&gt;hugo help&lt;/code&gt;) and the &lt;a href=&#34;http://gohugo.io/overview/introduction/&#34;&gt;documentation&lt;/a&gt; on its website should suffice for most users.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;ve successfully migrated my &lt;a href=&#34;https://github.com/SamuelDebruyn/samueldebruyn.github.io/tree/5f5719a9d4519f8fbd4cdfffa2a10b3f066401ef&#34;&gt;Jekyll blog&lt;/a&gt; to &lt;a href=&#34;https://github.com/SamuelDebruyn/sa.muel.be-hugo&#34;&gt;Hugo&lt;/a&gt; and haven&amp;rsquo;t regretted it ever since.&lt;/p&gt;
-
-&lt;h2 id=&#34;disadvantages:f3941651fa35be8fa9dd1215cdae54e4&#34;&gt;Disadvantages&lt;/h2&gt;
-
-&lt;p&gt;One of the major disadvantages of Hugo, or any static site generator for that matter, is integrating &lt;strong&gt;search&lt;/strong&gt;. You need some &lt;a href=&#34;http://discuss.gohugo.io/t/how-are-you-implementing-site-search/986/14&#34;&gt;JavaScript magic&lt;/a&gt; or a 3rd party search provider like &lt;a href=&#34;https://cse.google.com&#34;&gt;Google Custom Search Engine&lt;/a&gt; (which I went for).&lt;/p&gt;
-
-&lt;p&gt;The other dynamic part of an ordinary blog is &lt;strong&gt;the comment section&lt;/strong&gt;. Again, the easiest way to &lt;em&gt;fix&lt;/em&gt; this is relying on a 3rd party comments plugin like &lt;a href=&#34;https://disqus.com/&#34;&gt;Disqus&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Still, these two disadvantages are easily outweighed by the advantages of a static website. Your website will survive &lt;a href=&#34;https://en.wikipedia.org/wiki/Slashdot_effect&#34;&gt;slashdotting&lt;/a&gt; and the only required maintenance is literally making sure your web server stays online.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Udemy- Ultimate Python Programming Tutorial</title>
-      <link>http://andrewrgoss.github.io/learning/udemy_ultimate_python_tutorial/</link>
+      <link>http://andrewrgoss.github.io/2016/udemy--ultimate-python-programming-tutorial/</link>
       <pubDate>Sat, 09 Apr 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.github.io/learning/udemy_ultimate_python_tutorial/</guid>
+      <guid>http://andrewrgoss.github.io/2016/udemy--ultimate-python-programming-tutorial/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/learning/python.png&#34; alt=&#34;Python&#34; title=&#34;Python&#34; /&gt;&lt;br&gt;
@@ -86,10 +39,10 @@ I&amp;rsquo;ve been wanting to add Python to my personal tech stack for some tim
     
     <item>
       <title>AWSome Day Boston</title>
-      <link>http://andrewrgoss.github.io/learning/awsome_day_boston/</link>
+      <link>http://andrewrgoss.github.io/2016/awsome-day-boston/</link>
       <pubDate>Tue, 29 Mar 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.github.io/learning/awsome_day_boston/</guid>
+      <guid>http://andrewrgoss.github.io/2016/awsome-day-boston/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/learning/awsome_day.png&#34; alt=&#34;AWSome Day&#34; title=&#34;AWSome Day&#34; /&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;p&gt;In March 2016 I joined Amazon Web Services for an all-day training event at the Westin Copley Place in Boston. The workshop provided a step-by-step introduction to the core AWS services for compute, storage, database and networking. AWS technical experts explained key features and use cases, shared best practices, and walked through technical demos. We specifically covered the following topics:&lt;/p&gt;
@@ -110,10 +63,10 @@ I&amp;rsquo;ve been wanting to add Python to my personal tech stack for some tim
     
     <item>
       <title>Udemy- Learn Google&#39;s Go (Golang) Programming Language</title>
-      <link>http://andrewrgoss.github.io/learning/udemy_learn_google_golang/</link>
+      <link>http://andrewrgoss.github.io/2016/udemy--learn-googles-go-golang-programming-language/</link>
       <pubDate>Fri, 04 Mar 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.github.io/learning/udemy_learn_google_golang/</guid>
+      <guid>http://andrewrgoss.github.io/2016/udemy--learn-googles-go-golang-programming-language/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/learning/golang_gopher.png&#34; alt=&#34;Golang Gopher&#34; title=&#34;Golang Gopher&#34; /&gt;&lt;br&gt;
@@ -330,10 +283,10 @@ Percent of US: 70%&lt;/p&gt;
     
     <item>
       <title>Caleb Doxsey- An Introduction to Programming in Go</title>
-      <link>http://andrewrgoss.github.io/learning/doxsey_intro_programming_in_go/</link>
+      <link>http://andrewrgoss.github.io/2016/caleb-doxsey--an-introduction-to-programming-in-go/</link>
       <pubDate>Wed, 27 Jan 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.github.io/learning/doxsey_intro_programming_in_go/</guid>
+      <guid>http://andrewrgoss.github.io/2016/caleb-doxsey--an-introduction-to-programming-in-go/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/learning/golang_gopher.png&#34; alt=&#34;Golang Gopher&#34; title=&#34;Golang Gopher&#34; /&gt;&lt;br&gt;
@@ -366,10 +319,10 @@ Percent of US: 70%&lt;/p&gt;
     
     <item>
       <title>Udemy- Programming for Beginners in C#</title>
-      <link>http://andrewrgoss.github.io/learning/udemy_csharp_for_beginners/</link>
+      <link>http://andrewrgoss.github.io/2015/udemy--programming-for-beginners-in-c/</link>
       <pubDate>Sat, 28 Nov 2015 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.github.io/learning/udemy_csharp_for_beginners/</guid>
+      <guid>http://andrewrgoss.github.io/2015/udemy--programming-for-beginners-in-c/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/learning/csharp.png&#34; alt=&#34;C#&#34; title=&#34;C#&#34; /&gt;&lt;br&gt;
@@ -388,6 +341,57 @@ I&amp;rsquo;ve worked on Windows servers throughout my career, which initially g
 &lt;p&gt;100% - completed 11/28/15.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-beginning-csharp&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Why I Switched to Hugo... And Love It</title>
+      <link>http://andrewrgoss.github.io/2015/why-i-switched-to-hugo...-and-love-it/</link>
+      <pubDate>Sun, 25 Oct 2015 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.github.io/2015/why-i-switched-to-hugo...-and-love-it/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/post/hugo.png&#34; alt=&#34;Hugo&#34; title=&#34;Hugo&#34; /&gt;&lt;/a&gt;&lt;br&gt;
+For a long time I&amp;rsquo;ve believed in the importance of having a blog but have struggled to keep one going. I started out using Blogger back in the day and most recently was using Wordpress. But there were features about these blogging platforms that consistently bugged me.&lt;/p&gt;
+
+&lt;h2 id=&#34;live-previews:f3941651fa35be8fa9dd1215cdae54e4&#34;&gt;Live Previews&lt;/h2&gt;
+
+&lt;p&gt;Every time I prepared a post with the text and articles I would have to publish it to see how it looks within the context of the overall site. Yes- it&amp;rsquo;s true that you can save content in draft mode and only make it live after proof-reading. But this was in a different screen - the admin section. I much prefer to see a live preview of the full site as I work. When I discovered Hugo and started experimenting with it, I fell in love with the &lt;code&gt;hugo server&lt;/code&gt; command. This is an inbuilt server that can serve up your website content so that you can instantly preview changes as part of the full site the second you save them. There is a way to render drafts too with the &lt;code&gt;--buildDrafts&lt;/code&gt; parameter but I prefer just running the production version knowing that since my site is hosted on &lt;a href=&#34;https://pages.github.com&#34; target=&#34;_blank&#34;&gt;GitHub Pages&lt;/a&gt;, nothing will happen until I commit and push the changes.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;Change detected, rebuilding site
+2016-04-25 17:17 -0400
+0 draft content
+0 future content
+10 pages created
+13 paginator pages created
+9 tags created
+in 96 ms
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;markdown-support:f3941651fa35be8fa9dd1215cdae54e4&#34;&gt;Markdown Support&lt;/h2&gt;
+
+&lt;p&gt;^ That&amp;rsquo;s some nicely-formatted bash script code in this post eh? The fact that &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; supports &lt;a href=&#34;https://daringfireball.net/projects/markdown&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt; as well as straight-up HTML is another feature I greatly enjoy. For anyone unfamiliar with Markdown, it is a plain text formatting syntax that gets converted to HTML. Using Markdown makes it easier and much quicker to write technical posts as it supports syntax highlighting for a ton of languages. I knew that some of my more technical posts needed to contain code snippets but Wordpress isn&amp;rsquo;t too-friendly for this working in a WYSIWYG editor. Simply copying and pasting this code within a post doesn&amp;rsquo;t work as it removes all of the syntax highlighting and formatting from my favorite IDE (interactive development environment) tools. Yes, there are plugins to support this - but I&amp;rsquo;m comfortable working in Markdown and it&amp;rsquo;s nice to be able to write up content offline if needed.&lt;/p&gt;
+
+&lt;p&gt;With Wordpress it was the setup was easy enough using a one-click install from a hosting dashboard (BlueHost in my case) and then being able to install plugins, themes, and updates, all from the Wordpress admin. But I had to login through that dashboard every time to access my Wordpress site. On top of that, I was paying a small monthly cost for this hosting.&lt;/p&gt;
+
+&lt;p&gt;Lastly, my site rendered very slowly with Wordpress. I’m already a fan and user of the Go language, and so in following a number of the Go social communities, I discovered Hugo. A static site generator is an application that can take content in some original description (markdown in the case of Hugo), and renders final content by applying rules. This final content can then be hosted anywhere, without the need for server-side runtime support, such as Python/PHP/Go/Node/etc, because it does not require server-side processing to handle rendering the pages on the fly. This makes the site very portable and simple to deploy, and can be served out of aggressive caching.&lt;/p&gt;
+
+&lt;p&gt;I never used Jekyll personally, but I&amp;rsquo;ve heard of it. A few other static site generators &lt;a href=&#34;https://www.staticgen.com&#34; target=&#34;_blank&#34;&gt;have sprung up&lt;/a&gt; since Jekyll&amp;rsquo;s success.&lt;/p&gt;
+
+&lt;p&gt;The one that caught my attention was &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo&lt;/a&gt;. It has all the goodness from Jekyll, but it&amp;rsquo;s way easier to setup. Hugo itself is written in &lt;a href=&#34;http://golang.org&#34;&gt;Go&lt;/a&gt;, but they build &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;executable binaries&lt;/a&gt; for a lot of platforms and architectures. So you don&amp;rsquo;t need to install anything else. Even compiling it yourself isn&amp;rsquo;t that hard.&lt;/p&gt;
+
+&lt;p&gt;The process of creating a new website is very similar to Jekyll. The &lt;code&gt;hugo&lt;/code&gt; command literally explains itself (&lt;code&gt;hugo help&lt;/code&gt;) and the &lt;a href=&#34;http://gohugo.io/overview/introduction/&#34;&gt;documentation&lt;/a&gt; on its website should suffice for most users.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve successfully migrated my &lt;a href=&#34;https://github.com/SamuelDebruyn/samueldebruyn.github.io/tree/5f5719a9d4519f8fbd4cdfffa2a10b3f066401ef&#34;&gt;Jekyll blog&lt;/a&gt; to &lt;a href=&#34;https://github.com/SamuelDebruyn/sa.muel.be-hugo&#34;&gt;Hugo&lt;/a&gt; and haven&amp;rsquo;t regretted it ever since.&lt;/p&gt;
+
+&lt;h2 id=&#34;disadvantages:f3941651fa35be8fa9dd1215cdae54e4&#34;&gt;Disadvantages&lt;/h2&gt;
+
+&lt;p&gt;One of the major disadvantages of Hugo, or any static site generator for that matter, is integrating &lt;strong&gt;search&lt;/strong&gt;. You need some &lt;a href=&#34;http://discuss.gohugo.io/t/how-are-you-implementing-site-search/986/14&#34;&gt;JavaScript magic&lt;/a&gt; or a 3rd party search provider like &lt;a href=&#34;https://cse.google.com&#34;&gt;Google Custom Search Engine&lt;/a&gt; (which I went for).&lt;/p&gt;
+
+&lt;p&gt;The other dynamic part of an ordinary blog is &lt;strong&gt;the comment section&lt;/strong&gt;. Again, the easiest way to &lt;em&gt;fix&lt;/em&gt; this is relying on a 3rd party comments plugin like &lt;a href=&#34;https://disqus.com/&#34;&gt;Disqus&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Still, these two disadvantages are easily outweighed by the advantages of a static website. Your website will survive &lt;a href=&#34;https://en.wikipedia.org/wiki/Slashdot_effect&#34;&gt;slashdotting&lt;/a&gt; and the only required maintenance is literally making sure your web server stays online.&lt;/p&gt;
 </description>
     </item>
     
@@ -424,7 +428,7 @@ I&amp;rsquo;ve worked on Windows servers throughout my career, which initially g
 
 &lt;p&gt;My cross-functional roles supporting these organizations have touched data engineering, ETL scripting, database design, business intelligence, database marketing, marketing automation, web analytics, operational reporting, and advanced analytics. As a consultant, I strive to consistently provide quality ongoing services, on-time deliverables, and open communication around project status, risks, and challenges. I also make sure to not lose sight of the fact that I ultimately serve other people and work to build strong relationships with my clients and team members. I am results-oriented, well-organized, and self-motivated.&lt;/p&gt;
 
-&lt;p&gt;Outside of my regular responsibilities, I take a proactive approach towards career growth and skill development through a dedicated effort towards continuing education. I&amp;rsquo;m a big believer in the idea that one should never stop seeking new knowledge. I use the &lt;a href=&#34;http://andrewrgoss.github.io/learning&#34;&gt;learning&lt;/a&gt; section of this website to document and track my progress in learning new concepts and furthering my abilities. It also makes it easy to go back and reference materials. I&amp;rsquo;m always reading articles and following the thought leaders across the world to stay on top of trends. I &lt;a href=&#34;https://twitter.com/andrewrgoss&#34; target=&#34;_blank&#34;&gt;tweet&lt;/a&gt; lots of links regularly so others can also read about these ever-shifting marketing technology patterns shaping businesses. And of course, I never underestimate the power of asking questions and seeking mentorship from the smart people I work with and across the industry.&lt;/p&gt;
+&lt;p&gt;Outside of my regular responsibilities, I take a proactive approach towards career growth and skill development through a dedicated effort towards continuing education. I&amp;rsquo;m a big believer in the idea that one should never stop seeking new knowledge. I use my blog to document and track my progress in learning new concepts and furthering my abilities. It also makes it easy to go back and reference materials. I&amp;rsquo;m always reading articles and following the thought leaders across the world to stay on top of trends. I &lt;a href=&#34;https://twitter.com/andrewrgoss&#34; target=&#34;_blank&#34;&gt;tweet&lt;/a&gt; lots of links regularly so others can also read about these ever-shifting marketing technology patterns shaping businesses. And of course, I never underestimate the power of asking questions and seeking mentorship from the smart people I work with and across the industry.&lt;/p&gt;
 
 &lt;h2 id=&#34;a-name-problems-i-solve-a-problems-i-solve:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;&lt;a name=&#34;problems_i_solve&#34;&gt;&lt;/a&gt;Problems I Solve&lt;/h2&gt;
 
@@ -462,7 +466,7 @@ I&amp;rsquo;ve worked on Windows servers throughout my career, which initially g
 
 &lt;p&gt;&lt;sub&gt;Application Development, Business Intelligence, Database Architecture, Marketing Automation, Project Management&lt;/sub&gt;&lt;br&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Other specialties:&lt;/b&gt; data engineering, marketing analytics, application development, consulting, data warehousing, data security, marketing systems, data mining, data transformation, vendor management, marketing operations&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Other specialties:&lt;/b&gt; data engineering, marketing analytics, application development, consulting, data warehousing, data security, marketing systems, data mining, data transformation, vendor management, web development, marketing operations&lt;/p&gt;
 
 &lt;hr&gt;
 
