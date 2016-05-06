@@ -498,7 +498,7 @@ I never used Jekyll personally, but I&amp;rsquo;ve heard of it. A few other stat
 &lt;li&gt;&lt;b&gt;PROGRAMMING LANGUAGES:&lt;/b&gt; SQL, C#, Python, Go&lt;/li&gt;
 &lt;li&gt;&lt;b&gt;RDBMS:&lt;/b&gt; Microsoft SQL Server, PostgreSQL&lt;/li&gt;
 &lt;li&gt;&lt;b&gt;TEXT EDITORS:&lt;/b&gt; &lt;a href=&#34;https://atom.io&#34; target=&#34;_blank&#34;&gt;Atom&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/atom.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;Notepad++, UltraEdit&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;WEB TECHNOLOGIES:&lt;/b&gt; HTML, CSS, XML, JSON, RESTful Web Services&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;WEB TECHNOLOGIES:&lt;/b&gt; HTML, CSS, XML, JSON, &lt;a href=&#34;https://en.wikipedia.org/wiki/Representational_state_transfer&#34; target=&#34;_blank&#34;&gt;RESTful Web Services&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/rest-api.png&#34;&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;b&gt;WORKFLOW MANAGEMENT:&lt;/b&gt; &lt;a href=&#34;https://www.atlassian.com/software/jira&#34; target=&#34;_blank&#34;&gt;JIRA&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/jira.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://trello.com&#34; target=&#34;_blank&#34;&gt;Trello&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/trello.png&#34;&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -509,16 +509,7 @@ I never used Jekyll personally, but I&amp;rsquo;ve heard of it. A few other stat
 &lt;h3 id=&#34;work-experience:c59a67a3c7bc5faa453847420267045e&#34;&gt;Work Experience&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://www.digitaslbi.com/us&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/digitaslbi_logo.png&#34;&gt;&lt;/a&gt;
-&lt;a href=&#34;http://www.quickpivot.com&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/quickpivot_logo.png&#34;&gt;&lt;/a&gt;
-&lt;hr&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Business intelligence development. My focus is on distilling business rules/workflows and translating these into code. This involves a lot of data modeling work under close coordination with client teams.&lt;/li&gt;
-&lt;li&gt;Automation engineering. This is where I automate common work patterns and tedious data-oriented tasks. This frees up internal analysts to work more efficiently and focus energies on deeper, more challenging insights. And to do so with clean, manageable data.&lt;/li&gt;
-&lt;li&gt;API and data integrations. This is where I work to combine many disparate sources into a holistic view of the client&amp;rsquo;s marketing ecosystem and its touchpoints with each intended audience member. For instance, I&amp;rsquo;ve utilized real-time data, such as weather APIs, to enable customized marketing offers.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I also support various applications, data visualization tools, and host server environments.&lt;/p&gt;
+&lt;a href=&#34;http://www.quickpivot.com&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/quickpivot_logo.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
