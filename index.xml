@@ -447,10 +447,57 @@ I never used Jekyll personally, but I&amp;rsquo;ve heard of it. A few other stat
 
 &lt;p&gt;Everyone wants the holistic, 360-view of a person&amp;rsquo;s interactions with the company to create a better end user experience. But there&amp;rsquo;s no centralized repository and no standardized way of working with the data. Lack of documentation can be a problem too, with many people following their own methods instead of a formalized process. When people leave the organization, things get lost in translation. There ends up being legacy programs and processes that no longer get used but since it&amp;rsquo;s too risky or impossible to start over, things get built on top of each other. Eventually the system becomes an entangled mess of files and code. I can&amp;rsquo;t predict future use for the programs I develop but I always try to emphasize clean, readable code that is easily configurable (through the use of parameters and such) with anticipation that needs will inevitably change.&lt;/p&gt;
 
-&lt;p&gt;Lastly, there&amp;rsquo;s too much manual work going on. You&amp;rsquo;d think this would only be happening at smaller companies, but it happens at larger ones too. A lot of this stems from people not knowing of a better approach or simply being set in their ways. I always seek ways to automate any remotely repititive manual process I come across. This frees up resources to focus their time on more meaningful insights that drive business impact and reduces the potential for human error.
-&lt;!--&lt;a href=&#34;https://www.oreilly.com/ideas/insightful-applications-the-next-inflection-in-big-data&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; to blog post on data warehousing.--&gt;&lt;/p&gt;
+&lt;p&gt;Lastly, there&amp;rsquo;s too much manual work going on. You&amp;rsquo;d think this would only be happening at smaller companies, but it happens at larger ones too. A lot of this stems from people not knowing of a better approach or simply being set in their ways. I always seek ways to automate any remotely repititive manual process I come across. This frees up resources to focus their time on more meaningful insights that drive business impact and reduces the potential for human error.&lt;/p&gt;
 
 &lt;p&gt;These are some of the types of challenges that I love to tackle. If these kinds of issues are all too familiar to you, let&amp;rsquo;s get in touch.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>http://andrewrgoss.github.io/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.github.io/resources/</guid>
+      <description>
+
+&lt;blockquote&gt;
+&lt;p&gt;There are tons of great resources all over the internet that I&amp;rsquo;ve come across and people have sent me lots of useful links. I&amp;rsquo;ve bookmarked hundreds of URLs and this page is my collection of the ones I&amp;rsquo;ve found to be the most helpful. If you&amp;rsquo;re reading this and have something to add or find a dead link please &lt;a href=&#34;mailto:andrewrgoss@gmail.com&#34; target=&#34;_blank&#34;&gt;shoot me a note&lt;/a&gt;. I&amp;rsquo;ll be building this up more over time.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;#programming&#34;&gt;Programming&lt;/a&gt; | &lt;a href=&#34;#website_tools&#34;&gt;Website Tools&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h2 id=&#34;a-name-programming-a-programming:74f7fb04a75e766307d398251c369a21&#34;&gt;&lt;a name=&#34;programming&#34;&gt;&lt;/a&gt;Programming&lt;/h2&gt;
+
+&lt;h4 id=&#34;overapi:74f7fb04a75e766307d398251c369a21&#34;&gt;OverAPI&lt;/h4&gt;
+
+&lt;p&gt;Boning up on a new language and want a quick list of common commands? &lt;a href=&#34;http://overapi.com&#34; target=&#34;_blank&#34;&gt;OverAPI&lt;/a&gt; has a gigantic selection of cheat sheets for almost any current technology, from Ada to ZenCoding (Emmet) and everything in between.&lt;br&gt;
+&lt;a href=&#34;http://overapi.com&#34;&gt;http://overapi.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h2 id=&#34;a-name-website-tools-a-website-tools:74f7fb04a75e766307d398251c369a21&#34;&gt;&lt;a name=&#34;website_tools&#34;&gt;&lt;/a&gt;Website Tools&lt;/h2&gt;
+
+&lt;h4 id=&#34;builtwith:74f7fb04a75e766307d398251c369a21&#34;&gt;BuiltWith&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://builtwith.com&#34;&gt;http://builtwith.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;google-design-resizer:74f7fb04a75e766307d398251c369a21&#34;&gt;Google Design: Resizer&lt;/h4&gt;
+
+&lt;p&gt;An interactive viewer to see and test how digital products respond to material design breakpoints across desktop, mobile, and tablet.&lt;br&gt;
+&lt;a href=&#34;http://design.google.com/resizer&#34;&gt;http://design.google.com/resizer&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://design.google.com/articles/introducing-resizer&#34;&gt;https://design.google.com/articles/introducing-resizer&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;website-grader:74f7fb04a75e766307d398251c369a21&#34;&gt;Website Grader&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://website.grader.com&#34;&gt;https://website.grader.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;who-is-hosting-this:74f7fb04a75e766307d398251c369a21&#34;&gt;Who Is Hosting This&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.whoishostingthis.com&#34; target=&#34;_blank&#34;&gt;WhoIsHostingThis&lt;/a&gt; allows a user to simply enter the domain name of any site and instantly uncover the identity of the company that is hosting the site.&lt;br&gt;
+&lt;a href=&#34;http://www.whoishostingthis.com&#34;&gt;http://www.whoishostingthis.com&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -508,8 +555,17 @@ I never used Jekyll personally, but I&amp;rsquo;ve heard of it. A few other stat
 
 &lt;h3 id=&#34;work-experience:c59a67a3c7bc5faa453847420267045e&#34;&gt;Work Experience&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://www.digitaslbi.com/us&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/digitaslbi_logo.png&#34;&gt;&lt;/a&gt;
-&lt;a href=&#34;http://www.quickpivot.com&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/quickpivot_logo.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.digitaslbi.com/us&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/digitaslbi_logo.png&#34;&gt;&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;&lt;a href=&#34;http://www.digitaslbi.com/us&#34; target=&#34;_blank&#34;&gt;DigitasLBi&lt;/a&gt;&lt;/strong&gt; | Oct 2015 - present&lt;br&gt;
+Manager, Media Systems &amp;amp; Techology&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.quickpivot.com&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/quickpivot_logo.png&#34;&gt;&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;&lt;a href=&#34;http://www.quickpivot.com&#34; target=&#34;_blank&#34;&gt;QuickPivot&lt;/a&gt;&lt;/strong&gt; | Apr 2012 - Oct 2015&lt;br&gt;
+Technical Consultant | Account Manager | Marketing Specialist&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.geminiunderwriters.com&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/gtu_logo.png&#34;&gt;&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;&lt;a href=&#34;http://www.geminiunderwriters.com&#34; target=&#34;_blank&#34;&gt;Gemini Transportation Underwriters&lt;/a&gt;&lt;/strong&gt; | Jul 2011 - Apr 2012&lt;br&gt;
+Marketing Specialist&lt;/p&gt;
 </description>
     </item>
     
