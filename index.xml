@@ -418,7 +418,7 @@ I never used Jekyll personally, but I&amp;rsquo;ve heard of it. A few other stat
 &lt;p&gt;&lt;b&gt;TL;DR&lt;/b&gt; &amp;ndash; Data engineer, technical consultant, and business intelligence developer working to solve challenges at the intersection of marketing and technology. Also a &lt;a href=&#34;http://andrewrgoss.github.io/travel&#34;&gt;world traveler&lt;/a&gt;.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Hey! I&amp;rsquo;m Andrew Goss. Thanks for visiting my website. My career has been tied closely to the convergence of marketing and advertising technology (adtech and martech) and the personalization of data that comes with it. Companies across the world have fundamentally shifted how they spend their marketing dollars and messaging is now at the individual level, where data-driven unique messages are communicated across ads, email, and a brand&amp;rsquo;s own site. Over the years in working in this space I&amp;rsquo;ve found a ton of great resources and putting them down in a blog is a great way to share everything. If you&amp;rsquo;re interested in learning more about me specifically you can read on (or check out my &lt;a href=&#34;http://andrewrgoss.github.io/resume&#34;&gt;resume&lt;/a&gt;), otherwise you can skip down to &lt;a href=&#34;#problems_i_solve&#34;&gt;learn more&lt;/a&gt; about problems I help organizations with.&lt;/p&gt;
+&lt;p&gt;Hey! I&amp;rsquo;m Andrew Goss. Thanks for visiting my website. My career has been tied closely to the convergence of marketing and advertising technology (adtech and martech) and the personalization of data that comes with it. Companies across the world have fundamentally shifted how they spend their marketing dollars and messaging is now at the individual level, where data-driven unique messages are communicated across ads, email, and a brand&amp;rsquo;s own site. Over the years in working in this space I&amp;rsquo;ve found a ton of great &lt;a href=&#34;http://andrewrgoss.github.io/resources&#34;&gt;resources&lt;/a&gt; and putting them down in a blog is a great way to share everything. If you&amp;rsquo;re interested in learning more about me specifically you can read on (or check out my &lt;a href=&#34;http://andrewrgoss.github.io/resume&#34;&gt;resume&lt;/a&gt;), otherwise you can skip down to &lt;a href=&#34;#problems_i_solve&#34;&gt;learn more&lt;/a&gt; about problems I help organizations with.&lt;/p&gt;
 
 &lt;h2 id=&#34;my-background:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;My Background&lt;/h2&gt;
 
@@ -465,7 +465,23 @@ I never used Jekyll personally, but I&amp;rsquo;ve heard of it. A few other stat
 &lt;p&gt;There are tons of great resources all over the internet that I&amp;rsquo;ve come across and people have sent me lots of useful links. I&amp;rsquo;ve bookmarked hundreds of URLs and this page is my collection of the ones I&amp;rsquo;ve found to be the most helpful. If you&amp;rsquo;re reading this and have something to add or find a dead link please &lt;a href=&#34;mailto:andrewrgoss@gmail.com&#34; target=&#34;_blank&#34;&gt;shoot me a note&lt;/a&gt;. I&amp;rsquo;ll be building this up more over time.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;a href=&#34;#programming&#34;&gt;Programming&lt;/a&gt; | &lt;a href=&#34;#website_tools&#34;&gt;Website Tools&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;#business_intelligence&#34;&gt;Business Intelligence&lt;/a&gt; | &lt;a href=&#34;#programming&#34;&gt;Programming&lt;/a&gt; | &lt;a href=&#34;#website_tools&#34;&gt;Website Tools&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h2 id=&#34;a-name-business-intelligence-a-business-intelligence:74f7fb04a75e766307d398251c369a21&#34;&gt;&lt;a name=&#34;business_intelligence&#34;&gt;&lt;/a&gt;Business Intelligence&lt;/h2&gt;
+
+&lt;h4 id=&#34;olap-cube:74f7fb04a75e766307d398251c369a21&#34;&gt;OLAP Cube&lt;/h4&gt;
+
+&lt;p&gt;An OLAP Cube is a data structure that allows fast analysis of data according to the multiple dimensions that define a business problem. The arrangement of data into Cubes overcomes a limitation of relational databases, which are not well suited for near instantaneous analysis and display of large amounts of data.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://olap.com/learn-bi-olap/olap-bi-definitions/olap-cube&#34;&gt;http://olap.com/learn-bi-olap/olap-bi-definitions/olap-cube&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;transactional-vs-analytical-processing:74f7fb04a75e766307d398251c369a21&#34;&gt;Transactional vs. Analytical Processing&lt;/h4&gt;
+
+&lt;p&gt;OLTP (online transaction processing) systems provide source data to data warehouses, whereas OLAP (online analytical processing) systems help to analyze it.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://datawarehouse4u.info/OLTP-vs-OLAP.html&#34;&gt;http://datawarehouse4u.info/OLTP-vs-OLAP.html&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr&gt;
 
@@ -509,8 +525,11 @@ I never used Jekyll personally, but I&amp;rsquo;ve heard of it. A few other stat
       <guid>http://andrewrgoss.github.io/resume/</guid>
       <description>
 
-&lt;p&gt;For more on my professional background including additional details around my work history, you can visit my &lt;a href=&#34;https://www.linkedin.com/in/andrewrgoss&#34; target=&#34;_blank&#34;&gt;LinkedIn&lt;/a&gt; profile. &lt;!--You can also find a downloadable copy of my resume [here](/AndrewGoss_Resume.pdf).--&gt;
-&lt;hr&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;For more on my professional background including additional details around my work history, you can visit my &lt;a href=&#34;https://www.linkedin.com/in/andrewrgoss&#34; target=&#34;_blank&#34;&gt;LinkedIn&lt;/a&gt; profile. &lt;!--You can also find a downloadable copy of my resume [here](/AndrewGoss_Resume.pdf).--&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr&gt;
 
 &lt;h3 id=&#34;summary:c59a67a3c7bc5faa453847420267045e&#34;&gt;Summary&lt;/h3&gt;
 
@@ -540,7 +559,7 @@ I never used Jekyll personally, but I&amp;rsquo;ve heard of it. A few other stat
 &lt;li&gt;&lt;b&gt;CHANGE MANAGEMENT:&lt;/b&gt; &lt;a href=&#34;https://github.com&#34; target=&#34;_blank&#34;&gt;Github&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/github.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://about.gitlab.com&#34; target=&#34;_blank&#34;&gt;Gitlab&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/gitlab.png&#34;&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://git-scm.com&#34; target=&#34;_blank&#34;&gt;Git&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/git.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp; &lt;a href=&#34;https://subversion.apache.org&#34; target=&#34;_blank&#34;&gt;Subversion&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/subversion.png&#34;&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;b&gt;ETL TOOLS:&lt;/b&gt; &lt;a href=&#34;https://msdn.microsoft.com/en-us/library/ms141026.aspx&#34; target=&#34;_blank&#34;&gt;SSIS&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/mssqlserver.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://www.talend.com/products/talend-open-studio&#34; target=&#34;_blank&#34;&gt;Talend Open Studio*&lt;img src=&#34;http://andrewrgoss.github.io/img/talend.png&#34;&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;b&gt;IDES:&lt;/b&gt; &lt;a href=&#34;https://www.visualstudio.com&#34; target=&#34;_blank&#34;&gt;Visual Studio&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/visual_studio.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://www.visualstudio.com&#34; target=&#34;_blank&#34;&gt;Visual Studio Code&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/visual_studio_code.png&#34;&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;MARKETING AUTOMATION:&lt;/b&gt; Eloqua, Marketo&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;MARKETING AUTOMATION:&lt;/b&gt; &lt;a href=&#34;https://www.oracle.com/marketingcloud/products/marketing-automation/index.html&#34; target=&#34;_blank&#34;&gt;Eloqua&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/eloqua.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://www.marketo.com&#34; target=&#34;_blank&#34;&gt;Marketo&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/marketo.png&#34;&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;b&gt;OPERATING SYSTEMS:&lt;/b&gt; Windows, Linux&lt;/li&gt;
 &lt;li&gt;&lt;b&gt;PROGRAMMING LANGUAGES:&lt;/b&gt; SQL, C#, Python, Go&lt;/li&gt;
 &lt;li&gt;&lt;b&gt;RDBMS:&lt;/b&gt; Microsoft SQL Server, PostgreSQL&lt;/li&gt;
