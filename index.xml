@@ -8,8 +8,35 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Sat, 09 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 May 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://andrewrgoss.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Open Data Science Conference East</title>
+      <link>http://andrewrgoss.github.io/2016/open-data-science-conference-east/</link>
+      <pubDate>Fri, 20 May 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.github.io/2016/open-data-science-conference-east/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.odsc.com/boston&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/post/odsc.png&#34; alt=&#34;Open Data Science Conference&#34; title=&#34;Open Data Science Conference&#34; /&gt;&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;For 3 days in May 2016 I will be attending my first &lt;a href=&#34;https://www.odsc.com&#34; target=&#34;_blank&#34;&gt;Open Data Science Conference&lt;/a&gt; in Boston. There will be 3,000+ data science practioners coming together at the Boston Convention &amp;amp; Exhibition Center to share ideas about this rapidly changing discipline. I&amp;rsquo;m looking forward to writing more of my thoughts here following the conference.&lt;/p&gt;
+
+&lt;p&gt;Topics that will be covered include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Deep Learning&lt;/li&gt;
+&lt;li&gt;Machine Learning&lt;/li&gt;
+&lt;li&gt;Predictive Analytics&lt;/li&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;li&gt;Stan&lt;/li&gt;
+&lt;li&gt;R&lt;/li&gt;
+&lt;li&gt;Hadoop&lt;/li&gt;
+&lt;li&gt;Spark&lt;/li&gt;
+&lt;li&gt;Scikit-learn&lt;/li&gt;
+&lt;li&gt;Julia&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Udemy- Ultimate Python Programming Tutorial</title>
@@ -379,30 +406,23 @@ in 96 ms
 
 &lt;h2 id=&#34;custom-themes:f3941651fa35be8fa9dd1215cdae54e4&#34;&gt;Custom Themes&lt;/h2&gt;
 
-&lt;p&gt;I knew I wanted a minimalistic, responsive site that is easy to navigate without too much scrolling.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m not going to deny that Hugo has nowhere near the numbers of themes that Wordpress does. On Wordpress, I was using the &lt;a href=&#34;http://www.s5themes.com/theme/focused&#34; target=&#34;_blank&#34;&gt;Focused&lt;/a&gt; theme.&lt;/p&gt;
+&lt;p&gt;I knew I wanted a minimalistic, responsive site that is easy to navigate without too much scrolling. I&amp;rsquo;m not going to deny that Hugo has nowhere near the numbers of themes that Wordpress does. On Wordpress I searched through probably hundreds of different themes before settling on &lt;a href=&#34;http://www.s5themes.com/theme/focused&#34; target=&#34;_blank&#34;&gt;Focused&lt;/a&gt;. Hugo is continuing to add more themes to its library but searching through them was a lot easier since they all live on the &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo website&lt;/a&gt;. With Wordpress both free and paid themes are scattered across the interwebs. I also found the source code much easier to obtain for the Hugo themes since each one is free and links to its respective Github repository.&lt;/p&gt;
 
 &lt;h2 id=&#34;rendering-speed:f3941651fa35be8fa9dd1215cdae54e4&#34;&gt;Rendering Speed&lt;/h2&gt;
 
-&lt;p&gt;Lastly, my site rendered very slowly with Wordpress/BlueHost. I’m already a fan and user of the Go language, and so in following a number of the Go social communities, I discovered Hugo. A static site generator is an application that can take content in some original description (markdown in the case of Hugo), and renders final content by applying rules. This final content can then be hosted anywhere, without the need for server-side runtime support, such as Python/PHP/Go/Node/etc, because it does not require server-side processing to handle rendering the pages on the fly. This makes the site very portable and simple to deploy, and can be served out of aggressive caching.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;ADD TO RESOURCES SECTION&lt;/strong&gt;
-I never used Jekyll personally, but I&amp;rsquo;ve heard of it. A few other static site generators &lt;a href=&#34;https://www.staticgen.com&#34; target=&#34;_blank&#34;&gt;have sprung up&lt;/a&gt; since Jekyll&amp;rsquo;s success.&lt;/p&gt;
+&lt;p&gt;Lastly, my site rendered very slowly with Wordpress/BlueHost. I’m already a fan and user of the Go language, and so in following a number of the Go social communities, I discovered Hugo. One of the most popular aspects of Go is speed as it is a langauge with subroutines baked in making it easy to execute concurrent processes. The Hugo static site generator is written in Go. A static site generator is an application that can take content in some original description (markdown in the case of Hugo) and render final content by applying rules. This final content can then be hosted anywhere, without the need for server-side runtime support such as Python/PHP/Go/Node/etc. This is because it does not require server-side processing to handle rendering pages on the fly. This makes the site very portable and simple to deploy and can be served out of aggressive caching.&lt;/p&gt;
 
 &lt;h2 id=&#34;disadvantages:f3941651fa35be8fa9dd1215cdae54e4&#34;&gt;Disadvantages&lt;/h2&gt;
 
-&lt;p&gt;One of the major disadvantages of Hugo, or any static site generator for that matter, is integrating &lt;strong&gt;search&lt;/strong&gt;. You need some &lt;a href=&#34;http://discuss.gohugo.io/t/how-are-you-implementing-site-search/986/14&#34;&gt;JavaScript magic&lt;/a&gt; or a 3rd party search provider like &lt;a href=&#34;https://cse.google.com&#34;&gt;Google Custom Search Engine&lt;/a&gt;, which is what I went for.&lt;/p&gt;
+&lt;p&gt;One of the major disadvantages of Hugo, or any static site generator for that matter, is integrating search. You either need some &lt;a href=&#34;http://discuss.gohugo.io/t/how-are-you-implementing-site-search/986/14&#34; target=&#34;_blank&#34;&gt;JavaScript magic&lt;/a&gt; or a 3rd party search provider like &lt;a href=&#34;Google Custom Search Engine&#34; target=&#34;_blank&#34;&gt;Google Custom Search Engine&lt;/a&gt;, which is what I went for.&lt;/p&gt;
 
-&lt;p&gt;The other dynamic part of an ordinary blog is &lt;strong&gt;the comment section&lt;/strong&gt;. Again, the easiest way to &lt;em&gt;fix&lt;/em&gt; this is relying on a 3rd party comments plugin like &lt;a href=&#34;https://disqus.com/&#34;&gt;Disqus&lt;/a&gt;. Hugo offers &lt;a href=&#34;https://gohugo.io/extras/comments&#34; target=&#34;_blank&#34;&gt;support&lt;/a&gt; for this and makes it fairly simple to implement.&lt;/p&gt;
+&lt;p&gt;The other dynamic part of an ordinary blog is the comment section. Again, the easiest way to fix this is relying on a 3rd party comments plugin like &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34;&gt;Disqus&lt;/a&gt;. Hugo offers &lt;a href=&#34;https://gohugo.io/extras/comments&#34; target=&#34;_blank&#34;&gt;support&lt;/a&gt; for this and makes it fairly simple to implement.&lt;/p&gt;
 
-&lt;p&gt;Even though Hugo does not come with search or a comments section as built-in features, I didn&amp;rsquo;t take issue with this as I quickly found ways to integrate them anyways. So to me, these two disadvantages are easily outweighed by the advantages of a static website. Your website will survive &lt;a href=&#34;https://en.wikipedia.org/wiki/Slashdot_effect&#34; target=&#34;_blank&#34;&gt;slashdotting&lt;/a&gt; and the only required maintenance is literally making sure your web server stays online.&lt;/p&gt;
+&lt;p&gt;Even though Hugo does not come with search or a comments section as built-in features, I didn&amp;rsquo;t take issue with this as I quickly found ways to integrate them anyways. So to me, these two disadvantages are easily outweighed by the advantages of a static website. Your website will survive &lt;a href=&#34;https://en.wikipedia.org/wiki/Slashdot_effect&#34; target=&#34;_blank&#34;&gt;slashdotting&lt;/a&gt; and the only required maintenance is literally making sure your web server stays online (and I think I&amp;rsquo;m in pretty good shape with Github).&lt;/p&gt;
 
 &lt;h2 id=&#34;conclusion:f3941651fa35be8fa9dd1215cdae54e4&#34;&gt;Conclusion&lt;/h2&gt;
 
-&lt;p&gt;Wordpress is the most popular content management system (CMS) for a reason. There are countless commercial websites and personal blogs powered by Wordpress along with thousands of customizable plugins. You don&amp;rsquo;t necessarily have to know how to program to build&lt;/p&gt;
-
-&lt;p&gt;There is a great Hugo community too for Q&amp;amp;A support.&lt;/p&gt;
+&lt;p&gt;Wordpress is the most popular content management system (CMS) for a reason. There are countless commercial websites and personal blogs powered by Wordpress along with thousands of customizable plugins. You don&amp;rsquo;t necessarily have to know how to program to build a beautiful-looking Wordpress site. But if you are someone who is comfortable coding and looking to publish a personal website/blog that is lightning-quick, highly customizable and free (open-source), Hugo may be a good choice for you. For me it has also been a great way to practice front-end development as most of my time is spent on the back-end. And if you ever get stuck, there is a great &lt;a href=&#34;https://discuss.gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo community&lt;/a&gt; for Q&amp;amp;A support.&lt;/p&gt;
 </description>
     </item>
     
@@ -424,16 +444,7 @@ I never used Jekyll personally, but I&amp;rsquo;ve heard of it. A few other stat
 
 &lt;p&gt;I am currently a manager for Media Systems and Technology at &lt;a href=&#34;http://www.digitaslbi.com/us&#34; target=&#34;_blank&#34;&gt;DigitasLBi&lt;/a&gt;, where we use a variety of evolving technologies to build the systems and architectures behind business intelligence tools used extensively by global analytic teams and clients. I help clients translate large amounts of fragmented data into smarter optimization of marketing/advertising dollars through technical expertise combined with human marketing savviness and business acumen.&lt;/p&gt;
 
-&lt;p&gt;Over the past 5+ years I have gained experience as both a developer and a marketer in leveraging people, process, and technology. I&amp;rsquo;ve held both client-facing and technical roles while addressing a wide range of business initiatives across industries such as finance, higher education, insurance, and technology. During this time I&amp;rsquo;ve worked with several high-profile agency clients including Bank of America, EDMC, Hewlett Packard Enterprise, and Reed Elsevier. Here is my full list:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/BoA_logo.png&#34; alt=&#34;Bank of America&#34; title=&#34;Bank of America&#34; /&gt;
-&lt;img src=&#34;http://andrewrgoss.github.io/img/Correlsense_logo.png&#34; alt=&#34;Correlsense&#34; title=&#34;Correlsense&#34; /&gt;
-&lt;img src=&#34;http://andrewrgoss.github.io/img/DBC_logo.png&#34; alt=&#34;Diversified Communications&#34; title=&#34;Diversified Communications&#34; /&gt;
-&lt;img src=&#34;http://andrewrgoss.github.io/img/EDMC_logo.png&#34; alt=&#34;Education Management Corporation&#34; title=&#34;Education Management Corporation&#34; /&gt;
-&lt;img src=&#34;http://andrewrgoss.github.io/img/HP_logo.png&#34; alt=&#34;HP Inc.&#34; title=&#34;HP Inc.&#34; /&gt;
-&lt;img src=&#34;http://andrewrgoss.github.io/img/HPE_logo.png&#34; alt=&#34;Hewlett Packard Enterprise&#34; title=&#34;Hewlett Packard Enterprise&#34; /&gt;
-&lt;img src=&#34;http://andrewrgoss.github.io/img/Reed_Elsevier_logo.png&#34; alt=&#34;Reed Elsevier&#34; title=&#34;Reed Elsevier&#34; /&gt;
-&lt;img src=&#34;http://andrewrgoss.github.io/img/UTI_logo.jpg&#34; alt=&#34;Universal Technical Institute&#34; title=&#34;Universal Technical Institute&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Over the past 5+ years I have gained experience as both a developer and a marketer in leveraging people, process, and technology. I&amp;rsquo;ve held both client-facing and technical roles while addressing a wide range of business initiatives across industries such as finance, higher education, insurance, and technology. During this time I&amp;rsquo;ve worked with several high-profile agency clients including Bank of America, EDMC, Fitbit, Hewlett Packard Enterprise, and Reed Elsevier.&lt;/p&gt;
 
 &lt;p&gt;My cross-functional roles supporting these organizations have touched data engineering, ETL scripting, database design, business intelligence, database marketing, marketing automation, operational reporting, and advanced analytics. As a consultant, I strive to consistently provide quality ongoing services, on-time deliverables, and open communication around project status, risks, and challenges. I also make sure to not lose sight of the fact that I ultimately serve other people and work to build strong relationships with my clients and team members. I am results-oriented, well-organized, and self-motivated.&lt;/p&gt;
 
@@ -471,15 +482,13 @@ I never used Jekyll personally, but I&amp;rsquo;ve heard of it. A few other stat
 
 &lt;h4 id=&#34;olap-cube:74f7fb04a75e766307d398251c369a21&#34;&gt;OLAP Cube&lt;/h4&gt;
 
-&lt;p&gt;An OLAP Cube is a data structure that allows fast analysis of data according to the multiple dimensions that define a business problem. The arrangement of data into Cubes overcomes a limitation of relational databases, which are not well suited for near instantaneous analysis and display of large amounts of data.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://olap.com/learn-bi-olap/olap-bi-definitions/olap-cube&#34;&gt;http://olap.com/learn-bi-olap/olap-bi-definitions/olap-cube&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;An OLAP Cube is a data structure that allows fast analysis of data according to the multiple dimensions that define a business problem. The arrangement of data into Cubes overcomes a limitation of relational databases, which are not well suited for near instantaneous analysis and display of large amounts of data.&lt;br&gt;
+&lt;a href=&#34;http://olap.com/learn-bi-olap/olap-bi-definitions/olap-cube&#34; target=&#34;_blank&#34;&gt;olap.com/learn-bi-olap/olap-bi-definitions/olap-cube&lt;/a&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;transactional-vs-analytical-processing:74f7fb04a75e766307d398251c369a21&#34;&gt;Transactional vs. Analytical Processing&lt;/h4&gt;
 
-&lt;p&gt;OLTP (online transaction processing) systems provide source data to data warehouses, whereas OLAP (online analytical processing) systems help to analyze it.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://datawarehouse4u.info/OLTP-vs-OLAP.html&#34;&gt;http://datawarehouse4u.info/OLTP-vs-OLAP.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OLTP (online transaction processing) systems provide source data to data warehouses, whereas OLAP (online analytical processing) systems help to analyze it.&lt;br&gt;
+&lt;a href=&#34;http://datawarehouse4u.info/OLTP-vs-OLAP.html&#34; target=&#34;_blank&#34;&gt;datawarehouse4u.info/OLTP-vs-OLAP&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr&gt;
 
@@ -487,8 +496,8 @@ I never used Jekyll personally, but I&amp;rsquo;ve heard of it. A few other stat
 
 &lt;h4 id=&#34;overapi:74f7fb04a75e766307d398251c369a21&#34;&gt;OverAPI&lt;/h4&gt;
 
-&lt;p&gt;Boning up on a new language and want a quick list of common commands? &lt;a href=&#34;http://overapi.com&#34; target=&#34;_blank&#34;&gt;OverAPI&lt;/a&gt; has a gigantic selection of cheat sheets for almost any current technology, from Ada to ZenCoding (Emmet) and everything in between.&lt;br&gt;
-&lt;a href=&#34;http://overapi.com&#34;&gt;http://overapi.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Learning a new language and want a quick list of common commands? &lt;a href=&#34;http://overapi.com&#34; target=&#34;_blank&#34;&gt;OverAPI&lt;/a&gt; has a gigantic selection of cheat sheets for almost any current technology, from Ada to ZenCoding (Emmet) and everything in between.&lt;br&gt;
+&lt;a href=&#34;http://overapi.com&#34; target=&#34;_blank&#34;&gt;overapi.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr&gt;
 
@@ -496,22 +505,26 @@ I never used Jekyll personally, but I&amp;rsquo;ve heard of it. A few other stat
 
 &lt;h4 id=&#34;builtwith:74f7fb04a75e766307d398251c369a21&#34;&gt;BuiltWith&lt;/h4&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://builtwith.com&#34;&gt;http://builtwith.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://builtwith.com&#34; target=&#34;_blank&#34;&gt;builtwith.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;google-design-resizer:74f7fb04a75e766307d398251c369a21&#34;&gt;Google Design: Resizer&lt;/h4&gt;
 
 &lt;p&gt;An interactive viewer to see and test how digital products respond to material design breakpoints across desktop, mobile, and tablet.&lt;br&gt;
-&lt;a href=&#34;http://design.google.com/resizer&#34;&gt;http://design.google.com/resizer&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://design.google.com/articles/introducing-resizer&#34;&gt;https://design.google.com/articles/introducing-resizer&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://design.google.com/articles/introducing-resizer&#34; target=&#34;_blank&#34;&gt;design.google.com/articles/introducing-resizer&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://design.google.com/resizer&#34; target=&#34;_blank&#34;&gt;design.google.com/resizer&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;static-site-generators:74f7fb04a75e766307d398251c369a21&#34;&gt;Static Site Generators&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.staticgen.com&#34; target=&#34;_blank&#34;&gt;staticgen.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;website-grader:74f7fb04a75e766307d398251c369a21&#34;&gt;Website Grader&lt;/h4&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://website.grader.com&#34;&gt;https://website.grader.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://website.grader.com&#34; target=&#34;_blank&#34;&gt;website.grader.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;who-is-hosting-this:74f7fb04a75e766307d398251c369a21&#34;&gt;Who Is Hosting This&lt;/h4&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://www.whoishostingthis.com&#34; target=&#34;_blank&#34;&gt;WhoIsHostingThis&lt;/a&gt; allows a user to simply enter the domain name of any site and instantly uncover the identity of the company that is hosting the site.&lt;br&gt;
-&lt;a href=&#34;http://www.whoishostingthis.com&#34;&gt;http://www.whoishostingthis.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Allows a user to simply enter the domain name of any site and instantly uncover the identity of the company that is hosting the site.&lt;br&gt;
+&lt;a href=&#34;http://www.whoishostingthis.com&#34; target=&#34;_blank&#34;&gt;whoishostingthis.com&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -535,7 +548,21 @@ I never used Jekyll personally, but I&amp;rsquo;ve heard of it. A few other stat
 
 &lt;hr&gt;
 
-&lt;h3 id=&#34;a-name-core-competencies-a-core-competencies:c59a67a3c7bc5faa453847420267045e&#34;&gt;&lt;a name=&#34;core_competencies&#34;&gt;&lt;/a&gt;Core Competencies&lt;/h3&gt;
+&lt;h3 id=&#34;clients-served:c59a67a3c7bc5faa453847420267045e&#34;&gt;Clients Served&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/BoA_logo.png&#34; alt=&#34;Bank of America&#34; title=&#34;Bank of America&#34; /&gt;
+&lt;img src=&#34;http://andrewrgoss.github.io/img/Correlsense_logo.png&#34; alt=&#34;Correlsense&#34; title=&#34;Correlsense&#34; /&gt;
+&lt;img src=&#34;http://andrewrgoss.github.io/img/DBC_logo.png&#34; alt=&#34;Diversified Communications&#34; title=&#34;Diversified Communications&#34; /&gt;
+&lt;img src=&#34;http://andrewrgoss.github.io/img/EDMC_logo.png&#34; alt=&#34;Education Management Corporation&#34; title=&#34;Education Management Corporation&#34; /&gt;
+&lt;img src=&#34;http://andrewrgoss.github.io/img/Fitbit_logo.png&#34; alt=&#34;Fitbit&#34; title=&#34;Fitbit&#34; /&gt;
+&lt;img src=&#34;http://andrewrgoss.github.io/img/HP_logo.png&#34; alt=&#34;HP Inc.&#34; title=&#34;HP Inc.&#34; /&gt;
+&lt;img src=&#34;http://andrewrgoss.github.io/img/HPE_logo.png&#34; alt=&#34;Hewlett Packard Enterprise&#34; title=&#34;Hewlett Packard Enterprise&#34; /&gt;
+&lt;img src=&#34;http://andrewrgoss.github.io/img/Reed_Elsevier_logo.png&#34; alt=&#34;Reed Elsevier&#34; title=&#34;Reed Elsevier&#34; /&gt;
+&lt;img src=&#34;http://andrewrgoss.github.io/img/UTI_logo.jpg&#34; alt=&#34;Universal Technical Institute&#34; title=&#34;Universal Technical Institute&#34; /&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h3 id=&#34;core-competencies:c59a67a3c7bc5faa453847420267045e&#34;&gt;Core Competencies&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/coding.png&#34; alt=&#34;Application Development&#34; title=&#34;Application Development&#34; /&gt;
 &lt;img src=&#34;http://andrewrgoss.github.io/img/analysis.png&#34; alt=&#34;Business Intelligence&#34; title=&#34;Business Intelligence&#34; /&gt;
@@ -545,7 +572,7 @@ I never used Jekyll personally, but I&amp;rsquo;ve heard of it. A few other stat
 
 &lt;p&gt;&lt;sub&gt;Application Development, Business Intelligence, Database Architecture, Marketing Automation, Project Management&lt;/sub&gt;&lt;br&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Other specialties:&lt;/b&gt; data engineering, marketing analytics, application development, consulting, data warehousing, data security, marketing systems, data mining, data transformation, vendor management, data visualization, marketing operations&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Other specialties:&lt;/b&gt; data engineering, marketing analytics, application development, consulting, data warehousing, data science, marketing systems, data mining, data transformation, vendor management, data visualization, marketing operations&lt;/p&gt;
 
 &lt;hr&gt;
 

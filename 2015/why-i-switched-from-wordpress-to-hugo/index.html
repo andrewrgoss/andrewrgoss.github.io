@@ -68,9 +68,9 @@
                 },
                 "datePublished": "Oct 2015",
                 "description": "For a long time I\x26rsquo;ve believed in the importance of having a blog but have struggled to keep one going. I started out using Blogger back in the day and most recently was using Wordpress. But there were features about these blogging platforms that consistently bugged me. Fortunately for me, while I was learning the Go programming language I stumbled across Hugo, a static site generator written in this language. I started experimenting with Hugo and instantly loved it.",
-                "wordCount":  927 ,
+                "wordCount":  1082 ,
                 "articleSection": "post",
-                "timeRequired": "0:5:0",
+                "timeRequired": "0:6:0",
                 "url": "http:\/\/andrewrgoss.github.io\/2015\/why-i-switched-from-wordpress-to-hugo\/"
             }
         </script>
@@ -825,30 +825,23 @@ in 96 ms
 
 <h2 id="custom-themes:f3941651fa35be8fa9dd1215cdae54e4">Custom Themes</h2>
 
-<p>I knew I wanted a minimalistic, responsive site that is easy to navigate without too much scrolling.</p>
-
-<p>I&rsquo;m not going to deny that Hugo has nowhere near the numbers of themes that Wordpress does. On Wordpress, I was using the <a href="http://www.s5themes.com/theme/focused" target="_blank">Focused</a> theme.</p>
+<p>I knew I wanted a minimalistic, responsive site that is easy to navigate without too much scrolling. I&rsquo;m not going to deny that Hugo has nowhere near the numbers of themes that Wordpress does. On Wordpress I searched through probably hundreds of different themes before settling on <a href="http://www.s5themes.com/theme/focused" target="_blank">Focused</a>. Hugo is continuing to add more themes to its library but searching through them was a lot easier since they all live on the <a href="https://gohugo.io" target="_blank">Hugo website</a>. With Wordpress both free and paid themes are scattered across the interwebs. I also found the source code much easier to obtain for the Hugo themes since each one is free and links to its respective Github repository.</p>
 
 <h2 id="rendering-speed:f3941651fa35be8fa9dd1215cdae54e4">Rendering Speed</h2>
 
-<p>Lastly, my site rendered very slowly with Wordpress/BlueHost. I’m already a fan and user of the Go language, and so in following a number of the Go social communities, I discovered Hugo. A static site generator is an application that can take content in some original description (markdown in the case of Hugo), and renders final content by applying rules. This final content can then be hosted anywhere, without the need for server-side runtime support, such as Python/PHP/Go/Node/etc, because it does not require server-side processing to handle rendering the pages on the fly. This makes the site very portable and simple to deploy, and can be served out of aggressive caching.</p>
-
-<p><strong>ADD TO RESOURCES SECTION</strong>
-I never used Jekyll personally, but I&rsquo;ve heard of it. A few other static site generators <a href="https://www.staticgen.com" target="_blank">have sprung up</a> since Jekyll&rsquo;s success.</p>
+<p>Lastly, my site rendered very slowly with Wordpress/BlueHost. I’m already a fan and user of the Go language, and so in following a number of the Go social communities, I discovered Hugo. One of the most popular aspects of Go is speed as it is a langauge with subroutines baked in making it easy to execute concurrent processes. The Hugo static site generator is written in Go. A static site generator is an application that can take content in some original description (markdown in the case of Hugo) and render final content by applying rules. This final content can then be hosted anywhere, without the need for server-side runtime support such as Python/PHP/Go/Node/etc. This is because it does not require server-side processing to handle rendering pages on the fly. This makes the site very portable and simple to deploy and can be served out of aggressive caching.</p>
 
 <h2 id="disadvantages:f3941651fa35be8fa9dd1215cdae54e4">Disadvantages</h2>
 
-<p>One of the major disadvantages of Hugo, or any static site generator for that matter, is integrating <strong>search</strong>. You need some <a href="http://discuss.gohugo.io/t/how-are-you-implementing-site-search/986/14">JavaScript magic</a> or a 3rd party search provider like <a href="https://cse.google.com">Google Custom Search Engine</a>, which is what I went for.</p>
+<p>One of the major disadvantages of Hugo, or any static site generator for that matter, is integrating search. You either need some <a href="http://discuss.gohugo.io/t/how-are-you-implementing-site-search/986/14" target="_blank">JavaScript magic</a> or a 3rd party search provider like <a href="Google Custom Search Engine" target="_blank">Google Custom Search Engine</a>, which is what I went for.</p>
 
-<p>The other dynamic part of an ordinary blog is <strong>the comment section</strong>. Again, the easiest way to <em>fix</em> this is relying on a 3rd party comments plugin like <a href="https://disqus.com/">Disqus</a>. Hugo offers <a href="https://gohugo.io/extras/comments" target="_blank">support</a> for this and makes it fairly simple to implement.</p>
+<p>The other dynamic part of an ordinary blog is the comment section. Again, the easiest way to fix this is relying on a 3rd party comments plugin like <a href="https://disqus.com" target="_blank">Disqus</a>. Hugo offers <a href="https://gohugo.io/extras/comments" target="_blank">support</a> for this and makes it fairly simple to implement.</p>
 
-<p>Even though Hugo does not come with search or a comments section as built-in features, I didn&rsquo;t take issue with this as I quickly found ways to integrate them anyways. So to me, these two disadvantages are easily outweighed by the advantages of a static website. Your website will survive <a href="https://en.wikipedia.org/wiki/Slashdot_effect" target="_blank">slashdotting</a> and the only required maintenance is literally making sure your web server stays online.</p>
+<p>Even though Hugo does not come with search or a comments section as built-in features, I didn&rsquo;t take issue with this as I quickly found ways to integrate them anyways. So to me, these two disadvantages are easily outweighed by the advantages of a static website. Your website will survive <a href="https://en.wikipedia.org/wiki/Slashdot_effect" target="_blank">slashdotting</a> and the only required maintenance is literally making sure your web server stays online (and I think I&rsquo;m in pretty good shape with Github).</p>
 
 <h2 id="conclusion:f3941651fa35be8fa9dd1215cdae54e4">Conclusion</h2>
 
-<p>Wordpress is the most popular content management system (CMS) for a reason. There are countless commercial websites and personal blogs powered by Wordpress along with thousands of customizable plugins. You don&rsquo;t necessarily have to know how to program to build</p>
-
-<p>There is a great Hugo community too for Q&amp;A support.</p>
+<p>Wordpress is the most popular content management system (CMS) for a reason. There are countless commercial websites and personal blogs powered by Wordpress along with thousands of customizable plugins. You don&rsquo;t necessarily have to know how to program to build a beautiful-looking Wordpress site. But if you are someone who is comfortable coding and looking to publish a personal website/blog that is lightning-quick, highly customizable and free (open-source), Hugo may be a good choice for you. For me it has also been a great way to practice front-end development as most of my time is spent on the back-end. And if you ever get stuck, there is a great <a href="https://discuss.gohugo.io" target="_blank">Hugo community</a> for Q&amp;A support.</p>
 
     <div>
   <hr>

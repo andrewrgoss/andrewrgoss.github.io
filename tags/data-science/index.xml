@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science on Data Engineer | Technical Consultant | Business Intelligence Developer - Andrew Goss</title>
+    <link>http://andrewrgoss.github.io/tags/data-science/</link>
+    <description>Recent content in Data Science on Data Engineer | Technical Consultant | Business Intelligence Developer - Andrew Goss</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
+    <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
+    <lastBuildDate>Fri, 20 May 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://andrewrgoss.github.io/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Open Data Science Conference East</title>
+      <link>http://andrewrgoss.github.io/2016/open-data-science-conference-east/</link>
+      <pubDate>Fri, 20 May 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.github.io/2016/open-data-science-conference-east/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.odsc.com/boston&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/post/odsc.png&#34; alt=&#34;Open Data Science Conference&#34; title=&#34;Open Data Science Conference&#34; /&gt;&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;For 3 days in May 2016 I will be attending my first &lt;a href=&#34;https://www.odsc.com&#34; target=&#34;_blank&#34;&gt;Open Data Science Conference&lt;/a&gt; in Boston. There will be 3,000+ data science practioners coming together at the Boston Convention &amp;amp; Exhibition Center to share ideas about this rapidly changing discipline. I&amp;rsquo;m looking forward to writing more of my thoughts here following the conference.&lt;/p&gt;
+
+&lt;p&gt;Topics that will be covered include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Deep Learning&lt;/li&gt;
+&lt;li&gt;Machine Learning&lt;/li&gt;
+&lt;li&gt;Predictive Analytics&lt;/li&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;li&gt;Stan&lt;/li&gt;
+&lt;li&gt;R&lt;/li&gt;
+&lt;li&gt;Hadoop&lt;/li&gt;
+&lt;li&gt;Spark&lt;/li&gt;
+&lt;li&gt;Scikit-learn&lt;/li&gt;
+&lt;li&gt;Julia&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
