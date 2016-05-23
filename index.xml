@@ -139,8 +139,6 @@ I&amp;rsquo;ve been wanting to add Python to my personal tech stack for some tim
 
 &lt;p&gt;The places I&amp;rsquo;ve listed out below are grouped by geographical belonging, not cultural significance (for example, Russia being listed under Asia and not Europe). Additionally, I do not count laying over in an airport as having visited a destination. I mark a country or state as having been visited when I actually set foot on it.&lt;/p&gt;
 
-&lt;!--Some believe that traveling to foreign destinations carries too much risk in the world we live in today. I don&#39;t deny there is some level of risk, but crime can happen in your home country too. Travel to me is too vital, too important a part of civilized life to give up out of fear. Link to post on this topic.--&gt;
-
 &lt;h2 id=&#34;world-stats:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;World Stats&lt;/h2&gt;
 
 &lt;p&gt;Countries/Territories Visited: 17&lt;br&gt;
@@ -229,8 +227,10 @@ Percent of World: ~8.71%&lt;/p&gt;
 &lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;India&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Indonesia&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Japan&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Laos&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Malaysia&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Maldives&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Myanmar&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Nepal&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Russia&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Singapore&amp;ensp;&amp;ensp;
@@ -238,13 +238,13 @@ Percent of World: ~8.71%&lt;/p&gt;
 &lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Sri Lanka&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Thailand&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Turkey&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;United Arab Emirates&amp;ensp;&amp;ensp;&lt;/p&gt;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;United Arab Emirates&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Vietnam&amp;ensp;&amp;ensp;&lt;/p&gt;
 
 &lt;h5 id=&#34;oceania:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;Oceania&lt;/h5&gt;
 
 &lt;p&gt;&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Australia&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Bora Bora&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Fiji&amp;ensp;&amp;ensp;
+&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Cook Islands&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;New Zealand&amp;ensp;&amp;ensp;&lt;/p&gt;
 
 &lt;h2 id=&#34;us-stats:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;US Stats&lt;/h2&gt;
