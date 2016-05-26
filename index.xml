@@ -421,7 +421,9 @@ in 96 ms
 
 &lt;h2 id=&#34;conclusion:f3941651fa35be8fa9dd1215cdae54e4&#34;&gt;Conclusion&lt;/h2&gt;
 
-&lt;p&gt;Wordpress is the most popular content management system (CMS) for a reason. There are countless commercial websites and personal blogs powered by Wordpress along with thousands of customizable plugins. You don&amp;rsquo;t necessarily have to know how to program to build a beautiful-looking Wordpress site. But if you are someone who is comfortable coding and looking to publish a personal website/blog that is lightning-quick, highly customizable and free (open-source), Hugo may be a good choice for you. For me it has also been a great way to practice front-end development as most of my time is spent on the back-end. And if you ever get stuck, there is a great &lt;a href=&#34;https://discuss.gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo community&lt;/a&gt; for Q&amp;amp;A support.&lt;/p&gt;
+&lt;p&gt;Wordpress is the most popular content management system (CMS) for a reason. There are countless commercial websites and personal blogs powered by Wordpress along with thousands of customizable plugins. You don&amp;rsquo;t necessarily have to know how to program to build a beautiful-looking Wordpress site. But what you probably didn&amp;rsquo;t know is that the typical CMS driven website works by building each page on-demand, fetching content from a database and running it through a template engine. This means each page is assembled from templates and content on each request to the server. However, this is usually completely unnecessary overhead and only adds complexity, performance problems and security issues. After all, most websites only change when the content authors or their design team makes changes. As the sole proprieter of andrewrgoss.com, this was the case for me and my pages were often quite slow in loading.&lt;/p&gt;
+
+&lt;p&gt;So if you are someone who is comfortable coding and looking to publish a personal website/blog that is lightning-quick, highly customizable and free (open-source), Hugo may be a good choice for you. For me it has also been a great way to practice front-end development as most of my time is spent on the back-end. And if you ever get stuck, there is a great &lt;a href=&#34;https://discuss.gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo community&lt;/a&gt; for Q&amp;amp;A support.&lt;/p&gt;
 </description>
     </item>
     
@@ -437,7 +439,9 @@ in 96 ms
 &lt;p&gt;&lt;b&gt;TL;DR&lt;/b&gt; &amp;ndash; Data engineer, technical consultant, and business intelligence developer working to solve analytical challenges at the intersection of marketing and technology. Also a &lt;a href=&#34;http://andrewrgoss.github.io/travel&#34;&gt;world traveler&lt;/a&gt;.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Hey! I&amp;rsquo;m Andrew Goss. Thanks for visiting my website. My career has been tied closely to the convergence of marketing and advertising technology (adtech and martech) and the personalization of data that comes with it. Companies across the world have fundamentally shifted how they spend their marketing dollars and messaging is now at the individual level, where data-driven unique messages are communicated across ads, email, and a brand&amp;rsquo;s own site. Over the years in working in this space I&amp;rsquo;ve found a ton of great &lt;a href=&#34;http://andrewrgoss.github.io/resources&#34;&gt;resources&lt;/a&gt; and putting them down in a blog is a great way to share everything. If you&amp;rsquo;re interested in learning more about me specifically you can read on (or check out my &lt;a href=&#34;http://andrewrgoss.github.io/resume&#34;&gt;resume&lt;/a&gt;), otherwise you can skip down to &lt;a href=&#34;#problems_i_solve&#34;&gt;learn more&lt;/a&gt; about problems I help organizations with.&lt;/p&gt;
+&lt;p&gt;Hey! I&amp;rsquo;m Andrew Goss. Thanks for visiting my website. My career has been tied closely to the convergence of marketing and advertising technology (adtech and martech) and the ever-increasing reliance on data at the heart of it all. Companies across the world have fundamentally shifted how they spend their marketing dollars and messaging is now at the individual level, where data-driven unique messages are being communicated across ads on publisher sites, personalized emails, videos, social media messaging&amp;hellip; the list goes on and on in the digital sphere. With mountains of data being collected at every turn across the internet and offline interactions as well, data science is being widely used to try and predict consumer desires and buying patterns.&lt;/p&gt;
+
+&lt;p&gt;Over the years in working in this space I&amp;rsquo;ve come across many great &lt;a href=&#34;http://andrewrgoss.github.io/resources&#34;&gt;resources&lt;/a&gt; and ideas to write about in this blog. If you&amp;rsquo;re interested in learning more about me specifically you can read on (or check out my &lt;a href=&#34;http://andrewrgoss.github.io/resume&#34;&gt;resume&lt;/a&gt;), otherwise you can skip down to &lt;a href=&#34;#problems_i_solve&#34;&gt;learn more&lt;/a&gt; about problems I help organizations with.&lt;/p&gt;
 
 &lt;h2 id=&#34;my-background:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;My Background&lt;/h2&gt;
 
@@ -451,9 +455,11 @@ in 96 ms
 
 &lt;h2 id=&#34;a-name-problems-i-solve-a-problems-i-solve:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;&lt;a name=&#34;problems_i_solve&#34;&gt;&lt;/a&gt;Problems I Solve&lt;/h2&gt;
 
-&lt;p&gt;I&amp;rsquo;ve found that many clients I&amp;rsquo;ve worked with over the years are trying to address fairly similar issues (albeit within far different business contexts) from a high-level perspective when it comes to technology solutions for their marketing and advertising intiatives. There&amp;rsquo;s a deluge of data available and businesses know they need to be using it to make smarter decisions in reaching their target audiences about their brand. However, the data is typically fragmented across disparate datasets. Often times, these are siloed within the organization itself and there isn&amp;rsquo;t always a way to easily join the data together to tell the full story. Further exasperating the problem is the fact that the data hygiene is lousy. Sales reps at the end of the pipeline complain about the quality of the leads they are trying to work with. Or analysts complain that when evaluating the effectiveness of advertising content that their results are skewed. Or their reports are taking forever to run (unbeknownst to them this is because of poorly-tuned databases on the backend). Through the implementation of comprehensive business rules and well thought-out architecture and procedural scripts, I help alleviate these data challenges.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve found that many clients I&amp;rsquo;ve worked with over the years are trying to address fairly similar issues from a high-level perspective (albeit within quite different business contexts) when it comes to technology solutions for their marketing and advertising intiatives. There&amp;rsquo;s a deluge of data available and businesses know they need to be using it to make smarter decisions in reaching their target audiences about their brand. However, the data is typically fragmented across disparate datasets. Often times, these are siloed within the organization itself and there isn&amp;rsquo;t always a way to easily join the data together to tell the full story. Further exasperating the problem is the fact that the data hygiene is often poor. Sales reps at the end of the pipeline complain about the quality of the leads they are trying to work with. Or analysts complain that when evaluating the effectiveness of advertising campaigns their results are skewed. Or their reports are taking forever to run because unbeknownst to them, there are poorly-tuned databases on the backend. Through the implementation of comprehensive business rules and well thought-out architecture and procedural scripts, I help alleviate these data challenges.&lt;/p&gt;
 
-&lt;p&gt;Everyone wants the holistic, 360-view of a person&amp;rsquo;s interactions with the company to create a better end user experience. But there&amp;rsquo;s no centralized repository and no standardized way of working with the data. Lack of documentation can be a problem too, with many people following their own methods instead of a formalized process. When people leave the organization, things get lost in translation. There ends up being legacy programs and processes that no longer get used but since it&amp;rsquo;s too risky or impossible to start over, things get built on top of each other. Eventually the system becomes an entangled mess of files and code. I can&amp;rsquo;t predict future use for the programs I develop but I always try to emphasize clean, readable code that is easily configurable (through the use of parameters and such) with anticipation that needs will inevitably change.&lt;/p&gt;
+&lt;p&gt;Everyone wants the holistic, 360-view of a person&amp;rsquo;s interactions with the company to create a better end user experience and drive more business. But many times there is no centralized repository and no standardized way of working with the data. Or conversely, everything is trying to be converted into structured data. Companies need people who can wield the technologies that enable analysis of unstructured data as well, like large blocks of text or audio files.&lt;/p&gt;
+
+&lt;p&gt;Lack of documentation can be a problem too, with many people following their own methods instead of a formalized process. When people leave the organization, things get lost in translation. There ends up being legacy programs and processes that no longer get used but since it&amp;rsquo;s too risky or impossible to start over, things get built on top of each other. Eventually the system becomes an entangled mess of files and code. I can&amp;rsquo;t predict future use for the programs I develop but I always try to emphasize clean, readable code that is easily configurable (through the use of parameters and such) with anticipation that needs will inevitably change.&lt;/p&gt;
 
 &lt;p&gt;Lastly, there&amp;rsquo;s too much manual work going on. You&amp;rsquo;d think this would only be happening at smaller companies, but it happens at larger ones too. A lot of this stems from people not knowing of a better approach or simply being set in their ways. I always seek ways to automate any remotely repititive manual process I come across. This frees up resources to focus their time on more meaningful insights that drive business impact and reduces the potential for human error.&lt;/p&gt;
 
@@ -470,10 +476,10 @@ in 96 ms
       <description>
 
 &lt;blockquote&gt;
-&lt;p&gt;There are tons of great resources all over the internet that I&amp;rsquo;ve come across and people have sent me lots of useful links. I&amp;rsquo;ve bookmarked hundreds of URLs and this page is my collection of the ones I&amp;rsquo;ve found to be the most helpful. If you&amp;rsquo;re reading this and have something to add or find a dead link please &lt;a href=&#34;mailto:andrewrgoss@gmail.com&#34; target=&#34;_blank&#34;&gt;shoot me a note&lt;/a&gt;. I&amp;rsquo;ll be building this up more over time.&lt;/p&gt;
+&lt;p&gt;There are tons of great resources all over the internet that I&amp;rsquo;ve come across and people have sent me lots of useful links. I&amp;rsquo;ve bookmarked hundreds of URLs and this page is my categorized collection of the (free) ones I&amp;rsquo;ve found to be the most helpful. If you&amp;rsquo;re reading this and have something to add or find a dead link please &lt;a href=&#34;mailto:andrewrgoss@gmail.com&#34; target=&#34;_blank&#34;&gt;shoot me a note&lt;/a&gt;. I&amp;rsquo;ll be building this up more over time.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;a href=&#34;#business_intelligence&#34;&gt;Business Intelligence&lt;/a&gt; | &lt;a href=&#34;#programming&#34;&gt;Programming&lt;/a&gt; | &lt;a href=&#34;#website_tools&#34;&gt;Website Tools&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;#business_intelligence&#34;&gt;Business Intelligence&lt;/a&gt; | &lt;a href=&#34;#data_science&#34;&gt;Data Science&lt;/a&gt; | &lt;a href=&#34;#programming&#34;&gt;Programming&lt;/a&gt; | &lt;a href=&#34;#website_tools&#34;&gt;Website Tools&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr&gt;
 
@@ -491,6 +497,15 @@ in 96 ms
 
 &lt;hr&gt;
 
+&lt;h2 id=&#34;a-name-data-science-a-data-science:74f7fb04a75e766307d398251c369a21&#34;&gt;&lt;a name=&#34;data_science&#34;&gt;&lt;/a&gt;Data Science&lt;/h2&gt;
+
+&lt;h4 id=&#34;ropensci:74f7fb04a75e766307d398251c369a21&#34;&gt;rOpenSci&lt;/h4&gt;
+
+&lt;p&gt;Open source R packages that allow access to data repositories and provide programmatic access to a variety of scientific data and other real-time metrics of scholarly impact.
+&lt;a href=&#34;http://ropensci.org&#34; target=&#34;_blank&#34;&gt;ropensci.org&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+
 &lt;h2 id=&#34;a-name-programming-a-programming:74f7fb04a75e766307d398251c369a21&#34;&gt;&lt;a name=&#34;programming&#34;&gt;&lt;/a&gt;Programming&lt;/h2&gt;
 
 &lt;h4 id=&#34;overapi:74f7fb04a75e766307d398251c369a21&#34;&gt;OverAPI&lt;/h4&gt;
@@ -504,7 +519,8 @@ in 96 ms
 
 &lt;h4 id=&#34;builtwith:74f7fb04a75e766307d398251c369a21&#34;&gt;BuiltWith&lt;/h4&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://builtwith.com&#34; target=&#34;_blank&#34;&gt;builtwith.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Enter the URL of a website and quickly find a list of the technologies used to support that site including email services, nameserver providers, JavaScript libraries, widgets, server information, and more.&lt;br&gt;
+&lt;a href=&#34;http://builtwith.com&#34; target=&#34;_blank&#34;&gt;builtwith.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;google-design-resizer:74f7fb04a75e766307d398251c369a21&#34;&gt;Google Design: Resizer&lt;/h4&gt;
 
@@ -514,7 +530,8 @@ in 96 ms
 
 &lt;h3 id=&#34;static-site-generators:74f7fb04a75e766307d398251c369a21&#34;&gt;Static Site Generators&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://www.staticgen.com&#34; target=&#34;_blank&#34;&gt;staticgen.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A leaderboard of the top open-source static site generators.&lt;br&gt;
+&lt;a href=&#34;https://www.staticgen.com&#34; target=&#34;_blank&#34;&gt;staticgen.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;website-grader:74f7fb04a75e766307d398251c369a21&#34;&gt;Website Grader&lt;/h4&gt;
 
