@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data Science on Data Engineer | Technical Consultant | Business Intelligence Developer - Andrew Goss</title>
+    <title>Data Science on Data Engineer, Consultant, BI Developer - Andrew Goss</title>
     <link>http://andrewrgoss.github.io/tags/data-science/</link>
-    <description>Recent content in Data Science on Data Engineer | Technical Consultant | Business Intelligence Developer - Andrew Goss</description>
+    <description>Recent content in Data Science on Data Engineer, Consultant, BI Developer - Andrew Goss</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
@@ -34,6 +34,8 @@
 &lt;li&gt;Scikit-learn&lt;/li&gt;
 &lt;li&gt;Natural Language Processing&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;Once the workshop materials become available &lt;a href=&#34;https://www.opendatascience.com&#34; target=&#34;_blank&#34;&gt;online&lt;/a&gt; I&amp;rsquo;ll be writing more here.&lt;/p&gt;
 </description>
     </item>
     

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data Engineer | Technical Consultant | Business Intelligence Developer - Andrew Goss</title>
+    <title>Data Engineer, Consultant, BI Developer - Andrew Goss</title>
     <link>http://andrewrgoss.github.io/</link>
-    <description>Recent content on Data Engineer | Technical Consultant | Business Intelligence Developer - Andrew Goss</description>
+    <description>Recent content on Data Engineer, Consultant, BI Developer - Andrew Goss</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
@@ -34,6 +34,8 @@
 &lt;li&gt;Scikit-learn&lt;/li&gt;
 &lt;li&gt;Natural Language Processing&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;Once the workshop materials become available &lt;a href=&#34;https://www.opendatascience.com&#34; target=&#34;_blank&#34;&gt;online&lt;/a&gt; I&amp;rsquo;ll be writing more here.&lt;/p&gt;
 </description>
     </item>
     
@@ -135,9 +137,9 @@ I&amp;rsquo;ve been wanting to add Python to my personal tech stack for some tim
 
 &lt;!-- &gt; You can check out my blog posts about travel &lt;a href=&#34;http://andrewrgoss.github.io/tags/travel&#34;&gt;here&lt;/a&gt;.--&gt;
 
-&lt;p&gt;Outside of work, I&amp;rsquo;m passionate about traveling the world, having new experiences, and broadening my life perspective. I have a long, ambitious list of places that I want to visit, but I&amp;rsquo;m not naive enough to expect that I&amp;rsquo;ll accomplish all of these in my lifetime. That being said, I decided to start tracking where I&amp;rsquo;ve been and where I&amp;rsquo;d like to go in the future. I believe that simply writing these down increases the likelihood of achieving more of my travel goals.&lt;/p&gt;
+&lt;p&gt;Outside of work, I&amp;rsquo;m passionate about traveling the world, having new experiences, and broadening my life perspective. I have a long, ambitious list of places that I want to visit, but I&amp;rsquo;m not naive enough to expect that I&amp;rsquo;ll accomplish all of these in my lifetime. That being said, I decided to start tracking where I&amp;rsquo;ve been and where I&amp;rsquo;d like to go in the future with the belief that this will increase the likelihood of achieving more of these travel goals.&lt;/p&gt;
 
-&lt;p&gt;The places I&amp;rsquo;ve listed out below are grouped by geographical belonging, not cultural significance (for example, Russia being listed under Asia and not Europe). Additionally, I do not count laying over in an airport as having visited a destination. I mark a country or state as having been visited when I actually set foot on it.&lt;/p&gt;
+&lt;p&gt;The places I&amp;rsquo;ve listed out below are grouped by geographical belonging, not cultural significance (for example, Russia being listed under Asia and not Europe). Additionally, I do not count laying over in an airport as having visited a destination. I only mark a country or state as having been visited when I actually set foot in it.&lt;/p&gt;
 
 &lt;h2 id=&#34;world-stats:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;World Stats&lt;/h2&gt;
 
@@ -212,9 +214,9 @@ Percent of World: ~8.71%&lt;/p&gt;
 &lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Tanzania&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Uganda&amp;ensp;&amp;ensp;&lt;/p&gt;
 
-&lt;h5 id=&#34;antartica:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;Antartica&lt;/h5&gt;
+&lt;h5 id=&#34;antarctica:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;Antarctica&lt;/h5&gt;
 
-&lt;p&gt;&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Antartica&amp;ensp;&amp;ensp;&lt;/p&gt;
+&lt;p&gt;&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Antarctica&amp;ensp;&amp;ensp;&lt;/p&gt;
 
 &lt;h5 id=&#34;asia:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;Asia&lt;/h5&gt;
 
@@ -230,7 +232,6 @@ Percent of World: ~8.71%&lt;/p&gt;
 &lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Laos&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Malaysia&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Maldives&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Myanmar&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Nepal&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Russia&amp;ensp;&amp;ensp;
 &lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Singapore&amp;ensp;&amp;ensp;
@@ -439,27 +440,27 @@ in 96 ms
 &lt;p&gt;&lt;b&gt;TL;DR&lt;/b&gt; &amp;ndash; Data engineer, technical consultant, and business intelligence developer working to solve analytical challenges at the intersection of marketing and technology. Also a &lt;a href=&#34;http://andrewrgoss.github.io/travel&#34;&gt;world traveler&lt;/a&gt;.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Hey! I&amp;rsquo;m Andrew Goss. Thanks for visiting my website. My career has been tied closely to the convergence of marketing and advertising technology (adtech and martech) and the ever-increasing reliance on data at the heart of it all. Companies across the world have fundamentally shifted how they spend their marketing dollars and messaging is now at the individual level, where data-driven unique messages are being communicated across ads on publisher sites, personalized emails, videos, social media messaging&amp;hellip; the list goes on and on in the digital sphere. With mountains of data being collected at every turn across the internet and offline interactions as well, data science is being widely used to try and predict consumer desires and buying patterns.&lt;/p&gt;
+&lt;p&gt;Hey! I&amp;rsquo;m Andrew Goss. Thanks for visiting my website. My career has been tied closely to the convergence of marketing and advertising technology (adtech and martech) and the ever-increasing reliance on data at the heart of it all. Companies across the world have fundamentally shifted how they spend their marketing dollars and messaging is now at the individual level, where data-driven unique messages are being communicated across social media, publisher sites, personalized emails, videos, instant messaging&amp;hellip; the list goes on and on in the digital sphere. With petabytes of data being collected at every turn through digital and offline interactions as well, I work to try and wrangle all of this and derive value from it.&lt;/p&gt;
 
 &lt;p&gt;Over the years in working in this space I&amp;rsquo;ve come across many great &lt;a href=&#34;http://andrewrgoss.github.io/resources&#34;&gt;resources&lt;/a&gt; and ideas to write about in this blog. If you&amp;rsquo;re interested in learning more about me specifically you can read on (or check out my &lt;a href=&#34;http://andrewrgoss.github.io/resume&#34;&gt;resume&lt;/a&gt;), otherwise you can skip down to &lt;a href=&#34;#problems_i_solve&#34;&gt;learn more&lt;/a&gt; about problems I help organizations with.&lt;/p&gt;
 
 &lt;h2 id=&#34;my-background:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;My Background&lt;/h2&gt;
 
-&lt;p&gt;I am currently a manager for Media Systems and Technology at &lt;a href=&#34;http://www.digitaslbi.com/us&#34; target=&#34;_blank&#34;&gt;DigitasLBi&lt;/a&gt;, where we use a variety of evolving technologies to build the systems and architectures behind business intelligence tools used extensively by global analytic teams and clients. I help clients translate large amounts of fragmented data into smarter optimization of marketing/advertising dollars through technical expertise combined with human marketing savviness and business acumen.&lt;/p&gt;
+&lt;p&gt;I am currently a manager for Media Systems and Technology at &lt;a href=&#34;http://www.digitaslbi.com/us&#34; target=&#34;_blank&#34;&gt;DigitasLBi&lt;/a&gt;, where we use a variety of evolving technologies to build the systems and architectures behind business intelligence tools used extensively by global analytic teams and clients. I help clients translate large amounts of fragmented data into smarter optimization of marketing/advertising dollars through technical expertise combined with human marketing savviness and business acumen. Through the use of data science, our teams try and predict consumer desires and buying patterns.&lt;/p&gt;
 
 &lt;p&gt;Over the past 5+ years I have gained experience as both a developer and a marketer in leveraging people, process, and technology. I&amp;rsquo;ve held both client-facing and technical roles while addressing a wide range of business initiatives across industries such as finance, higher education, insurance, and technology. During this time I&amp;rsquo;ve worked with several high-profile agency clients including Bank of America, EDMC, Fitbit, Hewlett Packard Enterprise, and Reed Elsevier.&lt;/p&gt;
 
-&lt;p&gt;My cross-functional roles supporting these organizations have touched data engineering, ETL scripting, database design, business intelligence, database marketing, marketing automation, operational reporting, and advanced analytics. As a consultant, I strive to consistently provide quality ongoing services, on-time deliverables, and open communication around project status, risks, and challenges. I also make sure to not lose sight of the fact that I ultimately serve other people and work to build strong relationships with my clients and team members. I am results-oriented, well-organized, and self-motivated.&lt;/p&gt;
+&lt;p&gt;My cross-functional roles supporting these organizations have touched data engineering, ETL scripting, database design, business intelligence, database marketing, marketing automation, operational reporting, and advanced analytics. As a consultant, I strive to consistently provide quality ongoing services, on-time deliverables, and open communication around project status, risks, and challenges. I am results-oriented, well-organized, self-motivated, and I work to build strong relationships with my clients and team members.&lt;/p&gt;
 
-&lt;p&gt;Outside of my regular responsibilities, I take a proactive approach towards career growth and skill development through a dedicated effort towards continuing education. I&amp;rsquo;m a big believer in the idea that one should never stop seeking new knowledge. I started this blog not just as a personal branding tool but also a place to centralize thoughts, to measure progress in learning new concepts and furthering my abilities, and to keep my writing and web dev skills sharp. I&amp;rsquo;m always reading articles and following the thought leaders across the world to stay on top of trends. I &lt;a href=&#34;https://twitter.com/andrewrgoss&#34; target=&#34;_blank&#34;&gt;tweet&lt;/a&gt; lots of links regularly so others can also read about these ever-shifting marketing technology patterns shaping businesses. And of course, I never underestimate the power of asking questions and seeking mentorship from the smart people I work with and across the industry.&lt;/p&gt;
+&lt;p&gt;Outside of my regular responsibilities, I take a proactive approach towards career growth and skill development through a dedicated effort towards continuing education. I started this blog not just as a personal branding tool but also a place to centralize thoughts, to measure progress in learning new concepts and furthering my abilities, and to keep my writing and web dev skills sharp. I&amp;rsquo;m always reading articles and following the thought leaders across the world to stay on top of trends. I &lt;a href=&#34;https://twitter.com/andrewrgoss&#34; target=&#34;_blank&#34;&gt;tweet&lt;/a&gt; lots of links regularly so others can also read about these ever-shifting marketing technology patterns shaping businesses. And of course, I never underestimate the power of asking questions and seeking mentorship.&lt;/p&gt;
 
 &lt;h2 id=&#34;a-name-problems-i-solve-a-problems-i-solve:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;&lt;a name=&#34;problems_i_solve&#34;&gt;&lt;/a&gt;Problems I Solve&lt;/h2&gt;
 
-&lt;p&gt;I&amp;rsquo;ve found that many clients I&amp;rsquo;ve worked with over the years are trying to address fairly similar issues from a high-level perspective (albeit within quite different business contexts) when it comes to technology solutions for their marketing and advertising intiatives. There&amp;rsquo;s a deluge of data available and businesses know they need to be using it to make smarter decisions in reaching their target audiences about their brand. However, the data is typically fragmented across disparate datasets. Often times, these are siloed within the organization itself and there isn&amp;rsquo;t always a way to easily join the data together to tell the full story. Further exasperating the problem is the fact that the data hygiene is often poor. Sales reps at the end of the pipeline complain about the quality of the leads they are trying to work with. Or analysts complain that when evaluating the effectiveness of advertising campaigns their results are skewed. Or their reports are taking forever to run because unbeknownst to them, there are poorly-tuned databases on the backend. Through the implementation of comprehensive business rules and well thought-out architecture and procedural scripts, I help alleviate these data challenges.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve found that many clients I&amp;rsquo;ve worked with over the years are trying to address fairly similar issues from a high-level perspective (albeit within different business contexts) when it comes to technology solutions for their marketing and advertising intiatives. There&amp;rsquo;s a deluge of data available and businesses know they need to be using it to make smarter decisions in reaching their target audiences about their brand. However, the data is typically fragmented across disparate datasets. Often times, these are siloed within the organization itself and there isn&amp;rsquo;t always a way to easily integrate the data together to tell the full story. Further exasperating the problem is the fact that the data hygiene is frequently poor. Sales reps at the end of the pipeline might complain about the quality of the leads they are trying to work with. Or analysts may complain that when evaluating the effectiveness of advertising campaigns their results are skewed. Or their reports are taking forever to run because unbeknownst to them, there are poorly-tuned databases on the backend. Through the implementation of comprehensive business rules and well thought-out architecture and procedural scripts, I help alleviate these data challenges.&lt;/p&gt;
 
-&lt;p&gt;Everyone wants the holistic, 360-view of a person&amp;rsquo;s interactions with the company to create a better end user experience and drive more business. But many times there is no centralized repository and no standardized way of working with the data. Or conversely, everything is trying to be converted into structured data. Companies need people who can wield the technologies that enable analysis of unstructured data as well, like large blocks of text or audio files.&lt;/p&gt;
+&lt;p&gt;Everyone wants the holistic, 360-view of a person&amp;rsquo;s interactions with the company to create a better end user experience and drive more business. But many times there is no centralized repository and no standardized way of working with the data. Or conversely, everything is trying to be converted into structured data. Companies need people who can wield the technologies that enable analysis of unstructured data as well, like large blocks of text or pictures. My team helps determine whether a traditional relational database management system or a Hadoop file storage system is appropriate based on the available data and business needs.&lt;/p&gt;
 
-&lt;p&gt;Lack of documentation can be a problem too, with many people following their own methods instead of a formalized process. When people leave the organization, things get lost in translation. There ends up being legacy programs and processes that no longer get used but since it&amp;rsquo;s too risky or impossible to start over, things get built on top of each other. Eventually the system becomes an entangled mess of files and code. I can&amp;rsquo;t predict future use for the programs I develop but I always try to emphasize clean, readable code that is easily configurable (through the use of parameters and such) with anticipation that needs will inevitably change.&lt;/p&gt;
+&lt;p&gt;Lack of documentation can be a problem too, with many people following their own methods instead of a formalized process. When people leave the organization, things get lost in translation. There ends up being legacy programs and processes that no longer get used but since it&amp;rsquo;s too risky or impossible to start over, things get built on top of each other. Eventually the system becomes an entangled mess of files and code. I can&amp;rsquo;t predict future use for the programs I develop but I always try to emphasize clean, readable code that is easily configurable (through the use of parameters and such) with anticipation that needs will inevitably change. Furthermore, I am diligent about committing my source code through git and putting together clear technical documentation that future developers can easily decipher.&lt;/p&gt;
 
 &lt;p&gt;Lastly, there&amp;rsquo;s too much manual work going on. You&amp;rsquo;d think this would only be happening at smaller companies, but it happens at larger ones too. A lot of this stems from people not knowing of a better approach or simply being set in their ways. I always seek ways to automate any remotely repititive manual process I come across. This frees up resources to focus their time on more meaningful insights that drive business impact and reduces the potential for human error.&lt;/p&gt;
 
@@ -487,12 +488,12 @@ in 96 ms
 
 &lt;h4 id=&#34;olap-cube:74f7fb04a75e766307d398251c369a21&#34;&gt;OLAP Cube&lt;/h4&gt;
 
-&lt;p&gt;An OLAP Cube is a data structure that allows fast analysis of data according to the multiple dimensions that define a business problem. The arrangement of data into Cubes overcomes a limitation of relational databases, which are not well suited for near instantaneous analysis and display of large amounts of data.&lt;br&gt;
+&lt;p&gt;A nice intro guide on what these are and why they are used.&lt;br&gt;
 &lt;a href=&#34;http://olap.com/learn-bi-olap/olap-bi-definitions/olap-cube&#34; target=&#34;_blank&#34;&gt;olap.com/learn-bi-olap/olap-bi-definitions/olap-cube&lt;/a&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;transactional-vs-analytical-processing:74f7fb04a75e766307d398251c369a21&#34;&gt;Transactional vs. Analytical Processing&lt;/h4&gt;
 
-&lt;p&gt;OLTP (online transaction processing) systems provide source data to data warehouses, whereas OLAP (online analytical processing) systems help to analyze it.&lt;br&gt;
+&lt;p&gt;Good cross-comparison between OLTP and OLAP systems.&lt;br&gt;
 &lt;a href=&#34;http://datawarehouse4u.info/OLTP-vs-OLAP.html&#34; target=&#34;_blank&#34;&gt;datawarehouse4u.info/OLTP-vs-OLAP&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr&gt;
@@ -510,7 +511,7 @@ in 96 ms
 
 &lt;h4 id=&#34;overapi:74f7fb04a75e766307d398251c369a21&#34;&gt;OverAPI&lt;/h4&gt;
 
-&lt;p&gt;Learning a new language and want a quick list of common commands? &lt;a href=&#34;http://overapi.com&#34; target=&#34;_blank&#34;&gt;OverAPI&lt;/a&gt; has a gigantic selection of cheat sheets for almost any current technology, from Ada to ZenCoding (Emmet) and everything in between.&lt;br&gt;
+&lt;p&gt;A gigantic selection of cheat sheets for almost any current programming language and other technologies.&lt;br&gt;
 &lt;a href=&#34;http://overapi.com&#34; target=&#34;_blank&#34;&gt;overapi.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr&gt;
@@ -525,17 +526,22 @@ in 96 ms
 &lt;h4 id=&#34;google-design-resizer:74f7fb04a75e766307d398251c369a21&#34;&gt;Google Design: Resizer&lt;/h4&gt;
 
 &lt;p&gt;An interactive viewer to see and test how digital products respond to material design breakpoints across desktop, mobile, and tablet.&lt;br&gt;
-&lt;a href=&#34;https://design.google.com/articles/introducing-resizer&#34; target=&#34;_blank&#34;&gt;design.google.com/articles/introducing-resizer&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;http://design.google.com/resizer&#34; target=&#34;_blank&#34;&gt;design.google.com/resizer&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;how-to-use-github-pages-to-make-web-sites-while-learning-code:74f7fb04a75e766307d398251c369a21&#34;&gt;How To Use GitHub Pages To Make Web Sites While Learning Code&lt;/h4&gt;
+
+&lt;p&gt;Step-by-step tutorial to getting started with building a website hosted on Github Pages.
+&lt;a href=&#34;http://readwrite.com/2013/11/27/github-pages-explained&#34; target=&#34;_blank&#34;&gt;readwrite.com/github-pages&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;static-site-generators:74f7fb04a75e766307d398251c369a21&#34;&gt;Static Site Generators&lt;/h3&gt;
 
-&lt;p&gt;A leaderboard of the top open-source static site generators.&lt;br&gt;
+&lt;p&gt;A leaderboard of the top open-source static site generators based on Github stars.&lt;br&gt;
 &lt;a href=&#34;https://www.staticgen.com&#34; target=&#34;_blank&#34;&gt;staticgen.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;website-grader:74f7fb04a75e766307d398251c369a21&#34;&gt;Website Grader&lt;/h4&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://website.grader.com&#34; target=&#34;_blank&#34;&gt;website.grader.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Free online tool that grades any website against key metrics such as performance, mobile readiness, SEO, and security.&lt;br&gt;
+&lt;a href=&#34;https://website.grader.com&#34; target=&#34;_blank&#34;&gt;website.grader.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;who-is-hosting-this:74f7fb04a75e766307d398251c369a21&#34;&gt;Who Is Hosting This&lt;/h4&gt;
 
@@ -603,9 +609,9 @@ in 96 ms
 &lt;li&gt;&lt;b&gt;MARKETING AUTOMATION:&lt;/b&gt; &lt;a href=&#34;https://www.oracle.com/marketingcloud/products/marketing-automation/index.html&#34; target=&#34;_blank&#34;&gt;Eloqua&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/eloqua.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://www.marketo.com&#34; target=&#34;_blank&#34;&gt;Marketo&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/marketo.png&#34;&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;b&gt;OPERATING SYSTEMS:&lt;/b&gt; &lt;a href=&#34;http://www.microsoft.com/en-us/windows&#34; target=&#34;_blank&#34;&gt;Windows&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/windows.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://www.linux.com&#34; target=&#34;_blank&#34;&gt;Linux&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/linux.png&#34;&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;b&gt;PROGRAMMING LANGUAGES:&lt;/b&gt; &lt;a href=&#34;https://en.wikipedia.org/wiki/SQL&#34; target=&#34;_blank&#34;&gt;SQL&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/sql.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://msdn.microsoft.com/en-us/library/z1zx9t92.aspx&#34; target=&#34;_blank&#34;&gt;C#&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/csharp.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://www.python.org&#34; target=&#34;_blank&#34;&gt;Python&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/python.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://golang.org&#34; target=&#34;_blank&#34;&gt;Go&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/golang.png&#34;&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;RDBMS:&lt;/b&gt; Microsoft SQL Server, PostgreSQL&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;TEXT EDITORS:&lt;/b&gt; &lt;a href=&#34;https://atom.io&#34; target=&#34;_blank&#34;&gt;Atom&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/atom.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;Notepad++, UltraEdit&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;WEB TECHNOLOGIES:&lt;/b&gt; HTML, CSS, XML, JSON, &lt;a href=&#34;https://en.wikipedia.org/wiki/Representational_state_transfer&#34; target=&#34;_blank&#34;&gt;RESTful Web Services&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/rest-api.png&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;RDBMS:&lt;/b&gt; &lt;a href=&#34;https://msdn.microsoft.com/en-us/library/mt590198.aspx&#34; target=&#34;_blank&#34;&gt;Microsoft SQL Server&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/mssqlserver.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://www.postgresql.org&#34; target=&#34;_blank&#34;&gt;PostgreSQL&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/postgresql.png&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;TEXT EDITORS:&lt;/b&gt; &lt;a href=&#34;https://atom.io&#34; target=&#34;_blank&#34;&gt;Atom&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/atom.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://notepad-plus-plus.org&#34; target=&#34;_blank&#34;&gt;Notepad++&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/notepad++.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;http://www.ultraedit.com&#34; target=&#34;_blank&#34;&gt;UltraEdit&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/ultraedit.png&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;WEB TECHNOLOGIES:&lt;/b&gt; &lt;a href=&#34;https://en.wikipedia.org/wiki/HTML&#34; target=&#34;_blank&#34;&gt;HTML&lt;img src=&#34;http://andrewrgoss.github.io/img/html5.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://en.wikipedia.org/wiki/Cascading_Style_Sheets&#34; target=&#34;_blank&#34;&gt;CSS&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/css3.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://en.wikipedia.org/wiki/XML&#34; target=&#34;_blank&#34;&gt;XML&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/xml.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://en.wikipedia.org/wiki/JSON&#34; target=&#34;_blank&#34;&gt;JSON&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/json.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://en.wikipedia.org/wiki/Representational_state_transfer&#34; target=&#34;_blank&#34;&gt;RESTful Web Services&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/rest-api.png&#34;&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;b&gt;WORKFLOW MANAGEMENT:&lt;/b&gt; &lt;a href=&#34;https://www.atlassian.com/software/jira&#34; target=&#34;_blank&#34;&gt;JIRA&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/jira.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://trello.com&#34; target=&#34;_blank&#34;&gt;Trello&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/trello.png&#34;&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
