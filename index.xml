@@ -440,7 +440,7 @@ in 96 ms
 &lt;p&gt;&lt;b&gt;TL;DR&lt;/b&gt; &amp;ndash; Data engineer, technical consultant, and business intelligence developer working to solve analytical challenges at the intersection of marketing and technology. Also a &lt;a href=&#34;http://andrewrgoss.github.io/travel&#34;&gt;world traveler&lt;/a&gt;.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Hey! I&amp;rsquo;m Andrew Goss. Thanks for visiting my website. My career has been tied closely to the convergence of marketing and advertising technology (adtech and martech) and the ever-increasing reliance on data at the heart of it all. Companies across the world have fundamentally shifted how they spend their marketing dollars and messaging is now at the individual level, where data-driven unique messages are being communicated across social media, publisher sites, personalized emails, videos, instant messaging&amp;hellip; the list goes on and on in the digital sphere. With petabytes of data being collected at every turn through digital and offline interactions as well, I work to try and wrangle all of this and derive value from it.&lt;/p&gt;
+&lt;p&gt;Hey! I&amp;rsquo;m Andrew Goss. Thanks for visiting my website. My career has been tied closely to the convergence of marketing and advertising technology (martech and adtech) and the ever-increasing reliance on data at the heart of it all. Companies across the world have fundamentally shifted how they spend their marketing dollars and messaging is now at the individual level, where data-driven unique messages are being communicated across social media, publisher sites, personalized emails, videos, instant messaging&amp;hellip; the list goes on and on in the digital sphere. With petabytes of data being collected at every turn through digital and offline interactions as well, I work to wrangle this data and derive value from it.&lt;/p&gt;
 
 &lt;p&gt;Over the years in working in this space I&amp;rsquo;ve come across many great &lt;a href=&#34;http://andrewrgoss.github.io/resources&#34;&gt;resources&lt;/a&gt; and ideas to write about in this blog. If you&amp;rsquo;re interested in learning more about me specifically you can read on (or check out my &lt;a href=&#34;http://andrewrgoss.github.io/resume&#34;&gt;resume&lt;/a&gt;), otherwise you can skip down to &lt;a href=&#34;#problems_i_solve&#34;&gt;learn more&lt;/a&gt; about problems I help organizations with.&lt;/p&gt;
 
@@ -477,7 +477,7 @@ in 96 ms
       <description>
 
 &lt;blockquote&gt;
-&lt;p&gt;There are tons of great resources all over the internet that I&amp;rsquo;ve come across and people have sent me lots of useful links. I&amp;rsquo;ve bookmarked hundreds of URLs and this page is my categorized collection of the (free) ones I&amp;rsquo;ve found to be the most helpful. If you&amp;rsquo;re reading this and have something to add or find a dead link please &lt;a href=&#34;mailto:andrewrgoss@gmail.com&#34; target=&#34;_blank&#34;&gt;shoot me a note&lt;/a&gt;. I&amp;rsquo;ll be building this up more over time.&lt;/p&gt;
+&lt;p&gt;There are tons of great resources all over the internet. I&amp;rsquo;ve bookmarked hundreds of URLs and this page is my categorized collection of the (free) ones I&amp;rsquo;ve found to be the most helpful. If you&amp;rsquo;re reading this and have something to add or find a dead link please &lt;a href=&#34;mailto:andrewrgoss@gmail.com&#34; target=&#34;_blank&#34;&gt;shoot me a note&lt;/a&gt;. I&amp;rsquo;ll be building this up more over time.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;a href=&#34;#business_intelligence&#34;&gt;Business Intelligence&lt;/a&gt; | &lt;a href=&#34;#data_science&#34;&gt;Data Science&lt;/a&gt; | &lt;a href=&#34;#programming&#34;&gt;Programming&lt;/a&gt; | &lt;a href=&#34;#website_tools&#34;&gt;Website Tools&lt;/a&gt;&lt;/p&gt;
@@ -486,7 +486,7 @@ in 96 ms
 
 &lt;h2 id=&#34;a-name-business-intelligence-a-business-intelligence:74f7fb04a75e766307d398251c369a21&#34;&gt;&lt;a name=&#34;business_intelligence&#34;&gt;&lt;/a&gt;Business Intelligence&lt;/h2&gt;
 
-&lt;h4 id=&#34;olap-cube:74f7fb04a75e766307d398251c369a21&#34;&gt;OLAP Cube&lt;/h4&gt;
+&lt;h4 id=&#34;olap-cubes:74f7fb04a75e766307d398251c369a21&#34;&gt;OLAP Cubes&lt;/h4&gt;
 
 &lt;p&gt;A nice intro guide on what these are and why they are used.&lt;br&gt;
 &lt;a href=&#34;http://olap.com/learn-bi-olap/olap-bi-definitions/olap-cube&#34; target=&#34;_blank&#34;&gt;olap.com/learn-bi-olap/olap-bi-definitions/olap-cube&lt;/a&gt;&lt;/p&gt;
@@ -502,16 +502,21 @@ in 96 ms
 
 &lt;h4 id=&#34;ropensci:74f7fb04a75e766307d398251c369a21&#34;&gt;rOpenSci&lt;/h4&gt;
 
-&lt;p&gt;Open source R packages that allow access to data repositories and provide programmatic access to a variety of scientific data and other real-time metrics of scholarly impact.
+&lt;p&gt;Open source R packages that allow access to data repositories and provide programmatic access to a variety of scientific data and other real-time metrics of scholarly impact.&lt;br&gt;
 &lt;a href=&#34;http://ropensci.org&#34; target=&#34;_blank&#34;&gt;ropensci.org&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr&gt;
 
 &lt;h2 id=&#34;a-name-programming-a-programming:74f7fb04a75e766307d398251c369a21&#34;&gt;&lt;a name=&#34;programming&#34;&gt;&lt;/a&gt;Programming&lt;/h2&gt;
 
+&lt;h4 id=&#34;bento:74f7fb04a75e766307d398251c369a21&#34;&gt;Bento&lt;/h4&gt;
+
+&lt;p&gt;A curated collection of tutorials and free learning resources for learning to code in new languages.&lt;br&gt;
+&lt;a href=&#34;https://bento.io&#34; target=&#34;_blank&#34;&gt;bento.io&lt;/a&gt;&lt;/p&gt;
+
 &lt;h4 id=&#34;overapi:74f7fb04a75e766307d398251c369a21&#34;&gt;OverAPI&lt;/h4&gt;
 
-&lt;p&gt;A gigantic selection of cheat sheets for almost any current programming language and other technologies.&lt;br&gt;
+&lt;p&gt;A huge selection of cheat sheets for almost any current programming language and other technologies.&lt;br&gt;
 &lt;a href=&#34;http://overapi.com&#34; target=&#34;_blank&#34;&gt;overapi.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr&gt;
@@ -528,7 +533,7 @@ in 96 ms
 &lt;p&gt;An interactive viewer to see and test how digital products respond to material design breakpoints across desktop, mobile, and tablet.&lt;br&gt;
 &lt;a href=&#34;http://design.google.com/resizer&#34; target=&#34;_blank&#34;&gt;design.google.com/resizer&lt;/a&gt;&lt;/p&gt;
 
-&lt;h4 id=&#34;how-to-use-github-pages-to-make-web-sites-while-learning-code:74f7fb04a75e766307d398251c369a21&#34;&gt;How To Use GitHub Pages To Make Web Sites While Learning Code&lt;/h4&gt;
+&lt;h4 id=&#34;how-to-use-github-pages-to-make-websites:74f7fb04a75e766307d398251c369a21&#34;&gt;How To Use GitHub Pages To Make Websites&lt;/h4&gt;
 
 &lt;p&gt;Step-by-step tutorial to getting started with building a website hosted on Github Pages.
 &lt;a href=&#34;http://readwrite.com/2013/11/27/github-pages-explained&#34; target=&#34;_blank&#34;&gt;readwrite.com/github-pages&lt;/a&gt;&lt;/p&gt;
@@ -615,7 +620,7 @@ in 96 ms
 &lt;li&gt;&lt;b&gt;WORKFLOW MANAGEMENT:&lt;/b&gt; &lt;a href=&#34;https://www.atlassian.com/software/jira&#34; target=&#34;_blank&#34;&gt;JIRA&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/jira.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://trello.com&#34; target=&#34;_blank&#34;&gt;Trello&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/trello.png&#34;&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;sub&gt;* denotes working knowledge&lt;/sub&gt;&lt;/p&gt;
+&lt;p&gt;&lt;sub&gt;* working knowledge&lt;/sub&gt;&lt;/p&gt;
 
 &lt;hr&gt;
 
