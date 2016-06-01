@@ -57,9 +57,9 @@ I&amp;rsquo;ve been wanting to add Python to my personal tech stack for some tim
 
 &lt;h5 id=&#34;course-progress:b609afaabbef53e4f3d69f90af30ad86&#34;&gt;Course Progress&lt;/h5&gt;
 
-&lt;progress max=&#34;1.0&#34; value=&#34;0.63&#34;&gt;&lt;/progress&gt;
+&lt;progress max=&#34;1.0&#34; value=&#34;0.71&#34;&gt;&lt;/progress&gt;
 
-&lt;p&gt;63% - &lt;font color=&#34;green&#34;&gt;[IN PROGRESS]&lt;/font&gt;.&lt;/p&gt;
+&lt;p&gt;71% - &lt;font color=&#34;green&#34;&gt;[IN PROGRESS]&lt;/font&gt;.&lt;/p&gt;
 
 &lt;!--&lt;a href=&#34;https://github.com/andrewrgoss/udemy-beginning-csharp&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;--&gt;
 </description>
@@ -480,11 +480,13 @@ in 96 ms
 &lt;p&gt;There are tons of great resources all over the internet. I&amp;rsquo;ve bookmarked hundreds of URLs and this page is my categorized collection of the (free) ones I&amp;rsquo;ve found to be the most helpful. If you&amp;rsquo;re reading this and have something to add or find a dead link please &lt;a href=&#34;mailto:andrewrgoss@gmail.com&#34; target=&#34;_blank&#34;&gt;shoot me a note&lt;/a&gt;. I&amp;rsquo;ll be building this up more over time.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;a href=&#34;#business_intelligence&#34;&gt;Business Intelligence&lt;/a&gt; | &lt;a href=&#34;#data_science&#34;&gt;Data Science&lt;/a&gt; | &lt;a href=&#34;#programming&#34;&gt;Programming&lt;/a&gt; | &lt;a href=&#34;#website_tools&#34;&gt;Website Tools&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;#business_intelligence&#34;&gt;Business Intelligence&lt;/a&gt; | &lt;a href=&#34;#data_science&#34;&gt;Data Science&lt;/a&gt; | &lt;a href=&#34;#programming&#34;&gt;Programming&lt;/a&gt; | &lt;a href=&#34;#web_technologies&#34;&gt;Web Technologies&lt;/a&gt; | &lt;a href=&#34;#website_tools&#34;&gt;Website Tools&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr&gt;
 
 &lt;h2 id=&#34;a-name-business-intelligence-a-business-intelligence:74f7fb04a75e766307d398251c369a21&#34;&gt;&lt;a name=&#34;business_intelligence&#34;&gt;&lt;/a&gt;Business Intelligence&lt;/h2&gt;
+
+&lt;hr&gt;
 
 &lt;h4 id=&#34;olap-cubes:74f7fb04a75e766307d398251c369a21&#34;&gt;OLAP Cubes&lt;/h4&gt;
 
@@ -500,6 +502,13 @@ in 96 ms
 
 &lt;h2 id=&#34;a-name-data-science-a-data-science:74f7fb04a75e766307d398251c369a21&#34;&gt;&lt;a name=&#34;data_science&#34;&gt;&lt;/a&gt;Data Science&lt;/h2&gt;
 
+&lt;hr&gt;
+
+&lt;h4 id=&#34;kaggle:74f7fb04a75e766307d398251c369a21&#34;&gt;Kaggle&lt;/h4&gt;
+
+&lt;p&gt;Offers a means of learning data science through both public and private competitions.&lt;br&gt;
+&lt;a href=&#34;https://www.kaggle.com&#34; target=&#34;_blank&#34;&gt;kaggle.com&lt;/a&gt;&lt;/p&gt;
+
 &lt;h4 id=&#34;ropensci:74f7fb04a75e766307d398251c369a21&#34;&gt;rOpenSci&lt;/h4&gt;
 
 &lt;p&gt;Open source R packages that allow access to data repositories and provide programmatic access to a variety of scientific data and other real-time metrics of scholarly impact.&lt;br&gt;
@@ -508,6 +517,8 @@ in 96 ms
 &lt;hr&gt;
 
 &lt;h2 id=&#34;a-name-programming-a-programming:74f7fb04a75e766307d398251c369a21&#34;&gt;&lt;a name=&#34;programming&#34;&gt;&lt;/a&gt;Programming&lt;/h2&gt;
+
+&lt;hr&gt;
 
 &lt;h4 id=&#34;bento:74f7fb04a75e766307d398251c369a21&#34;&gt;Bento&lt;/h4&gt;
 
@@ -521,7 +532,20 @@ in 96 ms
 
 &lt;hr&gt;
 
+&lt;h2 id=&#34;a-name-web-technologies-a-web-technologies:74f7fb04a75e766307d398251c369a21&#34;&gt;&lt;a name=&#34;web_technologies&#34;&gt;&lt;/a&gt;Web Technologies&lt;/h2&gt;
+
+&lt;hr&gt;
+
+&lt;h4 id=&#34;what-is-a-rest-api:74f7fb04a75e766307d398251c369a21&#34;&gt;What is a REST API?&lt;/h4&gt;
+
+&lt;p&gt;Thorough overview on what REST APIs are and how to use them.&lt;br&gt;
+&lt;a href=&#34;http://idratherbewriting.com/docapis_what-is-a-rest-api&#34; target=&#34;_blank&#34;&gt;idratherbewriting.com/docapis_what-is-a-rest-api&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+
 &lt;h2 id=&#34;a-name-website-tools-a-website-tools:74f7fb04a75e766307d398251c369a21&#34;&gt;&lt;a name=&#34;website_tools&#34;&gt;&lt;/a&gt;Website Tools&lt;/h2&gt;
+
+&lt;hr&gt;
 
 &lt;h4 id=&#34;builtwith:74f7fb04a75e766307d398251c369a21&#34;&gt;BuiltWith&lt;/h4&gt;
 
@@ -535,7 +559,7 @@ in 96 ms
 
 &lt;h4 id=&#34;how-to-use-github-pages-to-make-websites:74f7fb04a75e766307d398251c369a21&#34;&gt;How To Use GitHub Pages To Make Websites&lt;/h4&gt;
 
-&lt;p&gt;Step-by-step tutorial to getting started with building a website hosted on Github Pages.
+&lt;p&gt;Step-by-step tutorial to getting started with building a website hosted on Github Pages.&lt;br&gt;
 &lt;a href=&#34;http://readwrite.com/2013/11/27/github-pages-explained&#34; target=&#34;_blank&#34;&gt;readwrite.com/github-pages&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;static-site-generators:74f7fb04a75e766307d398251c369a21&#34;&gt;Static Site Generators&lt;/h3&gt;
