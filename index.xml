@@ -35,7 +35,7 @@
 &lt;li&gt;Natural Language Processing&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Once the workshop materials become available &lt;a href=&#34;https://www.opendatascience.com&#34; target=&#34;_blank&#34;&gt;online&lt;/a&gt; I&amp;rsquo;ll be writing more here.&lt;/p&gt;
+&lt;p&gt;The workshop materials from the conference are available on &lt;a href=&#34;https://www.opendatascience.com/category/conferences&#34; target=&#34;_blank&#34;&gt;opendatascience.com&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -57,9 +57,9 @@ I&amp;rsquo;ve been wanting to add Python to my personal tech stack for some tim
 
 &lt;h5 id=&#34;course-progress:b609afaabbef53e4f3d69f90af30ad86&#34;&gt;Course Progress&lt;/h5&gt;
 
-&lt;progress max=&#34;1.0&#34; value=&#34;0.71&#34;&gt;&lt;/progress&gt;
+&lt;progress max=&#34;1.0&#34; value=&#34;0.81&#34;&gt;&lt;/progress&gt;
 
-&lt;p&gt;71% - &lt;font color=&#34;green&#34;&gt;[IN PROGRESS]&lt;/font&gt;.&lt;/p&gt;
+&lt;p&gt;81% - &lt;font color=&#34;green&#34;&gt;[IN PROGRESS]&lt;/font&gt;.&lt;/p&gt;
 
 &lt;!--&lt;a href=&#34;https://github.com/andrewrgoss/udemy-beginning-csharp&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;--&gt;
 </description>
@@ -354,7 +354,7 @@ Percent of US: 70%&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/post/csharp.png&#34; alt=&#34;C#&#34; title=&#34;C#&#34; /&gt;&lt;br&gt;
 &lt;a href=&#34;https://www.udemy.com/programming-for-complete-beginners-in-csharp/&#34; target=&#34;_blank&#34;&gt;COURSE LINK&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://github.com/andrewrgoss/udemy-beginning-csharp/blob/master/Course%20Completion%20Certificate%20(UC-TT5IFIPW).pdf&#34; target=&#34;_blank&#34;&gt;COMPLETION CERTIFICATE&lt;/a&gt;
+&lt;a href=&#34;http://andrewrgoss.github.io/certs/Udemy%20-%20CSharp%20for%20Beginners%20Completion%20Certificate%20(UC-TT5IFIPW).pdf&#34; target=&#34;_blank&#34;&gt;COMPLETION CERTIFICATE&lt;/a&gt;
 &lt;hr&gt;
 I&amp;rsquo;ve worked on Windows servers throughout my career, which initially got me started with this language. Learning some of the Base Class Library (BCL) of the Microsoft .NET Framework and using these classes through C# has helped me automate various tasks within these environments.&lt;/p&gt;
 
@@ -480,7 +480,7 @@ in 96 ms
 &lt;p&gt;There are tons of great resources all over the internet. I&amp;rsquo;ve bookmarked hundreds of URLs and this page is my categorized collection of the (free) ones I&amp;rsquo;ve found to be the most helpful. If you&amp;rsquo;re reading this and have something to add or find a dead link please &lt;a href=&#34;mailto:andrewrgoss@gmail.com&#34; target=&#34;_blank&#34;&gt;shoot me a note&lt;/a&gt;. I&amp;rsquo;ll be building this up more over time.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;a href=&#34;#business_intelligence&#34;&gt;Business Intelligence&lt;/a&gt; | &lt;a href=&#34;#data_science&#34;&gt;Data Science&lt;/a&gt; | &lt;a href=&#34;#programming&#34;&gt;Programming&lt;/a&gt; | &lt;a href=&#34;#web_technologies&#34;&gt;Web Technologies&lt;/a&gt; | &lt;a href=&#34;#website_tools&#34;&gt;Website Tools&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;#business_intelligence&#34;&gt;Business Intelligence&lt;/a&gt; | &lt;a href=&#34;#data_science&#34;&gt;Data Science&lt;/a&gt; | &lt;a href=&#34;#programming&#34;&gt;Programming&lt;/a&gt; | &lt;a href=&#34;#web_services&#34;&gt;Web Services&lt;/a&gt; | &lt;a href=&#34;#website_tools&#34;&gt;Website Tools&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr&gt;
 
@@ -504,6 +504,11 @@ in 96 ms
 
 &lt;hr&gt;
 
+&lt;h4 id=&#34;crowdflower-data-for-everyone:74f7fb04a75e766307d398251c369a21&#34;&gt;Crowdflower: Data for Everyone&lt;/h4&gt;
+
+&lt;p&gt;Collection of free, downloadable, and categorized datasets that have gone through the Crowdflower platform.&lt;br&gt;
+&lt;a href=&#34;https://www.crowdflower.com/data-for-everyone&#34; target=&#34;_blank&#34;&gt;crowdflower.com/data-for-everyone&lt;/a&gt;&lt;/p&gt;
+
 &lt;h4 id=&#34;kaggle:74f7fb04a75e766307d398251c369a21&#34;&gt;Kaggle&lt;/h4&gt;
 
 &lt;p&gt;Offers a means of learning data science through both public and private competitions.&lt;br&gt;
@@ -525,6 +530,11 @@ in 96 ms
 &lt;p&gt;A curated collection of tutorials and free learning resources for learning to code in new languages.&lt;br&gt;
 &lt;a href=&#34;https://bento.io&#34; target=&#34;_blank&#34;&gt;bento.io&lt;/a&gt;&lt;/p&gt;
 
+&lt;h4 id=&#34;codeproject-diving-in-oop:74f7fb04a75e766307d398251c369a21&#34;&gt;CodeProject: Diving in OOP&lt;/h4&gt;
+
+&lt;p&gt;Comprehensive article that covers almost every OOP (object-oriented programming) concept in detail with C# examples.&lt;br&gt;
+&lt;a href=&#34;http://www.codeproject.com/Articles/771455/Diving-in-OOP&#34; target=&#34;_blank&#34;&gt;codeproject.com/Diving-in-OOP&lt;/a&gt;&lt;/p&gt;
+
 &lt;h4 id=&#34;overapi:74f7fb04a75e766307d398251c369a21&#34;&gt;OverAPI&lt;/h4&gt;
 
 &lt;p&gt;A huge selection of cheat sheets for almost any current programming language and other technologies.&lt;br&gt;
@@ -532,9 +542,14 @@ in 96 ms
 
 &lt;hr&gt;
 
-&lt;h2 id=&#34;a-name-web-technologies-a-web-technologies:74f7fb04a75e766307d398251c369a21&#34;&gt;&lt;a name=&#34;web_technologies&#34;&gt;&lt;/a&gt;Web Technologies&lt;/h2&gt;
+&lt;h2 id=&#34;a-name-web-services-a-web-services:74f7fb04a75e766307d398251c369a21&#34;&gt;&lt;a name=&#34;web_services&#34;&gt;&lt;/a&gt;Web Services&lt;/h2&gt;
 
 &lt;hr&gt;
+
+&lt;h4 id=&#34;restful-architecture:74f7fb04a75e766307d398251c369a21&#34;&gt;RESTful Architecture&lt;/h4&gt;
+
+&lt;p&gt;Technical documentation for RESTful web services with references and language-specific examples.&lt;br&gt;
+&lt;a href=&#34;https://smartsheet-platform.github.io/api-docs&#34; target=&#34;_blank&#34;&gt;smartsheet-platform.github.io/api-docs&lt;/a&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;what-is-a-rest-api:74f7fb04a75e766307d398251c369a21&#34;&gt;What is a REST API?&lt;/h4&gt;
 
