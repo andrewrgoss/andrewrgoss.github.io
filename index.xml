@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data Engineer, Consultant, BI Developer - Andrew Goss</title>
+    <title>Data Engineer, Consultant, BI Developer � Andrew Goss</title>
     <link>http://andrewrgoss.github.io/</link>
-    <description>Recent content on Data Engineer, Consultant, BI Developer - Andrew Goss</description>
+    <description>Recent content on Data Engineer, Consultant, BI Developer � Andrew Goss</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
@@ -503,6 +503,11 @@ in 96 ms
 &lt;h2 id=&#34;a-name-data-science-a-data-science:74f7fb04a75e766307d398251c369a21&#34;&gt;&lt;a name=&#34;data_science&#34;&gt;&lt;/a&gt;Data Science&lt;/h2&gt;
 
 &lt;hr&gt;
+
+&lt;h4 id=&#34;beginner-s-guide-to-big-data-terminology:74f7fb04a75e766307d398251c369a21&#34;&gt;Beginner&amp;rsquo;s Guide to Big Data Terminology&lt;/h4&gt;
+
+&lt;p&gt;Walkthrough on some of the common lingo of data science, such as DaaS and Neural Networking.
+&lt;a href=&#34;http://dataconomy.com/a-beginners-guide-to-big-data-terminology&#34; target=&#34;_blank&#34;&gt;dataconomy.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;crowdflower-data-for-everyone:74f7fb04a75e766307d398251c369a21&#34;&gt;Crowdflower: Data for Everyone&lt;/h4&gt;
 
