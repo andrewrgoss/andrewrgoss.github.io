@@ -554,7 +554,7 @@ in 96 ms
 
 &lt;h4 id=&#34;openweathermap:74f7fb04a75e766307d398251c369a21&#34;&gt;OpenWeatherMap&lt;/h4&gt;
 
-&lt;p&gt;API for accessing current weather data for any location including over 200,000 cities.
+&lt;p&gt;API for accessing current weather data for any location including over 200,000 cities.&lt;br&gt;
 &lt;a href=&#34;http://openweathermap.org/api&#34; target=&#34;_blank&#34;&gt;openweathermap.org/api&lt;/a&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;restful-architecture:74f7fb04a75e766307d398251c369a21&#34;&gt;RESTful Architecture&lt;/h4&gt;
