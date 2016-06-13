@@ -33,11 +33,6 @@
   </url>
   
   <url>
-    <loc>http://andrewrgoss.github.io/travel_resources/</loc>
-    <lastmod>2016-02-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://andrewrgoss.github.io/2016/caleb-doxsey--an-introduction-to-programming-in-go/</loc>
     <lastmod>2016-01-27T00:00:00+00:00</lastmod>
   </url>
@@ -66,6 +61,10 @@
   
   <url>
     <loc>http://andrewrgoss.github.io/search/</loc>
+  </url>
+  
+  <url>
+    <loc>http://andrewrgoss.github.io/travel_resources/</loc>
   </url>
   
 </urlset>
