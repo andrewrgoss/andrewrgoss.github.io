@@ -130,189 +130,6 @@ I&amp;rsquo;ve been wanting to add Python to my personal tech stack for some tim
     </item>
     
     <item>
-      <title>Travel</title>
-      <link>http://andrewrgoss.github.io/travel/</link>
-      <pubDate>Tue, 23 Feb 2016 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.github.io/travel/</guid>
-      <description>
-
-&lt;blockquote&gt;
-&lt;p&gt;Check out some of my favorite &lt;a href=&#34;http://andrewrgoss.github.io/travel_resources&#34;&gt;travel resources&lt;/a&gt; here.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Outside of work, I&amp;rsquo;m passionate about traveling the world, having new experiences, and broadening my life perspective. I have a long, ambitious list of places that I want to try and visit in my lifetime, so I decided to start tracking where I&amp;rsquo;ve been and where I&amp;rsquo;d like to go in the future.&lt;/p&gt;
-
-&lt;p&gt;The places I&amp;rsquo;ve listed out below are grouped by geographical belonging, not cultural significance (for example, Russia being listed under Asia and not Europe). Additionally, I do not count laying over in an airport as having visited a destination. I only mark a country or state as having been visited when I actually set foot in it.&lt;/p&gt;
-
-&lt;h2 id=&#34;world-stats:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;World Stats&lt;/h2&gt;
-
-&lt;p&gt;Countries/Territories Visited: 17&lt;br&gt;
-Continents Visited: 4&lt;br&gt;
-Percent of World: ~8.71%&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/matador_network_my_world_map.png&#34; alt=&#34;My World Map&#34; title=&#34;My World Map&#34; /&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;north-america:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;North America&lt;/h5&gt;
-
-&lt;p&gt;&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Bahamas&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Canada&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Cayman Islands&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Haiti&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Jamaica&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Mexico&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;United States&amp;ensp;&amp;ensp;&lt;/p&gt;
-
-&lt;p&gt;&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Aruba&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Belize&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Costa Rica&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Turks and Caicos Islands&amp;ensp;&amp;ensp;&lt;/p&gt;
-
-&lt;h5 id=&#34;south-america:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;South America&lt;/h5&gt;
-
-&lt;p&gt;&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Peru&amp;ensp;&amp;ensp;&lt;/p&gt;
-
-&lt;p&gt;&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Argentina&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Brazil&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Chile&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Colombia&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Uruguay&amp;ensp;&amp;ensp;&lt;/p&gt;
-
-&lt;h5 id=&#34;europe:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;Europe&lt;/h5&gt;
-
-&lt;p&gt;&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;France&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Ireland&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Italy&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Monaco&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Spain&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;United Kingdom&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Vatican City&amp;ensp;&amp;ensp;&lt;/p&gt;
-
-&lt;p&gt;&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Austria&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Belgium&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Croatia&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Czech Republic&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Denmark&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Germany&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Gibraltar&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Greece&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Iceland&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Luxembourg&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Netherlands&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Norway&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Poland&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Portugal&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Romania&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Sweden&amp;ensp;&amp;ensp;&lt;/p&gt;
-
-&lt;h5 id=&#34;africa:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;Africa&lt;/h5&gt;
-
-&lt;p&gt;&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Egypt&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Ethiopia&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Ghana&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Kenya&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Mauritius&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Morocco&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Saint Helena&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;South Africa&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Tanzania&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Uganda&amp;ensp;&amp;ensp;&lt;/p&gt;
-
-&lt;h5 id=&#34;antarctica:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;Antarctica&lt;/h5&gt;
-
-&lt;p&gt;&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Antarctica&amp;ensp;&amp;ensp;&lt;/p&gt;
-
-&lt;h5 id=&#34;asia:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;Asia&lt;/h5&gt;
-
-&lt;p&gt;&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Israel&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Palestine&amp;ensp;&amp;ensp;&lt;/p&gt;
-
-&lt;p&gt;&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Cambodia&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;China&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Hong Kong&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;India&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Indonesia&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Japan&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Laos&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Malaysia&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Maldives&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Nepal&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Russia&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Singapore&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;South Korea&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Sri Lanka&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Thailand&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Turkey&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;United Arab Emirates&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Vietnam&amp;ensp;&amp;ensp;&lt;/p&gt;
-
-&lt;h5 id=&#34;oceania:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;Oceania&lt;/h5&gt;
-
-&lt;p&gt;&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Australia&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Cook Islands&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;New Zealand&amp;ensp;&amp;ensp;&lt;/p&gt;
-
-&lt;h2 id=&#34;us-stats:5c2f58f90a624906b9d8c0eb0f85d9c6&#34;&gt;US Stats&lt;/h2&gt;
-
-&lt;p&gt;States Visited: 35&lt;br&gt;
-Percent of US: 70%&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/matador_network_my_us_map.png&#34; alt=&#34;My US Map&#34; title=&#34;My US Map&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Alabama&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Alaska&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Arizona&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Arkansas&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;California&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Colorado&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Connecticut&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Delaware&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Florida&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Georgia&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Hawaii&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Idaho&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Illinois&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Indiana&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Iowa&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Kansas&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Kentucky&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Louisiana&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Maine&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Maryland&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Massachusetts&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Michigan&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Minnesota&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Mississippi&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Missouri&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Montana&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Nebraska&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Nevada&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;New Hampshire&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;New Jersey&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;New Mexico&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;New York&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;North Carolina&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;North Dakota&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Ohio&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Oklahoma&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Oregon&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Pennsylvania&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Rhode Island&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;South Carolina&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;South Dakota&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Tennessee&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Texas&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Utah&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Vermont&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Virginia&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Washington&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;West Virginia&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34;&gt;&amp;ensp;Wisconsin&amp;ensp;&amp;ensp;
-&lt;input type=&#34;checkbox&#34; onclick=&#34;return false&#34; checked=&#34;checked&#34;&gt;&amp;ensp;Wyoming&amp;ensp;&amp;ensp;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Caleb Doxsey- An Introduction to Programming in Go</title>
       <link>http://andrewrgoss.github.io/2016/caleb-doxsey--an-introduction-to-programming-in-go/</link>
       <pubDate>Wed, 27 Jan 2016 00:00:00 +0000</pubDate>
@@ -441,7 +258,7 @@ in 96 ms
       <description>
 
 &lt;blockquote&gt;
-&lt;p&gt;&lt;b&gt;TL;DR&lt;/b&gt; &amp;ndash; Data engineer, technical consultant, and business intelligence developer working to solve analytical challenges at the intersection of marketing and technology. Also a &lt;a href=&#34;http://andrewrgoss.github.io/travel&#34;&gt;world traveler&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;TL;DR&lt;/b&gt; &amp;ndash; Data engineer, technical consultant, and business intelligence developer working to solve analytical challenges at the intersection of marketing and technology.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Hey! I&amp;rsquo;m Andrew Goss. Thanks for visiting my website. My career has been tied closely to the convergence of marketing and advertising technology (martech and adtech) and the ever-increasing reliance on data at the heart of it all. Companies across the world have fundamentally shifted how they spend their marketing dollars and messaging is now at the individual level, where data-driven unique messages are being communicated across social media channels, publisher sites, personalized emails, video content, instant messaging&amp;hellip; the list goes on and on in the digital sphere. With petabytes of data being collected at every turn through digital and offline interactions, I work to wrangle this data and derive value from it.&lt;/p&gt;
@@ -454,9 +271,7 @@ in 96 ms
 
 &lt;p&gt;I help clients translate large amounts of fragmented data into smarter optimization of marketing/advertising dollars through technical expertise combined with human marketing savviness and business acumen. As a consultant, I strive to consistently provide quality ongoing services, on-time deliverables, and open communication around project status, risks, and challenges. I am results-oriented, well-organized, self-motivated, and I work to build strong relationships with my clients and team members.&lt;/p&gt;
 
-&lt;p&gt;With the rate at which technology changes, you can never stop learning new things. I take a proactive approach towards career growth and skill development through a dedicated effort towards continuing education that I write about in this blog. I&amp;rsquo;ve come across many great &lt;a href=&#34;http://andrewrgoss.github.io/resources&#34;&gt;resources&lt;/a&gt; and ideas that I &lt;a href=&#34;https://twitter.com/andrewrgoss&#34; target=&#34;_blank&#34;&gt;tweet&lt;/a&gt; about regularly. And of course, I never underestimate the power of asking questions and seeking mentorship.&lt;/p&gt;
-
-&lt;p&gt;Outside of work, I&amp;rsquo;m big on travel and broadening my life perspective through new experiences. You can read more about this &lt;a href=&#34;http://andrewrgoss.github.io/travel&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;With the rate at which technology changes, you can never stop learning new things. I take a proactive approach towards career growth and skill development through a dedicated effort towards continuing education that I write about in this blog. I&amp;rsquo;ve come across many great &lt;a href=&#34;http://andrewrgoss.github.io/resources&#34;&gt;resources&lt;/a&gt; and ideas that I &lt;a href=&#34;https://twitter.com/andrewrgoss&#34; target=&#34;_blank&#34;&gt;tweet&lt;/a&gt; about regularly.&lt;/p&gt;
 </description>
     </item>
     
@@ -712,44 +527,6 @@ Marketing Specialist&lt;/p&gt;
 &lt;br&gt;
 
 &lt;gcse:searchresults-only linktarget=&#34;_parent&#34;&gt;&lt;/gcse:searchresults-only&gt;</description>
-    </item>
-    
-    <item>
-      <title>Travel Resources</title>
-      <link>http://andrewrgoss.github.io/travel_resources/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.github.io/travel_resources/</guid>
-      <description>
-
-&lt;blockquote&gt;
-&lt;p&gt;There are tons of great travel resources all over the internet. I&amp;rsquo;ve bookmarked hundreds of URLs and this page is my categorized collection of the (free) ones I&amp;rsquo;ve found to be the most helpful. If you&amp;rsquo;re reading this and have something to add or find a dead link please &lt;a href=&#34;mailto:andrewrgoss@gmail.com&#34; target=&#34;_blank&#34;&gt;shoot me a note&lt;/a&gt;. I&amp;rsquo;ll be building this up more over time.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&#34;#languages&#34;&gt;Languages&lt;/a&gt; | &lt;a href=&#34;#maps&#34;&gt;Maps&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;h2 id=&#34;a-name-languages-a-languages:889d16b93bf6b04e4123a767d7e4132f&#34;&gt;&lt;a name=&#34;languages&#34;&gt;&lt;/a&gt;Languages&lt;/h2&gt;
-
-&lt;hr&gt;
-
-&lt;h4 id=&#34;mother-tongues:889d16b93bf6b04e4123a767d7e4132f&#34;&gt;Mother Tongues&lt;/h4&gt;
-
-&lt;p&gt;Beautifully illustrated infographic shows the most spoken known languages in the world and the numbers of native speakers (in millions) by country.&lt;br&gt;
-&lt;a href=&#34;http://www.lucasinfografia.com/Mother-tongues&#34; target=&#34;_blank&#34;&gt;lucasinfografia.com/mother-tongues&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;h2 id=&#34;a-name-maps-a-maps:889d16b93bf6b04e4123a767d7e4132f&#34;&gt;&lt;a name=&#34;maps&#34;&gt;&lt;/a&gt;Maps&lt;/h2&gt;
-
-&lt;hr&gt;
-
-&lt;h4 id=&#34;the-true-size-of-countries:889d16b93bf6b04e4123a767d7e4132f&#34;&gt;The True Size of Countries&lt;/h4&gt;
-
-&lt;p&gt;There are difficulties in representing a map of a spherical world on a 2D map, which is why the the countries near the poles always look so huge (Greenland for example). This app helps show how big each country really is when compared to each other.&lt;br&gt;
-&lt;a href=&#34;http://thetruesize.com&#34; target=&#34;_blank&#34;&gt;thetruesize.com&lt;/a&gt;&lt;/p&gt;
-</description>
     </item>
     
   </channel>
