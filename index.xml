@@ -61,7 +61,7 @@
 
 &lt;p&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/post/tortoisegit_clone.png&#34; alt=&#34;TortoiseGit Clone&#34; title=&#34;TortoiseGit Clone&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Hit &amp;lsquo;OK&amp;rsquo; and that&amp;rsquo;s it! You now have a SSH repository on your Windows machine that you can push passwordless changes with using either the TortoiseGit GUI or the command line with Git Bash. I tend to use TortoiseGit for one-off commits and automated deployment scripts through the command line for repositories I am frequently making changes to. Regardless of approach, it is nice to have TortoiseGit installed on your Windows machine to easily visually identify any uncommitted changes for a repository.&lt;/p&gt;
+&lt;p&gt;Hit &amp;lsquo;OK&amp;rsquo; and that&amp;rsquo;s it! You now have a SSH repository on your Windows machine that you can push passwordless changes with using either the TortoiseGit GUI or the command line with Git Bash (or Cygwin). I tend to use TortoiseGit for one-off commits and automated deployment scripts through the command line for repositories I am frequently making changes to. Regardless of approach, it is nice to have TortoiseGit installed on your Windows machine to easily visually identify any uncommitted changes for a repository.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/post/tortoisegit_repo.png&#34; alt=&#34;TortoiseGit Repo&#34; title=&#34;TortoiseGit Repo&#34; /&gt;&lt;/p&gt;
 
@@ -397,6 +397,11 @@ in 96 ms
 &lt;p&gt;Open source R packages that allow access to data repositories and provide programmatic access to a variety of scientific data and other real-time metrics of scholarly impact.&lt;br&gt;
 &lt;a href=&#34;http://ropensci.org&#34; target=&#34;_blank&#34;&gt;ropensci.org&lt;/a&gt;&lt;/p&gt;
 
+&lt;h4 id=&#34;techpizza:74f7fb04a75e766307d398251c369a21&#34;&gt;TechPizza&lt;/h4&gt;
+
+&lt;p&gt;This site aggregates information around upcoming data-related Meetups and also gives users the ability to browse for slides, code, and video from Meetup tech groups around the world.&lt;br&gt;
+&lt;a href=&#34;http://techpizza.org&#34; target=&#34;_blank&#34;&gt;techpizza.org&lt;/a&gt;&lt;/p&gt;
+
 &lt;hr&gt;
 
 &lt;h2 id=&#34;a-name-martech-a-martech:74f7fb04a75e766307d398251c369a21&#34;&gt;&lt;a name=&#34;martech&#34;&gt;&lt;/a&gt;MarTech&lt;/h2&gt;
@@ -545,7 +550,7 @@ in 96 ms
 &lt;h3 id=&#34;tools-technologies:c59a67a3c7bc5faa453847420267045e&#34;&gt;Tools &amp;amp; Technologies&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;b&gt;BUSINESS INTELLIGENCE:&lt;/b&gt; &lt;a href=&#34;http://www.tableau.com&#34; target=&#34;_blank&#34;&gt;Tableau&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/tableau.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://msdn.microsoft.com/en-us/library/ms159106.aspx&#34; target=&#34;_blank&#34;&gt;SSRS&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/mssqlserver.png&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;BUSINESS INTELLIGENCE:&lt;/b&gt; &lt;a href=&#34;https://en.wikipedia.org/wiki/Microsoft_Excel&#34; target=&#34;_blank&#34;&gt;Microsoft Excel&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/msexcel.png&#34;&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://msdn.microsoft.com/en-us/library/ms159106.aspx&#34; target=&#34;_blank&#34;&gt;SSRS&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/mssqlserver.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;http://www.tableau.com&#34; target=&#34;_blank&#34;&gt;Tableau&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/tableau.png&#34;&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;b&gt;BIG DATA:&lt;/b&gt; &lt;a href=&#34;http://hadoop.apache.org&#34; target=&#34;_blank&#34;&gt;Hadoop&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/hadoop.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://hive.apache.org&#34; target=&#34;_blank&#34;&gt;Hive&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/hive.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;http://gethue.com&#34; target=&#34;_blank&#34;&gt;Hue&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/hue.png&#34;&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;b&gt;CHANGE MANAGEMENT:&lt;/b&gt; &lt;a href=&#34;https://github.com&#34; target=&#34;_blank&#34;&gt;Github&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/github.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://about.gitlab.com&#34; target=&#34;_blank&#34;&gt;Gitlab&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/gitlab.png&#34;&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://git-scm.com&#34; target=&#34;_blank&#34;&gt;Git&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/git.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp; &lt;a href=&#34;https://subversion.apache.org&#34; target=&#34;_blank&#34;&gt;Subversion&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/subversion.png&#34;&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;b&gt;ETL TOOLS:&lt;/b&gt; &lt;a href=&#34;https://msdn.microsoft.com/en-us/library/ms141026.aspx&#34; target=&#34;_blank&#34;&gt;SSIS&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.github.io/img/mssqlserver.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://www.talend.com/products/talend-open-studio&#34; target=&#34;_blank&#34;&gt;Talend Open Studio&lt;img src=&#34;http://andrewrgoss.github.io/img/talend.png&#34;&gt;&lt;/a&gt;&lt;/li&gt;
