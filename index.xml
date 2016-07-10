@@ -120,9 +120,9 @@ I&amp;rsquo;ve been wanting to add Python to my personal tech stack for some tim
 
 &lt;h5 id=&#34;course-progress:b609afaabbef53e4f3d69f90af30ad86&#34;&gt;Course Progress&lt;/h5&gt;
 
-&lt;progress max=&#34;1.0&#34; value=&#34;0.87&#34;&gt;&lt;/progress&gt;
+&lt;progress max=&#34;1.0&#34; value=&#34;0.92&#34;&gt;&lt;/progress&gt;
 
-&lt;p&gt;87% - &lt;font color=&#34;green&#34;&gt;[IN PROGRESS]&lt;/font&gt;.&lt;/p&gt;
+&lt;p&gt;92% - &lt;font color=&#34;green&#34;&gt;[IN PROGRESS]&lt;/font&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-ultimate-python&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -312,7 +312,7 @@ in 96 ms
 &lt;p&gt;There are tons of great resources all over the internet. I&amp;rsquo;ve bookmarked hundreds of URLs and this page is my categorized collection of the (free) ones I&amp;rsquo;ve found to be the most helpful. If you&amp;rsquo;re reading this and have something to add or find a dead link please &lt;a href=&#34;mailto:andrewrgoss@gmail.com&#34; target=&#34;_blank&#34;&gt;shoot me a note&lt;/a&gt;. I&amp;rsquo;ll be building this up more over time.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;a href=&#34;#business_intelligence&#34;&gt;Business Intelligence&lt;/a&gt; | &lt;a href=&#34;#data_science&#34;&gt;Data Science&lt;/a&gt; | &lt;a href=&#34;#martech&#34;&gt;MarTech&lt;/a&gt; | &lt;a href=&#34;#programming&#34;&gt;Programming&lt;/a&gt; | &lt;a href=&#34;#web_services&#34;&gt;Web Services&lt;/a&gt; | &lt;a href=&#34;#website_tools&#34;&gt;Website Tools&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;#business_intelligence&#34;&gt;Business Intelligence&lt;/a&gt; | &lt;a href=&#34;#data_science&#34;&gt;Data Science&lt;/a&gt; | &lt;a href=&#34;#data_viz&#34;&gt;Data Visualization&lt;/a&gt; | &lt;a href=&#34;#martech&#34;&gt;MarTech&lt;/a&gt; | &lt;a href=&#34;#programming&#34;&gt;Programming&lt;/a&gt; | &lt;a href=&#34;#web_services&#34;&gt;Web Services&lt;/a&gt; | &lt;a href=&#34;#website_tools&#34;&gt;Website Tools&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr&gt;
 
@@ -370,6 +370,17 @@ in 96 ms
 
 &lt;p&gt;This site aggregates information around upcoming data-related Meetups and also gives users the ability to browse for slides, code, and video from Meetup tech groups around the world.&lt;br&gt;
 &lt;a href=&#34;http://techpizza.org&#34; target=&#34;_blank&#34;&gt;techpizza.org&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h2 id=&#34;a-name-data-viz-a-data-visualization:74f7fb04a75e766307d398251c369a21&#34;&gt;&lt;a name=&#34;data_viz&#34;&gt;&lt;/a&gt;Data Visualization&lt;/h2&gt;
+
+&lt;hr&gt;
+
+&lt;h4 id=&#34;google-data-studio:74f7fb04a75e766307d398251c369a21&#34;&gt;Google Data Studio&lt;/h4&gt;
+
+&lt;p&gt;Free product lets you connect to all your marketing data and turn that data into beautiful, informative reports that are easy to understand, share, and fully customizable.&lt;br&gt;
+&lt;a href=&#34;https://datastudio.google.com&#34; target=&#34;_blank&#34;&gt;datastudio.google.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr&gt;
 
