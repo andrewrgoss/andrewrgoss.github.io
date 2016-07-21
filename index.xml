@@ -8,8 +8,33 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Tue, 21 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Jul 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://andrewrgoss.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Udemy- Ultimate Python Programming Tutorial</title>
+      <link>http://andrewrgoss.github.io/2016/udemy--ultimate-python-programming-tutorial/</link>
+      <pubDate>Mon, 18 Jul 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.github.io/2016/udemy--ultimate-python-programming-tutorial/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/post/python.png&#34; alt=&#34;Python&#34; title=&#34;Python&#34; /&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.udemy.com/the-ultimate-python-programming-course&#34; target=&#34;_blank&#34;&gt;COURSE LINK&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://andrewrgoss.github.io/certs/Udemy%20-%20Ultimate%20Python%20Tutorial%20Completion%20Certificate%20(UC-H1VZZXZV).pdf&#34; target=&#34;_blank&#34;&gt;COMPLETION CERTIFICATE&lt;/a&gt;
+&lt;hr&gt;
+I&amp;rsquo;ve started using Python more for work and took this course to strengthen my knowledge around the fundamentals of the language. Previously, I had been wanting to add Python to my personal tech stack for some time as it is a powerful (and popular) all-purpose programming language. It is a high-level language, meaning it looks more like a readable, human language than a low-level language does. The user-friendly syntax makes it one of the easy languages to learn and it is also one of the most commonly-used languages for analytics, data mining, and data science.
+&lt;hr&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;course-progress:b609afaabbef53e4f3d69f90af30ad86&#34;&gt;Course Progress&lt;/h5&gt;
+
+&lt;progress max=&#34;1.0&#34; value=&#34;1.0&#34;&gt;&lt;/progress&gt;
+
+&lt;p&gt;100% - completed 7/18/16.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-ultimate-python&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>SSH With Git Bash and TortoiseGit for Windows</title>
@@ -99,32 +124,6 @@ git push origin master
 &lt;p&gt;I attended sessions on popular data science statistical models and using Python for data science, where we worked through &lt;a href=&#34;https://github.com/brianbelljr/fantasy_football/blob/master/football.ipynb&#34; target=&#34;_blank&#34;&gt;this example&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;The workshop materials from the conference are available on &lt;a href=&#34;https://www.opendatascience.com/category/conferences&#34; target=&#34;_blank&#34;&gt;opendatascience.com&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Udemy- Ultimate Python Programming Tutorial</title>
-      <link>http://andrewrgoss.github.io/2016/udemy--ultimate-python-programming-tutorial/</link>
-      <pubDate>Sat, 09 Apr 2016 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.github.io/2016/udemy--ultimate-python-programming-tutorial/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.github.io/img/post/python.png&#34; alt=&#34;Python&#34; title=&#34;Python&#34; /&gt;&lt;br&gt;
-&lt;a href=&#34;https://www.udemy.com/the-ultimate-python-programming-course&#34; target=&#34;_blank&#34;&gt;COURSE LINK&lt;/a&gt;&lt;br&gt;
-&lt;hr&gt;
-I&amp;rsquo;ve been wanting to add Python to my personal tech stack for some time now as it is a powerful (and popular) all-purpose programming language. It is also one of the most commonly-used languages for analytics, data mining, and data science.&lt;/p&gt;
-
-&lt;p&gt;My goal in taking this course is to build my knowledge around the fundamentals of the language.
-&lt;hr&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;course-progress:b609afaabbef53e4f3d69f90af30ad86&#34;&gt;Course Progress&lt;/h5&gt;
-
-&lt;progress max=&#34;1.0&#34; value=&#34;0.92&#34;&gt;&lt;/progress&gt;
-
-&lt;p&gt;92% - &lt;font color=&#34;green&#34;&gt;[IN PROGRESS]&lt;/font&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-ultimate-python&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
