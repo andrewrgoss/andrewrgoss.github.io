@@ -51,9 +51,9 @@
 
 &lt;p&gt;Browse to the private key file you generated via &lt;code&gt;ssh-keygen&lt;/code&gt; (see step 4) and import this into PuTTygen. Click the &amp;lsquo;Save private key&amp;rsquo; button after you have imported your private SSH key to save it in PuTTY private key file format (.ppk). You will want to save it to the same location as your other keys (the .ssh folder of your home directory, C:\Users\&lt;em&gt;username&lt;/em&gt;\.ssh).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/putty_gen.png&#34; alt=&#34;PuTTY Key Generator&#34; title=&#34;PuTTY Key Generator&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/putty_gen.PNG&#34; alt=&#34;PuTTY Key Generator&#34; title=&#34;PuTTY Key Generator&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/ssh_keys.png&#34; alt=&#34;SSH Keys&#34; title=&#34;SSH Keys&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/ssh_keys.PNG&#34; alt=&#34;SSH Keys&#34; title=&#34;SSH Keys&#34; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;step-5:ca600a9d3dfcf61b6d7740c7d2519dbe&#34;&gt;Step 5&lt;/h2&gt;
 

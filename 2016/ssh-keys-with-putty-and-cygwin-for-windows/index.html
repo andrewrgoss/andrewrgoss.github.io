@@ -19,20 +19,20 @@
         <meta charset="utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-        <meta property="og:title" content="SSH With Git Bash and TortoiseGit for Windows · Data Engineer, Consultant, BI Developer in MarTech" />
-        <meta name="twitter:title" content="SSH With Git Bash and TortoiseGit for Windows · Data Engineer, Consultant, BI Developer in MarTech" />
-        <title>SSH With Git Bash and TortoiseGit for Windows · Data Engineer, Consultant, BI Developer in MarTech</title>
+        <meta property="og:title" content="SSH Keys With PuTTY and Cygwin for Windows · Data Engineer, Consultant, BI Developer in MarTech" />
+        <meta name="twitter:title" content="SSH Keys With PuTTY and Cygwin for Windows · Data Engineer, Consultant, BI Developer in MarTech" />
+        <title>SSH Keys With PuTTY and Cygwin for Windows · Data Engineer, Consultant, BI Developer in MarTech</title>
         
         <meta property="og:site_name" content="Data Engineer, Consultant, BI Developer in MarTech" />
         <meta property="og:locale " content="en-us" />
         
-        <meta property="og:url" content="http://andrewrgoss.com/2016/ssh-with-git-bash-and-tortoisegit-for-windows/" />
-        <meta name="twitter:url" content="http://andrewrgoss.com/2016/ssh-with-git-bash-and-tortoisegit-for-windows/" />
-        <link rel="canonical" href="http://andrewrgoss.com/2016/ssh-with-git-bash-and-tortoisegit-for-windows/" />
+        <meta property="og:url" content="http://andrewrgoss.com/2016/ssh-keys-with-putty-and-cygwin-for-windows/" />
+        <meta name="twitter:url" content="http://andrewrgoss.com/2016/ssh-keys-with-putty-and-cygwin-for-windows/" />
+        <link rel="canonical" href="http://andrewrgoss.com/2016/ssh-keys-with-putty-and-cygwin-for-windows/" />
         
-        <meta name="description" content="If you&rsquo;ve ever written code of any kind for professional and personal purposes, you&rsquo;ve likely come across the concept of Source Control Management (SCM). When I first became a developer, I used Subversion as my SCM tool but have since switched to the more popular Git. I use git to commit the latest versions of code in both Linux and Windows environments, but I&rsquo;m going to focus on Windows in this post as this is the operating system for my personal computer." />
-        <meta name="twitter:description" content="If you&rsquo;ve ever written code of any kind for professional and personal purposes, you&rsquo;ve likely come across the concept of Source Control Management (SCM). When I first became a developer, I used Subversion as my SCM tool but have since switched to the more popular Git. I use git to commit the latest versions of code in both Linux and Windows environments, but I&rsquo;m going to focus on Windows in this post as this is the operating system for my personal computer." />
-        <meta property="og:description" content="If you&rsquo;ve ever written code of any kind for professional and personal purposes, you&rsquo;ve likely come across the concept of Source Control Management (SCM). When I first became a developer, I used Subversion as my SCM tool but have since switched to the more popular Git. I use git to commit the latest versions of code in both Linux and Windows environments, but I&rsquo;m going to focus on Windows in this post as this is the operating system for my personal computer." />
+        <meta name="description" content="In my work at DigitasLBi, I need to login to a number of client-specific Linux machines via a terminal emulator (there is no UI for these remote environments) from my local Windows laptop. For this my team uses Cygwin, a Linux-like environment for Windows making it possible to port software running on POSIX systems (such as Linux, BSD, and Unix systems) to Windows. It&rsquo;s possible to login of course just using a standard username/password combination with Mosh or SSH at the command line." />
+        <meta name="twitter:description" content="In my work at DigitasLBi, I need to login to a number of client-specific Linux machines via a terminal emulator (there is no UI for these remote environments) from my local Windows laptop. For this my team uses Cygwin, a Linux-like environment for Windows making it possible to port software running on POSIX systems (such as Linux, BSD, and Unix systems) to Windows. It&rsquo;s possible to login of course just using a standard username/password combination with Mosh or SSH at the command line." />
+        <meta property="og:description" content="In my work at DigitasLBi, I need to login to a number of client-specific Linux machines via a terminal emulator (there is no UI for these remote environments) from my local Windows laptop. For this my team uses Cygwin, a Linux-like environment for Windows making it possible to port software running on POSIX systems (such as Linux, BSD, and Unix systems) to Windows. It&rsquo;s possible to login of course just using a standard username/password combination with Mosh or SSH at the command line." />
         
         <meta name="twitter:site" content="@Andrewrgoss" />
         <meta name="twitter:creator" content="@Andrewrgoss" />
@@ -44,7 +44,7 @@
         
         
         <meta property="og:type" content="article" />
-        <meta property="og:article:published_time" content="Jun 2016" />
+        <meta property="og:article:published_time" content="Aug 2016" />
         <meta property="og:article:section" content="post" />
         <meta property="og:article:author" content="http://andrewrgoss.com/about/" />
         
@@ -52,8 +52,8 @@
             { 
                 "@context": "http://schema.org",
                 "@type": "BlogPosting",
-                "headline": "SSH With Git Bash and TortoiseGit for Windows",
-                "name": "SSH With Git Bash and TortoiseGit for Windows",
+                "headline": "SSH Keys With PuTTY and Cygwin for Windows",
+                "name": "SSH Keys With PuTTY and Cygwin for Windows",
                 "author": {
                     "@type": "Person",
 "name": "Andrew Goss",
@@ -66,12 +66,12 @@
 		"https://github.com/andrewrgoss"
 	]
                 },
-                "datePublished": "Jun 2016",
-                "description": "If you\x26rsquo;ve ever written code of any kind for professional and personal purposes, you\x26rsquo;ve likely come across the concept of Source Control Management (SCM). When I first became a developer, I used Subversion as my SCM tool but have since switched to the more popular Git. I use git to commit the latest versions of code in both Linux and Windows environments, but I\x26rsquo;m going to focus on Windows in this post as this is the operating system for my personal computer.",
-                "wordCount":  667 ,
+                "datePublished": "Aug 2016",
+                "description": "In my work at DigitasLBi, I need to login to a number of client-specific Linux machines via a terminal emulator (there is no UI for these remote environments) from my local Windows laptop. For this my team uses Cygwin, a Linux-like environment for Windows making it possible to port software running on POSIX systems (such as Linux, BSD, and Unix systems) to Windows. It\x26rsquo;s possible to login of course just using a standard username\/password combination with Mosh or SSH at the command line.",
+                "wordCount":  313 ,
                 "articleSection": "post",
-                "timeRequired": "0:4:0",
-                "url": "http:\/\/andrewrgoss.com\/2016\/ssh-with-git-bash-and-tortoisegit-for-windows\/"
+                "timeRequired": "0:2:0",
+                "url": "http:\/\/andrewrgoss.com\/2016\/ssh-keys-with-putty-and-cygwin-for-windows\/"
             }
         </script>
         
@@ -779,14 +779,16 @@ footer a:hover
 
 <article class="post">
     <div class="post-stamp">
-        <time datetime="Jun 2016">
-            Jun 2016
+        <time datetime="Aug 2016">
+            Aug 2016
         </time>
         <span class="taglist">
         
         &middot; 
             
-                <a href="http://andrewrgoss.com/tags/git/">git</a>
+                <a href="http://andrewrgoss.com/tags/cygwin/">cygwin</a>
+            
+                <a href="http://andrewrgoss.com/tags/putty/">putty</a>
             
                 <a href="http://andrewrgoss.com/tags/ssh/">ssh</a>
             
@@ -795,59 +797,30 @@ footer a:hover
         
         </span>
     </div>
-    <h1 class="post-title">SSH With Git Bash and TortoiseGit for Windows</h1>
+    <h1 class="post-title">SSH Keys With PuTTY and Cygwin for Windows</h1>
     
 
-<p><a href="https://git-scm.com" target="_blank"><img src="/img/post/git_windows.png" alt="Git for Windows" title="Git for Windows" /></a><br></p>
+<p><a href="http://www.chiark.greenend.org.uk/~sgtatham/putty" target="_blank"><img src="/img/post/putty.jpg" alt="PuTTY: a free SSH and Telnet client" title="PuTTY: a free SSH and Telnet client" /></a><br></p>
 
-<p>If you&rsquo;ve ever written code of any kind for professional and personal purposes, you&rsquo;ve likely come across the concept of Source Control Management (SCM). When I first became a developer, I used Subversion as my SCM tool but have since switched to the more popular <a href="https://git-scm.com" target="_blank">Git</a>. I use git to commit the latest versions of code in both Linux and Windows environments, but I&rsquo;m going to focus on Windows in this post as this is the operating system for my personal computer.</p>
+<p>In my work at <a href="http://www.digitaslbi.com/us" target="_blank">DigitasLBi</a>, I need to login to a number of client-specific Linux machines via a terminal emulator (there is no UI for these remote environments) from my local Windows laptop. For this my team uses <a href="https://www.cygwin.com" target="_blank">Cygwin</a>, a Linux-like environment for Windows making it possible to port software running on POSIX systems (such as Linux, BSD, and Unix systems) to Windows. It&rsquo;s possible to login of course just using a standard username/password combination with <a href="https://mosh.org" target="_blank">Mosh</a> or <a href="https://en.wikipedia.org/wiki/Secure_Shell" target="_blank">SSH</a> at the command line. However, the more secure (and easier to manage) approach is to utilize SSH keys to login into a virtual private server.</p>
 
-<p>Git itself is strictly a command-line tool and in setting up my Windows machine, I wanted the ability to make passwordless commits via bash commands or through my favorite git GUI tool, <a href="https://git-scm.com" target="_blank">TortoiseGit</a>. Why passwordless? It&rsquo;s gets quite annoying having to enter your Github credentials every single time you push repository changes. Through the use of SSH keys, there is a secure way of doing this that allows Git Bash (or <a href="https://www.cygwin.com" target="_blank">Cygwin</a>) and TortoiseGit to play nice together. I didn&rsquo;t find any good current documentation for this and had to mess around a bit to get the setup I now use, hence the reason for this post.</p>
+<p>In this post, I&rsquo;ll delve into how I&rsquo;ve set up my computer to use public/private SSH key pairings for accessing different environments. I previously <a href="/2016/ssh-with-git-bash-and-tortoisegit-for-windows">posted</a> about using SSH keys with Git Bash and TortoiseGit for Windows. While it&rsquo;s possible to use the same SSH key pairings that were used for that, I prefer the more secure approach of generating specific pairings for <a href="https://github.com" target="_blank">Github&nbsp;<img src="/img/github.png"></a>&nbsp;,&nbsp;<a href="https://about.gitlab.com" target="_blank">Gitlab&nbsp;<img src="/img/gitlab.png"></a>, and any client-specific instances.</p>
 
-<h2 id="step-1:ca600a9d3dfcf61b6d7740c7d2519dbe">Step 1</h2>
+<h2 id="step-1:f77569a6b4afc10750083404d55c7c58">Step 1</h2>
 
-<p>Download the latest version of <a href="https://git-scm.com/download/win" target="_blank">Git for Windows</a> and install it. I would recommend you use most of the default settings, including running Git from the Windows Command Prompt so you can use Cygwin as your command-line tool if you prefer it over Git Bash, which comes with this download.</p>
+<p>Download the following PuTTY files from this site: <a href="http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html">http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html</a>.</p>
 
-<p><img src="/img/post/installing_git.png" alt="Installing Git" title="Installing Git" /></p>
+<ul>
+<li>PuTTY (the SSH and Telnet client itself)</li>
+<li>Pageant (an SSH authentication agent for PuTTY, PSCP, PSFTP, and Plink)</li>
+<li>PuTTYgen (an RSA and DSA key generation utility)</li>
+</ul>
 
-<h2 id="step-2:ca600a9d3dfcf61b6d7740c7d2519dbe">Step 2</h2>
+<h2 id="step-2:f77569a6b4afc10750083404d55c7c58">Step 2</h2>
 
-<p>Download the latest version of <a href="https://tortoisegit.org" target="_blank">TortoiseGit</a> and install it. There are no special steps to follow here, just keep hitting &lsquo;next&rsquo;.</p>
-
-<h2 id="step-3:ca600a9d3dfcf61b6d7740c7d2519dbe">Step 3</h2>
-
-<p>Generate an SSH key for your Github account following these <a href="https://help.github.com/articles/generating-an-ssh-key" target="_blank">instructions</a>. At the end, be sure to test your SSH connection:</p>
-
-<pre><code class="language-bash">$ ssh -T git@github.com
-# Attempts to ssh to GitHub
-</code></pre>
-
-<p>If you did everything correctly here, two files should now exist in a .ssh folder of your home directory (for Windows this will be C:\Users\<em>username</em>\.ssh). By the default they will be named id_rsa (the private SSH key) and id_rsa.pub (the public SSH key). If you have Microsoft Publisher installed on your computer, it will think the public key is a publisher file (because of the .pub extension). Use &lsquo;open with&rsquo; to view this key in a text editor tool like <a href="https://notepad-plus-plus.org" target="_blank">Notepad++</a>.</p>
-
-<h2 id="step-4:ca600a9d3dfcf61b6d7740c7d2519dbe">Step 4</h2>
-
-<p>TortoiseGit uses a PuTTY private key file format, so you will need to generate a private key in this format using the private key you generated following the steps from Github. Search your programs and files for PuTTygen, which should have been installed with TortoiseGit. Open this program and go to Conversions &gt; Import key.</p>
-
-<p>Browse to the private key file you generated via <code>ssh-keygen</code> (see step 4) and import this into PuTTygen. Click the &lsquo;Save private key&rsquo; button after you have imported your private SSH key to save it in PuTTY private key file format (.ppk). You will want to save it to the same location as your other keys (the .ssh folder of your home directory, C:\Users\<em>username</em>\.ssh).</p>
+<p>Using the downloaded PuTTYgen executable, <a href="https://winscp.net/eng/docs/ui_puttygen#generating_a_new_key" target="_blank">generate a new key</a>. Click the &lsquo;Save public key&rsquo; and &lsquo;Save private key&rsquo; buttons to save these to the same location as your other keys (the .ssh folder of your home directory, C:\Users\<em>username</em>\.ssh). When saving the private key you will be optionally asked to enter a password for another layer of security if desired - it is also possible to hit &lsquo;OK&rsquo; and not use a password in combination with the SSH private key. Keep PuTTYgen open for now as you will need to copy the public key value into the authorized_keys files on the appropriate private server.</p>
 
 <p><img src="/img/post/putty_gen.PNG" alt="PuTTY Key Generator" title="PuTTY Key Generator" /></p>
-
-<p><img src="/img/post/ssh_keys.PNG" alt="SSH Keys" title="SSH Keys" /></p>
-
-<h2 id="step-5:ca600a9d3dfcf61b6d7740c7d2519dbe">Step 5</h2>
-
-<p>In your Github repository, select &lsquo;Clone with SSH&rsquo; and copy the URL path to the clipboard (make sure it starts with <code>git@github.com</code>). Use TortoiseGit to to clone a copy of your Github repository to your local machine (right click in the directory, then select Git Clone&hellip;). Paste the copied URL path into TortoiseGit. Check &lsquo;Load Putty Key&rsquo; and browse to the .ppk file you created in Step 5.</p>
-
-<p><img src="/img/post/tortoisegit_clone.png" alt="TortoiseGit Clone" title="TortoiseGit Clone" /></p>
-
-<p>Hit &lsquo;OK&rsquo; and that&rsquo;s it! You now have a SSH repository on your Windows machine that you can push passwordless changes with using either the TortoiseGit GUI or the command line with Git Bash (or Cygwin). I tend to use TortoiseGit for one-off commits and automated deployment scripts through the command line for repositories I am frequently making changes to. Regardless of approach, it is nice to have TortoiseGit installed on your Windows machine to easily visually identify any uncommitted changes for a repository.</p>
-
-<p><img src="/img/post/tortoisegit_repo.png" alt="TortoiseGit Repo" title="TortoiseGit Repo" /></p>
-
-<pre><code class="language-bash">andgoss@MYCOMPUTER MINGW64 /C/Github_AG/mssql-library (master)
-# Push source and build repos.
-git push origin master
-</code></pre>
 
     <div>
   <hr>
@@ -858,7 +831,7 @@ git push origin master
 	<div id="social-bar">
 	<ul class="rrssb-buttons clearfix">
       <li class="email">
-          <a href="mailto:?subject=SSH%20With%20Git%20Bash%20and%20TortoiseGit%20for%20Windows&amp;body=http://andrewrgoss.com/2016/ssh-with-git-bash-and-tortoisegit-for-windows/" data-proofer-ignore>
+          <a href="mailto:?subject=SSH%20Keys%20With%20PuTTY%20and%20Cygwin%20for%20Windows&amp;body=http://andrewrgoss.com/2016/ssh-keys-with-putty-and-cygwin-for-windows/" data-proofer-ignore>
               <span class="icon">
                   <svg version="1.1" id="btn-mail" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="28px" height="28px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve">
                       <path transform="scale(0.014,-0.014) translate(0,-1670)" d="M1792 826v-794q0 -66 -47 -113t-113 -47h-1472q-66 0 -113 47t-47 113v794q44 -49 101 -87q362 -246 497 -345q57 -42 92.5 -65.5t94.5 -48t110 -24.5h1h1q51 0 110 24.5t94.5 48t92.5 65.5q170 123 498 345q57 39 100 87zM1792 1120q0 -79 -49 -151t-122 -123 q-376 -261 -468 -325q-10 -7 -42.5 -30.5t-54 -38t-52 -32.5t-57.5 -27t-50 -9h-1h-1q-23 0 -50 9t-57.5 27t-52 32.5t-54 38t-42.5 30.5q-91 64 -262 182.5t-205 142.5q-62 42 -117 115.5t-55 136.5q0 78 41.5 130t118.5 52h1472q65 0 112.5 -47t47.5 -113z"/>
@@ -868,7 +841,7 @@ git push origin master
           </a>
       </li>
 			<li class="twitter">
-          <a href="http://twitter.com/home?status=SSH%20With%20Git%20Bash%20and%20TortoiseGit%20for%20Windows%20http://andrewrgoss.com/2016/ssh-with-git-bash-and-tortoisegit-for-windows/" class="popup">
+          <a href="http://twitter.com/home?status=SSH%20Keys%20With%20PuTTY%20and%20Cygwin%20for%20Windows%20http://andrewrgoss.com/2016/ssh-keys-with-putty-and-cygwin-for-windows/" class="popup">
               <span class="icon">
                   <svg version="1.1" id="btn-tw" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="28px" height="28px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve">
 		                  <path d="M24.253,8.756C24.689,17.08,18.297,24.182,9.97,24.62c-3.122,0.162-6.219-0.646-8.861-2.32 c2.703,0.179,5.376-0.648,7.508-2.321c-2.072-0.247-3.818-1.661-4.489-3.638c0.801,0.128,1.62,0.076,2.399-0.155 C4.045,15.72,2.215,13.6,2.115,11.077c0.688,0.275,1.426,0.407,2.168,0.386c-2.135-1.65-2.729-4.621-1.394-6.965 C5.575,7.816,9.54,9.84,13.803,10.071c-0.842-2.739,0.694-5.64,3.434-6.482c2.018-0.623,4.212,0.044,5.546,1.683 c1.186-0.213,2.318-0.662,3.329-1.317c-0.385,1.256-1.247,2.312-2.399,2.942c1.048-0.106,2.069-0.394,3.019-0.851 C26.275,7.229,25.39,8.196,24.253,8.756z"/>
@@ -878,7 +851,7 @@ git push origin master
           </a>
       </li>
 			<li class="linkedin">
-          <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://andrewrgoss.com/2016/ssh-with-git-bash-and-tortoisegit-for-windows/&amp;title=SSH%20With%20Git%20Bash%20and%20TortoiseGit%20for%20Windows&amp;summary=If%20you%26rsquo%3bve%20ever%20written%20code%20of%20any%20kind%20for%20professional%20and%20personal%20purposes%2c%20you%26rsquo%3bve%20likely%20come%20across%20the%20concept%20of%20Source%20Control%20Management%20%28SCM%29.%20When%20I%20first%20became%20a%20developer%2c%20I%20used%20Subversion%20as%20my%20SCM%20tool%20but%20have%20since%20switched%20to%20the%20more%20popular%20Git.%20I%20use%20git%20to%20commit%20the%20latest%20versions%20of%20code%20in%20both%20Linux%20and%20Windows%20environments%2c%20but%20I%26rsquo%3bm%20going%20to%20focus%20on%20Windows%20in%20this%20post%20as%20this%20is%20the%20operating%20system%20for%20my%20personal%20computer...." class="popup">
+          <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://andrewrgoss.com/2016/ssh-keys-with-putty-and-cygwin-for-windows/&amp;title=SSH%20Keys%20With%20PuTTY%20and%20Cygwin%20for%20Windows&amp;summary=In%20my%20work%20at%20DigitasLBi%2c%20I%20need%20to%20login%20to%20a%20number%20of%20client-specific%20Linux%20machines%20via%20a%20terminal%20emulator%20%28there%20is%20no%20UI%20for%20these%20remote%20environments%29%20from%20my%20local%20Windows%20laptop.%20For%20this%20my%20team%20uses%20Cygwin%2c%20a%20Linux-like%20environment%20for%20Windows%20making%20it%20possible%20to%20port%20software%20running%20on%20POSIX%20systems%20%28such%20as%20Linux%2c%20BSD%2c%20and%20Unix%20systems%29%20to%20Windows.%20It%26rsquo%3bs%20possible%20to%20login%20of%20course%20just%20using%20a%20standard%20username%2fpassword%20combination%20with%20Mosh%20or%20SSH%20at%20the%20command%20line...." class="popup">
               <span class="icon">
                   <svg version="1.1" id="btn-li" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="28px" height="28px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve">
                       <path d="M25.424,15.887v8.447h-4.896v-7.882c0-1.979-0.709-3.331-2.48-3.331c-1.354,0-2.158,0.911-2.514,1.803 c-0.129,0.315-0.162,0.753-0.162,1.194v8.216h-4.899c0,0,0.066-13.349,0-14.731h4.899v2.088c-0.01,0.016-0.023,0.032-0.033,0.048 h0.033V11.69c0.65-1.002,1.812-2.435,4.414-2.435C23.008,9.254,25.424,11.361,25.424,15.887z M5.348,2.501 c-1.676,0-2.772,1.092-2.772,2.539c0,1.421,1.066,2.538,2.717,2.546h0.032c1.709,0,2.771-1.132,2.771-2.546 C8.054,3.593,7.019,2.501,5.343,2.501H5.348z M2.867,24.334h4.897V9.603H2.867V24.334z"/>
@@ -889,7 +862,7 @@ git push origin master
       </li>
 	        <li class="tumblr">
 					<script>
-						document.write('<a href="http://www.tumblr.com/share?v=3&amp;u=' + encodeURIComponent('http:\/\/andrewrgoss.com\/2016\/ssh-with-git-bash-and-tortoisegit-for-windows\/') + '&amp;t=SSH With Git Bash and TortoiseGit for Windows" class="popup">');
+						document.write('<a href="http://www.tumblr.com/share?v=3&amp;u=' + encodeURIComponent('http:\/\/andrewrgoss.com\/2016\/ssh-keys-with-putty-and-cygwin-for-windows\/') + '&amp;t=SSH Keys With PuTTY and Cygwin for Windows" class="popup">');
 					</script>
               <span class="icon">
                   <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="28px" height="28px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve">
@@ -900,7 +873,7 @@ git push origin master
           <script>document.write('</a>');</script>
       </li>
       <li class="reddit">
-          <a href="http://www.reddit.com/submit?url=http://andrewrgoss.com/2016/ssh-with-git-bash-and-tortoisegit-for-windows/">
+          <a href="http://www.reddit.com/submit?url=http://andrewrgoss.com/2016/ssh-keys-with-putty-and-cygwin-for-windows/">
               <span class="icon">
                   <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="28px" height="28px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve">
 											<g>
@@ -915,7 +888,7 @@ git push origin master
           </a>
       </li>
       <li class="googleplus">
-          <a href="https://plus.google.com/share?url=http://andrewrgoss.com/2016/ssh-with-git-bash-and-tortoisegit-for-windows/" class="popup">
+          <a href="https://plus.google.com/share?url=http://andrewrgoss.com/2016/ssh-keys-with-putty-and-cygwin-for-windows/" class="popup">
               <span class="icon">
                   <svg version="1.1" id="btn-gp" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="28px" height="28px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve">
                       <g>
@@ -928,7 +901,7 @@ git push origin master
           </a>
       </li>
       <li class="facebook">
-          <a href="https://www.facebook.com/sharer/sharer.php?u=http://andrewrgoss.com/2016/ssh-with-git-bash-and-tortoisegit-for-windows/" class="popup">
+          <a href="https://www.facebook.com/sharer/sharer.php?u=http://andrewrgoss.com/2016/ssh-keys-with-putty-and-cygwin-for-windows/" class="popup">
               <span class="icon">
                   <svg version="1.1" id="btn-fb" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="28px" height="28px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve">
                       <path d="M27.825,4.783c0-2.427-2.182-4.608-4.608-4.608H4.783c-2.422,0-4.608,2.182-4.608,4.608v18.434 c0,2.427,2.181,4.608,4.608,4.608H14V17.379h-3.379v-4.608H14v-1.795c0-3.089,2.335-5.885,5.192-5.885h3.718v4.608h-3.726 c-0.408,0-0.884,0.492-0.884,1.236v1.836h4.609v4.608h-4.609v10.446h4.916c2.422,0,4.608-2.188,4.608-4.608V4.783z"/>
