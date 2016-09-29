@@ -3,8 +3,13 @@
   
   <url>
     <loc>http://andrewrgoss.com/</loc>
-    <lastmod>2016-09-19T00:00:00+00:00</lastmod>
+    <lastmod>2016-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://andrewrgoss.com/2016/report-the-state-of-data-engineering/</loc>
+    <lastmod>2016-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
