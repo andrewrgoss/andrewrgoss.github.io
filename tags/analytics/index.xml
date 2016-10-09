@@ -19,21 +19,21 @@
       <guid>http://andrewrgoss.com/2016/stages-of-the-analytics-life-cycle/</guid>
       <description>
 
-&lt;p&gt;Across industries, the applied use of data to inform business decisions has become a foundational (arguably critical) element of business. The end goal is to ultimately dervice actionable insights from vast amounts of data being collected but it takes a series of activities/tasks to arrive at this juncture. Here is a description of each stage of the analytics life cycle:&lt;/p&gt;
+&lt;p&gt;Across industries, the applied use of data to inform business decisions has become a foundational (arguably critical) element of business. The end goal is to ultimately derive actionable insights from vast amounts of data being collected but it takes a series of activities/tasks to arrive at this juncture. Here is a description of each stage of the analytics life cycle:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Data Acquisition – This may involve scraping data, interfacing with APIs, querying relational and non-relational databases, or defining strategy in relation to what data to pursue.&lt;/li&gt;
-&lt;li&gt;Data Cleaning/Transformation – This may involve parsing and aggregating messy, incomplete, and unstructured data sources to produce datasets that can be used in analytics and/or predictive modeling.&lt;/li&gt;
-&lt;li&gt;Analytics – This involves statistical and machine learning-based modeling in order to understand, describe, or predict patterns in the data.&lt;/li&gt;
-&lt;li&gt;Prescribing Actions – This involves interpreting analytical results through the lens of business priorities, and using data-driven insights to inform strategy.&lt;/li&gt;
-&lt;li&gt;Programming/Automation – In many cases, data scientists are responsible for creating libraries and utilities to operationalize or simplify various stages of this process. Often, they will contribute production-level code for a firm’s data products.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Data Acquisition&lt;/b&gt; – This may involve scraping data, interfacing with APIs, querying relational and non-relational databases, or defining strategy in relation to what data to pursue.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Data Cleaning/Transformation&lt;/b&gt; – This may involve parsing and aggregating messy, incomplete, and unstructured data sources to produce datasets that can be used in analytics and/or predictive modeling.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Analytics&lt;/b&gt; – This involves statistical and machine learning-based modeling in order to understand, describe, or predict patterns in the data.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Prescribing Actions&lt;/b&gt; – This involves interpreting analytical results through the lens of business priorities, and using data-driven insights to inform strategy.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Programming/Automation&lt;/b&gt; – In many cases, data scientists are responsible for creating libraries and utilities to operationalize or simplify various stages of this process. Often, they will contribute production-level code for a firm’s data products.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;sub&gt;*Source: Burtch Works&lt;/sub&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;big-data-analytics-lifecycle:fabfcdc15793a32766e038f5387cbc68&#34;&gt;Big Data Analytics Lifecycle&lt;/h2&gt;
 
-&lt;p&gt;Big Data analysis differs from traditional data analysis primarily due to the volume, velocity and variety characteristics of the data being processes. This is a helpful overview I found on the high-level steps involved with acquiring, processing, analyzing and repurposing data for the purpose of performing Big Data analysis.&lt;/p&gt;
+&lt;p&gt;Big Data analysis differs from traditional data analysis primarily due to the volume, velocity, and variety of characteristics for the data being processed. This is a helpful overview I found on the high-level steps involved with acquiring, processing, analyzing, and repurposing data with the end goal of performing Big Data analysis.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://www.informit.com/content/images/chap3_9780134291079/elementLinks/03fig06.jpg&#34;&gt;&lt;/p&gt;
 
