@@ -79,7 +79,8 @@
 
 &lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/python.png&#34; alt=&#34;Python&#34; title=&#34;Python&#34; /&gt;&lt;br&gt;
 &lt;a href=&#34;https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/learn/v4&#34; target=&#34;_blank&#34;&gt;COURSE LINK&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://nbviewer.jupyter.org/github/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews/tree/master&#34; target=&#34;_blank&#34;&gt;Jupyter Notebook&lt;/a&gt;
+&lt;a href=&#34;http://nbviewer.jupyter.org/github/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews/tree/master&#34; target=&#34;_blank&#34;&gt;Jupyter Notebook&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://andrewrgoss.com/2016/udemy_python_data_structures_algorithms/Jupyter+Notebooks+Overview-+Sec10%2335&#34;&gt;My Notebooks&lt;/a&gt;
 &lt;hr&gt;
 Working on furthering my Python skills in the following areas:&lt;/p&gt;
 
@@ -139,7 +140,7 @@ Working on furthering my Python skills in the following areas:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/putty_gen.PNG&#34; alt=&#34;PuTTY Key Generator&#34; title=&#34;PuTTY Key Generator&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Make sure you save the public key with a .txt extension and the private key with a .ppk one:&lt;/p&gt;
+&lt;p&gt;Make sure you save the public key with a .txt (or .pub) extension and the private key with a .ppk one:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://www.servermom.org/wp-content/uploads/2014/06/public-key-save.jpg&#34;&gt;
 &lt;img src=&#34;http://www.servermom.org/wp-content/uploads/2014/06/private-key-saved.jpg&#34;&gt;&lt;/p&gt;
@@ -157,7 +158,7 @@ $ nano .ssh/authorized_keys
 
 &lt;p&gt;&lt;img src=&#34;http://www.servermom.org/wp-content/uploads/2014/06/copy-pub-key.jpg&#34;&gt;&lt;/p&gt;
 
-&lt;p&gt;Save and exit Nano by hitting &lt;code&gt;ctrl+O&lt;/code&gt; then &lt;code&gt;ctrl+X&lt;/code&gt; on your keyboard. Then change its permission to 644 with this command:&lt;/p&gt;
+&lt;p&gt;Save and exit Nano by hitting &lt;code&gt;ctrl+O&lt;/code&gt;, enter, then &lt;code&gt;ctrl+X&lt;/code&gt; on your keyboard. Then change its permission to 644 with this command:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ chmod 644 .ssh/authorized_keys
 &lt;/code&gt;&lt;/pre&gt;
@@ -437,6 +438,59 @@ in 96 ms
 &lt;p&gt;Wordpress is the most popular content management system (CMS) for a reason. There are countless commercial websites and personal blogs powered by Wordpress along with thousands of customizable plugins. You don&amp;rsquo;t necessarily have to know how to program to build a beautiful-looking Wordpress site. But what you probably didn&amp;rsquo;t know is that the typical CMS driven website works by building each page on-demand, fetching content from a database and running it through a template engine. This means each page is assembled from templates and content on each request to the server. However, this is usually completely unnecessary overhead and only adds complexity, performance problems and security issues. After all, most websites only change when the content authors or their design team makes changes. As the sole proprieter of andrewrgoss.com, this was the case for me and my pages were often quite slow in loading.&lt;/p&gt;
 
 &lt;p&gt;So if you are someone who is comfortable coding and looking to publish a personal website/blog that is lightning-quick, highly customizable and free (open-source), Hugo may be a good choice for you. For me it has also been a great way to practice front-end development as most of my time is spent on the back-end. And if you ever get stuck, there is a great &lt;a href=&#34;https://discuss.gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo community&lt;/a&gt; for Q&amp;amp;A support.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://andrewrgoss.com/1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.com/1/</guid>
+      <description>
+
+&lt;h2 id=&#34;hello:ed8375606264d44b8ad6111678b7f30f&#34;&gt;Hello&lt;/h2&gt;
+
+&lt;h1 id=&#34;add-two-numbers:ed8375606264d44b8ad6111678b7f30f&#34;&gt;add two numbers&lt;/h1&gt;
+
+&lt;p&gt;1+1&lt;/p&gt;
+
+&lt;p&gt;$$ \sqrt x$$&lt;/p&gt;
+
+&lt;p&gt;I just added two numbers&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from math import sqrt
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;s = &#39;hello&#39;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;s
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code&gt;&#39;hello&#39;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;s.upper
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;function str.upper&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;s.upper()
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code&gt;&#39;HELLO&#39;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;s.capitalize
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;function str.capitalize&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;
+&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     
