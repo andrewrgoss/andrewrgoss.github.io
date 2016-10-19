@@ -8,13 +8,13 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Mon, 17 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Oct 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://andrewrgoss.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Udemy- Python for Data Structures &amp; Algorithms</title>
       <link>http://andrewrgoss.com/2016/udemy--python-for-data-structures--algorithms/</link>
-      <pubDate>Mon, 17 Oct 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>http://andrewrgoss.com/2016/udemy--python-for-data-structures--algorithms/</guid>
       <description>
@@ -48,6 +48,26 @@ Working on furthering my Python skills in the following areas:&lt;/p&gt;
 &lt;p&gt;16% - &lt;font color=&#34;green&#34;&gt;IN PROGRESS&lt;/font&gt;.&lt;/p&gt;
 
 &lt;!--&lt;a href=&#34;https://github.com/andrewrgoss/udemy-ultimate-python&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Big Data University- Hadoop 101</title>
+      <link>http://andrewrgoss.com/2016/big-data-university--hadoop-101/</link>
+      <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.com/2016/big-data-university--hadoop-101/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/hadoop.png&#34; alt=&#34;Hadoop&#34; title=&#34;Hadoop&#34; /&gt;&lt;br&gt;
+&lt;b&gt;COURSE CODE&lt;/b&gt;: BD0111EN&lt;br&gt;
+&lt;a href=&#34;https://bigdatauniversity.com/courses/introduction-to-hadoop&#34; target=&#34;_blank&#34;&gt;COURSE LINK&lt;/a&gt;
+&lt;hr&gt;
+Reinforcing some of the basics of Apache Hadoop, a free, open source, Java-based programming framework. Topics in this course include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Hadoop&amp;rsquo;s architecture and core components, such as MapReduce and the Hadoop Distributed File System (HDFS).&lt;/li&gt;
+&lt;li&gt;Adding/removing nodes from Hadoop clusters, how to check available disk space on each node, and how to modify configuration parameters.&lt;/li&gt;
+&lt;li&gt;Other Apache projects that are part of the Hadoop ecosystem, including Pig, Hive, HBase, ZooKeeper, Oozie, Sqoop, Flume, among others.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -193,7 +213,7 @@ eval $(/usr/bin/ssh-pageant -r -a &amp;quot;/tmp/.ssh-pageant-$USERNAME&amp;quot
 &lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/python.png&#34; alt=&#34;Python&#34; title=&#34;Python&#34; /&gt;&lt;br&gt;
 &lt;a href=&#34;https://www.udemy.com/certificate/UC-H1VZZXZV&#34; target=&#34;_blank&#34;&gt;COMPLETION CERTIFICATE&lt;/a&gt;
 &lt;hr&gt;
-I&amp;rsquo;ve started using Python more for work and took this course to strengthen my knowledge around the fundamentals of the language. Previously, I had been wanting to add Python to my personal tech stack for some time as it is a powerful (and popular) all-purpose programming language. It is a high-level language, meaning it looks more like a readable, human language than a low-level language does. The user-friendly syntax makes it one of the easy languages to learn and it is also one of the most commonly-used languages for analytics, data mining, and data science.
+I&amp;rsquo;ve started using Python more for work and took this course to strengthen my knowledge around the fundamentals of the language. Previously, I had been wanting to add Python to my personal tech stack for some time as it is a powerful (and popular) all-purpose programming language. It is a high-level language, meaning it looks more like a readable, human language than a low-level language does. The user-friendly syntax makes it one of the easier languages to learn and it is also one of the most commonly-used languages for analytics, data mining, and data science.
 &lt;hr&gt;&lt;/p&gt;
 
 &lt;h5 id=&#34;course-progress:b609afaabbef53e4f3d69f90af30ad86&#34;&gt;Course Progress&lt;/h5&gt;
