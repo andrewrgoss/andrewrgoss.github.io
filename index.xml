@@ -43,9 +43,9 @@ Working on furthering my Python skills in the following areas:&lt;/p&gt;
 
 &lt;h5 id=&#34;course-progress:ba96cbb6aafc41eabb6ce89e58c06fa0&#34;&gt;Course Progress&lt;/h5&gt;
 
-&lt;progress max=&#34;1.0&#34; value=&#34;0.16&#34;&gt;&lt;/progress&gt;
+&lt;progress max=&#34;1.0&#34; value=&#34;0.17&#34;&gt;&lt;/progress&gt;
 
-&lt;p&gt;16% - &lt;font color=&#34;green&#34;&gt;IN PROGRESS&lt;/font&gt;.&lt;/p&gt;
+&lt;p&gt;17% - &lt;font color=&#34;green&#34;&gt;IN PROGRESS&lt;/font&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-python-data_structs-algorithms&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -504,7 +504,7 @@ in 96 ms
 &lt;p&gt;There are tons of great resources all over the internet. I&amp;rsquo;ve bookmarked hundreds of URLs and this page is my categorized collection of the (free) ones I&amp;rsquo;ve found to be the most helpful. If you&amp;rsquo;re reading this and have something to add or find a dead link please &lt;a href=&#34;mailto:andrewrgoss@gmail.com&#34; target=&#34;_blank&#34;&gt;shoot me a note&lt;/a&gt;. I&amp;rsquo;m continuing to add to this over time.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;a href=&#34;#business_intelligence&#34;&gt;Business Intelligence&lt;/a&gt; | &lt;a href=&#34;#career_management&#34;&gt;Career Management&lt;/a&gt; | &lt;a href=&#34;#data_science&#34;&gt;Data Science&lt;/a&gt; | &lt;a href=&#34;#data_viz&#34;&gt;Data Visualization&lt;/a&gt; | &lt;a href=&#34;#martech&#34;&gt;MarTech&lt;/a&gt; | &lt;a href=&#34;#programming&#34;&gt;Programming&lt;/a&gt; | &lt;a href=&#34;#web_services&#34;&gt;Web Services&lt;/a&gt; | &lt;a href=&#34;#website_tools&#34;&gt;Website Tools&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;#business_intelligence&#34;&gt;Business Intelligence&lt;/a&gt; | &lt;a href=&#34;#career_management&#34;&gt;Career Management&lt;/a&gt; | &lt;a href=&#34;#computer_science&#34;&gt;Computer Science&lt;/a&gt; | &lt;a href=&#34;#data_science&#34;&gt;Data Science&lt;/a&gt; | &lt;a href=&#34;#data_viz&#34;&gt;Data Visualization&lt;/a&gt; | &lt;a href=&#34;#martech&#34;&gt;MarTech&lt;/a&gt; | &lt;a href=&#34;#programming&#34;&gt;Programming&lt;/a&gt; | &lt;a href=&#34;#web_services&#34;&gt;Web Services&lt;/a&gt; | &lt;a href=&#34;#website_tools&#34;&gt;Website Tools&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr&gt;
 
@@ -535,8 +535,19 @@ in 96 ms
 
 &lt;h4 id=&#34;skills-index:74f7fb04a75e766307d398251c369a21&#34;&gt;Skills Index&lt;/h4&gt;
 
-&lt;p&gt;Undoubtedly you&amp;rsquo;ve heard about the skills gap challenges in the U.S. economy. Using select data from LinkedIn and Strayer@Work’s proprietary analysis, the Strayer@Work Skills Index takes a look at supply vs. demand around specific skill sets across top industries and provides actionable recommendations for getting up to speed.&lt;br&gt;
+&lt;p&gt;Undoubtedly you&amp;rsquo;ve heard about the skills gap challenges in the U.S. economy. Using select data from LinkedIn and Strayer@Work&amp;rsquo;s proprietary analysis, the Strayer@Work Skills Index takes a look at supply vs. demand around specific skill sets across top industries and provides actionable recommendations for getting up to speed.&lt;br&gt;
 &lt;a href=&#34;http://www.skillsindex.com&#34; target=&#34;_blank&#34;&gt;skillsindex.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h2 id=&#34;a-name-computer-science-a-computer-science:74f7fb04a75e766307d398251c369a21&#34;&gt;&lt;a name=&#34;computer_science&#34;&gt;&lt;/a&gt;Computer Science&lt;/h2&gt;
+
+&lt;hr&gt;
+
+&lt;h4 id=&#34;big-o-notation-cheat-sheet:74f7fb04a75e766307d398251c369a21&#34;&gt;Big-O Notation Cheat Sheet&lt;/h4&gt;
+
+&lt;p&gt;This webpage covers the space and time Big-O complexities of common algorithms used in Computer Science.&lt;br&gt;
+&lt;a href=&#34;http://bigocheatsheet.com&#34; target=&#34;_blank&#34;&gt;bigocheatsheet.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr&gt;
 
