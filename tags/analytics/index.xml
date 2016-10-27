@@ -41,5 +41,19 @@
 </description>
     </item>
     
+    <item>
+      <title>Analytic Disciplines Compared to Data Science</title>
+      <link>http://andrewrgoss.com/2016/analytic-disciplines-compared-to-data-science/</link>
+      <pubDate>Mon, 09 May 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.com/2016/analytic-disciplines-compared-to-data-science/</guid>
+      <description>&lt;p&gt;Came across an excellent article on &lt;a href=&#34;http://www.datasciencecentral.com&#34; target=&#34;_blank&#34;&gt;Data Science Central&lt;/a&gt; that digs into the differences between data science, data mining, machine learning, statistics, operations research, and so on. The author compares several analytic disciplines that overlap to explain the differences and common denominators. Typical job titles, types of analyses, and industries traditionally attached to each discipline are also detailed.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.datasciencecentral.com/profiles/blogs/17-analytic-disciplines-compared&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;sub&gt;*Source: &lt;a href=&#34;http://www.datasciencecentral.com/profiles/blogs/17-analytic-disciplines-compared&#34; target=&#34;_blank&#34;&gt;Data Science Central&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

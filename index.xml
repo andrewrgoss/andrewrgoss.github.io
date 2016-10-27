@@ -318,6 +318,20 @@ git push origin master
     </item>
     
     <item>
+      <title>Analytic Disciplines Compared to Data Science</title>
+      <link>http://andrewrgoss.com/2016/analytic-disciplines-compared-to-data-science/</link>
+      <pubDate>Mon, 09 May 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.com/2016/analytic-disciplines-compared-to-data-science/</guid>
+      <description>&lt;p&gt;Came across an excellent article on &lt;a href=&#34;http://www.datasciencecentral.com&#34; target=&#34;_blank&#34;&gt;Data Science Central&lt;/a&gt; that digs into the differences between data science, data mining, machine learning, statistics, operations research, and so on. The author compares several analytic disciplines that overlap to explain the differences and common denominators. Typical job titles, types of analyses, and industries traditionally attached to each discipline are also detailed.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.datasciencecentral.com/profiles/blogs/17-analytic-disciplines-compared&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;sub&gt;*Source: &lt;a href=&#34;http://www.datasciencecentral.com/profiles/blogs/17-analytic-disciplines-compared&#34; target=&#34;_blank&#34;&gt;Data Science Central&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>AWSome Day Boston</title>
       <link>http://andrewrgoss.com/2016/awsome-day-boston/</link>
       <pubDate>Tue, 29 Mar 2016 00:00:00 +0000</pubDate>
@@ -734,94 +748,6 @@ in 96 ms
 
 &lt;p&gt;Allows a user to simply enter the domain name of any site and instantly uncover the identity of the company that is hosting the site.&lt;br&gt;
 &lt;a href=&#34;http://www.whoishostingthis.com&#34; target=&#34;_blank&#34;&gt;whoishostingthis.com&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Resume</title>
-      <link>http://andrewrgoss.com/resume/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.com/resume/</guid>
-      <description>
-
-&lt;blockquote&gt;
-&lt;p&gt;For more on my professional background including additional details around my work history, you can visit my &lt;a href=&#34;https://www.linkedin.com/in/andrewrgoss&#34; target=&#34;_blank&#34;&gt;LinkedIn&lt;/a&gt; profile.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr&gt;
-
-&lt;h3 id=&#34;summary:c59a67a3c7bc5faa453847420267045e&#34;&gt;Summary&lt;/h3&gt;
-
-&lt;p&gt;Data engineer/analyst with 5+ years of experience developing innovative solutions related to data integration, data warehousing, and advanced analytics. I have worked as both a developer and a marketer in leveraging people, process, and technology to address marketing data initiatives across industries such as finance, food services, higher education, retail, technology, and telecommunications.&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;h3 id=&#34;clients-served:c59a67a3c7bc5faa453847420267045e&#34;&gt;Clients Served&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/BoA_logo.png&#34; alt=&#34;Bank of America&#34; title=&#34;Bank of America&#34; /&gt;
-&lt;img src=&#34;http://andrewrgoss.com/img/Correlsense_logo.png&#34; alt=&#34;Correlsense&#34; title=&#34;Correlsense&#34; /&gt;
-&lt;img src=&#34;http://andrewrgoss.com/img/DBC_logo.png&#34; alt=&#34;Diversified Communications&#34; title=&#34;Diversified Communications&#34; /&gt;
-&lt;img src=&#34;http://andrewrgoss.com/img/EDMC_logo.png&#34; alt=&#34;Education Management Corporation&#34; title=&#34;Education Management Corporation&#34; /&gt;
-&lt;img src=&#34;http://andrewrgoss.com/img/Fitbit_logo.png&#34; alt=&#34;Fitbit&#34; title=&#34;Fitbit&#34; /&gt;
-&lt;img src=&#34;http://andrewrgoss.com/img/HP_logo.png&#34; alt=&#34;HP Inc.&#34; title=&#34;HP Inc.&#34; /&gt;
-&lt;img src=&#34;http://andrewrgoss.com/img/HPE_logo.png&#34; alt=&#34;Hewlett Packard Enterprise&#34; title=&#34;Hewlett Packard Enterprise&#34; /&gt;
-&lt;img src=&#34;http://andrewrgoss.com/img/Reed_Elsevier_logo.png&#34; alt=&#34;Reed Elsevier&#34; title=&#34;Reed Elsevier&#34; /&gt;
-&lt;img src=&#34;http://andrewrgoss.com/img/Sprint_logo.png&#34; alt=&#34;Sprint&#34; title=&#34;Sprint&#34; /&gt;
-&lt;img src=&#34;http://andrewrgoss.com/img/TB_logo.png&#34; alt=&#34;Taco Bell&#34; title=&#34;Taco Bell&#34; /&gt;
-&lt;img src=&#34;http://andrewrgoss.com/img/UTI_logo.jpg&#34; alt=&#34;Universal Technical Institute&#34; title=&#34;Universal Technical Institute&#34; /&gt;&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;h3 id=&#34;core-competencies:c59a67a3c7bc5faa453847420267045e&#34;&gt;Core Competencies&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/coding.png&#34; alt=&#34;Application Development&#34; title=&#34;Application Development&#34; /&gt;
-&lt;img src=&#34;http://andrewrgoss.com/img/analysis.png&#34; alt=&#34;Business Intelligence&#34; title=&#34;Business Intelligence&#34; /&gt;
-&lt;img src=&#34;http://andrewrgoss.com/img/database.png&#34; alt=&#34;Database Architecture&#34; title=&#34;Database Architecture&#34; /&gt;
-&lt;img src=&#34;http://andrewrgoss.com/img/gears.png&#34; alt=&#34;Marketing Automation&#34; title=&#34;Marketing Automation&#34; /&gt;
-&lt;img src=&#34;http://andrewrgoss.com/img/projectmanagement.png&#34; alt=&#34;Project Management&#34; title=&#34;Project Management&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;sub&gt;Application Development, Business Intelligence, Database Architecture, Marketing Automation, Project Management&lt;/sub&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Other specialties:&lt;/b&gt; data engineering, data analysis, ETL scripting, RESTful web services, database design, marketing analytics, consulting, vendor management, business intelligence, marketing operations, data mining, data warehousing&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;h3 id=&#34;tools-technologies:c59a67a3c7bc5faa453847420267045e&#34;&gt;Tools &amp;amp; Technologies&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;BUSINESS INTELLIGENCE:&lt;/b&gt; &lt;a href=&#34;https://en.wikipedia.org/wiki/Microsoft_Excel&#34; target=&#34;_blank&#34;&gt;Microsoft Excel&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.com/img/msexcel.png&#34;&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://msdn.microsoft.com/en-us/library/ms159106.aspx&#34; target=&#34;_blank&#34;&gt;SSRS&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.com/img/mssqlserver.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;http://www.tableau.com&#34; target=&#34;_blank&#34;&gt;Tableau&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.com/img/tableau.png&#34;&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;BIG DATA:&lt;/b&gt; &lt;a href=&#34;http://hadoop.apache.org&#34; target=&#34;_blank&#34;&gt;Hadoop&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.com/img/hadoop.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://hive.apache.org&#34; target=&#34;_blank&#34;&gt;Hive&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.com/img/hive.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;http://gethue.com&#34; target=&#34;_blank&#34;&gt;Hue&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.com/img/hue.png&#34;&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;CHANGE MANAGEMENT:&lt;/b&gt; &lt;a href=&#34;https://github.com&#34; target=&#34;_blank&#34;&gt;Github&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.com/img/github.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://about.gitlab.com&#34; target=&#34;_blank&#34;&gt;Gitlab&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.com/img/gitlab.png&#34;&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://git-scm.com&#34; target=&#34;_blank&#34;&gt;Git&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.com/img/git.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp; &lt;a href=&#34;https://subversion.apache.org&#34; target=&#34;_blank&#34;&gt;Subversion&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.com/img/subversion.png&#34;&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;ETL TOOLS:&lt;/b&gt; &lt;a href=&#34;https://msdn.microsoft.com/en-us/library/ms141026.aspx&#34; target=&#34;_blank&#34;&gt;SSIS&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.com/img/mssqlserver.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://www.talend.com/products/talend-open-studio&#34; target=&#34;_blank&#34;&gt;Talend Open Studio&lt;img src=&#34;http://andrewrgoss.com/img/talend.png&#34;&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;IDES:&lt;/b&gt; &lt;a href=&#34;https://www.visualstudio.com&#34; target=&#34;_blank&#34;&gt;Visual Studio&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.com/img/visual_studio.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://www.visualstudio.com&#34; target=&#34;_blank&#34;&gt;Visual Studio Code&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.com/img/visual_studio_code.png&#34;&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;MARKETING AUTOMATION:&lt;/b&gt; &lt;a href=&#34;https://www.oracle.com/marketingcloud/products/marketing-automation/index.html&#34; target=&#34;_blank&#34;&gt;Eloqua&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.com/img/eloqua.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://www.marketo.com&#34; target=&#34;_blank&#34;&gt;Marketo&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.com/img/marketo.png&#34;&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;OPERATING SYSTEMS:&lt;/b&gt; &lt;a href=&#34;http://www.microsoft.com/en-us/windows&#34; target=&#34;_blank&#34;&gt;Windows&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.com/img/windows.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://www.linux.com&#34; target=&#34;_blank&#34;&gt;Linux&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.com/img/linux.png&#34;&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;PROGRAMMING LANGUAGES:&lt;/b&gt; &lt;a href=&#34;https://en.wikipedia.org/wiki/SQL&#34; target=&#34;_blank&#34;&gt;SQL&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.com/img/sql.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://msdn.microsoft.com/en-us/library/z1zx9t92.aspx&#34; target=&#34;_blank&#34;&gt;C#&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.com/img/csharp.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://www.python.org&#34; target=&#34;_blank&#34;&gt;Python&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.com/img/python.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://golang.org&#34; target=&#34;_blank&#34;&gt;Go&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.com/img/golang.png&#34;&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;RDBMS:&lt;/b&gt; &lt;a href=&#34;https://msdn.microsoft.com/en-us/library/mt590198.aspx&#34; target=&#34;_blank&#34;&gt;Microsoft SQL Server&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.com/img/mssqlserver.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://www.postgresql.org&#34; target=&#34;_blank&#34;&gt;PostgreSQL&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.com/img/postgresql.png&#34;&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;TEXT EDITORS:&lt;/b&gt; &lt;a href=&#34;https://atom.io&#34; target=&#34;_blank&#34;&gt;Atom&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.com/img/atom.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://notepad-plus-plus.org&#34; target=&#34;_blank&#34;&gt;Notepad++&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.com/img/notepad++.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;http://www.ultraedit.com&#34; target=&#34;_blank&#34;&gt;UltraEdit&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.com/img/ultraedit.png&#34;&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;WEB TECHNOLOGIES:&lt;/b&gt; &lt;a href=&#34;https://en.wikipedia.org/wiki/HTML&#34; target=&#34;_blank&#34;&gt;HTML&lt;img src=&#34;http://andrewrgoss.com/img/html5.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://en.wikipedia.org/wiki/Cascading_Style_Sheets&#34; target=&#34;_blank&#34;&gt;CSS&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.com/img/css3.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://en.wikipedia.org/wiki/XML&#34; target=&#34;_blank&#34;&gt;XML&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.com/img/xml.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://en.wikipedia.org/wiki/JSON&#34; target=&#34;_blank&#34;&gt;JSON&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.com/img/json.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://en.wikipedia.org/wiki/Representational_state_transfer&#34; target=&#34;_blank&#34;&gt;RESTful Web Services&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.com/img/rest-api.png&#34;&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;WORKFLOW MANAGEMENT:&lt;/b&gt; &lt;a href=&#34;https://www.atlassian.com/software/jira&#34; target=&#34;_blank&#34;&gt;JIRA&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.com/img/jira.png&#34;&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://trello.com&#34; target=&#34;_blank&#34;&gt;Trello&amp;nbsp;&lt;img src=&#34;http://andrewrgoss.com/img/trello.png&#34;&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr&gt;
-
-&lt;h3 id=&#34;work-experience:c59a67a3c7bc5faa453847420267045e&#34;&gt;Work Experience&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.digitaslbi.com/us&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://andrewrgoss.com/img/digitaslbi_logo.png&#34;&gt;&lt;/a&gt;&lt;br&gt;
-&lt;strong&gt;&lt;a href=&#34;http://www.digitaslbi.com/us&#34; target=&#34;_blank&#34;&gt;DigitasLBi&lt;/a&gt;&lt;/strong&gt; | Oct 2015 - present&lt;br&gt;
-Manager, Media Systems &amp;amp; Techology
-&lt;p&gt;&lt;sub&gt;Working with evolving data engineering technologies to build the systems and architectures behind business intelligence tools used extensively by data science teams. In centralizing disparate data streams, developing the necessary structure to enable crucial cross-platform analytics that help tell the marketing/advertising data story for each client.&lt;/sub&gt;&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.quickpivot.com&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://andrewrgoss.com/img/quickpivot_logo.png&#34;&gt;&lt;/a&gt;&lt;br&gt;
-&lt;strong&gt;&lt;a href=&#34;http://www.quickpivot.com&#34; target=&#34;_blank&#34;&gt;QuickPivot&lt;/a&gt;&lt;/strong&gt; | Apr 2012 - Oct 2015&lt;br&gt;
-Technical Consultant | Account Manager | Marketing Specialist
-&lt;p&gt;&lt;sub&gt;Held multiple roles ranging from marketing automation specialist to database developer. Gained important experience in leading client-facing calls and meeting with senior management around RFPs, SOWs, and general account strategy. In most recent role, had oversight of global response management (GRM) system, a key ETL engine for Hewlett Packard Enterprise (HPE) and HP Inc. (HPI). Maintained system uptime as part of 24-hr support team in monitoring over one hundred continuous third-party vendor data integrations and RESTful API data transfer to Eloqua platform.&lt;/sub&gt;&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.geminiunderwriters.com&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://andrewrgoss.com/img/gtu_logo.png&#34;&gt;&lt;/a&gt;&lt;br&gt;
-&lt;strong&gt;&lt;a href=&#34;http://www.geminiunderwriters.com&#34; target=&#34;_blank&#34;&gt;Gemini Transportation Underwriters&lt;/a&gt;&lt;/strong&gt; | Jul 2011 - Apr 2012&lt;br&gt;
-Marketing Specialist
-&lt;p&gt;&lt;sub&gt;Market research and competitive analysis for excess liability insurance provider in the transportation industry, with a specialization in policies for commercial trucking and railroad companies.&lt;/sub&gt;&lt;/p&gt;&lt;/p&gt;
 </description>
     </item>
     
