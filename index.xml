@@ -8,8 +8,22 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Wed, 19 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Nov 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://andrewrgoss.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Data Science Industry: Who Does What</title>
+      <link>http://andrewrgoss.com/2016/the-data-science-industry-who-does-what/</link>
+      <pubDate>Wed, 09 Nov 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.com/2016/the-data-science-industry-who-does-what/</guid>
+      <description>&lt;p&gt;Great infographic from &lt;a href=&#34;https://www.datacamp.com&#34; target=&#34;_blank&#34;&gt;DataCamp&lt;/a&gt; that lays out the roles and skills associated with a data science team. I&amp;rsquo;m best cast as the data engineer right now.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://101.datascience.community/wp-content/uploads/2015/11/datasciencejobs.png&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;sub&gt;*Source: &lt;a href=&#34;https://www.datacamp.com&#34; target=&#34;_blank&#34;&gt;DataCamp&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Udemy- Python for Data Structures &amp; Algorithms</title>
@@ -503,251 +517,6 @@ in 96 ms
 &lt;p&gt;With the rate at which technology changes, you can never stop learning new things. I take a proactive approach towards career growth and skill development through a dedicated effort towards continuing education that I write about in this blog. I&amp;rsquo;ve come across many great &lt;a href=&#34;http://andrewrgoss.com/resources&#34;&gt;resources&lt;/a&gt; and ideas that I also &lt;a href=&#34;https://twitter.com/andrewrgoss&#34; target=&#34;_blank&#34;&gt;tweet&lt;/a&gt; about regularly.&lt;/p&gt;
 
 &lt;p&gt;Need help on a data project or have ideas you want to discuss further? &lt;a href=&#34;mailto:andrewrgoss@gmail.com&#34;&gt;Shoot me a note!&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Resources</title>
-      <link>http://andrewrgoss.com/resources/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.com/resources/</guid>
-      <description>
-
-&lt;blockquote&gt;
-&lt;p&gt;There are tons of great resources all over the internet. I&amp;rsquo;ve bookmarked hundreds of URLs and this page is my categorized collection of the (free) ones I&amp;rsquo;ve found to be the most helpful. If you&amp;rsquo;re reading this and have something to add or find a dead link please &lt;a href=&#34;mailto:andrewrgoss@gmail.com&#34; target=&#34;_blank&#34;&gt;shoot me a note&lt;/a&gt;. I&amp;rsquo;m continuing to add to this over time.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&#34;#business_intelligence&#34;&gt;Business Intelligence&lt;/a&gt; | &lt;a href=&#34;#career_management&#34;&gt;Career Management&lt;/a&gt; | &lt;a href=&#34;#computer_science&#34;&gt;Computer Science&lt;/a&gt; | &lt;a href=&#34;#data_science&#34;&gt;Data Science&lt;/a&gt; | &lt;a href=&#34;#data_viz&#34;&gt;Data Visualization&lt;/a&gt; | &lt;a href=&#34;#martech&#34;&gt;MarTech&lt;/a&gt; | &lt;a href=&#34;#programming&#34;&gt;Programming&lt;/a&gt; | &lt;a href=&#34;#web_services&#34;&gt;Web Services&lt;/a&gt; | &lt;a href=&#34;#website_tools&#34;&gt;Website Tools&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;h2 id=&#34;a-name-business-intelligence-a-business-intelligence:74f7fb04a75e766307d398251c369a21&#34;&gt;&lt;a name=&#34;business_intelligence&#34;&gt;&lt;/a&gt;Business Intelligence&lt;/h2&gt;
-
-&lt;hr&gt;
-
-&lt;h4 id=&#34;google-s-my-activity-page:74f7fb04a75e766307d398251c369a21&#34;&gt;Google&amp;rsquo;s My Activity Page&lt;/h4&gt;
-
-&lt;p&gt;This portal reveals everything Google knows about you - every search you&amp;rsquo;ve made, the apps you&amp;rsquo;ve used, the videos you&amp;rsquo;ve watched, and everything in between. Visit to see how your data is being collected, modify activity settings, and delete data that you prefer not retained.&lt;br&gt;
-&lt;a href=&#34;https://myactivity.google.com&#34; target=&#34;_blank&#34;&gt;myactivity.google.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;olap-cubes:74f7fb04a75e766307d398251c369a21&#34;&gt;OLAP Cubes&lt;/h4&gt;
-
-&lt;p&gt;A nice intro guide on what these are and why they are used.&lt;br&gt;
-&lt;a href=&#34;http://olap.com/learn-bi-olap/olap-bi-definitions/olap-cube&#34; target=&#34;_blank&#34;&gt;olap.com/learn-bi-olap/olap-bi-definitions/olap-cube&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;transactional-vs-analytical-processing:74f7fb04a75e766307d398251c369a21&#34;&gt;Transactional vs. Analytical Processing&lt;/h4&gt;
-
-&lt;p&gt;Good cross-comparison between OLTP and OLAP systems.&lt;br&gt;
-&lt;a href=&#34;http://datawarehouse4u.info/OLTP-vs-OLAP.html&#34; target=&#34;_blank&#34;&gt;datawarehouse4u.info/OLTP-vs-OLAP&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;h2 id=&#34;a-name-career-management-a-career-management:74f7fb04a75e766307d398251c369a21&#34;&gt;&lt;a name=&#34;career_management&#34;&gt;&lt;/a&gt;Career Management&lt;/h2&gt;
-
-&lt;hr&gt;
-
-&lt;h4 id=&#34;skills-index:74f7fb04a75e766307d398251c369a21&#34;&gt;Skills Index&lt;/h4&gt;
-
-&lt;p&gt;Undoubtedly you&amp;rsquo;ve heard about the skills gap challenges in the U.S. economy. Using select data from LinkedIn and Strayer@Work&amp;rsquo;s proprietary analysis, the Strayer@Work Skills Index takes a look at supply vs. demand around specific skill sets across top industries and provides actionable recommendations for getting up to speed.&lt;br&gt;
-&lt;a href=&#34;http://www.skillsindex.com&#34; target=&#34;_blank&#34;&gt;skillsindex.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;h2 id=&#34;a-name-computer-science-a-computer-science:74f7fb04a75e766307d398251c369a21&#34;&gt;&lt;a name=&#34;computer_science&#34;&gt;&lt;/a&gt;Computer Science&lt;/h2&gt;
-
-&lt;hr&gt;
-
-&lt;h4 id=&#34;big-o-notation-cheat-sheet:74f7fb04a75e766307d398251c369a21&#34;&gt;Big-O Notation Cheat Sheet&lt;/h4&gt;
-
-&lt;p&gt;This webpage covers the space and time Big-O complexities of common algorithms used in Computer Science.&lt;br&gt;
-&lt;a href=&#34;http://bigocheatsheet.com&#34; target=&#34;_blank&#34;&gt;bigocheatsheet.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;h2 id=&#34;a-name-data-science-a-data-science:74f7fb04a75e766307d398251c369a21&#34;&gt;&lt;a name=&#34;data_science&#34;&gt;&lt;/a&gt;Data Science&lt;/h2&gt;
-
-&lt;hr&gt;
-
-&lt;h4 id=&#34;beginner-s-guide-to-big-data-terminology:74f7fb04a75e766307d398251c369a21&#34;&gt;Beginner&amp;rsquo;s Guide to Big Data Terminology&lt;/h4&gt;
-
-&lt;p&gt;Walkthrough on some of the common lingo of data science, such as DaaS and Neural Networking.&lt;br&gt;
-&lt;a href=&#34;http://dataconomy.com/a-beginners-guide-to-big-data-terminology&#34; target=&#34;_blank&#34;&gt;dataconomy.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;crowdflower-data-for-everyone:74f7fb04a75e766307d398251c369a21&#34;&gt;Crowdflower: Data for Everyone&lt;/h4&gt;
-
-&lt;p&gt;Collection of free, downloadable, and categorized datasets that have gone through the Crowdflower platform.&lt;br&gt;
-&lt;a href=&#34;https://www.crowdflower.com/data-for-everyone&#34; target=&#34;_blank&#34;&gt;crowdflower.com/data-for-everyone&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;handy-python-libraries-for-formatting-and-cleaning-data:74f7fb04a75e766307d398251c369a21&#34;&gt;Handy Python Libraries for Formatting and Cleaning Data&lt;/h4&gt;
-
-&lt;p&gt;Data scientists spend a lot of time cleaning messy data. This is a list of Python libraries that help make data more orderly and legible - from styling DataFrames to anonymizing datasets.&lt;br&gt;
-&lt;a href=&#34;https://blog.modeanalytics.com/python-data-cleaning-libraries&#34; target=&#34;_blank&#34;&gt;blog.modeanalytics.com/python-data-cleaning-libraries&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;kaggle:74f7fb04a75e766307d398251c369a21&#34;&gt;Kaggle&lt;/h4&gt;
-
-&lt;p&gt;Offers a means of learning data science through both public and private competitions.&lt;br&gt;
-&lt;a href=&#34;https://www.kaggle.com&#34; target=&#34;_blank&#34;&gt;kaggle.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;kdnuggets:74f7fb04a75e766307d398251c369a21&#34;&gt;KDnuggets&lt;/h4&gt;
-
-&lt;p&gt;This website looks like its design hasn&amp;rsquo;t changed since the 90s, but it is home to lots of great content on business analytics, big data, data mining, and data science.&lt;br&gt;
-&lt;a href=&#34;http://www.kdnuggets.com&#34; target=&#34;_blank&#34;&gt;kdnuggets.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;r-or-python-for-data-science:74f7fb04a75e766307d398251c369a21&#34;&gt;R or Python for Data Science?&lt;/h4&gt;
-
-&lt;p&gt;This is a nice blog post on opendatascience.com that digs into the differences/advantages of using either R or Python for performing data science tasks.&lt;br&gt;
-&lt;a href=&#34;https://www.opendatascience.com/blog/r-or-python-for-data-science&#34; target=&#34;_blank&#34;&gt;opendatascience.com/blog/r-or-python-for-data-science&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;regexone:74f7fb04a75e766307d398251c369a21&#34;&gt;RegexOne&lt;/h4&gt;
-
-&lt;p&gt;Regular expressions are extremely useful in extracting information from text such as code, log files, spreadsheets, or even documents. This site offers an interactive tutorial and practice exercises to help you learn them.&lt;br&gt;
-&lt;a href=&#34;https://regexone.com&#34; target=&#34;_blank&#34;&gt;regexone.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;ropensci:74f7fb04a75e766307d398251c369a21&#34;&gt;rOpenSci&lt;/h4&gt;
-
-&lt;p&gt;Open source R packages that allow access to data repositories and provide programmatic access to a variety of scientific data and other real-time metrics of scholarly impact.&lt;br&gt;
-&lt;a href=&#34;http://ropensci.org&#34; target=&#34;_blank&#34;&gt;ropensci.org&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;techpizza:74f7fb04a75e766307d398251c369a21&#34;&gt;TechPizza&lt;/h4&gt;
-
-&lt;p&gt;This site aggregates information around upcoming data-related Meetups and also gives users the ability to browse for slides, code, and video from Meetup tech groups around the world.&lt;br&gt;
-&lt;a href=&#34;http://techpizza.org&#34; target=&#34;_blank&#34;&gt;techpizza.org&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;h2 id=&#34;a-name-data-viz-a-data-visualization:74f7fb04a75e766307d398251c369a21&#34;&gt;&lt;a name=&#34;data_viz&#34;&gt;&lt;/a&gt;Data Visualization&lt;/h2&gt;
-
-&lt;hr&gt;
-
-&lt;h4 id=&#34;google-data-studio:74f7fb04a75e766307d398251c369a21&#34;&gt;Google Data Studio&lt;/h4&gt;
-
-&lt;p&gt;Free product lets you connect to all your marketing data and turn that data into beautiful, informative reports that are easy to understand, share, and fully customizable.&lt;br&gt;
-&lt;a href=&#34;https://datastudio.google.com&#34; target=&#34;_blank&#34;&gt;datastudio.google.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;h2 id=&#34;a-name-martech-a-martech:74f7fb04a75e766307d398251c369a21&#34;&gt;&lt;a name=&#34;martech&#34;&gt;&lt;/a&gt;MarTech&lt;/h2&gt;
-
-&lt;hr&gt;
-
-&lt;h4 id=&#34;google-analytics-demo-account:74f7fb04a75e766307d398251c369a21&#34;&gt;Google Analytics Demo Account&lt;/h4&gt;
-
-&lt;p&gt;If you&amp;rsquo;re like me, you learn by doing. This fully functional Google Analytics account is a great way to look at real business data and experiment with Google Analytics features. The data is from the Google Merchandise Store, a real ecommerce store, and it&amp;rsquo;s typical of what you would see for an ecommerce website.&lt;br&gt;
-&lt;a href=&#34;https://support.google.com/analytics/answer/6367342&#34; target=&#34;_blank&#34;&gt;support.google.com/analytics&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;the-definitive-glossary-of-programmatic-advertising:74f7fb04a75e766307d398251c369a21&#34;&gt;The Definitive Glossary of Programmatic Advertising&lt;/h4&gt;
-
-&lt;p&gt;Programmatic advertising is about using automated systems (technology) and data to make media buying decisions without humans. This is a helpful glossary of terms associated with this concept.&lt;br&gt;
-&lt;a href=&#34;http://blog.hubspot.com/agency/programmatic-advertising-glossary&#34; target=&#34;_blank&#34;&gt;blog.hubspot.com/agency/programmatic-advertising-glossary&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;real-story-group:74f7fb04a75e766307d398251c369a21&#34;&gt;Real Story Group&lt;/h4&gt;
-
-&lt;p&gt;This firm specializes in evaluating vendors in the MarTech space to help you find the right provider among a glut of offerings.&lt;br&gt;
-&lt;a href=&#34;https://www.realstorygroup.com/Vendors-Evaluated&#34; target=&#34;_blank&#34;&gt;realstorygroup.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;h2 id=&#34;a-name-programming-a-programming:74f7fb04a75e766307d398251c369a21&#34;&gt;&lt;a name=&#34;programming&#34;&gt;&lt;/a&gt;Programming&lt;/h2&gt;
-
-&lt;hr&gt;
-
-&lt;h4 id=&#34;bento:74f7fb04a75e766307d398251c369a21&#34;&gt;Bento&lt;/h4&gt;
-
-&lt;p&gt;A curated collection of tutorials and free learning resources for learning to code in new languages.&lt;br&gt;
-&lt;a href=&#34;https://bento.io&#34; target=&#34;_blank&#34;&gt;bento.io&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;codeenv:74f7fb04a75e766307d398251c369a21&#34;&gt;CodeEnv&lt;/h4&gt;
-
-&lt;p&gt;Free site lets you share your code with others in CodeEnv online environments. Good for teaching, prototyping, and sharing fiddles.&lt;br&gt;
-&lt;a href=&#34;https://codeenv.com&#34; target=&#34;_blank&#34;&gt;codeenv.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;codeproject-diving-in-oop:74f7fb04a75e766307d398251c369a21&#34;&gt;CodeProject: Diving in OOP&lt;/h4&gt;
-
-&lt;p&gt;Comprehensive article that covers almost every OOP (object-oriented programming) concept in detail with C# examples.&lt;br&gt;
-&lt;a href=&#34;http://www.codeproject.com/Articles/771455/Diving-in-OOP&#34; target=&#34;_blank&#34;&gt;codeproject.com/Diving-in-OOP&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;fiddles-io:74f7fb04a75e766307d398251c369a21&#34;&gt;Fiddles.io&lt;/h4&gt;
-
-&lt;p&gt;Offers sandbox environments for developers to play around with and modify live sample code for all kinds of languages. It&amp;rsquo;s also easy to share or demonstrate solutions to problems.&lt;br&gt;
-&lt;a href=&#34;https://fiddles.io&#34; target=&#34;_blank&#34;&gt;fiddles.io&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;overapi:74f7fb04a75e766307d398251c369a21&#34;&gt;OverAPI&lt;/h4&gt;
-
-&lt;p&gt;A huge selection of cheat sheets for almost any current programming language and other technologies.&lt;br&gt;
-&lt;a href=&#34;http://overapi.com&#34; target=&#34;_blank&#34;&gt;overapi.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;h2 id=&#34;a-name-web-services-a-web-services:74f7fb04a75e766307d398251c369a21&#34;&gt;&lt;a name=&#34;web_services&#34;&gt;&lt;/a&gt;Web Services&lt;/h2&gt;
-
-&lt;hr&gt;
-
-&lt;h4 id=&#34;google-analytics-query-explorer:74f7fb04a75e766307d398251c369a21&#34;&gt;Google Analytics Query Explorer&lt;/h4&gt;
-
-&lt;p&gt;This tool lets you play with the Core Reporting API by building queries to get data from your Google Analytics views (profiles). You can use these queries with any of the client libraries to build your own tools.&lt;br&gt;
-&lt;a href=&#34;https://ga-dev-tools.appspot.com/query-explorer&#34; target=&#34;_blank&#34;&gt;ga-dev-tools.appspot.com/query-explorer&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;openweathermap:74f7fb04a75e766307d398251c369a21&#34;&gt;OpenWeatherMap&lt;/h4&gt;
-
-&lt;p&gt;API for accessing current weather data for any location including over 200,000 cities.&lt;br&gt;
-&lt;a href=&#34;http://openweathermap.org/api&#34; target=&#34;_blank&#34;&gt;openweathermap.org/api&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;postman:74f7fb04a75e766307d398251c369a21&#34;&gt;Postman&lt;/h4&gt;
-
-&lt;p&gt;This free Chrome extension allows developers to explore, test, and build APIs using a powerful collaborative testing and development suite.&lt;br&gt;
-&lt;a href=&#34;https://www.getpostman.com&#34; target=&#34;_blank&#34;&gt;getpostman.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;restful-architecture:74f7fb04a75e766307d398251c369a21&#34;&gt;RESTful Architecture&lt;/h4&gt;
-
-&lt;p&gt;Technical documentation for RESTful web services with references and language-specific examples.&lt;br&gt;
-&lt;a href=&#34;https://smartsheet-platform.github.io/api-docs&#34; target=&#34;_blank&#34;&gt;smartsheet-platform.github.io/api-docs&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;what-is-a-rest-api:74f7fb04a75e766307d398251c369a21&#34;&gt;What is a REST API?&lt;/h4&gt;
-
-&lt;p&gt;Thorough overview on what REST APIs are and how to use them.&lt;br&gt;
-&lt;a href=&#34;http://idratherbewriting.com/docapis_what-is-a-rest-api&#34; target=&#34;_blank&#34;&gt;idratherbewriting.com/docapis_what-is-a-rest-api&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;h2 id=&#34;a-name-website-tools-a-website-tools:74f7fb04a75e766307d398251c369a21&#34;&gt;&lt;a name=&#34;website_tools&#34;&gt;&lt;/a&gt;Website Tools&lt;/h2&gt;
-
-&lt;hr&gt;
-
-&lt;h4 id=&#34;builtwith:74f7fb04a75e766307d398251c369a21&#34;&gt;BuiltWith&lt;/h4&gt;
-
-&lt;p&gt;Enter the URL of a website and quickly find a list of the technologies used to support that site including email services, nameserver providers, JavaScript libraries, widgets, server information, and more.&lt;br&gt;
-&lt;a href=&#34;http://builtwith.com&#34; target=&#34;_blank&#34;&gt;builtwith.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;google-design-resizer:74f7fb04a75e766307d398251c369a21&#34;&gt;Google Design: Resizer&lt;/h4&gt;
-
-&lt;p&gt;An interactive viewer to see and test how digital products respond to material design breakpoints across desktop, mobile, and tablet.&lt;br&gt;
-&lt;a href=&#34;http://design.google.com/resizer&#34; target=&#34;_blank&#34;&gt;design.google.com/resizer&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;how-to-use-github-pages-to-make-websites:74f7fb04a75e766307d398251c369a21&#34;&gt;How To Use GitHub Pages To Make Websites&lt;/h4&gt;
-
-&lt;p&gt;Step-by-step tutorial to getting started with building a website hosted on Github Pages.&lt;br&gt;
-&lt;a href=&#34;http://readwrite.com/2013/11/27/github-pages-explained&#34; target=&#34;_blank&#34;&gt;readwrite.com/github-pages&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;mobile-website-speed-testing-tool:74f7fb04a75e766307d398251c369a21&#34;&gt;Mobile Website Speed Testing Tool&lt;/h4&gt;
-
-&lt;p&gt;Another great Google product. Find out how well your site works across mobile and desktop devices by simply entering the URL.&lt;br&gt;
-&lt;a href=&#34;https://testmysite.thinkwithgoogle.com&#34; target=&#34;_blank&#34;&gt;testmysite.thinkwithgoogle.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;static-site-generators:74f7fb04a75e766307d398251c369a21&#34;&gt;Static Site Generators&lt;/h3&gt;
-
-&lt;p&gt;A leaderboard of the top open-source static site generators based on Github stars.&lt;br&gt;
-&lt;a href=&#34;https://www.staticgen.com&#34; target=&#34;_blank&#34;&gt;staticgen.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;website-grader:74f7fb04a75e766307d398251c369a21&#34;&gt;Website Grader&lt;/h4&gt;
-
-&lt;p&gt;Free online tool that grades any website against key metrics such as performance, mobile readiness, SEO, and security.&lt;br&gt;
-&lt;a href=&#34;https://website.grader.com&#34; target=&#34;_blank&#34;&gt;website.grader.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;who-is-hosting-this:74f7fb04a75e766307d398251c369a21&#34;&gt;Who Is Hosting This&lt;/h4&gt;
-
-&lt;p&gt;Allows a user to simply enter the domain name of any site and instantly uncover the identity of the company that is hosting the site.&lt;br&gt;
-&lt;a href=&#34;http://www.whoishostingthis.com&#34; target=&#34;_blank&#34;&gt;whoishostingthis.com&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
