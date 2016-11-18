@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Big Data on Data Engineer, Consultant, BI Developer in MarTech</title>
-    <link>http://andrewrgoss.com/tags/big-data/</link>
-    <description>Recent content in Big Data on Data Engineer, Consultant, BI Developer in MarTech</description>
+    <title>Page on Data Engineer, Consultant, BI Developer in MarTech</title>
+    <link>http://andrewrgoss.com/page/</link>
+    <description>Recent content in Page on Data Engineer, Consultant, BI Developer in MarTech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
     <lastBuildDate>Tue, 18 Oct 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://andrewrgoss.com/tags/big-data/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://andrewrgoss.com/page/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Big Data University- Hadoop 101</title>
@@ -38,27 +38,6 @@
 Transcript 1&lt;/p&gt;
 
 &lt;p&gt;Transcript 2&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Big Data University- Hadoop 101</title>
-      <link>http://andrewrgoss.com/2016/big-data-university--hadoop-101/</link>
-      <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.com/2016/big-data-university--hadoop-101/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/hadoop.png&#34; alt=&#34;Hadoop&#34; title=&#34;Hadoop&#34; /&gt;&lt;br&gt;
-&lt;b&gt;Course Code&lt;/b&gt;: BD0111EN&lt;br&gt;
-&lt;a href=&#34;https://bigdatauniversity.com/courses/introduction-to-hadoop&#34; target=&#34;_blank&#34;&gt;Course Link&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts&#34;&gt;Lesson Transcripts&lt;/a&gt;
-&lt;hr&gt;
-Reinforcing some of the basics of Apache Hadoop, a free, open source, Java-based programming framework. Topics in this course include:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Hadoop&amp;rsquo;s architecture and core components, such as MapReduce and the Hadoop Distributed File System (HDFS).&lt;/li&gt;
-&lt;li&gt;Adding/removing nodes from Hadoop clusters, how to check available disk space on each node, and how to modify configuration parameters.&lt;/li&gt;
-&lt;li&gt;Other Apache projects that are part of the Hadoop ecosystem, including Pig, Hive, HBase, ZooKeeper, Oozie, Sqoop, Flume, among others.&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
