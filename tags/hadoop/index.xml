@@ -30,6 +30,8 @@ Reinforcing some of the basics of Apache Hadoop, a free, open source, Java-based
 &lt;li&gt;Adding/removing nodes from Hadoop clusters, how to check available disk space on each node, and how to modify configuration parameters.&lt;/li&gt;
 &lt;li&gt;Other Apache projects that are part of the Hadoop ecosystem, including Pig, Hive, HBase, ZooKeeper, Oozie, Sqoop, Flume, among others.&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://bigdatauniversity.com/courses/introduction-to-hadoop&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View course&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
