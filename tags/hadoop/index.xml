@@ -31,6 +31,10 @@ Reinforcing some of the basics of Apache Hadoop, a free, open source, Java-based
 &lt;li&gt;Other Apache projects that are part of the Hadoop ecosystem, including Pig, Hive, HBase, ZooKeeper, Oozie, Sqoop, Flume, among others.&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;p&gt;The course provides an IBM cloud sandbox environment to perform lab exercises, such as using the HDFS command line:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/page/big_data_university_hadoop_101/hdfs_command_line.png&#34; alt=&#34;HDFS Command Line&#34; title=&#34;HDFS Command Line&#34; /&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;a href=&#34;https://bigdatauniversity.com/courses/introduction-to-hadoop&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View course&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
