@@ -883,7 +883,12 @@ footer a:hover
 	
 </nav>
 		</main>
-        
+<select onChange="window.location.href=this.value">
+    <option value="">Select Page</option>
+    <option value="/">Page 1</option>
+    <option value="/page/2/">Page 2</option>
+    <option value="/page/3/">Page 3</option>
+</select>		        
 <script type="application/ld+json">
 { 
     "@context": "http://schema.org",
@@ -914,6 +919,7 @@ footer a:hover
     }
 }
 </script>
+<hr>
 		<footer id="footer">
 			<p id="footer-message">&copy; 2016 Andrew Goss. All rights reserved. Source code available on <a href="https://github.com/andrewrgoss/andrewrgoss.github.io" target="_blank">GitHub</a>.</p>
 		</footer>
