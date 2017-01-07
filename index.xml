@@ -8,8 +8,36 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Wed, 09 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Jan 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://andrewrgoss.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Big Data University- Hadoop 101</title>
+      <link>http://andrewrgoss.com/2017/big-data-university--hadoop-101/</link>
+      <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.com/2017/big-data-university--hadoop-101/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/hadoop.png&#34; alt=&#34;Hadoop&#34; title=&#34;Hadoop&#34; /&gt;&lt;br&gt;
+&lt;b&gt;Course Code&lt;/b&gt;: BD0111EN&lt;br&gt;
+&lt;a href=&#34;https://bigdatauniversity.com/courses/introduction-to-hadoop&#34; target=&#34;_blank&#34;&gt;Course Link&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://my.imdemocloud.com&#34; target=&#34;_blank&#34;&gt;IBM Analytics Demo Cloud&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts_labs&#34;&gt;Lesson Transcripts/Labs&lt;/a&gt;
+&lt;hr&gt;
+Reinforcing some of the basics of Apache Hadoop, a free, open source, Java-based programming framework. Topics in this course include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Hadoop&amp;rsquo;s architecture and core components, such as MapReduce and the Hadoop Distributed File System (HDFS).&lt;/li&gt;
+&lt;li&gt;Adding/removing nodes from Hadoop clusters, how to check available disk space on each node, and how to modify configuration parameters.&lt;/li&gt;
+&lt;li&gt;Other Apache projects that are part of the Hadoop ecosystem, including Pig, Hive, HBase, ZooKeeper, Oozie, Sqoop, Flume, among others.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The course provides an IBM cloud sandbox environment to perform lab exercises, such as using the HDFS command line:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/page/big_data_university_hadoop_101/hdfs_command_line.png&#34; alt=&#34;HDFS Command Line&#34; title=&#34;HDFS Command Line&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://bigdatauniversity.com/courses/introduction-to-hadoop&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View course&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The Data Science Industry: Who Does What</title>
@@ -67,33 +95,37 @@ Working on furthering my Python skills in the following areas:&lt;/p&gt;
     
     <item>
       <title>Big Data University- Hadoop 101</title>
-      <link>http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts/</link>
+      <link>http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts_labs/</link>
       <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts/</guid>
+      <guid>http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts_labs/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/hadoop.png&#34; alt=&#34;Hadoop&#34; title=&#34;Hadoop&#34; /&gt;&lt;br&gt;
-&lt;a href=&#34;http://andrewrgoss.com/2016/big-data-university--hadoop-101/&#34;&gt;Big Data University- Hadoop 101&lt;/a&gt; &amp;gt;&amp;gt; &lt;b&gt;Lesson Transcripts&lt;/b&gt;&lt;br&gt;
+&lt;a href=&#34;http://andrewrgoss.com/2016/big-data-university--hadoop-101/&#34;&gt;Big Data University- Hadoop 101&lt;/a&gt; &amp;gt;&amp;gt; &lt;b&gt;Lesson Transcripts/Labs&lt;/b&gt;&lt;br&gt;
 &lt;hr&gt;
-&lt;a href=&#34;http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts/Unit_1_What_is_Hadoop_Part1&#34;&gt;Unit_1 &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash; What_is_Hadoop_Part1&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts_labs/Unit_1_What_is_Hadoop_Part1&#34;&gt;Unit_1 &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash; What_is_Hadoop_Part1&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts/Unit_1_What_is_Hadoop_Part2&#34;&gt;Unit_1 &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash; What_is_Hadoop_Part2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts_labs/Unit_1_What_is_Hadoop_Part2&#34;&gt;Unit_1 &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash; What_is_Hadoop_Part2&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts/Unit_2_Hadoop_Architecture_Part1&#34;&gt;Unit_2 &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash; Hadoop_Architecture_Part1&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts/Unit_2_Hadoop_Architecture_Part2&#34;&gt;Unit_2 &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash; Hadoop_Architecture_Part2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts_labs/Unit_2_Hadoop_Architecture_Part1&#34;&gt;Unit_2 &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash; Hadoop_Architecture_Part1&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts/Unit_2_HDFS_Command_Line&#34;&gt;Unit_2 &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash; HDFS_Command_Line&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts_labs/Unit_2_Hadoop_Architecture_Part2&#34;&gt;Unit_2 &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash; Hadoop_Architecture_Part2&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts_labs/Unit_2_HDFS_Command_Line&#34;&gt;Unit_2 &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash; HDFS_Command_Line&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts_labs/Unit_2_HANDS-ON_LAB_HADOOP_ARCHITECTURE&#34;&gt;Unit_2 &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash; HANDS-ON_LAB_HADOOP_ARCHITECTURE&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Big Data University- Hadoop 101</title>
-      <link>http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts/Unit_1_What_is_Hadoop_Part1/</link>
+      <link>http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts_labs/Unit_1_What_is_Hadoop_Part1/</link>
       <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts/Unit_1_What_is_Hadoop_Part1/</guid>
+      <guid>http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts_labs/Unit_1_What_is_Hadoop_Part1/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/hadoop.png&#34; alt=&#34;Hadoop&#34; title=&#34;Hadoop&#34; /&gt;&lt;br&gt;
-&lt;a href=&#34;http://andrewrgoss.com/2016/big-data-university--hadoop-101/&#34;&gt;Big Data University- Hadoop 101&lt;/a&gt; &amp;gt;&amp;gt; &lt;a href=&#34;http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts&#34;&gt;Lesson Transcripts&lt;/a&gt; &amp;gt;&amp;gt; &lt;b&gt;Unit_1_What_is_Hadoop_Part1&lt;/b&gt;
+&lt;a href=&#34;http://andrewrgoss.com/2016/big-data-university--hadoop-101/&#34;&gt;Big Data University- Hadoop 101&lt;/a&gt; &amp;gt;&amp;gt; &lt;a href=&#34;http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts_labs&#34;&gt;Lesson Transcripts/Labs&lt;/a&gt; &amp;gt;&amp;gt; &lt;b&gt;Unit_1_What_is_Hadoop_Part1&lt;/b&gt;
 &lt;hr&gt;&lt;/p&gt;
 
 &lt;iframe width=&#34;660&#34; height=&#34;371&#34; src=&#34;https://www.youtube.com/embed/-65WgvIJ5xo&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
@@ -128,12 +160,12 @@ Working on furthering my Python skills in the following areas:&lt;/p&gt;
     
     <item>
       <title>Big Data University- Hadoop 101</title>
-      <link>http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts/Unit_1_What_is_Hadoop_Part2/</link>
+      <link>http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts_labs/Unit_1_What_is_Hadoop_Part2/</link>
       <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts/Unit_1_What_is_Hadoop_Part2/</guid>
+      <guid>http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts_labs/Unit_1_What_is_Hadoop_Part2/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/hadoop.png&#34; alt=&#34;Hadoop&#34; title=&#34;Hadoop&#34; /&gt;&lt;br&gt;
-&lt;a href=&#34;http://andrewrgoss.com/2016/big-data-university--hadoop-101/&#34;&gt;Big Data University- Hadoop 101&lt;/a&gt; &amp;gt;&amp;gt; &lt;a href=&#34;http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts&#34;&gt;Lesson Transcripts&lt;/a&gt; &amp;gt;&amp;gt; &lt;b&gt;Unit_1_What_is_Hadoop_Part2&lt;/b&gt;
+&lt;a href=&#34;http://andrewrgoss.com/2016/big-data-university--hadoop-101/&#34;&gt;Big Data University- Hadoop 101&lt;/a&gt; &amp;gt;&amp;gt; &lt;a href=&#34;http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts_labs&#34;&gt;Lesson Transcripts/Labs&lt;/a&gt; &amp;gt;&amp;gt; &lt;b&gt;Unit_1_What_is_Hadoop_Part2&lt;/b&gt;
 &lt;hr&gt;&lt;/p&gt;
 
 &lt;iframe width=&#34;660&#34; height=&#34;371&#34; src=&#34;https://www.youtube.com/embed/PS5QSGAoLNw&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
@@ -179,12 +211,28 @@ Working on furthering my Python skills in the following areas:&lt;/p&gt;
     
     <item>
       <title>Big Data University- Hadoop 101</title>
-      <link>http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts/Unit_2_HDFS_Command_Line/</link>
+      <link>http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts_labs/Unit_2_HANDS-ON_LAB_HADOOP_ARCHITECTURE/</link>
       <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts/Unit_2_HDFS_Command_Line/</guid>
+      <guid>http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts_labs/Unit_2_HANDS-ON_LAB_HADOOP_ARCHITECTURE/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/hadoop.png&#34; alt=&#34;Hadoop&#34; title=&#34;Hadoop&#34; /&gt;&lt;br&gt;
-&lt;a href=&#34;http://andrewrgoss.com/2016/big-data-university--hadoop-101/&#34;&gt;Big Data University- Hadoop 101&lt;/a&gt; &amp;gt;&amp;gt; &lt;a href=&#34;http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts&#34;&gt;Lesson Transcripts&lt;/a&gt; &amp;gt;&amp;gt; &lt;b&gt;Unit_2_HDFS_Command_Line&lt;/b&gt;
+&lt;a href=&#34;http://andrewrgoss.com/2016/big-data-university--hadoop-101/&#34;&gt;Big Data University- Hadoop 101&lt;/a&gt; &amp;gt;&amp;gt; &lt;a href=&#34;http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts_labs&#34;&gt;Lesson Transcripts/Labs&lt;/a&gt; &amp;gt;&amp;gt; &lt;b&gt;Unit_2_HANDS-ON_LAB_HADOOP_ARCHITECTURE&lt;/b&gt;
+&lt;hr&gt;&lt;/p&gt;
+
+&lt;iframe width=&#34;660&#34; height=&#34;371&#34; src=&#34;https://www.youtube.com/embed/35ZKvSjAoSo&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://andrewrgoss.com/img/page/big_data_university_hadoop_101/Unit_2_HANDS-ON_LAB_HADOOP_ARCHITECTURE.pdf&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;Lab Exercises&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Big Data University- Hadoop 101</title>
+      <link>http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts_labs/Unit_2_HDFS_Command_Line/</link>
+      <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts_labs/Unit_2_HDFS_Command_Line/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/hadoop.png&#34; alt=&#34;Hadoop&#34; title=&#34;Hadoop&#34; /&gt;&lt;br&gt;
+&lt;a href=&#34;http://andrewrgoss.com/2016/big-data-university--hadoop-101/&#34;&gt;Big Data University- Hadoop 101&lt;/a&gt; &amp;gt;&amp;gt; &lt;a href=&#34;http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts_labs&#34;&gt;Lesson Transcripts/Labs&lt;/a&gt; &amp;gt;&amp;gt; &lt;b&gt;Unit_2_HDFS_Command_Line&lt;/b&gt;
 &lt;hr&gt;&lt;/p&gt;
 
 &lt;iframe width=&#34;660&#34; height=&#34;371&#34; src=&#34;https://www.youtube.com/embed/Gd1sVPOYzuk&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
@@ -236,12 +284,12 @@ Create a file view to browse and work with directories and files.&lt;/p&gt;
     
     <item>
       <title>Big Data University- Hadoop 101</title>
-      <link>http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts/Unit_2_Hadoop_Architecture_Part1/</link>
+      <link>http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts_labs/Unit_2_Hadoop_Architecture_Part1/</link>
       <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts/Unit_2_Hadoop_Architecture_Part1/</guid>
+      <guid>http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts_labs/Unit_2_Hadoop_Architecture_Part1/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/hadoop.png&#34; alt=&#34;Hadoop&#34; title=&#34;Hadoop&#34; /&gt;&lt;br&gt;
-&lt;a href=&#34;http://andrewrgoss.com/2016/big-data-university--hadoop-101/&#34;&gt;Big Data University- Hadoop 101&lt;/a&gt; &amp;gt;&amp;gt; &lt;a href=&#34;http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts&#34;&gt;Lesson Transcripts&lt;/a&gt; &amp;gt;&amp;gt; &lt;b&gt;Unit_2_Hadoop_Architecture_Part1&lt;/b&gt;
+&lt;a href=&#34;http://andrewrgoss.com/2016/big-data-university--hadoop-101/&#34;&gt;Big Data University- Hadoop 101&lt;/a&gt; &amp;gt;&amp;gt; &lt;a href=&#34;http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts_labs&#34;&gt;Lesson Transcripts/Labs&lt;/a&gt; &amp;gt;&amp;gt; &lt;b&gt;Unit_2_Hadoop_Architecture_Part1&lt;/b&gt;
 &lt;hr&gt;&lt;/p&gt;
 
 &lt;iframe width=&#34;660&#34; height=&#34;371&#34; src=&#34;https://www.youtube.com/embed/8AtrYcqO5ho&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
@@ -357,12 +405,12 @@ or reduce task. It communicates with the JobTracker and reads blocks from DataNo
     
     <item>
       <title>Big Data University- Hadoop 101</title>
-      <link>http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts/Unit_2_Hadoop_Architecture_Part2/</link>
+      <link>http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts_labs/Unit_2_Hadoop_Architecture_Part2/</link>
       <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts/Unit_2_Hadoop_Architecture_Part2/</guid>
+      <guid>http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts_labs/Unit_2_Hadoop_Architecture_Part2/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/hadoop.png&#34; alt=&#34;Hadoop&#34; title=&#34;Hadoop&#34; /&gt;&lt;br&gt;
-&lt;a href=&#34;http://andrewrgoss.com/2016/big-data-university--hadoop-101/&#34;&gt;Big Data University- Hadoop 101&lt;/a&gt; &amp;gt;&amp;gt; &lt;a href=&#34;http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts&#34;&gt;Lesson Transcripts&lt;/a&gt; &amp;gt;&amp;gt; &lt;b&gt;Unit_2_Hadoop_Architecture_Part2&lt;/b&gt;
+&lt;a href=&#34;http://andrewrgoss.com/2016/big-data-university--hadoop-101/&#34;&gt;Big Data University- Hadoop 101&lt;/a&gt; &amp;gt;&amp;gt; &lt;a href=&#34;http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts_labs&#34;&gt;Lesson Transcripts/Labs&lt;/a&gt; &amp;gt;&amp;gt; &lt;b&gt;Unit_2_Hadoop_Architecture_Part2&lt;/b&gt;
 &lt;hr&gt;&lt;/p&gt;
 
 &lt;iframe width=&#34;660&#34; height=&#34;371&#34; src=&#34;https://www.youtube.com/embed/iJmJhxIsmb8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
@@ -441,34 +489,6 @@ by default, there is a replica on at least two racks. When the client is done wr
 to the DataNode pipeline and has received acknowledgements, it tells the NameNode that
 the write has completed. The NameNode then checks that the blocks are at least minimally
 replicated before responding.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Big Data University- Hadoop 101</title>
-      <link>http://andrewrgoss.com/2016/big-data-university--hadoop-101/</link>
-      <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.com/2016/big-data-university--hadoop-101/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/hadoop.png&#34; alt=&#34;Hadoop&#34; title=&#34;Hadoop&#34; /&gt;&lt;br&gt;
-&lt;b&gt;Course Code&lt;/b&gt;: BD0111EN&lt;br&gt;
-&lt;a href=&#34;https://bigdatauniversity.com/courses/introduction-to-hadoop&#34; target=&#34;_blank&#34;&gt;Course Link&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://my.imdemocloud.com&#34; target=&#34;_blank&#34;&gt;IBM Analytics Demo Cloud&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts&#34;&gt;Lesson Transcripts&lt;/a&gt;
-&lt;hr&gt;
-Reinforcing some of the basics of Apache Hadoop, a free, open source, Java-based programming framework. Topics in this course include:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Hadoop&amp;rsquo;s architecture and core components, such as MapReduce and the Hadoop Distributed File System (HDFS).&lt;/li&gt;
-&lt;li&gt;Adding/removing nodes from Hadoop clusters, how to check available disk space on each node, and how to modify configuration parameters.&lt;/li&gt;
-&lt;li&gt;Other Apache projects that are part of the Hadoop ecosystem, including Pig, Hive, HBase, ZooKeeper, Oozie, Sqoop, Flume, among others.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The course provides an IBM cloud sandbox environment to perform lab exercises, such as using the HDFS command line:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/page/big_data_university_hadoop_101/hdfs_command_line.png&#34; alt=&#34;HDFS Command Line&#34; title=&#34;HDFS Command Line&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://bigdatauniversity.com/courses/introduction-to-hadoop&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View course&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -685,36 +705,6 @@ I&amp;rsquo;ve started using Python more for work and took this course to streng
 # Push source and build repos.
 git push origin master
 &lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Open Data Science Conference East</title>
-      <link>http://andrewrgoss.com/2016/open-data-science-conference-east/</link>
-      <pubDate>Fri, 20 May 2016 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.com/2016/open-data-science-conference-east/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.odsc.com/boston&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/odsc.png&#34; alt=&#34;Open Data Science Conference&#34; title=&#34;Open Data Science Conference&#34; /&gt;&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;In May 2016 I attended my first &lt;a href=&#34;https://www.odsc.com&#34; target=&#34;_blank&#34;&gt;Open Data Science Conference&lt;/a&gt; in Boston. There were some 3,000+ data science practioners that came together at the Boston Convention &amp;amp; Exhibition Center to share ideas about this rapidly changing discipline. The following topics were covered throughout the conference:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Deep Learning&lt;/li&gt;
-&lt;li&gt;Machine Learning&lt;/li&gt;
-&lt;li&gt;Predictive Analytics&lt;/li&gt;
-&lt;li&gt;Python&lt;/li&gt;
-&lt;li&gt;Stan&lt;/li&gt;
-&lt;li&gt;R&lt;/li&gt;
-&lt;li&gt;Julia&lt;/li&gt;
-&lt;li&gt;Hadoop&lt;/li&gt;
-&lt;li&gt;Spark&lt;/li&gt;
-&lt;li&gt;Scikit-learn&lt;/li&gt;
-&lt;li&gt;Natural Language Processing&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I attended sessions on popular data science statistical models and using Python for data science, where we worked through &lt;a href=&#34;https://github.com/brianbelljr/fantasy_football/blob/master/football.ipynb&#34; target=&#34;_blank&#34;&gt;this example&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The workshop materials from the conference are available on &lt;a href=&#34;https://www.opendatascience.com/category/conferences&#34; target=&#34;_blank&#34;&gt;opendatascience.com&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

@@ -8,8 +8,36 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Wed, 09 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Jan 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://andrewrgoss.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Big Data University- Hadoop 101</title>
+      <link>http://andrewrgoss.com/2017/big-data-university--hadoop-101/</link>
+      <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.com/2017/big-data-university--hadoop-101/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/hadoop.png&#34; alt=&#34;Hadoop&#34; title=&#34;Hadoop&#34; /&gt;&lt;br&gt;
+&lt;b&gt;Course Code&lt;/b&gt;: BD0111EN&lt;br&gt;
+&lt;a href=&#34;https://bigdatauniversity.com/courses/introduction-to-hadoop&#34; target=&#34;_blank&#34;&gt;Course Link&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://my.imdemocloud.com&#34; target=&#34;_blank&#34;&gt;IBM Analytics Demo Cloud&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts_labs&#34;&gt;Lesson Transcripts/Labs&lt;/a&gt;
+&lt;hr&gt;
+Reinforcing some of the basics of Apache Hadoop, a free, open source, Java-based programming framework. Topics in this course include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Hadoop&amp;rsquo;s architecture and core components, such as MapReduce and the Hadoop Distributed File System (HDFS).&lt;/li&gt;
+&lt;li&gt;Adding/removing nodes from Hadoop clusters, how to check available disk space on each node, and how to modify configuration parameters.&lt;/li&gt;
+&lt;li&gt;Other Apache projects that are part of the Hadoop ecosystem, including Pig, Hive, HBase, ZooKeeper, Oozie, Sqoop, Flume, among others.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The course provides an IBM cloud sandbox environment to perform lab exercises, such as using the HDFS command line:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/page/big_data_university_hadoop_101/hdfs_command_line.png&#34; alt=&#34;HDFS Command Line&#34; title=&#34;HDFS Command Line&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://bigdatauniversity.com/courses/introduction-to-hadoop&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View course&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The Data Science Industry: Who Does What</title>
@@ -62,34 +90,6 @@ Working on furthering my Python skills in the following areas:&lt;/p&gt;
 &lt;p&gt;21% - &lt;font color=&#34;green&#34;&gt;IN PROGRESS&lt;/font&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-python-data_structs-algorithms&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Big Data University- Hadoop 101</title>
-      <link>http://andrewrgoss.com/2016/big-data-university--hadoop-101/</link>
-      <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.com/2016/big-data-university--hadoop-101/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/hadoop.png&#34; alt=&#34;Hadoop&#34; title=&#34;Hadoop&#34; /&gt;&lt;br&gt;
-&lt;b&gt;Course Code&lt;/b&gt;: BD0111EN&lt;br&gt;
-&lt;a href=&#34;https://bigdatauniversity.com/courses/introduction-to-hadoop&#34; target=&#34;_blank&#34;&gt;Course Link&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://my.imdemocloud.com&#34; target=&#34;_blank&#34;&gt;IBM Analytics Demo Cloud&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://andrewrgoss.com/page/big_data_university_hadoop_101/lesson_transcripts&#34;&gt;Lesson Transcripts&lt;/a&gt;
-&lt;hr&gt;
-Reinforcing some of the basics of Apache Hadoop, a free, open source, Java-based programming framework. Topics in this course include:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Hadoop&amp;rsquo;s architecture and core components, such as MapReduce and the Hadoop Distributed File System (HDFS).&lt;/li&gt;
-&lt;li&gt;Adding/removing nodes from Hadoop clusters, how to check available disk space on each node, and how to modify configuration parameters.&lt;/li&gt;
-&lt;li&gt;Other Apache projects that are part of the Hadoop ecosystem, including Pig, Hive, HBase, ZooKeeper, Oozie, Sqoop, Flume, among others.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The course provides an IBM cloud sandbox environment to perform lab exercises, such as using the HDFS command line:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/page/big_data_university_hadoop_101/hdfs_command_line.png&#34; alt=&#34;HDFS Command Line&#34; title=&#34;HDFS Command Line&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://bigdatauniversity.com/courses/introduction-to-hadoop&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View course&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
