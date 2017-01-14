@@ -26,13 +26,13 @@
         <meta property="og:site_name" content="Data Engineer | Tech Consultant | BI Developer in Boston" />
         <meta property="og:locale " content="en-us" />
         
-        <meta property="og:url" content="http://andrewrgoss.com/2017/big-data-university--hadoop-101/" />
-        <meta name="twitter:url" content="http://andrewrgoss.com/2017/big-data-university--hadoop-101/" />
-        <link rel="canonical" href="http://andrewrgoss.com/2017/big-data-university--hadoop-101/" />
+        <meta property="og:url" content="http://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_2_Hadoop_Architecture_Part1/" />
+        <meta name="twitter:url" content="http://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_2_Hadoop_Architecture_Part1/" />
+        <link rel="canonical" href="http://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_2_Hadoop_Architecture_Part1/" />
         
-        <meta name="description" content="Course Code: BD0111EN Course Link IBM Analytics Demo Cloud Lesson Transcripts/Labs Reinforcing some of the basics of Apache Hadoop, a free, open source, Java-based programming framework. Topics in this course include: Hadoop&rsquo;s architecture and core components, such as MapReduce and the Hadoop Distributed File System (HDFS). Adding/removing nodes from Hadoop clusters, how to check available disk space on each node, and how to modify configuration parameters. Other Apache projects that are part of the Hadoop ecosystem, including Pig, Hive, HBase, ZooKeeper, Oozie, Sqoop, Flume, among others." />
-        <meta name="twitter:description" content="Course Code: BD0111EN Course Link IBM Analytics Demo Cloud Lesson Transcripts/Labs Reinforcing some of the basics of Apache Hadoop, a free, open source, Java-based programming framework. Topics in this course include: Hadoop&rsquo;s architecture and core components, such as MapReduce and the Hadoop Distributed File System (HDFS). Adding/removing nodes from Hadoop clusters, how to check available disk space on each node, and how to modify configuration parameters. Other Apache projects that are part of the Hadoop ecosystem, including Pig, Hive, HBase, ZooKeeper, Oozie, Sqoop, Flume, among others." />
-        <meta property="og:description" content="Course Code: BD0111EN Course Link IBM Analytics Demo Cloud Lesson Transcripts/Labs Reinforcing some of the basics of Apache Hadoop, a free, open source, Java-based programming framework. Topics in this course include: Hadoop&rsquo;s architecture and core components, such as MapReduce and the Hadoop Distributed File System (HDFS). Adding/removing nodes from Hadoop clusters, how to check available disk space on each node, and how to modify configuration parameters. Other Apache projects that are part of the Hadoop ecosystem, including Pig, Hive, HBase, ZooKeeper, Oozie, Sqoop, Flume, among others." />
+        <meta name="description" content="Big Data University- Hadoop 101 &gt;&gt; Lesson Transcripts/Labs &gt;&gt; Unit_2_Hadoop_Architecture_Part1 Welcome to the unit of Hadoop Fundamentals on Hadoop architecture. I will begin with a terminology review and then cover the major components of Hadoop. We will see what types of nodes can exist in a Hadoop cluster and talk about how Hadoop uses replication to lessen data loss. Finally I will explain an important feature of Hadoop called &ldquo;rack awareness&rdquo; or &ldquo;network topology awareness&rdquo;." />
+        <meta name="twitter:description" content="Big Data University- Hadoop 101 &gt;&gt; Lesson Transcripts/Labs &gt;&gt; Unit_2_Hadoop_Architecture_Part1 Welcome to the unit of Hadoop Fundamentals on Hadoop architecture. I will begin with a terminology review and then cover the major components of Hadoop. We will see what types of nodes can exist in a Hadoop cluster and talk about how Hadoop uses replication to lessen data loss. Finally I will explain an important feature of Hadoop called &ldquo;rack awareness&rdquo; or &ldquo;network topology awareness&rdquo;." />
+        <meta property="og:description" content="Big Data University- Hadoop 101 &gt;&gt; Lesson Transcripts/Labs &gt;&gt; Unit_2_Hadoop_Architecture_Part1 Welcome to the unit of Hadoop Fundamentals on Hadoop architecture. I will begin with a terminology review and then cover the major components of Hadoop. We will see what types of nodes can exist in a Hadoop cluster and talk about how Hadoop uses replication to lessen data loss. Finally I will explain an important feature of Hadoop called &ldquo;rack awareness&rdquo; or &ldquo;network topology awareness&rdquo;." />
         
         <meta name="twitter:site" content="@Andrewrgoss" />
         <meta name="twitter:creator" content="@Andrewrgoss" />
@@ -44,8 +44,8 @@
         
         
         <meta property="og:type" content="article" />
-        <meta property="og:article:published_time" content="Jan 2017" />
-        <meta property="og:article:section" content="post" />
+        <meta property="og:article:published_time" content="Oct 2016" />
+        <meta property="og:article:section" content="2017" />
         <meta property="og:article:author" content="http://andrewrgoss.com/about/" />
         
         <script type="application/ld+json">
@@ -66,12 +66,12 @@
 		"https://github.com/andrewrgoss"
 	]
                 },
-                "datePublished": "Jan 2017",
-                "description": "Course Code: BD0111EN Course Link IBM Analytics Demo Cloud Lesson Transcripts\/Labs Reinforcing some of the basics of Apache Hadoop, a free, open source, Java-based programming framework. Topics in this course include: Hadoop\x26rsquo;s architecture and core components, such as MapReduce and the Hadoop Distributed File System (HDFS). Adding\/removing nodes from Hadoop clusters, how to check available disk space on each node, and how to modify configuration parameters. Other Apache projects that are part of the Hadoop ecosystem, including Pig, Hive, HBase, ZooKeeper, Oozie, Sqoop, Flume, among others.",
-                "wordCount":  107 ,
-                "articleSection": "post",
-                "timeRequired": "0:1:0",
-                "url": "http:\/\/andrewrgoss.com\/2017\/big-data-university--hadoop-101\/"
+                "datePublished": "Oct 2016",
+                "description": "Big Data University- Hadoop 101 \x26gt;\x26gt; Lesson Transcripts\/Labs \x26gt;\x26gt; Unit_2_Hadoop_Architecture_Part1 Welcome to the unit of Hadoop Fundamentals on Hadoop architecture. I will begin with a terminology review and then cover the major components of Hadoop. We will see what types of nodes can exist in a Hadoop cluster and talk about how Hadoop uses replication to lessen data loss. Finally I will explain an important feature of Hadoop called \x26ldquo;rack awareness\x26rdquo; or \x26ldquo;network topology awareness\x26rdquo;.",
+                "wordCount":  1325 ,
+                "articleSection": "2017",
+                "timeRequired": "0:7:0",
+                "url": "http:\/\/andrewrgoss.com\/2017\/big-data-university--hadoop-101\/lesson_transcripts_labs\/Unit_2_Hadoop_Architecture_Part1\/"
             }
         </script>
         
@@ -778,42 +778,128 @@ footer a:hover
         </header>
 <main id="content">
 
-<article class="post">
+<article class="2017">
     <div class="post-stamp">
-        <time datetime="Jan 2017">
-            Jan 2017
+        <time datetime="Oct 2016">
+            Oct 2016
         </time>
         <span class="taglist">
-        
-        &middot; 
-            
-                <a href="http://andrewrgoss.com/tags/big-data/">big data</a>
-            
-                <a href="http://andrewrgoss.com/tags/hadoop/">hadoop</a>
-            
         
         </span>
     </div>
     <h1 class="post-title">Big Data University- Hadoop 101</h1>
     <p><img src="/img/post/hadoop.png" alt="Hadoop" title="Hadoop" /><br>
-<b>Course Code</b>: BD0111EN<br>
-<a href="https://bigdatauniversity.com/courses/introduction-to-hadoop" target="_blank">Course Link</a><br>
-<a href="https://my.imdemocloud.com" target="_blank">IBM Analytics Demo Cloud</a><br>
-<a href="/2017/big-data-university--hadoop-101/lesson_transcripts_labs">Lesson Transcripts/Labs</a>
-<hr>
-Reinforcing some of the basics of Apache Hadoop, a free, open source, Java-based programming framework. Topics in this course include:</p>
+<a href="/2017/big-data-university--hadoop-101/">Big Data University- Hadoop 101</a> &gt;&gt; <a href="/2017/big-data-university--hadoop-101/lesson_transcripts_labs">Lesson Transcripts/Labs</a> &gt;&gt; <b>Unit_2_Hadoop_Architecture_Part1</b>
+<hr></p>
 
-<ul>
-<li>Hadoop&rsquo;s architecture and core components, such as MapReduce and the Hadoop Distributed File System (HDFS).</li>
-<li>Adding/removing nodes from Hadoop clusters, how to check available disk space on each node, and how to modify configuration parameters.</li>
-<li>Other Apache projects that are part of the Hadoop ecosystem, including Pig, Hive, HBase, ZooKeeper, Oozie, Sqoop, Flume, among others.</li>
-</ul>
+<iframe width="660" height="371" src="https://www.youtube.com/embed/8AtrYcqO5ho" frameborder="0" allowfullscreen></iframe>
 
-<p>The course provides an IBM cloud sandbox environment to perform lab exercises, such as using the HDFS command line:</p>
+<p>Welcome to the unit of Hadoop Fundamentals on Hadoop architecture.
+I will begin with a terminology review and then cover the major components
+of Hadoop. We will see what types of nodes can exist in a Hadoop cluster and talk about
+how Hadoop uses replication to lessen data loss. Finally I will explain an important
+feature of Hadoop called &ldquo;rack awareness&rdquo; or &ldquo;network topology awareness&rdquo;.</p>
 
-<p><img src="/img/page/big_data_university_hadoop_101/hdfs_command_line.png" alt="HDFS Command Line" title="HDFS Command Line" /></p>
+<p>Before we examine Hadoop components and architecture, let&rsquo;s review some of the
+terms that are used in this discussion. A node is simply a computer. This is typically
+non-enterprise, commodity hardware for nodes that contain data. So in this example,
+we have Node 1. Then we can add more nodes, such as Node 2, Node 3, and so on.
+This would be called a rack. A rack is a collection of 30 or 40 nodes that are
+physically stored close together and are all connected to the same network switch.
+Network bandwidth between any two nodes in the same rack is greater than bandwidth
+between two nodes on different racks. You will see later how Hadoop takes advantage
+of this fact. A Hadoop Cluster (or just cluster from
+now on) is a collection of racks.</p>
 
-<p><a href="https://bigdatauniversity.com/courses/introduction-to-hadoop" class="btn" target="_blank">View course</a></p>
+<p>Let us now examine the pre-Hadoop 2.2 architecture. Hadoop has two major components:
+- the distributed filesystem component, the main example of which is the Hadoop
+Distributed File System, though other file systems, such as IBM Spectrum Scale, are supported.
+- the MapReduce component, which is a framework for performing calculations on
+the data in the distributed file system. Pre-Hadoop 2.2 MapReduce is referred to as MapReduce
+V1 and has its own built-in resource manager and schedule. This unit covers the Hadoop
+Distributed File System and MapReduce is covered separately.</p>
+
+<p>Let&rsquo;s now examine the Hadoop distributed file system - HDFS
+HDFS runs on top of the existing file systems on each node in a Hadoop cluster. It is not
+POSIX compliant. It is designed to tolerate high component failure rate through replication
+of the data. Hadoop works best with very large files. The
+larger the file, the less time Hadoop spends seeking for the next data location
+on disk, the more time Hadoop runs at the limit of the bandwidth of your disks.
+Seeks are generally expensive operations that are useful when they only need to analyze
+a small subset of your dataset. Since Hadoop is designed to run over your entire
+dataset, it is best to minimize seeks by using large files. Hadoop is designed for
+streaming or sequential data access rather than random access. Sequential data access
+means fewer seeks, since Hadoop only seeks to the beginning of each block and begins
+reading sequentially from there. Hadoop uses blocks to store a file or parts
+of a file. This is shown in the figure.</p>
+
+<p>Let us now examine file blocks in more detail. A Hadoop block is a file on the underlying
+filesystem. Since the underlying filesystem stores files as blocks, one Hadoop block may
+consist of many blocks in the underlying file system. Blocks are large. They default to
+64 megabytes each and most systems run with block sizes of 128 megabytes or larger. Blocks
+have several advantages: Firstly, they are fixed in size. This makes
+it easy to calculate how many can fit on a disk.</p>
+
+<p>Secondly, by being made up of blocks that can be spread over multiple nodes, a file
+can be larger than any single disk in the cluster. HDFS blocks also don&rsquo;t waste space.
+If a file is not an even multiple of the block size, the block containing the remainder does
+not occupy the space of an entire block. As shown in the figure, a 450 megabyte file with
+a 128 megabyte block size consumes four blocks, but the fourth block does not consume a full
+128 megabytes. Finally, blocks fit well with replication,
+which allows HDFS to be fault tolerant and available on commodity hardware.
+As shown in the figure: Each block is replicated to multiple nodes. For example, block 1 is
+stored on node 1 and node 2. Block 2 is stored on node 1 and node 3. And block 3 is stored
+on node 2 and node 3. This allows for node failure without data loss. If node 1 crashes,
+node 2 still runs and has block 1&rsquo;s data. In this example, we are only replicating data
+across two nodes, but you can set replication to be across many more nodes by changing Hadoop&rsquo;s
+configuration or even setting the replication factor for each individual file.</p>
+
+<p><img src="/img/page/big_data_university_hadoop_101/hdfs_replication.png" alt="HDFS Replication" title="HDFS Replication" /></p>
+
+<p>The second major component of Hadoop, described in detail in another lecture, is the MapReduce
+component. HDFS was based on a paper Google published about their Google File System,
+Hadoop&rsquo;s MapReduce is inspired by a paper Google published on the MapReduce technology.
+It is designed to process huge datasets for certain kinds of distributable problems using
+a large number of nodes. A MapReduce program consists of two types of transformations that
+can be applied to data any number of times - a map transformation and a reduce transformation.
+A MapReduce job is an executing MapReduce program that is divided into map tasks that
+run in parallel with each other and reduce tasks that run in parallel with each other.
+Let us examine the main types of nodes in pre-Hadoop 2.2. They are classified as HDFS
+or MapReduce V1 nodes. For HDFS nodes we have the NameNode, and the DataNodes. For MapReduce
+V1 nodes we have the JobTracker and the TaskTracker nodes. Each of these is discussed in more
+detail later in this presentation. There are other HDFS nodes such as the Secondary NameNode,
+Checkpoint node, and Backup node that are not discussed in this course. This diagram
+shows some of the communication paths between the different types of nodes on the system.
+A client is shown as communicating with a JobTracker. It can also communicate with the
+NameNode and with any DataNode.</p>
+
+<p>There is only one NameNode in the cluster. While the data that makes up a file is stored
+in blocks at the data nodes, the metadata for a file is stored at the NameNode. The
+NameNode is also responsible for the filesystem namespace. To compensate for the fact that
+there is only one NameNode, one should configure the NameNode to write a copy of its state
+information to multiple locations, such as a local disk and an NFS mount. If there is
+one node in the cluster to spend money on the best enterprise hardware for maximum reliability,
+it is the NameNode. The NameNode should also have as much RAM as possible because it keeps
+the entire filesystem metadata in memory.</p>
+
+<p><img src="/img/page/big_data_university_hadoop_101/types_of_nodes.png" alt="Types of Nodes" title="Types of Nodes" /></p>
+
+<p>A typical HDFS cluster has many DataNodes. DataNodes store the blocks of data and blocks
+from different files can be stored on the same DataNode. When a client requests a file,
+the client finds out from the NameNode which DataNodes stored the blocks that make up that
+file and the client directly reads the blocks from the individual DataNodes. Each DataNode
+also reports to the NameNode periodically with the list of blocks it stores. DataNodes
+do not require expensive enterprise hardware or replication at the hardware layer. The
+DataNodes are designed to run on commodity hardware and replication is provided at the
+software layer.</p>
+
+<p>A JobTracker node manages MapReduce V1 jobs. There is only one of these on the cluster.
+It receives jobs submitted by clients. It schedules the Map tasks and Reduce tasks on
+the appropriate TaskTrackers, that is where the data resides, in a rack-aware manner and
+it monitors for any failing tasks that need to be rescheduled on a different
+TaskTracker. To achieve the parallelism for your map and reduce tasks, there are many
+TaskTrackers in a Hadoop cluster. Each TaskTracker spawns Java Virtual Machines to run your map
+or reduce task. It communicates with the JobTracker and reads blocks from DataNodes.</p>
 
     <div>
   <hr>
@@ -824,7 +910,7 @@ Reinforcing some of the basics of Apache Hadoop, a free, open source, Java-based
 	<div id="social-bar">
 	<ul class="rrssb-buttons clearfix">
       <li class="email">
-          <a href="mailto:?subject=Big%20Data%20University-%20Hadoop%20101&amp;body=http://andrewrgoss.com/2017/big-data-university--hadoop-101/" data-proofer-ignore>
+          <a href="mailto:?subject=Big%20Data%20University-%20Hadoop%20101&amp;body=http://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_2_Hadoop_Architecture_Part1/" data-proofer-ignore>
               <span class="icon">
                   <svg version="1.1" id="btn-mail" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="28px" height="28px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve">
                       <path transform="scale(0.014,-0.014) translate(0,-1670)" d="M1792 826v-794q0 -66 -47 -113t-113 -47h-1472q-66 0 -113 47t-47 113v794q44 -49 101 -87q362 -246 497 -345q57 -42 92.5 -65.5t94.5 -48t110 -24.5h1h1q51 0 110 24.5t94.5 48t92.5 65.5q170 123 498 345q57 39 100 87zM1792 1120q0 -79 -49 -151t-122 -123 q-376 -261 -468 -325q-10 -7 -42.5 -30.5t-54 -38t-52 -32.5t-57.5 -27t-50 -9h-1h-1q-23 0 -50 9t-57.5 27t-52 32.5t-54 38t-42.5 30.5q-91 64 -262 182.5t-205 142.5q-62 42 -117 115.5t-55 136.5q0 78 41.5 130t118.5 52h1472q65 0 112.5 -47t47.5 -113z"/>
@@ -834,7 +920,7 @@ Reinforcing some of the basics of Apache Hadoop, a free, open source, Java-based
           </a>
       </li>
 	  <li class="facebook">
-          <a href="https://www.facebook.com/sharer/sharer.php?u=http://andrewrgoss.com/2017/big-data-university--hadoop-101/" class="popup">
+          <a href="https://www.facebook.com/sharer/sharer.php?u=http://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_2_Hadoop_Architecture_Part1/" class="popup">
               <span class="icon">
                   <svg version="1.1" id="btn-fb" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="28px" height="28px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve">
                       <path d="M27.825,4.783c0-2.427-2.182-4.608-4.608-4.608H4.783c-2.422,0-4.608,2.182-4.608,4.608v18.434 c0,2.427,2.181,4.608,4.608,4.608H14V17.379h-3.379v-4.608H14v-1.795c0-3.089,2.335-5.885,5.192-5.885h3.718v4.608h-3.726 c-0.408,0-0.884,0.492-0.884,1.236v1.836h4.609v4.608h-4.609v10.446h4.916c2.422,0,4.608-2.188,4.608-4.608V4.783z"/>
@@ -844,7 +930,7 @@ Reinforcing some of the basics of Apache Hadoop, a free, open source, Java-based
           </a>
       </li>
 	  <li class="twitter">
-          <a href="http://twitter.com/home?status=Big%20Data%20University-%20Hadoop%20101%20http://andrewrgoss.com/2017/big-data-university--hadoop-101/" class="popup">
+          <a href="http://twitter.com/home?status=Big%20Data%20University-%20Hadoop%20101%20http://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_2_Hadoop_Architecture_Part1/" class="popup">
               <span class="icon">
                   <svg version="1.1" id="btn-tw" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="28px" height="28px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve">
 		                  <path d="M24.253,8.756C24.689,17.08,18.297,24.182,9.97,24.62c-3.122,0.162-6.219-0.646-8.861-2.32 c2.703,0.179,5.376-0.648,7.508-2.321c-2.072-0.247-3.818-1.661-4.489-3.638c0.801,0.128,1.62,0.076,2.399-0.155 C4.045,15.72,2.215,13.6,2.115,11.077c0.688,0.275,1.426,0.407,2.168,0.386c-2.135-1.65-2.729-4.621-1.394-6.965 C5.575,7.816,9.54,9.84,13.803,10.071c-0.842-2.739,0.694-5.64,3.434-6.482c2.018-0.623,4.212,0.044,5.546,1.683 c1.186-0.213,2.318-0.662,3.329-1.317c-0.385,1.256-1.247,2.312-2.399,2.942c1.048-0.106,2.069-0.394,3.019-0.851 C26.275,7.229,25.39,8.196,24.253,8.756z"/>
@@ -854,7 +940,7 @@ Reinforcing some of the basics of Apache Hadoop, a free, open source, Java-based
           </a>
       </li>
 	  <li class="reddit">
-          <a href="http://www.reddit.com/submit?url=http://andrewrgoss.com/2017/big-data-university--hadoop-101/">
+          <a href="http://www.reddit.com/submit?url=http://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_2_Hadoop_Architecture_Part1/">
               <span class="icon">
                   <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="28px" height="28px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve">
 											<g>
@@ -870,7 +956,7 @@ Reinforcing some of the basics of Apache Hadoop, a free, open source, Java-based
       </li>
 	  
 	  <li class="linkedin">
-          <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://andrewrgoss.com/2017/big-data-university--hadoop-101/&amp;title=Big%20Data%20University-%20Hadoop%20101&amp;summary=Course%20Code%3a%20BD0111EN%20Course%20Link%20IBM%20Analytics%20Demo%20Cloud%20Lesson%20Transcripts%2fLabs%20Reinforcing%20some%20of%20the%20basics%20of%20Apache%20Hadoop%2c%20a%20free%2c%20open%20source%2c%20Java-based%20programming%20framework.%20Topics%20in%20this%20course%20include%3a%20Hadoop%26rsquo%3bs%20architecture%20and%20core%20components%2c%20such%20as%20MapReduce%20and%20the%20Hadoop%20Distributed%20File%20System%20%28HDFS%29.%20Adding%2fremoving%20nodes%20from%20Hadoop%20clusters%2c%20how%20to%20check%20available%20disk%20space%20on%20each%20node%2c%20and%20how%20to%20modify%20configuration%20parameters.%20Other%20Apache%20projects%20that%20are%20part%20of%20the%20Hadoop%20ecosystem%2c%20including%20Pig%2c%20Hive%2c%20HBase%2c%20ZooKeeper%2c%20Oozie%2c%20Sqoop%2c%20Flume%2c%20among%20others...." class="popup">
+          <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_2_Hadoop_Architecture_Part1/&amp;title=Big%20Data%20University-%20Hadoop%20101&amp;summary=Big%20Data%20University-%20Hadoop%20101%20%26gt%3b%26gt%3b%20Lesson%20Transcripts%2fLabs%20%26gt%3b%26gt%3b%20Unit_2_Hadoop_Architecture_Part1%20Welcome%20to%20the%20unit%20of%20Hadoop%20Fundamentals%20on%20Hadoop%20architecture.%20I%20will%20begin%20with%20a%20terminology%20review%20and%20then%20cover%20the%20major%20components%20of%20Hadoop.%20We%20will%20see%20what%20types%20of%20nodes%20can%20exist%20in%20a%20Hadoop%20cluster%20and%20talk%20about%20how%20Hadoop%20uses%20replication%20to%20lessen%20data%20loss.%20Finally%20I%20will%20explain%20an%20important%20feature%20of%20Hadoop%20called%20%26ldquo%3brack%20awareness%26rdquo%3b%20or%20%26ldquo%3bnetwork%20topology%20awareness%26rdquo%3b...." class="popup">
               <span class="icon">
                   <svg version="1.1" id="btn-li" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="28px" height="28px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve">
                       <path d="M25.424,15.887v8.447h-4.896v-7.882c0-1.979-0.709-3.331-2.48-3.331c-1.354,0-2.158,0.911-2.514,1.803 c-0.129,0.315-0.162,0.753-0.162,1.194v8.216h-4.899c0,0,0.066-13.349,0-14.731h4.899v2.088c-0.01,0.016-0.023,0.032-0.033,0.048 h0.033V11.69c0.65-1.002,1.812-2.435,4.414-2.435C23.008,9.254,25.424,11.361,25.424,15.887z M5.348,2.501 c-1.676,0-2.772,1.092-2.772,2.539c0,1.421,1.066,2.538,2.717,2.546h0.032c1.709,0,2.771-1.132,2.771-2.546 C8.054,3.593,7.019,2.501,5.343,2.501H5.348z M2.867,24.334h4.897V9.603H2.867V24.334z"/>
