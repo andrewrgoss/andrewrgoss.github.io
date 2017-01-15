@@ -225,7 +225,7 @@ Working on furthering my Python skills in the following areas:&lt;/p&gt;
 
 &lt;iframe width=&#34;660&#34; height=&#34;371&#34; src=&#34;https://www.youtube.com/embed/35ZKvSjAoSo&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://andrewrgoss.com/img/page/big_data_university_hadoop_101/Unit_2_HANDS-ON_LAB_HADOOP_ARCHITECTURE.pdf&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;Lab exercises&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://andrewrgoss.com/img/2017/big-data-university--hadoop-101/Unit_2_HANDS-ON_LAB_HADOOP_ARCHITECTURE.pdf&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;Lab exercises&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -358,7 +358,7 @@ node 2 still runs and has block 1&amp;rsquo;s data. In this example, we are only
 across two nodes, but you can set replication to be across many more nodes by changing Hadoop&amp;rsquo;s
 configuration or even setting the replication factor for each individual file.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/page/big_data_university_hadoop_101/hdfs_replication.png&#34; alt=&#34;HDFS Replication&#34; title=&#34;HDFS Replication&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/2017/big-data-university--hadoop-101/hdfs_replication.png&#34; alt=&#34;HDFS Replication&#34; title=&#34;HDFS Replication&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The second major component of Hadoop, described in detail in another lecture, is the MapReduce
 component. HDFS was based on a paper Google published about their Google File System,
@@ -386,7 +386,7 @@ one node in the cluster to spend money on the best enterprise hardware for maxim
 it is the NameNode. The NameNode should also have as much RAM as possible because it keeps
 the entire filesystem metadata in memory.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/page/big_data_university_hadoop_101/types_of_nodes.png&#34; alt=&#34;Types of Nodes&#34; title=&#34;Types of Nodes&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/2017/big-data-university--hadoop-101/types_of_nodes.png&#34; alt=&#34;Types of Nodes&#34; title=&#34;Types of Nodes&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;A typical HDFS cluster has many DataNodes. DataNodes store the blocks of data and blocks
 from different files can be stored on the same DataNode. When a client requests a file,
@@ -431,7 +431,7 @@ still supported.&lt;/p&gt;
 &lt;p&gt;There are two main ideas with YARN. Provide generic scheduling and resource management. This way Hadoop can support more than just
 MapReduce. The other is to try to provide a more efficient scheduling and workload management.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/page/big_data_university_hadoop_101/yarn.png&#34; alt=&#34;YARN&#34; title=&#34;YARN&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/2017/big-data-university--hadoop-101/yarn.png&#34; alt=&#34;YARN&#34; title=&#34;YARN&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;With MapReduce V1, the administrator had to define how many
 map slots and how many reduce slots there were on each node. Since the hardware capabilities
@@ -462,7 +462,7 @@ that has blocks on DataNode 1 and DataNode 2 might be owned by NameNode 1. NameN
 might own a file that has blocks on DataNode 2 and DataNode 3. And NameNode 3 might have
 a file with blocks on all three DataNodes.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/page/big_data_university_hadoop_101/hadoop_federation.png&#34; alt=&#34;Hadoop Federation&#34; title=&#34;Hadoop Federation&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/2017/big-data-university--hadoop-101/hadoop_federation.png&#34; alt=&#34;Hadoop Federation&#34; title=&#34;Hadoop Federation&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Hadoop has awareness of the topology of the network. This allows it to optimize where
 it sends the computations to be applied to the data. Placing the work as close as possible
