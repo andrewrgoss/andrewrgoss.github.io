@@ -8,13 +8,13 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Tue, 18 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Jan 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://andrewrgoss.com/2017/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Big Data University- Hadoop 101</title>
       <link>http://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/</link>
-      <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>http://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/hadoop.png&#34; alt=&#34;Hadoop&#34; title=&#34;Hadoop&#34; /&gt;&lt;br&gt;
@@ -32,18 +32,22 @@
 
 &lt;p&gt;&lt;a href=&#34;http://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_2_HDFS_Command_Line&#34;&gt;Unit_2 &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash; HDFS_Command_Line&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_2_HANDS-ON_LAB_HADOOP_ARCHITECTURE&#34;&gt;Unit_2 &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash; HANDS-ON_LAB_HADOOP_ARCHITECTURE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_2_Hadoop_Architecture_Lab&#34;&gt;Unit_2 &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash; Hadoop_Architecture_Lab&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_3_Hadoop_Administration&#34;&gt;Unit_3 &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash; Hadoop_Administration&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_4_MapReduce&#34;&gt;Unit_4 &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash; MapReduce&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Big Data University- Hadoop 101</title>
       <link>http://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_1_What_is_Hadoop_Part1/</link>
-      <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>http://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_1_What_is_Hadoop_Part1/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/hadoop.png&#34; alt=&#34;Hadoop&#34; title=&#34;Hadoop&#34; /&gt;&lt;br&gt;
@@ -83,7 +87,7 @@
     <item>
       <title>Big Data University- Hadoop 101</title>
       <link>http://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_1_What_is_Hadoop_Part2/</link>
-      <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>http://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_1_What_is_Hadoop_Part2/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/hadoop.png&#34; alt=&#34;Hadoop&#34; title=&#34;Hadoop&#34; /&gt;&lt;br&gt;
@@ -133,24 +137,8 @@
     
     <item>
       <title>Big Data University- Hadoop 101</title>
-      <link>http://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_2_HANDS-ON_LAB_HADOOP_ARCHITECTURE/</link>
-      <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_2_HANDS-ON_LAB_HADOOP_ARCHITECTURE/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/hadoop.png&#34; alt=&#34;Hadoop&#34; title=&#34;Hadoop&#34; /&gt;&lt;br&gt;
-&lt;a href=&#34;http://andrewrgoss.com/2017/big-data-university--hadoop-101/&#34;&gt;Big Data University- Hadoop 101&lt;/a&gt; &amp;gt;&amp;gt; &lt;a href=&#34;http://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs&#34;&gt;Lesson Transcripts/Labs&lt;/a&gt; &amp;gt;&amp;gt; &lt;b&gt;Unit_2_HANDS-ON_LAB_HADOOP_ARCHITECTURE&lt;/b&gt;
-&lt;hr&gt;&lt;/p&gt;
-
-&lt;iframe width=&#34;660&#34; height=&#34;371&#34; src=&#34;https://www.youtube.com/embed/35ZKvSjAoSo&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://andrewrgoss.com/img/2017/big-data-university--hadoop-101/Unit_2_HANDS-ON_LAB_HADOOP_ARCHITECTURE.pdf&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;Lab exercises&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Big Data University- Hadoop 101</title>
       <link>http://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_2_HDFS_Command_Line/</link>
-      <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>http://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_2_HDFS_Command_Line/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/hadoop.png&#34; alt=&#34;Hadoop&#34; title=&#34;Hadoop&#34; /&gt;&lt;br&gt;
@@ -206,8 +194,24 @@ Create a file view to browse and work with directories and files.&lt;/p&gt;
     
     <item>
       <title>Big Data University- Hadoop 101</title>
+      <link>http://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_2_Hadoop_Architecture_Lab/</link>
+      <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_2_Hadoop_Architecture_Lab/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/hadoop.png&#34; alt=&#34;Hadoop&#34; title=&#34;Hadoop&#34; /&gt;&lt;br&gt;
+&lt;a href=&#34;http://andrewrgoss.com/2017/big-data-university--hadoop-101/&#34;&gt;Big Data University- Hadoop 101&lt;/a&gt; &amp;gt;&amp;gt; &lt;a href=&#34;http://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs&#34;&gt;Lesson Transcripts/Labs&lt;/a&gt; &amp;gt;&amp;gt; &lt;b&gt;Unit_2_Hadoop_Architecture_Lab&lt;/b&gt;
+&lt;hr&gt;&lt;/p&gt;
+
+&lt;iframe width=&#34;660&#34; height=&#34;371&#34; src=&#34;https://www.youtube.com/embed/35ZKvSjAoSo&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://andrewrgoss.com/img/2017/big-data-university--hadoop-101/Unit_2_Hadoop_Architecture_Lab.pdf&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;Lab exercises&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Big Data University- Hadoop 101</title>
       <link>http://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_2_Hadoop_Architecture_Part1/</link>
-      <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>http://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_2_Hadoop_Architecture_Part1/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/hadoop.png&#34; alt=&#34;Hadoop&#34; title=&#34;Hadoop&#34; /&gt;&lt;br&gt;
@@ -328,7 +332,7 @@ or reduce task. It communicates with the JobTracker and reads blocks from DataNo
     <item>
       <title>Big Data University- Hadoop 101</title>
       <link>http://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_2_Hadoop_Architecture_Part2/</link>
-      <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>http://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_2_Hadoop_Architecture_Part2/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/hadoop.png&#34; alt=&#34;Hadoop&#34; title=&#34;Hadoop&#34; /&gt;&lt;br&gt;
@@ -417,7 +421,7 @@ replicated before responding.&lt;/p&gt;
     <item>
       <title>Big Data University- Hadoop 101</title>
       <link>http://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_3_Hadoop_Administration/</link>
-      <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>http://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_3_Hadoop_Administration/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/hadoop.png&#34; alt=&#34;Hadoop&#34; title=&#34;Hadoop&#34; /&gt;&lt;br&gt;
@@ -511,6 +515,85 @@ To make Hadoop aware of the clusters topology, you code a script that receives a
 one or more ip addresses of nodes in the cluster. The script returns on stdout, a list of rack
 names, one for each input value. Then you update core-site.xml and modify the topology.script.file.name
 property to point to your script.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Big Data University- Hadoop 101</title>
+      <link>http://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_4_MapReduce/</link>
+      <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_4_MapReduce/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/hadoop.png&#34; alt=&#34;Hadoop&#34; title=&#34;Hadoop&#34; /&gt;&lt;br&gt;
+&lt;a href=&#34;http://andrewrgoss.com/2017/big-data-university--hadoop-101/&#34;&gt;Big Data University- Hadoop 101&lt;/a&gt; &amp;gt;&amp;gt; &lt;a href=&#34;http://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs&#34;&gt;Lesson Transcripts/Labs&lt;/a&gt; &amp;gt;&amp;gt; &lt;b&gt;Unit_4_MapReduce&lt;/b&gt;
+&lt;hr&gt;&lt;/p&gt;
+
+&lt;iframe width=&#34;660&#34; height=&#34;371&#34; src=&#34;https://www.youtube.com/embed/sVrSx4zt8ho&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Welcome to Hadoop Fundamentals, Hadoop Components. In this unit I will discuss the MapReduce
+Philosophy, describe the usage of Pig and Hive, talk about how to get data into Hadoop
+through the use of Flume and Sqoop and finally describe how to schedule and control job execution
+using Oozie.&lt;/p&gt;
+
+&lt;p&gt;First I need to set the boundaries for this unit. The components presented in this unit
+are done so at a very high level. The Hadoop environment is littered with a number of open
+source components with funny sounding names. And to some people, it is difficult to understand
+their usage. This unit is merely an attempt to provide you with descriptions of some of
+these components. If you are interested in getting more detail about each of the components
+covered in this unit, then I would direct you to the other Big Data University courses
+that are specific to these components.&lt;/p&gt;
+
+&lt;p&gt;Let us take a look at MapReduce. MapReduce is designed to process very large datasets for
+certain types of distributable problems.
+It attempts to spread the work across a large number of nodes and allows those nodes to
+process the data in parallel. You cannot have dependencies within the data, meaning that
+you cannot have a requirement that one record in a dataset must be processed before another.
+Results from the initial parallel processing are sent to additional nodes where the data
+is combined to allow for further reductions of the data.&lt;/p&gt;
+
+&lt;p&gt;Now let&amp;rsquo;s take a look at how the map and reduce operations working sequence on your
+data to produce the final output. In this case, we will have a job with a single map
+step and a single reduce step. The first step is the map step. It takes a subset of the
+full dataset called an input split and applies to each row in the input split an operation
+that you have written, such as parsing each character string.
+The output data is buffered in memory and spills to disk.
+It is sorted and partitioned by key using the default partitioner.
+A merge sort sorts each partition. There may be multiple map operations running
+in parallel with each other, each one processing a different input split.
+The partitions are shuffled among the reducers. For example, partition 1 goes to reducer 1.
+The second map task also sends its partition 1 to reducer 1.
+Partition 2 goes to another reducer.
+Additional map tasks would act in the same way.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/2017/big-data-university--hadoop-101/mapreduce_distributed_mergesort_engine.png&#34; alt=&#34;MapReduce - Distributed Mergesort Engine&#34; title=&#34;MapReduce - Distributed Mergesort Engine&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Each reducer does its own merge steps and executes the code of your reduce task.
+For example, it could do a sum on the number of occurrences of a particular character string.
+This produces sorted output at each reducer. The data that flows into and out of the mappers
+and reducers takes a specific form. Data enters Hadoop in unstructured form but before it
+gets to the first mapper, Hadoop has changed it into key-value pairs
+with Hadoop supplying its own key. The mapper produces a list of key value pairs.
+Both the key and the value may change from the k1 and v1 that it came in as to a k2 and v2.
+There can now be duplicate keys coming out of the mappers. The shuffle step will take
+care of grouping them together. The output of the shuffle is the input to the reducer
+step. Now, we still have a list of the v2&amp;rsquo;s that came out of the mapper step, but they
+are grouped by their keys and there is no longer more than one record with the same
+key. Finally, coming out of the reducer is, potentially, an entirely new key and value,
+k3 and v3. For example, if your reducer summed the values associated with each k2, your k3
+would be equal to k2 and your v3 would be the sum of the list of v2s.&lt;/p&gt;
+
+&lt;p&gt;Let us look at an example of a simple data flow. Say we want to transform the input on
+the left to the output on the right. On the left, we just have letters. On the right,
+we have counts of the number of occurrences of each letter in the input.
+Hadoop does the first step for us. It turns the input data into key-value pairs and supplies
+its own key: a increasing sequence number. The function we write for the mapper needs
+to take these key-value pairs and produce something that the reduce step can use to
+count occurrences. The simplest solution is make each letter a key and make every value
+a 1. The shuffle groups records having the same
+key together, so we see B now has two values, both 1, associated with it.
+The reduce is simple: it just sums the values it is given to produce a sum for each key.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/2017/big-data-university--hadoop-101/mapreduce_simple_dataflow_example.png&#34; alt=&#34;MapReduce - Simple Data Flow Example&#34; title=&#34;MapReduce - Simple Data Flow Example&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
