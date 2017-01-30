@@ -21,6 +21,7 @@
 
 &lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/hadoop.png&#34; alt=&#34;Hadoop&#34; title=&#34;Hadoop&#34; /&gt;&lt;br&gt;
 &lt;b&gt;Course Code&lt;/b&gt;: BD0111EN&lt;br&gt;
+&lt;a href=&#34;https://courses.bigdatauniversity.com/certificates/32dd5caed6994df9a872c70bf6efb7e8&#34; target=&#34;_blank&#34;&gt;Course Certificate&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;https://bigdatauniversity.com/courses/introduction-to-hadoop&#34; target=&#34;_blank&#34;&gt;Course Link&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;https://my.imdemocloud.com&#34; target=&#34;_blank&#34;&gt;IBM Analytics Demo Cloud&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;http://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs&#34;&gt;Lesson Transcripts/Labs&lt;/a&gt;
@@ -33,17 +34,19 @@ My goal in taking this course was to expand upon my knowledge around Apache Hado
 &lt;li&gt;Other Apache projects that are part of the Hadoop ecosystem, including Pig, Hive, HBase, ZooKeeper, Oozie, Sqoop, Flume, among others.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;The course provides an IBM cloud sandbox environment to practice administering a Hadoop cluster and performing tasks such as adding and removing nodes. Additionally, the course provides instructions for connecting to the cloud environment via a SFTP client or a SSH client, the latter through which you can practice using the HDFS command line:&lt;/p&gt;
+&lt;p&gt;The course provides video lectures, diagrams, and an IBM cloud sandbox environment to practice administering a Hadoop cluster and performing tasks such as adding and removing nodes. Additionally, the course provides instructions for connecting to the cloud environment via a SFTP client or a SSH client, the latter through which you can practice using the HDFS command line:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/page/big_data_university_hadoop_101/hdfs_command_line.png&#34; alt=&#34;HDFS Command Line&#34; title=&#34;HDFS Command Line&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/2017/big-data-university--hadoop-101/hdfs_command_line.png&#34; alt=&#34;HDFS Command Line&#34; title=&#34;HDFS Command Line&#34; /&gt;&lt;/p&gt;
 
 &lt;hr&gt;
 
 &lt;h5 id=&#34;course-progress:8867589f317da4ba51ec6005579cfef2&#34;&gt;Course Progress&lt;/h5&gt;
 
-&lt;progress max=&#34;1.0&#34; value=&#34;0.75&#34;&gt;&lt;/progress&gt;
+&lt;progress max=&#34;1.0&#34; value=&#34;1.0&#34;&gt;&lt;/progress&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://bigdatauniversity.com/courses/introduction-to-hadoop&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View course&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;100% - completed 01/30/17.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://courses.bigdatauniversity.com/certificates/32dd5caed6994df9a872c70bf6efb7e8&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View completion certificate&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

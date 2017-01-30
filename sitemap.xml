@@ -48,7 +48,17 @@
   </url>
   
   <url>
+    <loc>http://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_4_Flume_Sqoop_Oozie/</loc>
+    <lastmod>2017-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_4_MapReduce/</loc>
+    <lastmod>2017-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_4_Pig_Hive/</loc>
     <lastmod>2017-01-07T00:00:00+00:00</lastmod>
   </url>
   
