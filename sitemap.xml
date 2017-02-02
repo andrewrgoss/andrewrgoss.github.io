@@ -3,8 +3,23 @@
   
   <url>
     <loc>http://andrewrgoss.com/</loc>
-    <lastmod>2017-01-07T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://andrewrgoss.com/2017/the-rise-of-the-data-engineer/</loc>
+    <lastmod>2017-02-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://andrewrgoss.com/2017/we-need-both-data-scientists--data-engineers/</loc>
+    <lastmod>2017-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://andrewrgoss.com/2017/data-engineers-vs.-data-scientists/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>

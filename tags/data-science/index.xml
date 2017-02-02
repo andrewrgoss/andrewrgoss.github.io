@@ -8,8 +8,82 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Wed, 09 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Feb 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://andrewrgoss.com/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>We Need Both Data Scientists &amp; Data Engineers</title>
+      <link>http://andrewrgoss.com/2017/we-need-both-data-scientists--data-engineers/</link>
+      <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.com/2017/we-need-both-data-scientists--data-engineers/</guid>
+      <description>
+
+&lt;p&gt;&lt;sub&gt;&lt;i&gt;written by Neeraj Chadha&lt;/i&gt;&lt;/sub&gt;&lt;/p&gt;
+
+&lt;p&gt;When it comes to the medical profession, doctors get all the glory. In the world of IoT, it&amp;rsquo;s data scientists who get most of the attention and acclaim. They extract critical intelligence from big data so businesses can make informed decisions on the spot. But they don&amp;rsquo;t do their work in a vacuum. Data scientists can&amp;rsquo;t dazzle their industries without data engineers. These unheralded champions, equivalent to nurses, ensure that big data keeps flowing. As anyone who works in the medical profession will tell you, it&amp;rsquo;s the nurses who keep the hospital running.&lt;/p&gt;
+
+&lt;p&gt;What exactly do data engineers do? They work behind the scenes to design and maintain the networks and software that keep the big data pipeline operating. Like a hospital&amp;rsquo;s nursing staff, data engineers set the stage and keep it running. The roles of data scientists and data engineers can be confusing because they have some overlap. Data engineer and data scientist are not different titles for the same job, however. The two jobs require different skills and experience. Some data scientists can do data engineering. Some data engineers can do data analysis and data visualization.&lt;/p&gt;
+
+&lt;p&gt;The roles do have distinctions, however. For instance, large applications call for the skills of data engineers. Research is a primary focus of the data scientist. Like nurses, data engineers are a special breed. The best have certain personality traits that help them excel: focus, mechanical aptitude, patience and persistence. Good data engineers get down in the trenches. They want to understand how and why data pipelines work&amp;ndash;or don&amp;rsquo;t work. Data engineers need patience and persistence to set things right.&lt;/p&gt;
+
+&lt;p&gt;To do modeling, data scientists need data engineers to gather, store and process data so they can analyze it for insights. Responsible for data management, data engineers handle procedures, guidelines and standards. They develop data-management technologies and software-engineering tools. They design custom software and discover ways to recover from disasters. They improve data reliability, efficiency and quality. User-defined functions and analytics are part of a data engineer&amp;rsquo;s job, too.&lt;/p&gt;
+
+&lt;p&gt;In contrast, data scientists take a big-picture view of things and have a less nuts-and-bolts relationship with data. They handle analytic projects that arise from the needs of the business. Data scientists also take on data-mining architectures, modeling standards, reporting and data methodologies. They manage data-mining-system performance and efficiency, too.&lt;/p&gt;
+
+&lt;p&gt;Because they build and maintain the data pipelines that send information to data scientists, the work of data engineers is very valuable. They can run basic learning models if they understand algorithms. But data scientists tackle business problems that take sophisticated machine-learning algorithms. The best data scientists adapt machine-learning models to meet the changing requirements of the business or agency.&lt;/p&gt;
+
+&lt;h3 id=&#34;tools-for-tough-big-data-challenges:029588ea80b351abbdc001504769805c&#34;&gt;Tools for Tough Big Data Challenges&lt;/h3&gt;
+
+&lt;p&gt;The challenges of database integration and unstructured big data are handled by the data engineers. They must clean up that unstructured data before they pass it to anyone in the organization who needs it. Like nurses who prep patients for surgery, data engineers prepare the foundation for data scientists to work easily with data. They should know data warehousing, database design, data collection and transfer, and coding.&lt;/p&gt;
+
+&lt;p&gt;The part of the data pipeline on which data engineers are focusing on determines which tools they will use. Data engineers at the rear of the pipeline build APIs for data consumption, integrate data sets from external sources and analyze how the data is used to support business growth.&lt;/p&gt;
+
+&lt;p&gt;Although these professionals have many languages to choose from, Python is a good option. Data engineers use it to write code related to data ingestion. Python can talk to any data store, such as NoSQL and RDBMS. Data engineers may have to use big data technologies such as Hadoop and Spark to suggest improvements on the basis of how data is used.&lt;/p&gt;
+
+&lt;p&gt;Data engineers have many tools at their disposal, including the following:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Spark&lt;/li&gt;
+&lt;li&gt;NoSQL databases (e.g., Cassandra and MongoDB)&lt;/li&gt;
+&lt;li&gt;Hadoop and related tools such as HBase, Hive and Pig&lt;/li&gt;
+&lt;li&gt;Pentaho&lt;/li&gt;
+&lt;li&gt;VMware&lt;/li&gt;
+&lt;li&gt;JavaScript&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;data-scientists-and-data-engineers-growth-on-the-horizon:029588ea80b351abbdc001504769805c&#34;&gt;Data Scientists and Data Engineers: Growth on the Horizon&lt;/h3&gt;
+
+&lt;p&gt;A study last year from the Economist Intelligence Unit surveyed 422 executives in the U.S. and Europe. The survey asked them about the digital skills most in demand among industries such as financial services, health care, manufacturing and retail. Forty-three percent of the executives said that in three years, analytics and big data skills will be the most important digital capabilities at their companies.&lt;/p&gt;
+
+&lt;p&gt;As life and business become increasingly data driven, demand for both data engineers and data scientists will continue to rise. Now is the time for data professionals to acquire or build on their skills so they will be well positioned for career advancement and job security.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.datacenterjournal.com/need-data-scientists-data-engineers&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View original article&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;sub&gt;*Source: &lt;a href=&#34;http://www.datacenterjournal.com&#34; target=_&gt;Data Center Journal&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Engineers vs. Data Scientists</title>
+      <link>http://andrewrgoss.com/2017/data-engineers-vs.-data-scientists/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.com/2017/data-engineers-vs.-data-scientists/</guid>
+      <description>&lt;p&gt;Data engineer and data scientist are the two most popular career tracks in big data - but how do they compare? At a high level, data engineers are concerned with data infrastructure, while data scientists are concerned with analysis.&lt;/p&gt;
+
+&lt;p&gt;Like data scientists, data engineers write code. They’re highly analytical, and are interested in data visualization.
+Unlike data scientists — and inspired by a more mature parent, software engineering — data engineers build tools, infrastructure, frameworks, and services. In fact, it’s arguable that data engineering is much closer to software engineering than it is to data science.&lt;/p&gt;
+
+&lt;p&gt;This article by &lt;a href=&#34;https://www.stitchdata.com&#34; target=_&gt;Stitch&lt;/a&gt; digs into LinkedIn data to analyze the skills associated with each role. It also provides links to other helpful resources for further perspective.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://cdn-images-1.medium.com/max/800/1*QOw6_pX9r1G_ua_n0DsICQ.png&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blog.stitchdata.com/data-engineer-vs-data-scientist-the-difference-according-to-linkedin-e0bee6248fd4&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View the article&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;sub&gt;*Sources: &lt;a href=&#34;https://www.stitchdata.com&#34; target=_&gt;Stitch&lt;/a&gt;, &lt;a href=&#34;https://medium.freecodecamp.com&#34; target=_&gt;FreeCodeCamp&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The Data Science Industry: Who Does What</title>
@@ -17,9 +91,8 @@
       <pubDate>Wed, 09 Nov 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>http://andrewrgoss.com/2016/the-data-science-industry-who-does-what/</guid>
-      <description>&lt;p&gt;Great infographic from &lt;a href=&#34;https://www.datacamp.com&#34; target=&#34;_blank&#34;&gt;DataCamp&lt;/a&gt; that lays out the roles and skills associated with a data science team. I&amp;rsquo;m best cast as the data engineer right now.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://101.datascience.community/wp-content/uploads/2015/11/datasciencejobs.png&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Great infographic from &lt;a href=&#34;https://www.datacamp.com&#34; target=&#34;_blank&#34;&gt;DataCamp&lt;/a&gt; that lays out the roles and skills associated with a data science team. As a data engineer within this group, these are the kind of people I work with day-to-day.
+&lt;img src=&#34;http://101.datascience.community/wp-content/uploads/2015/11/datasciencejobs.png&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;sub&gt;*Source: &lt;a href=&#34;https://www.datacamp.com&#34; target=&#34;_blank&#34;&gt;DataCamp&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
 </description>
