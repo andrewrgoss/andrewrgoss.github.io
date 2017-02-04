@@ -8,15 +8,15 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Thu, 02 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://andrewrgoss.com/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>We Need Both Data Scientists &amp; Data Engineers</title>
-      <link>http://andrewrgoss.com/2017/we-need-both-data-scientists--data-engineers/</link>
-      <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
+      <link>http://andrewrgoss.com/2016/we-need-both-data-scientists--data-engineers/</link>
+      <pubDate>Tue, 27 Dec 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.com/2017/we-need-both-data-scientists--data-engineers/</guid>
+      <guid>http://andrewrgoss.com/2016/we-need-both-data-scientists--data-engineers/</guid>
       <description>
 
 &lt;p&gt;&lt;sub&gt;&lt;i&gt;written by Neeraj Chadha&lt;/i&gt;&lt;/sub&gt;&lt;/p&gt;
@@ -65,27 +65,6 @@
     </item>
     
     <item>
-      <title>Data Engineers vs. Data Scientists</title>
-      <link>http://andrewrgoss.com/2017/data-engineers-vs.-data-scientists/</link>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.com/2017/data-engineers-vs.-data-scientists/</guid>
-      <description>&lt;p&gt;Data engineer and data scientist are the two most popular career tracks in big data - but how do they compare? At a high level, data engineers are concerned with data infrastructure, while data scientists are concerned with analysis.&lt;/p&gt;
-
-&lt;p&gt;Like data scientists, data engineers write code. They’re highly analytical, and are interested in data visualization.
-Unlike data scientists — and inspired by a more mature parent, software engineering — data engineers build tools, infrastructure, frameworks, and services. In fact, it’s arguable that data engineering is much closer to software engineering than it is to data science.&lt;/p&gt;
-
-&lt;p&gt;This article by &lt;a href=&#34;https://www.stitchdata.com&#34; target=_&gt;Stitch&lt;/a&gt; digs into LinkedIn data to analyze the skills associated with each role. It also provides links to other helpful resources for further perspective.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://cdn-images-1.medium.com/max/800/1*QOw6_pX9r1G_ua_n0DsICQ.png&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blog.stitchdata.com/data-engineer-vs-data-scientist-the-difference-according-to-linkedin-e0bee6248fd4&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View the article&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;sub&gt;*Sources: &lt;a href=&#34;https://www.stitchdata.com&#34; target=_&gt;Stitch&lt;/a&gt;, &lt;a href=&#34;https://medium.freecodecamp.com&#34; target=_&gt;FreeCodeCamp&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>The Data Science Industry: Who Does What</title>
       <link>http://andrewrgoss.com/2016/the-data-science-industry-who-does-what/</link>
       <pubDate>Wed, 09 Nov 2016 00:00:00 +0000</pubDate>
@@ -125,6 +104,27 @@ Unlike data scientists — and inspired by a more mature parent, software en
 &lt;p&gt;&lt;img src=&#34;http://www.informit.com/content/images/chap3_9780134291079/elementLinks/03fig06.jpg&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;sub&gt;*Source: &lt;a href=&#34;http://www.informit.com/articles/article.aspx?p=2473128&amp;seqNum=11&#34; target=&#34;_blank&#34;&gt;InformIT&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Engineers vs. Data Scientists</title>
+      <link>http://andrewrgoss.com/2016/data-engineers-vs.-data-scientists/</link>
+      <pubDate>Thu, 29 Sep 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.com/2016/data-engineers-vs.-data-scientists/</guid>
+      <description>&lt;p&gt;Data engineer and data scientist are the two most popular career tracks in big data - but how do they compare? At a high level, data engineers are concerned with data infrastructure, while data scientists are concerned with analysis.&lt;/p&gt;
+
+&lt;p&gt;Like data scientists, data engineers write code. They’re highly analytical, and are interested in data visualization.
+Unlike data scientists — and inspired by a more mature parent, software engineering — data engineers build tools, infrastructure, frameworks, and services. In fact, it’s arguable that data engineering is much closer to software engineering than it is to data science.&lt;/p&gt;
+
+&lt;p&gt;This article by &lt;a href=&#34;https://www.stitchdata.com&#34; target=_&gt;Stitch&lt;/a&gt; digs into LinkedIn data to analyze the skills associated with each role. It also provides links to other helpful resources for further perspective.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://cdn-images-1.medium.com/max/800/1*QOw6_pX9r1G_ua_n0DsICQ.png&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blog.stitchdata.com/data-engineer-vs-data-scientist-the-difference-according-to-linkedin-e0bee6248fd4&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View the article&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;sub&gt;*Sources: &lt;a href=&#34;https://www.stitchdata.com&#34; target=_&gt;Stitch&lt;/a&gt;, &lt;a href=&#34;https://medium.freecodecamp.com&#34; target=_&gt;FreeCodeCamp&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
 </description>
     </item>
     
