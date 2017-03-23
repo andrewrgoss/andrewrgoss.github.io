@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Go on Data Engineer | Tech Consultant | BI Developer in Boston</title>
+    <link>http://andrewrgoss.com/tags/go/</link>
+    <description>Recent content in Go on Data Engineer | Tech Consultant | BI Developer in Boston</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
+    <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
+    <lastBuildDate>Thu, 23 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://andrewrgoss.com/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Using NSQ With Go</title>
+      <link>http://andrewrgoss.com/2017/using-nsq-with-go/</link>
+      <pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>http://andrewrgoss.com/2017/using-nsq-with-go/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;http://nsq.io&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/nsq.png&#34; alt=&#34;NSQ&#34; title=&#34;NSQ&#34; /&gt;&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve been recently working on software application project at &lt;a href=&#34;https://www.digitaslbi.com/en-us&#34; target=&#34;_blank&#34;&gt;DigitasLBi&lt;/a&gt; where we adopted &lt;a href=&#34;http://nsq.io&#34; target=&#34;_blank&#34;&gt;NSQ&lt;/a&gt; as part of our microservices architecture. When I was learning how NSQ works and experimenting in &lt;a href=&#34;https://golang.org&#34; target=&#34;_blank&#34;&gt;Go&lt;/a&gt;, I didn&amp;rsquo;t find a whole lot of (current) sample code out on the web. With this post I&amp;rsquo;d like to share how I got started using NSQ for Go.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-is-nsq:dda9787168a23dcd34b7e3f1e03bb799&#34;&gt;What is NSQ?&lt;/h2&gt;
+
+&lt;p&gt;Per the official website, NSQ is a realtime distributed messaging platform designed to operate at scale, handling billions of messages per day.&lt;/p&gt;
+
+&lt;p&gt;It promotes distributed and decentralized topologies without single points of failure, enabling fault tolerance and high availability coupled with a reliable message delivery guarantee.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://f.cloud.github.com/assets/187441/1700696/f1434dc8-6029-11e3-8a66-18ca4ea10aca.gif&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;nsqd&lt;/code&gt; is the daemon that receives, queues, and delivers messages to clients.&lt;/p&gt;
+
+&lt;p&gt;With the chart above you can understand the basic premise of NSQ involves producers and consumers - within your code you create NSQ producers to push messages to NSQ that get queued up to be consumed by other programs within your application.&lt;/p&gt;
+
+&lt;h2 id=&#34;installing-nsq-on-linux:dda9787168a23dcd34b7e3f1e03bb799&#34;&gt;Installing NSQ (on Linux)&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ wget https://s3.amazonaws.com/bitly-downloads/nsq/nsq-1.0.0-compat.linux-amd64.go1.8.tar.gz
+$ tar nsq-1.0.0-compat.linux-amd64.go1.8.tar.gz
+$ sudo mv nsq-1.0.0-compat.linux-amd64.go1.8.tar.gz/bin/* /usr/local/bin
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;launching-nsqd:dda9787168a23dcd34b7e3f1e03bb799&#34;&gt;Launching NSQD&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ nsqlookupd &amp;amp; 
+$ nsqd --lookupd-tcp-address=127.0.0.1:4160 &amp;amp;
+$ nsqadmin --lookupd-http-address=127.0.0.1:4161 &amp;amp;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;If done successfully this will show web UI:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://nsq.io/static/img/nsqadmin_screenshot.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;nsqadmin&lt;/code&gt; is a Web UI to view aggregated cluster stats in realtime and perform various administrative tasks.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
