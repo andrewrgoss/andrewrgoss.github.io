@@ -12,16 +12,16 @@
     <atom:link href="http://andrewrgoss.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Using NSQ With Go</title>
-      <link>http://andrewrgoss.com/2017/using-nsq-with-go/</link>
+      <title>Getting Started With NSQ for Go</title>
+      <link>http://andrewrgoss.com/2017/getting-started-with-nsq-for-go/</link>
       <pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.com/2017/using-nsq-with-go/</guid>
+      <guid>http://andrewrgoss.com/2017/getting-started-with-nsq-for-go/</guid>
       <description>
 
 &lt;p&gt;&lt;a href=&#34;http://nsq.io&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/nsq.png&#34; alt=&#34;NSQ&#34; title=&#34;NSQ&#34; /&gt;&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
 
-&lt;p&gt;I&amp;rsquo;ve been recently working on software application project at &lt;a href=&#34;https://www.digitaslbi.com/en-us&#34; target=&#34;_blank&#34;&gt;DigitasLBi&lt;/a&gt; where we adopted &lt;a href=&#34;http://nsq.io&#34; target=&#34;_blank&#34;&gt;NSQ&lt;/a&gt; as part of our microservices architecture. When I was learning how NSQ works and experimenting in &lt;a href=&#34;https://golang.org&#34; target=&#34;_blank&#34;&gt;Go&lt;/a&gt;, I didn&amp;rsquo;t find a whole lot of (current) sample code out on the web. With this post I&amp;rsquo;d like to share how I got started using NSQ for Go.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve been recently working on software application project at &lt;a href=&#34;https://www.digitaslbi.com/en-us&#34; target=&#34;_blank&#34;&gt;DigitasLBi&lt;/a&gt; where we adopted &lt;a href=&#34;http://nsq.io&#34; target=&#34;_blank&#34;&gt;NSQ&lt;/a&gt; as part of our microservices architecture. With this post I&amp;rsquo;d like to share how I got started using NSQ for &lt;a href=&#34;https://golang.org&#34; target=&#34;_blank&#34;&gt;Go&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&#34;what-is-nsq:dda9787168a23dcd34b7e3f1e03bb799&#34;&gt;What is NSQ?&lt;/h2&gt;
 
@@ -64,7 +64,87 @@ $ nsqadmin --lookupd-http-address=127.0.0.1:4161 &amp;amp;
 
 &lt;h3 id=&#34;creating-a-consumer:dda9787168a23dcd34b7e3f1e03bb799&#34;&gt;Creating a Consumer&lt;/h3&gt;
 
-&lt;p&gt;I like creating the consumer first so I can see the handler in action after pushing a message with a producer (in the next section).&lt;/p&gt;
+&lt;p&gt;I like creating the consumer first so I can see the handler in action after pushing a message with a producer (see next &lt;a href=&#34;#producer&#34;&gt;section&lt;/a&gt;).&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-go&#34;&gt;package main
+
+import (
+    &amp;quot;fmt&amp;quot;
+    &amp;quot;log&amp;quot;
+    &amp;quot;sync&amp;quot;
+
+    &amp;quot;github.com/nsqio/go-nsq&amp;quot;
+    &amp;quot;github.com/spf13/viper&amp;quot;
+)
+
+func init() {
+    log.SetFlags(log.LstdFlags | log.Lshortfile) // set logging config
+
+    viper.SetConfigName(&amp;quot;config&amp;quot;) // name of config file (without extension)
+    viper.AddConfigPath(&amp;quot;.&amp;quot;) // location of config file (in working directory)
+    err := viper.ReadInConfig() // find and read config file
+    if err != nil { // handle errors reading config file
+        panic(fmt.Errorf(&amp;quot;Fatal error config file: %s \n&amp;quot;, err))
+    }
+}
+
+func main() {
+    wg := &amp;amp;sync.WaitGroup{}
+    wg.Add(1)
+
+    decodeConfig := nsq.NewConfig()
+    c, err := nsq.NewConsumer(viper.GetString(&amp;quot;nsq.topic&amp;quot;), viper.GetString(&amp;quot;nsq.channel&amp;quot;), decodeConfig)
+    if err != nil {
+        log.Panic(&amp;quot;Could not create consumer&amp;quot;)
+    }
+    //c.MaxInFlight defaults to 1
+
+    c.AddHandler(nsq.HandlerFunc(func(message *nsq.Message) error {
+        log.Println(&amp;quot;NSQ message received:&amp;quot;)
+        log.Println(string(message.Body))
+        return nil
+    }))
+
+    err = c.ConnectToNSQD(viper.GetString(&amp;quot;nsq.ipaddr&amp;quot;))
+    if err != nil {
+        log.Panic(&amp;quot;Could not connect&amp;quot;)
+    }
+    log.Println(&amp;quot;Awaiting messages from NSQ topic &amp;quot;+viper.GetString(&amp;quot;nsq.topic&amp;quot;)+&amp;quot;...&amp;quot;)
+    wg.Wait()
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Now run this consumer program:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ go run main.go
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This should hang there waiting to receive a NSQ message from a topic you specify. Nothing will happen just yet since there aren&amp;rsquo;t any queued up messages for this particular topic. Leave this program running in a terminal window for now. In the next step we&amp;rsquo;ll push a message to it.&lt;/p&gt;
+
+&lt;h3 id=&#34;a-name-producer-a-creating-a-producer:dda9787168a23dcd34b7e3f1e03bb799&#34;&gt;&lt;a name=&#34;producer&#34;&gt;&lt;/a&gt;Creating a Producer&lt;/h3&gt;
+
+&lt;p&gt;You can publish a message with a producer with some simple code like this:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-go&#34;&gt;package main
+
+import (
+  &amp;quot;log&amp;quot;
+
+  &amp;quot;github.com/nsqio/go-nsq&amp;quot;
+)
+
+func main() {
+    config := nsq.NewConfig()
+    p, err := nsq.NewProducer(&amp;quot;127.0.0.1:4150&amp;quot;, config)
+    if err != nil {
+        log.Panic(err)
+    }
+    err = p.Publish(&amp;quot;My NSQ Topic&amp;quot;, []byte(&amp;quot;sample NSQ message&amp;quot;))
+    if err != nil {
+        log.Panic(err)
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     
