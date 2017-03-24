@@ -35,7 +35,7 @@
 
 &lt;p&gt;With the chart above you can understand the basic premise of NSQ involves producers and consumers - within your code you create NSQ producers to push messages to NSQ that get queued up to be consumed by other programs within your application.&lt;/p&gt;
 
-&lt;h2 id=&#34;installing-nsq-on-linux:dda9787168a23dcd34b7e3f1e03bb799&#34;&gt;Installing NSQ (on Linux)&lt;/h2&gt;
+&lt;h2 id=&#34;installing-nsq-on-linux-vm:dda9787168a23dcd34b7e3f1e03bb799&#34;&gt;Installing NSQ (on Linux VM)&lt;/h2&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ wget https://s3.amazonaws.com/bitly-downloads/nsq/nsq-1.0.0-compat.linux-amd64.go1.8.tar.gz
 $ tar nsq-1.0.0-compat.linux-amd64.go1.8.tar.gz
@@ -49,11 +49,22 @@ $ nsqd --lookupd-tcp-address=127.0.0.1:4160 &amp;amp;
 $ nsqadmin --lookupd-http-address=127.0.0.1:4161 &amp;amp;
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;If done successfully this will show web UI:&lt;/p&gt;
+&lt;p&gt;If done successfully you will be able to view a web UI that looks like this:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://nsq.io/static/img/nsqadmin_screenshot.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;code&gt;nsqadmin&lt;/code&gt; is a Web UI to view aggregated cluster stats in realtime and perform various administrative tasks.&lt;/p&gt;
+
+&lt;h2 id=&#34;writing-your-go-program:dda9787168a23dcd34b7e3f1e03bb799&#34;&gt;Writing Your Go Program&lt;/h2&gt;
+
+&lt;p&gt;To import the NSQ client library, use a &lt;code&gt;go get&lt;/code&gt; command:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ go get github.com/nsqio/go-nsq
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;creating-a-consumer:dda9787168a23dcd34b7e3f1e03bb799&#34;&gt;Creating a Consumer&lt;/h3&gt;
+
+&lt;p&gt;I like creating the consumer first so I can see the handler in action after pushing a message with a producer (in the next section).&lt;/p&gt;
 </description>
     </item>
     

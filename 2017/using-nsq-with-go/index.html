@@ -68,7 +68,7 @@
                 },
                 "datePublished": "Mar 2017",
                 "description": "I\x26rsquo;ve been recently working on software application project at DigitasLBi where we adopted NSQ as part of our microservices architecture. When I was learning how NSQ works and experimenting in Go, I didn\x26rsquo;t find a whole lot of (current) sample code out on the web. With this post I\x26rsquo;d like to share how I got started using NSQ for Go. What is NSQ? Per the official website, NSQ is a realtime distributed messaging platform designed to operate at scale, handling billions of messages per day.",
-                "wordCount":  216 ,
+                "wordCount":  272 ,
                 "articleSection": "post",
                 "timeRequired": "0:2:0",
                 "url": "http:\/\/andrewrgoss.com\/2017\/using-nsq-with-go\/"
@@ -813,7 +813,7 @@ footer a:hover
 
 <p>With the chart above you can understand the basic premise of NSQ involves producers and consumers - within your code you create NSQ producers to push messages to NSQ that get queued up to be consumed by other programs within your application.</p>
 
-<h2 id="installing-nsq-on-linux:dda9787168a23dcd34b7e3f1e03bb799">Installing NSQ (on Linux)</h2>
+<h2 id="installing-nsq-on-linux-vm:dda9787168a23dcd34b7e3f1e03bb799">Installing NSQ (on Linux VM)</h2>
 
 <pre><code class="language-bash">$ wget https://s3.amazonaws.com/bitly-downloads/nsq/nsq-1.0.0-compat.linux-amd64.go1.8.tar.gz
 $ tar nsq-1.0.0-compat.linux-amd64.go1.8.tar.gz
@@ -827,11 +827,22 @@ $ nsqd --lookupd-tcp-address=127.0.0.1:4160 &amp;
 $ nsqadmin --lookupd-http-address=127.0.0.1:4161 &amp;
 </code></pre>
 
-<p>If done successfully this will show web UI:</p>
+<p>If done successfully you will be able to view a web UI that looks like this:</p>
 
 <p><img src="http://nsq.io/static/img/nsqadmin_screenshot.png"></img></p>
 
 <p><code>nsqadmin</code> is a Web UI to view aggregated cluster stats in realtime and perform various administrative tasks.</p>
+
+<h2 id="writing-your-go-program:dda9787168a23dcd34b7e3f1e03bb799">Writing Your Go Program</h2>
+
+<p>To import the NSQ client library, use a <code>go get</code> command:</p>
+
+<pre><code class="language-bash">$ go get github.com/nsqio/go-nsq
+</code></pre>
+
+<h3 id="creating-a-consumer:dda9787168a23dcd34b7e3f1e03bb799">Creating a Consumer</h3>
+
+<p>I like creating the consumer first so I can see the handler in action after pushing a message with a producer (in the next section).</p>
 
     <div>
   <hr>
