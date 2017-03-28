@@ -68,7 +68,7 @@
                 },
                 "datePublished": "Mar 2017",
                 "description": "I\x26rsquo;ve been recently working on software application project at DigitasLBi where we adopted NSQ as part of our microservices architecture. With this post I\x26rsquo;d like to share how I got started using NSQ for Go. What is NSQ? Per the official website, NSQ is a realtime distributed messaging platform designed to operate at scale, handling billions of messages per day. It promotes distributed and decentralized topologies without single points of failure, enabling fault tolerance and high availability coupled with a reliable message delivery guarantee.",
-                "wordCount":  491 ,
+                "wordCount":  437 ,
                 "articleSection": "post",
                 "timeRequired": "0:3:0",
                 "url": "http:\/\/andrewrgoss.com\/2017\/getting-started-with-nsq-for-go\/"
@@ -847,31 +847,18 @@ $ nsqadmin --lookupd-http-address=127.0.0.1:4161 &amp;
 <pre><code class="language-go">package main
 
 import (
-    &quot;fmt&quot;
     &quot;log&quot;
     &quot;sync&quot;
 
     &quot;github.com/nsqio/go-nsq&quot;
-    &quot;github.com/spf13/viper&quot;
 )
-
-func init() {
-    log.SetFlags(log.LstdFlags | log.Lshortfile) // set logging config
-
-    viper.SetConfigName(&quot;config&quot;) // name of config file (without extension)
-    viper.AddConfigPath(&quot;.&quot;) // location of config file (in working directory)
-    err := viper.ReadInConfig() // find and read config file
-    if err != nil { // handle errors reading config file
-        panic(fmt.Errorf(&quot;Fatal error config file: %s \n&quot;, err))
-    }
-}
 
 func main() {
     wg := &amp;sync.WaitGroup{}
     wg.Add(1)
 
     decodeConfig := nsq.NewConfig()
-    c, err := nsq.NewConsumer(viper.GetString(&quot;nsq.topic&quot;), viper.GetString(&quot;nsq.channel&quot;), decodeConfig)
+    c, err := nsq.NewConsumer(&quot;My NSQ Topic&quot;, &quot;My NSQ Channel&quot;, decodeConfig)
     if err != nil {
         log.Panic(&quot;Could not create consumer&quot;)
     }

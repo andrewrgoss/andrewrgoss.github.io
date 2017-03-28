@@ -69,31 +69,18 @@ $ nsqadmin --lookupd-http-address=127.0.0.1:4161 &amp;amp;
 &lt;pre&gt;&lt;code class=&#34;language-go&#34;&gt;package main
 
 import (
-    &amp;quot;fmt&amp;quot;
     &amp;quot;log&amp;quot;
     &amp;quot;sync&amp;quot;
 
     &amp;quot;github.com/nsqio/go-nsq&amp;quot;
-    &amp;quot;github.com/spf13/viper&amp;quot;
 )
-
-func init() {
-    log.SetFlags(log.LstdFlags | log.Lshortfile) // set logging config
-
-    viper.SetConfigName(&amp;quot;config&amp;quot;) // name of config file (without extension)
-    viper.AddConfigPath(&amp;quot;.&amp;quot;) // location of config file (in working directory)
-    err := viper.ReadInConfig() // find and read config file
-    if err != nil { // handle errors reading config file
-        panic(fmt.Errorf(&amp;quot;Fatal error config file: %s \n&amp;quot;, err))
-    }
-}
 
 func main() {
     wg := &amp;amp;sync.WaitGroup{}
     wg.Add(1)
 
     decodeConfig := nsq.NewConfig()
-    c, err := nsq.NewConsumer(viper.GetString(&amp;quot;nsq.topic&amp;quot;), viper.GetString(&amp;quot;nsq.channel&amp;quot;), decodeConfig)
+    c, err := nsq.NewConsumer(&amp;quot;My NSQ Topic&amp;quot;, &amp;quot;My NSQ Channel&amp;quot;, decodeConfig)
     if err != nil {
         log.Panic(&amp;quot;Could not create consumer&amp;quot;)
     }
