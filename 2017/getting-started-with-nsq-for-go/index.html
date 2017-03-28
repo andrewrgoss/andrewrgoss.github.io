@@ -68,7 +68,7 @@
                 },
                 "datePublished": "Mar 2017",
                 "description": "I\x26rsquo;ve been recently working on software application project at DigitasLBi where we adopted NSQ as part of our microservices architecture. With this post I\x26rsquo;d like to share how I got started using NSQ for Go. What is NSQ? Per the official website, NSQ is a realtime distributed messaging platform designed to operate at scale, handling billions of messages per day. It promotes distributed and decentralized topologies without single points of failure, enabling fault tolerance and high availability coupled with a reliable message delivery guarantee.",
-                "wordCount":  437 ,
+                "wordCount":  439 ,
                 "articleSection": "post",
                 "timeRequired": "0:3:0",
                 "url": "http:\/\/andrewrgoss.com\/2017\/getting-started-with-nsq-for-go\/"
@@ -870,11 +870,11 @@ func main() {
         return nil
     }))
 
-    err = c.ConnectToNSQD(viper.GetString(&quot;nsq.ipaddr&quot;))
+    err = c.ConnectToNSQD(&quot;127.0.0.1:4150&quot;)
     if err != nil {
         log.Panic(&quot;Could not connect&quot;)
     }
-    log.Println(&quot;Awaiting messages from NSQ topic &quot;+viper.GetString(&quot;nsq.topic&quot;)+&quot;...&quot;)
+    log.Println(&quot;Awaiting messages from NSQ topic \&quot;My NSQ Topic\&quot;...&quot;)
     wg.Wait()
 }
 </code></pre>
