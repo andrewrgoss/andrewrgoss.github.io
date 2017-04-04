@@ -3,18 +3,18 @@
   
   <url>
     <loc>http://andrewrgoss.com/</loc>
-    <lastmod>2017-03-23T00:00:00+00:00</lastmod>
+    <lastmod>2017-04-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://andrewrgoss.com/2017/udemy--complete-javascript-course/</loc>
+    <lastmod>2017-04-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://andrewrgoss.com/2017/getting-started-with-nsq-for-go/</loc>
     <lastmod>2017-03-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://andrewrgoss.com/2017/udemy--learning-go-golang-programming-language/</loc>
-    <lastmod>2017-03-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
