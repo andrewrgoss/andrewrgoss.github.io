@@ -30,9 +30,9 @@
         <meta name="twitter:url" content="http://andrewrgoss.com/2017/getting-started-with-nsq-for-go/" />
         <link rel="canonical" href="http://andrewrgoss.com/2017/getting-started-with-nsq-for-go/" />
         
-        <meta name="description" content="I&rsquo;ve been recently working on software application project at DigitasLBi where we adopted NSQ as part of our microservices architecture. With this post I&rsquo;d like to share how I got started using NSQ for Go. What is NSQ? Per the official website, NSQ is a realtime distributed messaging platform designed to operate at scale, handling billions of messages per day. It promotes distributed and decentralized topologies without single points of failure, enabling fault tolerance and high availability coupled with a reliable message delivery guarantee." />
-        <meta name="twitter:description" content="I&rsquo;ve been recently working on software application project at DigitasLBi where we adopted NSQ as part of our microservices architecture. With this post I&rsquo;d like to share how I got started using NSQ for Go. What is NSQ? Per the official website, NSQ is a realtime distributed messaging platform designed to operate at scale, handling billions of messages per day. It promotes distributed and decentralized topologies without single points of failure, enabling fault tolerance and high availability coupled with a reliable message delivery guarantee." />
-        <meta property="og:description" content="I&rsquo;ve been recently working on software application project at DigitasLBi where we adopted NSQ as part of our microservices architecture. With this post I&rsquo;d like to share how I got started using NSQ for Go. What is NSQ? Per the official website, NSQ is a realtime distributed messaging platform designed to operate at scale, handling billions of messages per day. It promotes distributed and decentralized topologies without single points of failure, enabling fault tolerance and high availability coupled with a reliable message delivery guarantee." />
+        <meta name="description" content="I&rsquo;ve been recently working on software application project at DigitasLBi where we adopted NSQ as part of our microservices architecture. With this post I&rsquo;d like to share how you can get started with NSQ by sending and receiving a simple message by writing some Go code. What is NSQ? Per the official website, NSQ is a realtime distributed messaging platform designed to operate at scale, handling billions of messages per day." />
+        <meta name="twitter:description" content="I&rsquo;ve been recently working on software application project at DigitasLBi where we adopted NSQ as part of our microservices architecture. With this post I&rsquo;d like to share how you can get started with NSQ by sending and receiving a simple message by writing some Go code. What is NSQ? Per the official website, NSQ is a realtime distributed messaging platform designed to operate at scale, handling billions of messages per day." />
+        <meta property="og:description" content="I&rsquo;ve been recently working on software application project at DigitasLBi where we adopted NSQ as part of our microservices architecture. With this post I&rsquo;d like to share how you can get started with NSQ by sending and receiving a simple message by writing some Go code. What is NSQ? Per the official website, NSQ is a realtime distributed messaging platform designed to operate at scale, handling billions of messages per day." />
         
         <meta name="twitter:site" content="@Andrewrgoss" />
         <meta name="twitter:creator" content="@Andrewrgoss" />
@@ -67,8 +67,8 @@
 	]
                 },
                 "datePublished": "Mar 2017",
-                "description": "I\x26rsquo;ve been recently working on software application project at DigitasLBi where we adopted NSQ as part of our microservices architecture. With this post I\x26rsquo;d like to share how I got started using NSQ for Go. What is NSQ? Per the official website, NSQ is a realtime distributed messaging platform designed to operate at scale, handling billions of messages per day. It promotes distributed and decentralized topologies without single points of failure, enabling fault tolerance and high availability coupled with a reliable message delivery guarantee.",
-                "wordCount":  439 ,
+                "description": "I\x26rsquo;ve been recently working on software application project at DigitasLBi where we adopted NSQ as part of our microservices architecture. With this post I\x26rsquo;d like to share how you can get started with NSQ by sending and receiving a simple message by writing some Go code. What is NSQ? Per the official website, NSQ is a realtime distributed messaging platform designed to operate at scale, handling billions of messages per day.",
+                "wordCount":  594 ,
                 "articleSection": "post",
                 "timeRequired": "0:3:0",
                 "url": "http:\/\/andrewrgoss.com\/2017\/getting-started-with-nsq-for-go\/"
@@ -799,7 +799,7 @@ footer a:hover
 
 <p><a href="http://nsq.io" target="_blank"><img src="/img/post/nsq.png" alt="NSQ" title="NSQ" /></a><br></p>
 
-<p>I&rsquo;ve been recently working on software application project at <a href="https://www.digitaslbi.com/en-us" target="_blank">DigitasLBi</a> where we adopted <a href="http://nsq.io" target="_blank">NSQ</a> as part of our microservices architecture. With this post I&rsquo;d like to share how I got started using NSQ for <a href="https://golang.org" target="_blank">Go</a>.</p>
+<p>I&rsquo;ve been recently working on software application project at <a href="https://www.digitaslbi.com/en-us" target="_blank">DigitasLBi</a> where we adopted <a href="http://nsq.io" target="_blank">NSQ</a> as part of our microservices architecture. With this post I&rsquo;d like to share how you can get started with NSQ by sending and receiving a simple message by writing some <a href="https://golang.org" target="_blank">Go</a> code.</p>
 
 <h2 id="what-is-nsq:dda9787168a23dcd34b7e3f1e03bb799">What is NSQ?</h2>
 
@@ -858,7 +858,7 @@ func main() {
     wg.Add(1)
 
     decodeConfig := nsq.NewConfig()
-    c, err := nsq.NewConsumer(&quot;My NSQ Topic&quot;, &quot;My NSQ Channel&quot;, decodeConfig)
+    c, err := nsq.NewConsumer(&quot;My_NSQ_Topic&quot;, &quot;My_NSQ_Channel&quot;, decodeConfig)
     if err != nil {
         log.Panic(&quot;Could not create consumer&quot;)
     }
@@ -881,7 +881,13 @@ func main() {
 
 <p>Now run this consumer program:</p>
 
-<pre><code class="language-bash">$ go run main.go
+<pre><code class="language-bash">$ go run consume.go
+</code></pre>
+
+<p>You&rsquo;ll get this output:</p>
+
+<pre><code class="language-bash">2017/04/05 17:33:42 INF    1 [My_NSQ_Topic/My_NSQ_Channel] (127.0.0.1:4150) connecting to nsqd
+2017/04/05 17:33:42 Awaiting messages from NSQ topic &quot;My NSQ Topic&quot;...
 </code></pre>
 
 <p>This should hang there waiting to receive a NSQ message from a topic you specify. Nothing will happen just yet since there aren&rsquo;t any queued up messages for this particular topic. Leave this program running in a terminal window for now. In the next step we&rsquo;ll push a message to it.</p>
@@ -904,12 +910,36 @@ func main() {
     if err != nil {
         log.Panic(err)
     }
-    err = p.Publish(&quot;My NSQ Topic&quot;, []byte(&quot;sample NSQ message&quot;))
+    err = p.Publish(&quot;My_NSQ_Topic&quot;, []byte(&quot;sample NSQ message&quot;))
     if err != nil {
         log.Panic(err)
     }
 }
 </code></pre>
+
+<p>Now run this publisher program:</p>
+
+<pre><code class="language-bash">$ go run publish.go
+</code></pre>
+
+<p>In this terminal window, you&rsquo;ll only see this message indicating your message was published to NSQ:</p>
+
+<pre><code class="language-bash">go run publish.go
+2017/04/05 17:39:15 INF    1 (127.0.0.1:4150) connecting to nsqd
+</code></pre>
+
+<p>If you look at your consumer terminal window that you left running from the previous step, you&rsquo;ll now see this additional output:</p>
+
+<pre><code class="language-bash">2017/04/05 17:33:42 Awaiting messages from NSQ topic &quot;My NSQ Topic&quot;...
+2017/04/05 17:39:15 NSQ message received:
+2017/04/05 17:39:15 sample NSQ message
+</code></pre>
+
+<p>Congrats - you just pushed and received your first NSQ message!</p>
+
+<p>If you go back to your web UI console you&rsquo;ll see your newly-created topic. If you drill into this topic, you can also see the channel that you consumed the message to, with the message counter at 1:</p>
+
+<p><img src="/img/post/nsq_topic.png" alt="NSQ Topic" title="NSQ Topic" /></p>
 
     <div>
   <hr>
@@ -966,7 +996,7 @@ func main() {
       </li>
 	  
 	  <li class="linkedin">
-          <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://andrewrgoss.com/2017/getting-started-with-nsq-for-go/&amp;title=Getting%20Started%20With%20NSQ%20for%20Go&amp;summary=I%26rsquo%3bve%20been%20recently%20working%20on%20software%20application%20project%20at%20DigitasLBi%20where%20we%20adopted%20NSQ%20as%20part%20of%20our%20microservices%20architecture.%20With%20this%20post%20I%26rsquo%3bd%20like%20to%20share%20how%20I%20got%20started%20using%20NSQ%20for%20Go.%20What%20is%20NSQ%3f%20Per%20the%20official%20website%2c%20NSQ%20is%20a%20realtime%20distributed%20messaging%20platform%20designed%20to%20operate%20at%20scale%2c%20handling%20billions%20of%20messages%20per%20day.%20It%20promotes%20distributed%20and%20decentralized%20topologies%20without%20single%20points%20of%20failure%2c%20enabling%20fault%20tolerance%20and%20high%20availability%20coupled%20with%20a%20reliable%20message%20delivery%20guarantee...." class="popup">
+          <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://andrewrgoss.com/2017/getting-started-with-nsq-for-go/&amp;title=Getting%20Started%20With%20NSQ%20for%20Go&amp;summary=I%26rsquo%3bve%20been%20recently%20working%20on%20software%20application%20project%20at%20DigitasLBi%20where%20we%20adopted%20NSQ%20as%20part%20of%20our%20microservices%20architecture.%20With%20this%20post%20I%26rsquo%3bd%20like%20to%20share%20how%20you%20can%20get%20started%20with%20NSQ%20by%20sending%20and%20receiving%20a%20simple%20message%20by%20writing%20some%20Go%20code.%20What%20is%20NSQ%3f%20Per%20the%20official%20website%2c%20NSQ%20is%20a%20realtime%20distributed%20messaging%20platform%20designed%20to%20operate%20at%20scale%2c%20handling%20billions%20of%20messages%20per%20day...." class="popup">
               <span class="icon">
                   <svg version="1.1" id="btn-li" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="28px" height="28px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve">
                       <path d="M25.424,15.887v8.447h-4.896v-7.882c0-1.979-0.709-3.331-2.48-3.331c-1.354,0-2.158,0.911-2.514,1.803 c-0.129,0.315-0.162,0.753-0.162,1.194v8.216h-4.899c0,0,0.066-13.349,0-14.731h4.899v2.088c-0.01,0.016-0.023,0.032-0.033,0.048 h0.033V11.69c0.65-1.002,1.812-2.435,4.414-2.435C23.008,9.254,25.424,11.361,25.424,15.887z M5.348,2.501 c-1.676,0-2.772,1.092-2.772,2.539c0,1.421,1.066,2.538,2.717,2.546h0.032c1.709,0,2.771-1.132,2.771-2.546 C8.054,3.593,7.019,2.501,5.343,2.501H5.348z M2.867,24.334h4.897V9.603H2.867V24.334z"/>
