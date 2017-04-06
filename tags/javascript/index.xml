@@ -25,7 +25,7 @@
 &lt;hr&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;JavaScript language basics&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://andrewrgoss.com/2017/udemy--complete-javascript-course/js_language_basics&#34;&gt;JavaScript language basics&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;How JavaScript works behind the scenes&lt;/li&gt;
 &lt;li&gt;JavaScript in the browser: DOM manipulation and events&lt;/li&gt;
 &lt;li&gt;Advanced JavaScript: objections and functions&lt;/li&gt;
@@ -37,11 +37,11 @@
 
 &lt;h5 id=&#34;course-progress:f84187bd0236cff9ef749957d6953b7f&#34;&gt;Course Progress&lt;/h5&gt;
 
-&lt;progress max=&#34;1.0&#34; value=&#34;0.04&#34;&gt;&lt;/progress&gt;
+&lt;progress max=&#34;1.0&#34; value=&#34;0.08&#34;&gt;&lt;/progress&gt;
 
-&lt;p&gt;4% - &lt;font color=&#34;green&#34;&gt;[IN PROGRESS]&lt;/font&gt;.&lt;/p&gt;
+&lt;p&gt;8% - &lt;font color=&#34;green&#34;&gt;[IN PROGRESS]&lt;/font&gt;.&lt;/p&gt;
 
-&lt;!--&lt;a href=&#34;https://github.com/andrewrgoss/&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;--&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-complete-javascript&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
