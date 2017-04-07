@@ -61,6 +61,14 @@
 &lt;li&gt;&lt;b&gt;Null:&lt;/b&gt; Also means &amp;lsquo;non-existent&amp;rsquo;.&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h2 id=&#34;operators:107ebea9dbe8e000d775582450c35225&#34;&gt;Operators&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Operators/Operator_Precedence&#34; target=&#34;_blank&#34;&gt;JavaScript Operator Precedence&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;boolean-logic-and-switch-statements:107ebea9dbe8e000d775582450c35225&#34;&gt;Boolean Logic and Switch Statements&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/2017/udemy--complete-javascript-course/basic_boolean_logic.png&#34; alt=&#34;Basic Boolean Logic&#34; title=&#34;Basic Boolean Logic&#34; /&gt;&lt;/p&gt;
+
 &lt;hr&gt;
 
 &lt;ol&gt;
@@ -112,9 +120,9 @@
 
 &lt;h5 id=&#34;course-progress:f84187bd0236cff9ef749957d6953b7f&#34;&gt;Course Progress&lt;/h5&gt;
 
-&lt;progress max=&#34;1.0&#34; value=&#34;0.08&#34;&gt;&lt;/progress&gt;
+&lt;progress max=&#34;1.0&#34; value=&#34;0.12&#34;&gt;&lt;/progress&gt;
 
-&lt;p&gt;8% - &lt;font color=&#34;green&#34;&gt;[IN PROGRESS]&lt;/font&gt;.&lt;/p&gt;
+&lt;p&gt;12% - &lt;font color=&#34;green&#34;&gt;[IN PROGRESS]&lt;/font&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-complete-javascript&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
 </description>
