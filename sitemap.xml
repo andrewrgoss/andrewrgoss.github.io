@@ -3,8 +3,13 @@
   
   <url>
     <loc>http://andrewrgoss.com/</loc>
-    <lastmod>2017-04-06T00:00:00+00:00</lastmod>
+    <lastmod>2017-04-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://andrewrgoss.com/2017/what-is-a-productive-data-engineering-team/</loc>
+    <lastmod>2017-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
