@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Golang on Data Engineer &amp; Software Developer in Boston</title>
-    <link>http://andrewrgoss.com/tags/golang/</link>
+    <link>https://andrewrgoss.com/tags/golang/</link>
     <description>Recent content in Golang on Data Engineer &amp; Software Developer in Boston</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
     <lastBuildDate>Thu, 23 Mar 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://andrewrgoss.com/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://andrewrgoss.com/tags/golang/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Getting Started With NSQ for Go</title>
-      <link>http://andrewrgoss.com/2017/getting-started-with-nsq-for-go/</link>
+      <link>https://andrewrgoss.com/2017/getting-started-with-nsq-for-go/</link>
       <pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.com/2017/getting-started-with-nsq-for-go/</guid>
+      <guid>https://andrewrgoss.com/2017/getting-started-with-nsq-for-go/</guid>
       <description>
 
-&lt;p&gt;&lt;a href=&#34;http://nsq.io&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/nsq.png&#34; alt=&#34;NSQ&#34; title=&#34;NSQ&#34; /&gt;&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://nsq.io&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/nsq.png&#34; alt=&#34;NSQ&#34; title=&#34;NSQ&#34; /&gt;&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;p&gt;I&amp;rsquo;ve been recently working on software application project at &lt;a href=&#34;https://www.digitaslbi.com/en-us&#34; target=&#34;_blank&#34;&gt;DigitasLBi&lt;/a&gt; where we adopted &lt;a href=&#34;http://nsq.io&#34; target=&#34;_blank&#34;&gt;NSQ&lt;/a&gt; as part of our microservices architecture. With this post I&amp;rsquo;d like to share how you can get started with NSQ by sending and receiving a simple message by writing some &lt;a href=&#34;https://golang.org&#34; target=&#34;_blank&#34;&gt;Go&lt;/a&gt; code.&lt;/p&gt;
 
@@ -161,19 +161,19 @@ func main() {
 
 &lt;p&gt;If you go back to your web UI console you&amp;rsquo;ll see your newly-created topic. If you drill into this topic, you can also see the channel that you consumed the message to, with the message counter at 1:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/nsq_topic.png&#34; alt=&#34;NSQ Topic&#34; title=&#34;NSQ Topic&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/nsq_topic.png&#34; alt=&#34;NSQ Topic&#34; title=&#34;NSQ Topic&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Caleb Doxsey- An Introduction to Programming in Go</title>
-      <link>http://andrewrgoss.com/2016/caleb-doxsey--an-introduction-to-programming-in-go/</link>
+      <link>https://andrewrgoss.com/2016/caleb-doxsey--an-introduction-to-programming-in-go/</link>
       <pubDate>Wed, 27 Jan 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.com/2016/caleb-doxsey--an-introduction-to-programming-in-go/</guid>
+      <guid>https://andrewrgoss.com/2016/caleb-doxsey--an-introduction-to-programming-in-go/</guid>
       <description>
 
-&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/golang_gopher.png&#34; alt=&#34;Golang Gopher&#34; title=&#34;Golang Gopher&#34; /&gt;&lt;br&gt;
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/golang_gopher.png&#34; alt=&#34;Golang Gopher&#34; title=&#34;Golang Gopher&#34; /&gt;&lt;br&gt;
 &lt;a href=&#34;https://www.golang-book.com/books/intro&#34; target=&#34;_blank&#34;&gt;BOOK LINK&lt;/a&gt;
 &lt;hr&gt;
 &lt;a href=&#34;https://golang.org&#34; target=&#34;_blank&#34;&gt;Go (Golang)&lt;/a&gt; is an open source programming language that makes it easy to build simple, reliable, and efficient software. I first started using Go through my work at &lt;a href=&#34;http://www.digitaslbi.com/us&#34; target=&#34;_blank&#34;&gt;DigitasLBi&lt;/a&gt;. My department adopted this language as one of our tech stacks for the following reasons:&lt;/p&gt;

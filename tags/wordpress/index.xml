@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wordpress on Data Engineer &amp; Software Developer in Boston</title>
-    <link>http://andrewrgoss.com/tags/wordpress/</link>
+    <link>https://andrewrgoss.com/tags/wordpress/</link>
     <description>Recent content in Wordpress on Data Engineer &amp; Software Developer in Boston</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
     <lastBuildDate>Sun, 25 Oct 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://andrewrgoss.com/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://andrewrgoss.com/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Why I Switched from Wordpress to Hugo</title>
-      <link>http://andrewrgoss.com/2015/why-i-switched-from-wordpress-to-hugo/</link>
+      <link>https://andrewrgoss.com/2015/why-i-switched-from-wordpress-to-hugo/</link>
       <pubDate>Sun, 25 Oct 2015 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.com/2015/why-i-switched-from-wordpress-to-hugo/</guid>
+      <guid>https://andrewrgoss.com/2015/why-i-switched-from-wordpress-to-hugo/</guid>
       <description>
 
-&lt;p&gt;&lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/hugo.png&#34; alt=&#34;Hugo&#34; title=&#34;Hugo&#34; /&gt;&lt;/a&gt;&lt;br&gt;
+&lt;p&gt;&lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/hugo.png&#34; alt=&#34;Hugo&#34; title=&#34;Hugo&#34; /&gt;&lt;/a&gt;&lt;br&gt;
 For a long time I&amp;rsquo;ve believed in the importance of having a blog but have struggled to keep one going. I started out using &lt;a href=&#34;https://www.blogger.com&#34; target=&#34;_blank&#34;&gt;Blogger&lt;/a&gt; back in the day and most recently was using &lt;a href=&#34;https://wordpress.org&#34; target=&#34;_blank&#34;&gt;Wordpress&lt;/a&gt;. But there were features about these blogging platforms that consistently bugged me. Fortunately for me, while I was learning the &lt;a href=&#34;http://golang.org&#34; target=&#34;_blank&#34;&gt;Go&lt;/a&gt; programming language I stumbled across &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;, a static site generator written in this language. I started experimenting with Hugo and instantly loved it. I experimented with several different themes and eventually migrated my blog from Wordpress to Hugo. Here are the features I like most about Hugo and how I compare it to Wordpress.&lt;/p&gt;
 
 &lt;h2 id=&#34;live-previews:f3941651fa35be8fa9dd1215cdae54e4&#34;&gt;Live Previews&lt;/h2&gt;

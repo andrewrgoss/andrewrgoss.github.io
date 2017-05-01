@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Engineering on Data Engineer &amp; Software Developer in Boston</title>
-    <link>http://andrewrgoss.com/tags/data-engineering/</link>
+    <link>https://andrewrgoss.com/tags/data-engineering/</link>
     <description>Recent content in Data Engineering on Data Engineer &amp; Software Developer in Boston</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
     <lastBuildDate>Thu, 20 Apr 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://andrewrgoss.com/tags/data-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://andrewrgoss.com/tags/data-engineering/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>What is a Productive Data Engineering Team?</title>
-      <link>http://andrewrgoss.com/2017/what-is-a-productive-data-engineering-team/</link>
+      <link>https://andrewrgoss.com/2017/what-is-a-productive-data-engineering-team/</link>
       <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.com/2017/what-is-a-productive-data-engineering-team/</guid>
+      <guid>https://andrewrgoss.com/2017/what-is-a-productive-data-engineering-team/</guid>
       <description>
 
 &lt;p&gt;&lt;sub&gt;&lt;i&gt;written by &lt;a href=&#34;https://www.oreilly.com/people/17084-jesse-anderson&#34; target=&#34;_blank&#34;&gt;Jesse Anderson&lt;/a&gt;&lt;/i&gt;&lt;/sub&gt;&lt;/p&gt;
@@ -89,10 +89,10 @@
     
     <item>
       <title>The Rise of the Data Engineer</title>
-      <link>http://andrewrgoss.com/2017/the-rise-of-the-data-engineer/</link>
+      <link>https://andrewrgoss.com/2017/the-rise-of-the-data-engineer/</link>
       <pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.com/2017/the-rise-of-the-data-engineer/</guid>
+      <guid>https://andrewrgoss.com/2017/the-rise-of-the-data-engineer/</guid>
       <description>
 
 &lt;p&gt;&lt;sub&gt;&lt;i&gt;written by &lt;a href=&#34;https://medium.freecodecamp.com/@maximebeauchemin&#34; target=&#34;_blank&#34;&gt;Maxime Beauchemin&lt;/a&gt;&lt;/i&gt;&lt;/sub&gt;&lt;/p&gt;
@@ -230,10 +230,10 @@ considering the data integration challenges. The integration workload is systema
     
     <item>
       <title>We Need Both Data Scientists &amp; Data Engineers</title>
-      <link>http://andrewrgoss.com/2016/we-need-both-data-scientists--data-engineers/</link>
+      <link>https://andrewrgoss.com/2016/we-need-both-data-scientists--data-engineers/</link>
       <pubDate>Tue, 27 Dec 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.com/2016/we-need-both-data-scientists--data-engineers/</guid>
+      <guid>https://andrewrgoss.com/2016/we-need-both-data-scientists--data-engineers/</guid>
       <description>
 
 &lt;p&gt;&lt;sub&gt;&lt;i&gt;written by Neeraj Chadha&lt;/i&gt;&lt;/sub&gt;&lt;/p&gt;
@@ -283,10 +283,10 @@ considering the data integration challenges. The integration workload is systema
     
     <item>
       <title>The Data Science Industry: Who Does What</title>
-      <link>http://andrewrgoss.com/2016/the-data-science-industry-who-does-what/</link>
+      <link>https://andrewrgoss.com/2016/the-data-science-industry-who-does-what/</link>
       <pubDate>Wed, 09 Nov 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.com/2016/the-data-science-industry-who-does-what/</guid>
+      <guid>https://andrewrgoss.com/2016/the-data-science-industry-who-does-what/</guid>
       <description>&lt;p&gt;Great infographic from &lt;a href=&#34;https://www.datacamp.com&#34; target=&#34;_blank&#34;&gt;DataCamp&lt;/a&gt; that lays out the roles and skills associated with a data science team. As a data engineer within this group, these are the kind of people I work with day-to-day.
 &lt;img src=&#34;http://101.datascience.community/wp-content/uploads/2015/11/datasciencejobs.png&#34;&gt;&lt;/p&gt;
 
@@ -296,10 +296,10 @@ considering the data integration challenges. The integration workload is systema
     
     <item>
       <title>Data Engineers vs. Data Scientists</title>
-      <link>http://andrewrgoss.com/2016/data-engineers-vs.-data-scientists/</link>
+      <link>https://andrewrgoss.com/2016/data-engineers-vs.-data-scientists/</link>
       <pubDate>Thu, 29 Sep 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.com/2016/data-engineers-vs.-data-scientists/</guid>
+      <guid>https://andrewrgoss.com/2016/data-engineers-vs.-data-scientists/</guid>
       <description>&lt;p&gt;Data engineer and data scientist are the two most popular career tracks in big data - but how do they compare? At a high level, data engineers are concerned with data infrastructure, while data scientists are concerned with analysis.&lt;/p&gt;
 
 &lt;p&gt;Like data scientists, data engineers write code. They’re highly analytical, and are interested in data visualization.
@@ -317,10 +317,10 @@ Unlike data scientists — and inspired by a more mature parent, software en
     
     <item>
       <title>Report- The State of Data Engineering</title>
-      <link>http://andrewrgoss.com/2016/report--the-state-of-data-engineering/</link>
+      <link>https://andrewrgoss.com/2016/report--the-state-of-data-engineering/</link>
       <pubDate>Wed, 28 Sep 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.com/2016/report--the-state-of-data-engineering/</guid>
+      <guid>https://andrewrgoss.com/2016/report--the-state-of-data-engineering/</guid>
       <description>&lt;p&gt;I recently came across an excellent report by &lt;a href=&#34;https://www.stitchdata.com&#34; target=_&gt;Stitch&lt;/a&gt; on the state of data engineering.&lt;/p&gt;
 
 &lt;p&gt;Today, there are 6,500 people on LinkedIn who call themselves data engineers. In San Francisco alone, there are 6,600 job listings for this same title. The number of data engineers has doubled in the past year, but engineering leaders still find themselves faced with a significant shortage of data engineering talent.&lt;/p&gt;

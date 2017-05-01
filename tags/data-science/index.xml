@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Science on Data Engineer &amp; Software Developer in Boston</title>
-    <link>http://andrewrgoss.com/tags/data-science/</link>
+    <link>https://andrewrgoss.com/tags/data-science/</link>
     <description>Recent content in Data Science on Data Engineer &amp; Software Developer in Boston</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
     <lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://andrewrgoss.com/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://andrewrgoss.com/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>We Need Both Data Scientists &amp; Data Engineers</title>
-      <link>http://andrewrgoss.com/2016/we-need-both-data-scientists--data-engineers/</link>
+      <link>https://andrewrgoss.com/2016/we-need-both-data-scientists--data-engineers/</link>
       <pubDate>Tue, 27 Dec 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.com/2016/we-need-both-data-scientists--data-engineers/</guid>
+      <guid>https://andrewrgoss.com/2016/we-need-both-data-scientists--data-engineers/</guid>
       <description>
 
 &lt;p&gt;&lt;sub&gt;&lt;i&gt;written by Neeraj Chadha&lt;/i&gt;&lt;/sub&gt;&lt;/p&gt;
@@ -66,10 +66,10 @@
     
     <item>
       <title>The Data Science Industry: Who Does What</title>
-      <link>http://andrewrgoss.com/2016/the-data-science-industry-who-does-what/</link>
+      <link>https://andrewrgoss.com/2016/the-data-science-industry-who-does-what/</link>
       <pubDate>Wed, 09 Nov 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.com/2016/the-data-science-industry-who-does-what/</guid>
+      <guid>https://andrewrgoss.com/2016/the-data-science-industry-who-does-what/</guid>
       <description>&lt;p&gt;Great infographic from &lt;a href=&#34;https://www.datacamp.com&#34; target=&#34;_blank&#34;&gt;DataCamp&lt;/a&gt; that lays out the roles and skills associated with a data science team. As a data engineer within this group, these are the kind of people I work with day-to-day.
 &lt;img src=&#34;http://101.datascience.community/wp-content/uploads/2015/11/datasciencejobs.png&#34;&gt;&lt;/p&gt;
 
@@ -79,10 +79,10 @@
     
     <item>
       <title>Stages of the Analytics Life Cycle</title>
-      <link>http://andrewrgoss.com/2016/stages-of-the-analytics-life-cycle/</link>
+      <link>https://andrewrgoss.com/2016/stages-of-the-analytics-life-cycle/</link>
       <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.com/2016/stages-of-the-analytics-life-cycle/</guid>
+      <guid>https://andrewrgoss.com/2016/stages-of-the-analytics-life-cycle/</guid>
       <description>
 
 &lt;p&gt;Across industries, the applied use of data to inform business decisions has become a foundational (arguably critical) element of business. The end goal is to ultimately derive actionable insights from vast amounts of data being collected but it takes a series of activities/tasks to arrive at this juncture. Here is a description of each stage of the analytics life cycle:&lt;/p&gt;
@@ -109,10 +109,10 @@
     
     <item>
       <title>Data Engineers vs. Data Scientists</title>
-      <link>http://andrewrgoss.com/2016/data-engineers-vs.-data-scientists/</link>
+      <link>https://andrewrgoss.com/2016/data-engineers-vs.-data-scientists/</link>
       <pubDate>Thu, 29 Sep 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.com/2016/data-engineers-vs.-data-scientists/</guid>
+      <guid>https://andrewrgoss.com/2016/data-engineers-vs.-data-scientists/</guid>
       <description>&lt;p&gt;Data engineer and data scientist are the two most popular career tracks in big data - but how do they compare? At a high level, data engineers are concerned with data infrastructure, while data scientists are concerned with analysis.&lt;/p&gt;
 
 &lt;p&gt;Like data scientists, data engineers write code. They’re highly analytical, and are interested in data visualization.
@@ -130,11 +130,11 @@ Unlike data scientists — and inspired by a more mature parent, software en
     
     <item>
       <title>Open Data Science Conference East</title>
-      <link>http://andrewrgoss.com/2016/open-data-science-conference-east/</link>
+      <link>https://andrewrgoss.com/2016/open-data-science-conference-east/</link>
       <pubDate>Fri, 20 May 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.com/2016/open-data-science-conference-east/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.odsc.com/boston&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/odsc.png&#34; alt=&#34;Open Data Science Conference&#34; title=&#34;Open Data Science Conference&#34; /&gt;&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+      <guid>https://andrewrgoss.com/2016/open-data-science-conference-east/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.odsc.com/boston&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/odsc.png&#34; alt=&#34;Open Data Science Conference&#34; title=&#34;Open Data Science Conference&#34; /&gt;&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;p&gt;In May 2016 I attended my first &lt;a href=&#34;https://www.odsc.com&#34; target=&#34;_blank&#34;&gt;Open Data Science Conference&lt;/a&gt; in Boston. There were some 3,000+ data science practioners that came together at the Boston Convention &amp;amp; Exhibition Center to share ideas about this rapidly changing discipline. The following topics were covered throughout the conference:&lt;/p&gt;
 
@@ -160,10 +160,10 @@ Unlike data scientists — and inspired by a more mature parent, software en
     
     <item>
       <title>Analytic Disciplines Compared to Data Science</title>
-      <link>http://andrewrgoss.com/2016/analytic-disciplines-compared-to-data-science/</link>
+      <link>https://andrewrgoss.com/2016/analytic-disciplines-compared-to-data-science/</link>
       <pubDate>Mon, 09 May 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.com/2016/analytic-disciplines-compared-to-data-science/</guid>
+      <guid>https://andrewrgoss.com/2016/analytic-disciplines-compared-to-data-science/</guid>
       <description>&lt;p&gt;Came across an excellent article on &lt;a href=&#34;http://www.datasciencecentral.com&#34; target=&#34;_blank&#34;&gt;Data Science Central&lt;/a&gt; that digs into the differences between data science, data mining, machine learning, statistics, operations research, and so on. The author compares several analytic disciplines that overlap to explain the differences and common denominators. Typical job titles, types of analyses, and industries traditionally attached to each discipline are also detailed.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://www.datasciencecentral.com/profiles/blogs/17-analytic-disciplines-compared&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;Read more&lt;/a&gt;&lt;/p&gt;

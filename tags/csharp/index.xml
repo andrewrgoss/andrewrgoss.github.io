@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Csharp on Data Engineer &amp; Software Developer in Boston</title>
-    <link>http://andrewrgoss.com/tags/csharp/</link>
+    <link>https://andrewrgoss.com/tags/csharp/</link>
     <description>Recent content in Csharp on Data Engineer &amp; Software Developer in Boston</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
     <lastBuildDate>Sat, 28 Nov 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://andrewrgoss.com/tags/csharp/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://andrewrgoss.com/tags/csharp/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Udemy- Programming for Beginners in C#</title>
-      <link>http://andrewrgoss.com/2015/udemy--programming-for-beginners-in-c/</link>
+      <link>https://andrewrgoss.com/2015/udemy--programming-for-beginners-in-c/</link>
       <pubDate>Sat, 28 Nov 2015 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>http://andrewrgoss.com/2015/udemy--programming-for-beginners-in-c/</guid>
+      <guid>https://andrewrgoss.com/2015/udemy--programming-for-beginners-in-c/</guid>
       <description>
 
-&lt;p&gt;&lt;img src=&#34;http://andrewrgoss.com/img/post/csharp.png&#34; alt=&#34;C#&#34; title=&#34;C#&#34; /&gt;&lt;br&gt;
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/csharp.png&#34; alt=&#34;C#&#34; title=&#34;C#&#34; /&gt;&lt;br&gt;
 &lt;a href=&#34;https://www.udemy.com/certificate/UC-TT5IFIPW&#34; target=&#34;_blank&#34;&gt;COMPLETION CERTIFICATE&lt;/a&gt;
 &lt;hr&gt;
 I&amp;rsquo;ve worked on Windows servers throughout my career, which initially got me started with this language. Learning some of the Base Class Library (BCL) of the Microsoft .NET Framework and using these classes through C# has helped me automate various tasks within these environments.&lt;/p&gt;
