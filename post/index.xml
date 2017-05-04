@@ -8,8 +8,42 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Thu, 20 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 May 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://andrewrgoss.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Udemy- Complete JavaScript Course</title>
+      <link>https://andrewrgoss.com/2017/udemy--complete-javascript-course/</link>
+      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2017/udemy--complete-javascript-course/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/javascript.png&#34; alt=&#34;JavaScript&#34; title=&#34;JavaScript&#34; /&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.udemy.com/the-complete-javascript-course/learn/&#34; target=&#34;_blank&#34;&gt;COURSE LINK&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://codingheroes.io/resources&#34; target=&#34;_blank&#34;&gt;Design and Coding Resources&lt;/a&gt;&lt;br&gt;
+&lt;hr&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/js_language_basics&#34;&gt;JavaScript language basics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;How JavaScript works behind the scenes&lt;/li&gt;
+&lt;li&gt;JavaScript in the browser: DOM manipulation and events&lt;/li&gt;
+&lt;li&gt;Advanced JavaScript: objections and functions&lt;/li&gt;
+&lt;li&gt;Putting it all together: budget app project&lt;/li&gt;
+&lt;li&gt;Coding challenges&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr&gt;
+
+&lt;h5 id=&#34;course-progress:f84187bd0236cff9ef749957d6953b7f&#34;&gt;Course Progress&lt;/h5&gt;
+
+&lt;progress max=&#34;1.0&#34; value=&#34;0.16&#34;&gt;&lt;/progress&gt;
+
+&lt;p&gt;16% - &lt;font color=&#34;green&#34;&gt;[IN PROGRESS]&lt;/font&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-complete-javascript&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>What is a Productive Data Engineering Team?</title>
@@ -88,36 +122,31 @@
     </item>
     
     <item>
-      <title>Udemy- Complete JavaScript Course</title>
-      <link>https://andrewrgoss.com/2017/udemy--complete-javascript-course/</link>
-      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      <title>The 2017 Big Data Landscape</title>
+      <link>https://andrewrgoss.com/2017/the-2017-big-data-landscape/</link>
+      <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>https://andrewrgoss.com/2017/udemy--complete-javascript-course/</guid>
-      <description>
+      <guid>https://andrewrgoss.com/2017/the-2017-big-data-landscape/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/big_data_landscape_2017.png&#34; alt=&#34;2017 Big Data Landscape&#34; title=&#34;2017 Big Data Landscape&#34; /&gt;&lt;br&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/javascript.png&#34; alt=&#34;JavaScript&#34; title=&#34;JavaScript&#34; /&gt;&lt;br&gt;
-&lt;a href=&#34;https://www.udemy.com/the-complete-javascript-course/learn/&#34; target=&#34;_blank&#34;&gt;COURSE LINK&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://codingheroes.io/resources&#34; target=&#34;_blank&#34;&gt;Design and Coding Resources&lt;/a&gt;&lt;br&gt;
-&lt;hr&gt;&lt;/p&gt;
+&lt;p&gt;Just released - an excellent &amp;ldquo;State of the Union&amp;rdquo; roundup of the key trends in the 2017 data ecosystem. Some high level trends and questions that are explored in this comprehensive article:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/js_language_basics&#34;&gt;JavaScript language basics&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;How JavaScript works behind the scenes&lt;/li&gt;
-&lt;li&gt;JavaScript in the browser: DOM manipulation and events&lt;/li&gt;
-&lt;li&gt;Advanced JavaScript: objections and functions&lt;/li&gt;
-&lt;li&gt;Putting it all together: budget app project&lt;/li&gt;
-&lt;li&gt;Coding challenges&lt;/li&gt;
+&lt;li&gt;Big data + AI = the new stack. &lt;b&gt;Big data provides the pipes, and AI provides the smarts.&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;Enterprise budgets - follow the money&lt;/li&gt;
+&lt;li&gt;Enterprise data moving to the cloud&lt;/li&gt;
+&lt;li&gt;As the big data landscape gets busier every passing year, is big data consolidation coming?&lt;/li&gt;
+&lt;li&gt;The cloud wars&lt;/li&gt;
+&lt;li&gt;The rise of the data team workbench. &lt;b&gt;Success in big data is based on creating an assembly line of technologies, people and processes.&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;AI-powered vertical applications&lt;/li&gt;
+&lt;li&gt;Bots backlash&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;hr&gt;
+&lt;p&gt;With the killer combination of big data and AI (hype aside), the possibilities are enormous. As core infrastructure continues to mature, and the application side, powered by AI, is bursting with activity, in 2017 the big data (and AI) ecosystem is firing on all cylinders.&lt;/p&gt;
 
-&lt;h5 id=&#34;course-progress:f84187bd0236cff9ef749957d6953b7f&#34;&gt;Course Progress&lt;/h5&gt;
+&lt;p&gt;&lt;a href=&#34;http://mattturck.com/bigdata2017&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View the full report&lt;/a&gt;&lt;/p&gt;
 
-&lt;progress max=&#34;1.0&#34; value=&#34;0.14&#34;&gt;&lt;/progress&gt;
-
-&lt;p&gt;14% - &lt;font color=&#34;green&#34;&gt;[IN PROGRESS]&lt;/font&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-complete-javascript&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;sub&gt;*Source: &lt;a href=&#34;http://mattturck.com&#34; target=_&gt;Matt Turck&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -778,36 +807,6 @@ I&amp;rsquo;ve started using Python more for work and took this course to streng
 # Push source and build repos.
 git push origin master
 &lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Open Data Science Conference East</title>
-      <link>https://andrewrgoss.com/2016/open-data-science-conference-east/</link>
-      <pubDate>Fri, 20 May 2016 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>https://andrewrgoss.com/2016/open-data-science-conference-east/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.odsc.com/boston&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/odsc.png&#34; alt=&#34;Open Data Science Conference&#34; title=&#34;Open Data Science Conference&#34; /&gt;&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;In May 2016 I attended my first &lt;a href=&#34;https://www.odsc.com&#34; target=&#34;_blank&#34;&gt;Open Data Science Conference&lt;/a&gt; in Boston. There were some 3,000+ data science practioners that came together at the Boston Convention &amp;amp; Exhibition Center to share ideas about this rapidly changing discipline. The following topics were covered throughout the conference:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Deep Learning&lt;/li&gt;
-&lt;li&gt;Machine Learning&lt;/li&gt;
-&lt;li&gt;Predictive Analytics&lt;/li&gt;
-&lt;li&gt;Python&lt;/li&gt;
-&lt;li&gt;Stan&lt;/li&gt;
-&lt;li&gt;R&lt;/li&gt;
-&lt;li&gt;Julia&lt;/li&gt;
-&lt;li&gt;Hadoop&lt;/li&gt;
-&lt;li&gt;Spark&lt;/li&gt;
-&lt;li&gt;Scikit-learn&lt;/li&gt;
-&lt;li&gt;Natural Language Processing&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I attended sessions on popular data science statistical models and using Python for data science, where we worked through &lt;a href=&#34;https://github.com/brianbelljr/fantasy_football/blob/master/football.ipynb&#34; target=&#34;_blank&#34;&gt;this example&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The workshop materials from the conference are available on &lt;a href=&#34;https://www.opendatascience.com/category/conferences&#34; target=&#34;_blank&#34;&gt;opendatascience.com&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

@@ -8,13 +8,13 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Mon, 03 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 May 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://andrewrgoss.com/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Udemy- Complete JavaScript Course</title>
       <link>https://andrewrgoss.com/2017/udemy--complete-javascript-course/</link>
-      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2017/udemy--complete-javascript-course/</guid>
       <description>
@@ -37,9 +37,9 @@
 
 &lt;h5 id=&#34;course-progress:f84187bd0236cff9ef749957d6953b7f&#34;&gt;Course Progress&lt;/h5&gt;
 
-&lt;progress max=&#34;1.0&#34; value=&#34;0.14&#34;&gt;&lt;/progress&gt;
+&lt;progress max=&#34;1.0&#34; value=&#34;0.16&#34;&gt;&lt;/progress&gt;
 
-&lt;p&gt;14% - &lt;font color=&#34;green&#34;&gt;[IN PROGRESS]&lt;/font&gt;.&lt;/p&gt;
+&lt;p&gt;16% - &lt;font color=&#34;green&#34;&gt;[IN PROGRESS]&lt;/font&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-complete-javascript&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
 </description>

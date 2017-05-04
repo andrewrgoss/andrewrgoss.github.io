@@ -8,8 +8,42 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Thu, 20 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 May 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://andrewrgoss.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Udemy- Complete JavaScript Course</title>
+      <link>https://andrewrgoss.com/2017/udemy--complete-javascript-course/</link>
+      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2017/udemy--complete-javascript-course/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/javascript.png&#34; alt=&#34;JavaScript&#34; title=&#34;JavaScript&#34; /&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.udemy.com/the-complete-javascript-course/learn/&#34; target=&#34;_blank&#34;&gt;COURSE LINK&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://codingheroes.io/resources&#34; target=&#34;_blank&#34;&gt;Design and Coding Resources&lt;/a&gt;&lt;br&gt;
+&lt;hr&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/js_language_basics&#34;&gt;JavaScript language basics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;How JavaScript works behind the scenes&lt;/li&gt;
+&lt;li&gt;JavaScript in the browser: DOM manipulation and events&lt;/li&gt;
+&lt;li&gt;Advanced JavaScript: objections and functions&lt;/li&gt;
+&lt;li&gt;Putting it all together: budget app project&lt;/li&gt;
+&lt;li&gt;Coding challenges&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr&gt;
+
+&lt;h5 id=&#34;course-progress:f84187bd0236cff9ef749957d6953b7f&#34;&gt;Course Progress&lt;/h5&gt;
+
+&lt;progress max=&#34;1.0&#34; value=&#34;0.16&#34;&gt;&lt;/progress&gt;
+
+&lt;p&gt;16% - &lt;font color=&#34;green&#34;&gt;[IN PROGRESS]&lt;/font&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-complete-javascript&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>What is a Productive Data Engineering Team?</title>
@@ -171,36 +205,31 @@
     </item>
     
     <item>
-      <title>Udemy- Complete JavaScript Course</title>
-      <link>https://andrewrgoss.com/2017/udemy--complete-javascript-course/</link>
-      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      <title>The 2017 Big Data Landscape</title>
+      <link>https://andrewrgoss.com/2017/the-2017-big-data-landscape/</link>
+      <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>https://andrewrgoss.com/2017/udemy--complete-javascript-course/</guid>
-      <description>
+      <guid>https://andrewrgoss.com/2017/the-2017-big-data-landscape/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/big_data_landscape_2017.png&#34; alt=&#34;2017 Big Data Landscape&#34; title=&#34;2017 Big Data Landscape&#34; /&gt;&lt;br&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/javascript.png&#34; alt=&#34;JavaScript&#34; title=&#34;JavaScript&#34; /&gt;&lt;br&gt;
-&lt;a href=&#34;https://www.udemy.com/the-complete-javascript-course/learn/&#34; target=&#34;_blank&#34;&gt;COURSE LINK&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://codingheroes.io/resources&#34; target=&#34;_blank&#34;&gt;Design and Coding Resources&lt;/a&gt;&lt;br&gt;
-&lt;hr&gt;&lt;/p&gt;
+&lt;p&gt;Just released - an excellent &amp;ldquo;State of the Union&amp;rdquo; roundup of the key trends in the 2017 data ecosystem. Some high level trends and questions that are explored in this comprehensive article:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/js_language_basics&#34;&gt;JavaScript language basics&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;How JavaScript works behind the scenes&lt;/li&gt;
-&lt;li&gt;JavaScript in the browser: DOM manipulation and events&lt;/li&gt;
-&lt;li&gt;Advanced JavaScript: objections and functions&lt;/li&gt;
-&lt;li&gt;Putting it all together: budget app project&lt;/li&gt;
-&lt;li&gt;Coding challenges&lt;/li&gt;
+&lt;li&gt;Big data + AI = the new stack. &lt;b&gt;Big data provides the pipes, and AI provides the smarts.&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;Enterprise budgets - follow the money&lt;/li&gt;
+&lt;li&gt;Enterprise data moving to the cloud&lt;/li&gt;
+&lt;li&gt;As the big data landscape gets busier every passing year, is big data consolidation coming?&lt;/li&gt;
+&lt;li&gt;The cloud wars&lt;/li&gt;
+&lt;li&gt;The rise of the data team workbench. &lt;b&gt;Success in big data is based on creating an assembly line of technologies, people and processes.&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;AI-powered vertical applications&lt;/li&gt;
+&lt;li&gt;Bots backlash&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;hr&gt;
+&lt;p&gt;With the killer combination of big data and AI (hype aside), the possibilities are enormous. As core infrastructure continues to mature, and the application side, powered by AI, is bursting with activity, in 2017 the big data (and AI) ecosystem is firing on all cylinders.&lt;/p&gt;
 
-&lt;h5 id=&#34;course-progress:f84187bd0236cff9ef749957d6953b7f&#34;&gt;Course Progress&lt;/h5&gt;
+&lt;p&gt;&lt;a href=&#34;http://mattturck.com/bigdata2017&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View the full report&lt;/a&gt;&lt;/p&gt;
 
-&lt;progress max=&#34;1.0&#34; value=&#34;0.14&#34;&gt;&lt;/progress&gt;
-
-&lt;p&gt;14% - &lt;font color=&#34;green&#34;&gt;[IN PROGRESS]&lt;/font&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-complete-javascript&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;sub&gt;*Source: &lt;a href=&#34;http://mattturck.com&#34; target=_&gt;Matt Turck&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -1083,85 +1112,6 @@ A single workflow can invoke a single task or multiple tasks, either in sequence
 upon some control logic.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/big-data-university--hadoop-101/oozie_coordinator.png&#34; alt=&#34;Oozie Coordinator&#34; title=&#34;Oozie Coordinator&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Big Data University- Hadoop 101</title>
-      <link>https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_4_MapReduce/</link>
-      <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_4_MapReduce/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/hadoop.png&#34; alt=&#34;Hadoop&#34; title=&#34;Hadoop&#34; /&gt;&lt;br&gt;
-&lt;a href=&#34;https://andrewrgoss.com/2017/big-data-university--hadoop-101/&#34;&gt;Big Data University- Hadoop 101&lt;/a&gt; &amp;gt;&amp;gt; &lt;a href=&#34;https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs&#34;&gt;Lesson Transcripts/Labs&lt;/a&gt; &amp;gt;&amp;gt; &lt;b&gt;Unit_4_MapReduce&lt;/b&gt;
-&lt;hr&gt;&lt;/p&gt;
-
-&lt;iframe width=&#34;660&#34; height=&#34;371&#34; src=&#34;https://www.youtube.com/embed/sVrSx4zt8ho&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Welcome to Hadoop Fundamentals, Hadoop Components. In this unit I will discuss the MapReduce
-Philosophy, describe the usage of Pig and Hive, talk about how to get data into Hadoop
-through the use of Flume and Sqoop and finally describe how to schedule and control job execution
-using Oozie.&lt;/p&gt;
-
-&lt;p&gt;First I need to set the boundaries for this unit. The components presented in this unit
-are done so at a very high level. The Hadoop environment is littered with a number of open
-source components with funny sounding names. And to some people, it is difficult to understand
-their usage. This unit is merely an attempt to provide you with descriptions of some of
-these components. If you are interested in getting more detail about each of the components
-covered in this unit, then I would direct you to the other Big Data University courses
-that are specific to these components.&lt;/p&gt;
-
-&lt;p&gt;Let us take a look at MapReduce. MapReduce is designed to process very large datasets for
-certain types of distributable problems.
-It attempts to spread the work across a large number of nodes and allows those nodes to
-process the data in parallel. You cannot have dependencies within the data, meaning that
-you cannot have a requirement that one record in a dataset must be processed before another.
-Results from the initial parallel processing are sent to additional nodes where the data
-is combined to allow for further reductions of the data.&lt;/p&gt;
-
-&lt;p&gt;Now let&amp;rsquo;s take a look at how the map and reduce operations working sequence on your
-data to produce the final output. In this case, we will have a job with a single map
-step and a single reduce step. The first step is the map step. It takes a subset of the
-full dataset called an input split and applies to each row in the input split an operation
-that you have written, such as parsing each character string.
-The output data is buffered in memory and spills to disk.
-It is sorted and partitioned by key using the default partitioner.
-A merge sort sorts each partition. There may be multiple map operations running
-in parallel with each other, each one processing a different input split.
-The partitions are shuffled among the reducers. For example, partition 1 goes to reducer 1.
-The second map task also sends its partition 1 to reducer 1.
-Partition 2 goes to another reducer.
-Additional map tasks would act in the same way.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/big-data-university--hadoop-101/mapreduce_distributed_mergesort_engine.png&#34; alt=&#34;MapReduce - Distributed Mergesort Engine&#34; title=&#34;MapReduce - Distributed Mergesort Engine&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Each reducer does its own merge steps and executes the code of your reduce task.
-For example, it could do a sum on the number of occurrences of a particular character string.
-This produces sorted output at each reducer. The data that flows into and out of the mappers
-and reducers takes a specific form. Data enters Hadoop in unstructured form but before it
-gets to the first mapper, Hadoop has changed it into key-value pairs
-with Hadoop supplying its own key. The mapper produces a list of key value pairs.
-Both the key and the value may change from the k1 and v1 that it came in as to a k2 and v2.
-There can now be duplicate keys coming out of the mappers. The shuffle step will take
-care of grouping them together. The output of the shuffle is the input to the reducer
-step. Now, we still have a list of the v2&amp;rsquo;s that came out of the mapper step, but they
-are grouped by their keys and there is no longer more than one record with the same
-key. Finally, coming out of the reducer is, potentially, an entirely new key and value,
-k3 and v3. For example, if your reducer summed the values associated with each k2, your k3
-would be equal to k2 and your v3 would be the sum of the list of v2s.&lt;/p&gt;
-
-&lt;p&gt;Let us look at an example of a simple data flow. Say we want to transform the input on
-the left to the output on the right. On the left, we just have letters. On the right,
-we have counts of the number of occurrences of each letter in the input.
-Hadoop does the first step for us. It turns the input data into key-value pairs and supplies
-its own key: a increasing sequence number. The function we write for the mapper needs
-to take these key-value pairs and produce something that the reduce step can use to
-count occurrences. The simplest solution is make each letter a key and make every value
-a 1. The shuffle groups records having the same
-key together, so we see B now has two values, both 1, associated with it.
-The reduce is simple: it just sums the values it is given to produce a sum for each key.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/big-data-university--hadoop-101/mapreduce_simple_dataflow_example.png&#34; alt=&#34;MapReduce - Simple Data Flow Example&#34; title=&#34;MapReduce - Simple Data Flow Example&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
