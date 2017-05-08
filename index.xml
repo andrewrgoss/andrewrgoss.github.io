@@ -13,6 +13,89 @@
     
     <item>
       <title>Udemy- Complete JavaScript Course</title>
+      <link>https://andrewrgoss.com/2017/udemy--complete-javascript-course/js_language_basics/</link>
+      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2017/udemy--complete-javascript-course/js_language_basics/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/javascript.png&#34; alt=&#34;JavaScript&#34; title=&#34;JavaScript&#34; /&gt;&lt;br&gt;
+&lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/&#34;&gt;Udemy- Complete JavaScript Course&lt;/a&gt; &amp;gt;&amp;gt; &lt;b&gt;JavaScript language basics&lt;/b&gt;
+&lt;hr&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;introduction-to-javascript:107ebea9dbe8e000d775582450c35225&#34;&gt;Introduction to JavaScript&lt;/h2&gt;
+
+&lt;h3 id=&#34;what-is-javascript:107ebea9dbe8e000d775582450c35225&#34;&gt;What is JavaScript?&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;JavaScript is a lightweight, cross-platform, object-oriented computer programming language.&lt;/li&gt;
+&lt;li&gt;JavaScript is one of the three core technologies of web development.&lt;/li&gt;
+&lt;li&gt;JavaScript is most commonly used as part of webpages.&lt;/li&gt;
+&lt;li&gt;Today, JavaScript can be used in different places:
+
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;Client-side: JavaScript was traditionally only used in the browser&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;Server-side: Thanks to node.js, we can use JavaScript on the server as well&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;JavaScript is what made modern web development possible:
+
+&lt;ul&gt;
+&lt;li&gt;Dynamic effects and interactivity;&lt;/li&gt;
+&lt;li&gt;Modern web applications that we can interact with.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;the-role-of-javascript:107ebea9dbe8e000d775582450c35225&#34;&gt;The Role of JavaScript&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/udemy--complete-javascript-course/role_of_js.png&#34; alt=&#34;Role of JavaScript&#34; title=&#34;Role of JavaScript&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;variables-and-data-types:107ebea9dbe8e000d775582450c35225&#34;&gt;Variables and Data Types&lt;/h2&gt;
+
+&lt;h3 id=&#34;primitive-javascript-data-types:107ebea9dbe8e000d775582450c35225&#34;&gt;Primitive JavaScript Data Types&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;Number:&lt;/b&gt; Floating point numbers, for decimals and integers.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;String:&lt;/b&gt; Sequence of characters, used for text.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Boolean:&lt;/b&gt; Logical data type that can only be true or false.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Undefined:&lt;/b&gt; Data type of a variable which does not have a value yet.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Null:&lt;/b&gt; Also means &amp;lsquo;non-existent&amp;rsquo;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;operators:107ebea9dbe8e000d775582450c35225&#34;&gt;Operators&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Operators/Operator_Precedence&#34; target=&#34;_blank&#34;&gt;JavaScript Operator Precedence&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;boolean-logic-and-switch-statements:107ebea9dbe8e000d775582450c35225&#34;&gt;Boolean Logic and Switch Statements&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/udemy--complete-javascript-course/basic_boolean_logic.png&#34; alt=&#34;Basic Boolean Logic&#34; title=&#34;Basic Boolean Logic&#34; /&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Introduction to JavaScript&lt;/li&gt;
+&lt;li&gt;Getting Started with JavaScript&lt;/li&gt;
+&lt;li&gt;Variables and Data Types&lt;/li&gt;
+&lt;li&gt;Variable Mutation and Type Coercion&lt;/li&gt;
+&lt;li&gt;Operators&lt;/li&gt;
+&lt;li&gt;If / else Statements&lt;/li&gt;
+&lt;li&gt;Boolean Logic and Switch Statements&lt;/li&gt;
+&lt;li&gt;Coding Challenge 1&lt;/li&gt;
+&lt;li&gt;Coding Challenge 1: Solution&lt;/li&gt;
+&lt;li&gt;Functions&lt;/li&gt;
+&lt;li&gt;Statements and Expressions&lt;/li&gt;
+&lt;li&gt;Arrays&lt;/li&gt;
+&lt;li&gt;Objects and Properties&lt;/li&gt;
+&lt;li&gt;Objects and Methods&lt;/li&gt;
+&lt;li&gt;Loops and Iteration&lt;/li&gt;
+&lt;li&gt;Coding Challenge 2&lt;/li&gt;
+&lt;li&gt;Coding Challenge 2: Solution&lt;/li&gt;
+&lt;li&gt;Important Note: ES5, ES6 / ES2015 and ES2016&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Udemy- Complete JavaScript Course</title>
       <link>https://andrewrgoss.com/2017/udemy--complete-javascript-course/</link>
       <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
@@ -118,89 +201,6 @@
 &lt;p&gt;&lt;a href=&#34;https://www.oreilly.com/ideas/what-is-a-productive-data-engineering-team&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View original article&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;sub&gt;*Source: &lt;a href=&#34;https://www.oreilly.com&#34; target=_&gt;O’Reilly&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Udemy- Complete JavaScript Course</title>
-      <link>https://andrewrgoss.com/2017/udemy--complete-javascript-course/js_language_basics/</link>
-      <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>https://andrewrgoss.com/2017/udemy--complete-javascript-course/js_language_basics/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/javascript.png&#34; alt=&#34;JavaScript&#34; title=&#34;JavaScript&#34; /&gt;&lt;br&gt;
-&lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/&#34;&gt;Udemy- Complete JavaScript Course&lt;/a&gt; &amp;gt;&amp;gt; &lt;b&gt;JavaScript language basics&lt;/b&gt;
-&lt;hr&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;introduction-to-javascript:107ebea9dbe8e000d775582450c35225&#34;&gt;Introduction to JavaScript&lt;/h2&gt;
-
-&lt;h3 id=&#34;what-is-javascript:107ebea9dbe8e000d775582450c35225&#34;&gt;What is JavaScript?&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;JavaScript is a lightweight, cross-platform, object-oriented computer programming language.&lt;/li&gt;
-&lt;li&gt;JavaScript is one of the three core technologies of web development.&lt;/li&gt;
-&lt;li&gt;JavaScript is most commonly used as part of webpages.&lt;/li&gt;
-&lt;li&gt;Today, JavaScript can be used in different places:
-
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;Client-side: JavaScript was traditionally only used in the browser&lt;/b&gt;&lt;/li&gt;
-&lt;li&gt;Server-side: Thanks to node.js, we can use JavaScript on the server as well&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;JavaScript is what made modern web development possible:
-
-&lt;ul&gt;
-&lt;li&gt;Dynamic effects and interactivity;&lt;/li&gt;
-&lt;li&gt;Modern web applications that we can interact with.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;the-role-of-javascript:107ebea9dbe8e000d775582450c35225&#34;&gt;The Role of JavaScript&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/udemy--complete-javascript-course/role_of_js.png&#34; alt=&#34;Role of JavaScript&#34; title=&#34;Role of JavaScript&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;variables-and-data-types:107ebea9dbe8e000d775582450c35225&#34;&gt;Variables and Data Types&lt;/h2&gt;
-
-&lt;h3 id=&#34;primitive-javascript-data-types:107ebea9dbe8e000d775582450c35225&#34;&gt;Primitive JavaScript Data Types&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;Number:&lt;/b&gt; Floating point numbers, for decimals and integers.&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;String:&lt;/b&gt; Sequence of characters, used for text.&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Boolean:&lt;/b&gt; Logical data type that can only be true or false.&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Undefined:&lt;/b&gt; Data type of a variable which does not have a value yet.&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Null:&lt;/b&gt; Also means &amp;lsquo;non-existent&amp;rsquo;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;operators:107ebea9dbe8e000d775582450c35225&#34;&gt;Operators&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Operators/Operator_Precedence&#34; target=&#34;_blank&#34;&gt;JavaScript Operator Precedence&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;boolean-logic-and-switch-statements:107ebea9dbe8e000d775582450c35225&#34;&gt;Boolean Logic and Switch Statements&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/udemy--complete-javascript-course/basic_boolean_logic.png&#34; alt=&#34;Basic Boolean Logic&#34; title=&#34;Basic Boolean Logic&#34; /&gt;&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Introduction to JavaScript&lt;/li&gt;
-&lt;li&gt;Getting Started with JavaScript&lt;/li&gt;
-&lt;li&gt;Variables and Data Types&lt;/li&gt;
-&lt;li&gt;Variable Mutation and Type Coercion&lt;/li&gt;
-&lt;li&gt;Operators&lt;/li&gt;
-&lt;li&gt;If / else Statements&lt;/li&gt;
-&lt;li&gt;Boolean Logic and Switch Statements&lt;/li&gt;
-&lt;li&gt;Coding Challenge 1&lt;/li&gt;
-&lt;li&gt;Coding Challenge 1: Solution&lt;/li&gt;
-&lt;li&gt;Functions&lt;/li&gt;
-&lt;li&gt;Statements and Expressions&lt;/li&gt;
-&lt;li&gt;Arrays&lt;/li&gt;
-&lt;li&gt;Objects and Properties&lt;/li&gt;
-&lt;li&gt;Objects and Methods&lt;/li&gt;
-&lt;li&gt;Loops and Iteration&lt;/li&gt;
-&lt;li&gt;Coding Challenge 2&lt;/li&gt;
-&lt;li&gt;Coding Challenge 2: Solution&lt;/li&gt;
-&lt;li&gt;Important Note: ES5, ES6 / ES2015 and ES2016&lt;/li&gt;
-&lt;/ol&gt;
 </description>
     </item>
     
