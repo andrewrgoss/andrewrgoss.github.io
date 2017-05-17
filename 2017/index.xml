@@ -13,6 +13,20 @@
     
     <item>
       <title>Udemy- Complete JavaScript Course</title>
+      <link>https://andrewrgoss.com/2017/udemy--complete-javascript-course/how_js_works_behind/</link>
+      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2017/udemy--complete-javascript-course/how_js_works_behind/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/javascript.png&#34; alt=&#34;JavaScript&#34; title=&#34;JavaScript&#34; /&gt;&lt;br&gt;
+&lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/&#34;&gt;Udemy- Complete JavaScript Course&lt;/a&gt; &amp;gt;&amp;gt; &lt;b&gt;How JavaScript Works Behind the Scenes&lt;/b&gt;
+&lt;hr&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/udemy--complete-javascript-course/js_code_what_happens.png&#34; alt=&#34;What Happens to JS Code?&#34; title=&#34;What Happens to JS Code?&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Udemy- Complete JavaScript Course</title>
       <link>https://andrewrgoss.com/2017/udemy--complete-javascript-course/js_language_basics/</link>
       <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
@@ -71,6 +85,9 @@
 
 &lt;hr&gt;
 
+&lt;p&gt;For these sections, my code lives on Github:&amp;nbsp;&amp;nbsp;&amp;nbsp;
+&lt;a href=&#34;https://github.com/andrewrgoss/udemy-complete-javascript/tree/master/2-js-basics&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View GitHub Repo&lt;/a&gt;&lt;/p&gt;
+
 &lt;ol&gt;
 &lt;li&gt;Introduction to JavaScript&lt;/li&gt;
 &lt;li&gt;Getting Started with JavaScript&lt;/li&gt;
@@ -89,8 +106,13 @@
 &lt;li&gt;Loops and Iteration&lt;/li&gt;
 &lt;li&gt;Coding Challenge 2&lt;/li&gt;
 &lt;li&gt;Coding Challenge 2: Solution&lt;/li&gt;
-&lt;li&gt;Important Note: ES5, ES6 / ES2015 and ES2016&lt;/li&gt;
 &lt;/ol&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;Important Note: ES5, ES6 / ES2015 and ES2016&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/udemy--complete-javascript-course/js_history.png&#34; alt=&#34;JavaScript History&#34; title=&#34;JavaScript History&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     

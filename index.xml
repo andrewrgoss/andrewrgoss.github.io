@@ -13,6 +13,20 @@
     
     <item>
       <title>Udemy- Complete JavaScript Course</title>
+      <link>https://andrewrgoss.com/2017/udemy--complete-javascript-course/how_js_works_behind/</link>
+      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2017/udemy--complete-javascript-course/how_js_works_behind/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/javascript.png&#34; alt=&#34;JavaScript&#34; title=&#34;JavaScript&#34; /&gt;&lt;br&gt;
+&lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/&#34;&gt;Udemy- Complete JavaScript Course&lt;/a&gt; &amp;gt;&amp;gt; &lt;b&gt;How JavaScript Works Behind the Scenes&lt;/b&gt;
+&lt;hr&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/udemy--complete-javascript-course/js_code_what_happens.png&#34; alt=&#34;What Happens to JS Code?&#34; title=&#34;What Happens to JS Code?&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Udemy- Complete JavaScript Course</title>
       <link>https://andrewrgoss.com/2017/udemy--complete-javascript-course/js_language_basics/</link>
       <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
@@ -71,6 +85,9 @@
 
 &lt;hr&gt;
 
+&lt;p&gt;For these sections, my code lives on Github:&amp;nbsp;&amp;nbsp;&amp;nbsp;
+&lt;a href=&#34;https://github.com/andrewrgoss/udemy-complete-javascript/tree/master/2-js-basics&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View GitHub Repo&lt;/a&gt;&lt;/p&gt;
+
 &lt;ol&gt;
 &lt;li&gt;Introduction to JavaScript&lt;/li&gt;
 &lt;li&gt;Getting Started with JavaScript&lt;/li&gt;
@@ -89,8 +106,13 @@
 &lt;li&gt;Loops and Iteration&lt;/li&gt;
 &lt;li&gt;Coding Challenge 2&lt;/li&gt;
 &lt;li&gt;Coding Challenge 2: Solution&lt;/li&gt;
-&lt;li&gt;Important Note: ES5, ES6 / ES2015 and ES2016&lt;/li&gt;
 &lt;/ol&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;Important Note: ES5, ES6 / ES2015 and ES2016&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/udemy--complete-javascript-course/js_history.png&#34; alt=&#34;JavaScript History&#34; title=&#34;JavaScript History&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -109,7 +131,7 @@
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/js_language_basics&#34;&gt;JavaScript language basics&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;How JavaScript works behind the scenes&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/how_js_works_behind&#34;&gt;How JavaScript works behind the scenes&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;JavaScript in the browser: DOM manipulation and events&lt;/li&gt;
 &lt;li&gt;Advanced JavaScript: objections and functions&lt;/li&gt;
 &lt;li&gt;Putting it all together: budget app project&lt;/li&gt;
@@ -1036,82 +1058,6 @@ To make Hadoop aware of the clusters topology, you code a script that receives a
 one or more ip addresses of nodes in the cluster. The script returns on stdout, a list of rack
 names, one for each input value. Then you update core-site.xml and modify the topology.script.file.name
 property to point to your script.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Big Data University- Hadoop 101</title>
-      <link>https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_4_Flume_Sqoop_Oozie/</link>
-      <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_4_Flume_Sqoop_Oozie/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/hadoop.png&#34; alt=&#34;Hadoop&#34; title=&#34;Hadoop&#34; /&gt;&lt;br&gt;
-&lt;a href=&#34;https://andrewrgoss.com/2017/big-data-university--hadoop-101/&#34;&gt;Big Data University- Hadoop 101&lt;/a&gt; &amp;gt;&amp;gt; &lt;a href=&#34;https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs&#34;&gt;Lesson Transcripts/Labs&lt;/a&gt; &amp;gt;&amp;gt; &lt;b&gt;Unit_4_Flume_Sqoop_Oozie&lt;/b&gt;
-&lt;hr&gt;&lt;/p&gt;
-
-&lt;iframe width=&#34;660&#34; height=&#34;371&#34; src=&#34;https://www.youtube.com/embed/VL89pHMU1lw&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Now let us look at moving data into Hadoop. We will begin by looking at Flume&amp;rsquo;s architecture,
-then examining the three modes it can run in followed by a look at the event data model.
-Flume is an open source software program developed by Cloudera that acts as a service for aggregating
-and moving large amounts of data around a Hadoop cluster as the data is produced or
-shortly thereafter. Its primary use case is the gathering of log files from all the machines
-in a cluster to persist them in a centralized store such as HDFS.&lt;/p&gt;
-
-&lt;p&gt;This topic is not intended to cover all aspects of Sqoop but to give you an idea of the capabilities
-of Sqoop. Sqoop is an open source product designed to
-transfer data between relational database systems and Hadoop. It uses JDBC to access
-the relational systems. Sqoop accesses the database in order to understand the schema
-of the data. It then generates a MapReduce application to import or export the data.
-When you use Sqoop to import data into Hadoop, Sqoop generates a Java class that encapsulates
-one row of the imported table. You have access to the source code for the generate class.
-This can allow you to quickly develop any other MapReduce applications that use the
-records that Sqoop stored into HDFS.&lt;/p&gt;
-
-&lt;p&gt;In Flume, you create data flows by building
-up chains of logical nodes and connecting them to sources and sinks. For
-example, say you wish to move data from an Apache access log into HDFS. You create
-a source by tailing access.log and use a logical node to route this to an HDFS sink.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/big-data-university--hadoop-101/flume_architecture_1.png&#34; alt=&#34;Flume Architecture 1&#34; title=&#34;Flume Architecture 1&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Most production Flume deployments have a three tier design. The agent tier consists
-of Flume agents co-located with the source of the data that is to be moved. The
-collector tier consists of perhaps multiple collectors each of which collects data
-coming in from multiple agents and forwards it on to the storage tier which may
-consist of a file system such as HDFS.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/big-data-university--hadoop-101/flume_architecture_2.png&#34; alt=&#34;Flume Architecture 2&#34; title=&#34;Flume Architecture 2&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Here is an example of such a design. Say we
-have four http server nodes producing log files labelled httpd_logx where x is a
-number between 1 and 4. Each of these http server nodes has a Flume agent process
-running on it. There are two collector nodes. Collector1 is configured to take data
-from Agent1 and Agent2 and route it to HDFS. Collector2 is configured to take data
-from Agent3 and Agent4 and route it to HDFS. Having multiple collector processes
-allows one to increase the parallelism in which data flows into HDFS from the web servers.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/big-data-university--hadoop-101/flume_architecture_3.png&#34; alt=&#34;Flume Architecture 3&#34; title=&#34;Flume Architecture 3&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Oozie is an open source job control component used to manage Hadoop jobs.
-Oozie workflows are collections of actions arranged in a Direct Acyclic Graph. There
-is a control dependency between actions in that a second action cannot run until the
-proceeding action completes. For example, you have the capability of having one job
-execute only when a previous job completed successfully. You can specify that several
-jobs are permitted to execute in parallel but a final job must wait to begin executing
-until all parallel jobs complete. Workflows are written in hPDL an XML process definition
-language, and are stored in a file called workflow.xml.&lt;/p&gt;
-
-&lt;p&gt;Each workflow action starts jobs in some remote system and that remote system performs a callback
-to Oozie to notify that the action completed. The coordinator component can invoke workflows
-based upon a time interval, that is for example, once every 15 minutes, or based upon the availability
-of specific data. It might also be necessary to connect workflow jobs that run regularly
-but at different time intervals. For example, you may want the output of the last four jobs
-that run every 15 minutes to be the input to a job that runs every hour.
-A single workflow can invoke a single task or multiple tasks, either in sequence or based
-upon some control logic.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/big-data-university--hadoop-101/oozie_coordinator.png&#34; alt=&#34;Oozie Coordinator&#34; title=&#34;Oozie Coordinator&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
