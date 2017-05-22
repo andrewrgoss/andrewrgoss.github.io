@@ -26,6 +26,16 @@
 &lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/udemy--complete-javascript-course/execution_contexts.png&#34; alt=&#34;Execution Contexts&#34; title=&#34;Execution Contexts&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/udemy--complete-javascript-course/execution_stack.png&#34; alt=&#34;Execution Stack&#34; title=&#34;Execution Stack&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/udemy--complete-javascript-course/execution_context_detail.png&#34; alt=&#34;Execution Context in Detail&#34; title=&#34;Execution Context in Detail&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/udemy--complete-javascript-course/variable_object.png&#34; alt=&#34;Variable Object&#34; title=&#34;Variable Object&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/udemy--complete-javascript-course/js_scoping.png&#34; alt=&#34;Scoping in JavaScript&#34; title=&#34;Scoping in JavaScript&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/udemy--complete-javascript-course/scope_chain.png&#34; alt=&#34;Scope Chain&#34; title=&#34;Scope Chain&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/udemy--complete-javascript-course/scope_chain.png&#34; alt=&#34;Execution Stack vs. Scope Chain&#34; title=&#34;Execution Stack vs. Scope Chain&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -146,9 +156,9 @@
 
 &lt;h5 id=&#34;course-progress:f84187bd0236cff9ef749957d6953b7f&#34;&gt;Course Progress&lt;/h5&gt;
 
-&lt;progress max=&#34;1.0&#34; value=&#34;0.25&#34;&gt;&lt;/progress&gt;
+&lt;progress max=&#34;1.0&#34; value=&#34;0.28&#34;&gt;&lt;/progress&gt;
 
-&lt;p&gt;25% - &lt;font color=&#34;green&#34;&gt;[IN PROGRESS]&lt;/font&gt;.&lt;/p&gt;
+&lt;p&gt;28% - &lt;font color=&#34;green&#34;&gt;[IN PROGRESS]&lt;/font&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-complete-javascript&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
 </description>
