@@ -27,7 +27,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/js_language_basics&#34;&gt;JavaScript language basics&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/how_js_works_behind&#34;&gt;How JavaScript works behind the scenes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;JavaScript in the browser: DOM manipulation and events&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/js_browser&#34;&gt;JavaScript in the browser: DOM manipulation and events&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Advanced JavaScript: objections and functions&lt;/li&gt;
 &lt;li&gt;Putting it all together: budget app project&lt;/li&gt;
 &lt;li&gt;Coding challenges&lt;/li&gt;
@@ -35,11 +35,17 @@
 
 &lt;hr&gt;
 
+&lt;h5 id=&#34;my-projects:f84187bd0236cff9ef749957d6953b7f&#34;&gt;My Projects&lt;/h5&gt;
+
+&lt;p&gt;DOM Pig Game&lt;/p&gt;
+
+&lt;hr&gt;
+
 &lt;h5 id=&#34;course-progress:f84187bd0236cff9ef749957d6953b7f&#34;&gt;Course Progress&lt;/h5&gt;
 
-&lt;progress max=&#34;1.0&#34; value=&#34;0.29&#34;&gt;&lt;/progress&gt;
+&lt;progress max=&#34;1.0&#34; value=&#34;0.36&#34;&gt;&lt;/progress&gt;
 
-&lt;p&gt;29% - &lt;font color=&#34;green&#34;&gt;[IN PROGRESS]&lt;/font&gt;.&lt;/p&gt;
+&lt;p&gt;36% - &lt;font color=&#34;green&#34;&gt;[IN PROGRESS]&lt;/font&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-complete-javascript&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
 </description>

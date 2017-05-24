@@ -43,6 +43,26 @@
     
     <item>
       <title>Udemy- Complete JavaScript Course</title>
+      <link>https://andrewrgoss.com/2017/udemy--complete-javascript-course/js_browser/</link>
+      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2017/udemy--complete-javascript-course/js_browser/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/javascript.png&#34; alt=&#34;JavaScript&#34; title=&#34;JavaScript&#34; /&gt;&lt;br&gt;
+&lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/&#34;&gt;Udemy- Complete JavaScript Course&lt;/a&gt; &amp;gt;&amp;gt; &lt;b&gt;JavaScript in the Browser: DOM Manipulation and Events&lt;/b&gt;
+&lt;hr&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/udemy--complete-javascript-course/document_object_model.png&#34; alt=&#34;Document Object Model&#34; title=&#34;Document Object Model&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/udemy--complete-javascript-course/dom_manipulation.png&#34; alt=&#34;DOM Manipulation&#34; title=&#34;DOM Manipulation&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/udemy--complete-javascript-course/what_are_events.png&#34; alt=&#34;What Are Events?&#34; title=&#34;What Are Events?&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/udemy--complete-javascript-course/how_events_processed.png&#34; alt=&#34;How Events Are Processed&#34; title=&#34;How Events Are Processed&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Udemy- Complete JavaScript Course</title>
       <link>https://andrewrgoss.com/2017/udemy--complete-javascript-course/js_language_basics/</link>
       <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
@@ -148,7 +168,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/js_language_basics&#34;&gt;JavaScript language basics&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/how_js_works_behind&#34;&gt;How JavaScript works behind the scenes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;JavaScript in the browser: DOM manipulation and events&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/js_browser&#34;&gt;JavaScript in the browser: DOM manipulation and events&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Advanced JavaScript: objections and functions&lt;/li&gt;
 &lt;li&gt;Putting it all together: budget app project&lt;/li&gt;
 &lt;li&gt;Coding challenges&lt;/li&gt;
@@ -156,11 +176,17 @@
 
 &lt;hr&gt;
 
+&lt;h5 id=&#34;my-projects:f84187bd0236cff9ef749957d6953b7f&#34;&gt;My Projects&lt;/h5&gt;
+
+&lt;p&gt;DOM Pig Game&lt;/p&gt;
+
+&lt;hr&gt;
+
 &lt;h5 id=&#34;course-progress:f84187bd0236cff9ef749957d6953b7f&#34;&gt;Course Progress&lt;/h5&gt;
 
-&lt;progress max=&#34;1.0&#34; value=&#34;0.29&#34;&gt;&lt;/progress&gt;
+&lt;progress max=&#34;1.0&#34; value=&#34;0.36&#34;&gt;&lt;/progress&gt;
 
-&lt;p&gt;29% - &lt;font color=&#34;green&#34;&gt;[IN PROGRESS]&lt;/font&gt;.&lt;/p&gt;
+&lt;p&gt;36% - &lt;font color=&#34;green&#34;&gt;[IN PROGRESS]&lt;/font&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-complete-javascript&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -974,106 +1000,6 @@ by default, there is a replica on at least two racks. When the client is done wr
 to the DataNode pipeline and has received acknowledgements, it tells the NameNode that
 the write has completed. The NameNode then checks that the blocks are at least minimally
 replicated before responding.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Big Data University- Hadoop 101</title>
-      <link>https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_3_Hadoop_Administration/</link>
-      <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_3_Hadoop_Administration/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/hadoop.png&#34; alt=&#34;Hadoop&#34; title=&#34;Hadoop&#34; /&gt;&lt;br&gt;
-&lt;a href=&#34;https://andrewrgoss.com/2017/big-data-university--hadoop-101/&#34;&gt;Big Data University- Hadoop 101&lt;/a&gt; &amp;gt;&amp;gt; &lt;a href=&#34;https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs&#34;&gt;Lesson Transcripts/Labs&lt;/a&gt; &amp;gt;&amp;gt; &lt;b&gt;Unit_3_Hadoop_Administration&lt;/b&gt;
-&lt;hr&gt;&lt;/p&gt;
-
-&lt;iframe width=&#34;660&#34; height=&#34;371&#34; src=&#34;https://www.youtube.com/embed/LtGliUam-_U&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Welcome to the unit on Hadoop Administration. The agenda covers adding nodes to a cluster,
-verifying the health of a cluster, and stopping / starting components. Then the unit covers
-configuring Hadoop and setting up rack topology.
-Let&amp;rsquo;s begin with adding and removing nodes from a cluster.&lt;/p&gt;
-
-&lt;p&gt;Adding nodes can be performed from the Ambari Console. To do so requires either the ip address
-or hostname of the node to be added. The node to be added must also be reachable. And as
-a matter of fact, it works both ways. The master and child nodes must all be able to
-communicate with each other. In this case, a child node refers to the node that is being
-added. It may not have BigInsights already installed on it. When the node is added to
-a cluster, the BigInsights code is transferred to the new node and installed.
-From the Ambari Console you navigate to the Hosts tab and, on the left side, under Actions
-select Add New Hosts. You are then presented with a dialog that allows you to specify one
-or more nodes to be added. You may type in ip address, hostnames or any combination thereof.
-You can even specify an ipaddress range or a regular expression with your hostname.
-Once the nodes have been added, you define which services are to be hosted on those nodes.
-You can select multiple services for one or more nodes.
-Services can also be removed from a node.&lt;/p&gt;
-
-&lt;p&gt;As a matter of fact, if you are using the Ambari Console to remove a node, you must
-first remove all services from that node. Depending on which services are running on
-a node, you select which are to be removed. When there are no services running on a node,
-it can be removed using the Ambari Console.
-Next let us discuss verifying the heath of your cluster.
-You are able to view all of the nodes in the cluster, see the status of each node and which
-services are running on each node.
-From the command line you can run the DFS Disk Check report. This lets you see how
-much space is still available on each DataNode.&lt;/p&gt;
-
-&lt;p&gt;Next let us look at start and stopping components and services.
-In order to save some resources, you may only want to start a subset of the Hadoop
-components . Using Ambari, navigate to the Services tab and choose a service from the
-left that you would like to stop or start. When the services main page appears on the
-right side under Service Actions you can start or stop that service.
-All services can be stopped or started from the main Dashboard
-Now let us look at how to configure Hadoop.&lt;/p&gt;
-
-&lt;p&gt;Hadoop is configured using a number of XML files. And each file controls a number of
-parameters. There are three main configuration files with which you will work.
-core-site.xml is used to configure the parameters that are common to both HDFS and
-MapReduce. hdfs-site.xml contains parameters that
-are for the HDFS daemons, like the NameNode and DataNodes.
-mapred-site.xml controls the settings for MapReduce daemons, JobTracker and TaskTrackers.
-We are not going to spend the time covering all of the configuration files. That would
-just take too much time. However, you do have the option of pausing this video if you would
-like to read the descriptions of the other configuration files.&lt;/p&gt;
-
-&lt;p&gt;The hadoop-env.sh is a script that sets a number of environment variables. Normally,
-with Hadoop, these variables are not set but with BigInsights, they are. There is one that
-must always be set and that is the &lt;code&gt;JAVA_HOME&lt;/code&gt; environment variable.
-Here are some of the settings found in core-site.xml. We are not going to spend time on these nor
-those on this page as well. If you want to pause the video to read their description,
-feel free to do so.&lt;/p&gt;
-
-&lt;p&gt;Next we have some setting in hdfs-site.xml. If you want to set a different value for the
-default block size, then you would modify dfs.block.size. Likewise, if you want to change
-the default replication factor, then you would modify dfs.replication. Once again, I am not
-going to cover all the parameters.&lt;/p&gt;
-
-&lt;p&gt;To change MapReduce settings, you modify mapred-site.xml. You can control which nodes can connect to
-the JobTracker. Mapreduce.job.reduces lets you set the number
-of reduce tasks per job. mapreduce.map.speculative. execution allows the JobTracker, when having
-determined that there might be a problem with one map task, to start another map task running
-in parallel. Both map tasks process the same data and, upon successful completion of one
-of the tasks, the other is terminated. mapreduce.tasktracker.map.tasks.maximum and mapreduce.tasktracker.reduce.tasks.maximum
-lets you define the number of slots on a TaskTracker that can run map and reduce task.
-mapreduce.jobtracker.taskScheduler points to the scheduler that is to be used for MapReduce
-jobs.&lt;/p&gt;
-
-&lt;p&gt;So how do you set these parameters? First of all, you must stop the appropriate service
-or services before making the change. You are making changes to value element for the
-appropriate property element. The configuration files are in the hadoop-client/conf directory.
-The changes must be made to the configuration files on all nodes in the cluster.
-Let me spend a few minutes and focus on BigInsights. With BigInsights the hadoop-conf directory
-is under &lt;code&gt;$BIGINSIGHTS_HOME&lt;/code&gt;. But, and this is very important, you do not make changes
-to the configuration files in that directory. BigInsights has a staging directory which
-is &lt;code&gt;$BIGINSIGHTS_HOME/hdm/hadoop-conf-staging&lt;/code&gt; that has copies of the configuration files.
-You make changes to the files in this staging directory and then execute a script that distributes
-the changes to all nodes in the cluster.&lt;/p&gt;
-
-&lt;p&gt;Finally, let us talk about setting up rack topology.
-To make Hadoop aware of the clusters topology, you code a script that receives as arguments,
-one or more ip addresses of nodes in the cluster. The script returns on stdout, a list of rack
-names, one for each input value. Then you update core-site.xml and modify the topology.script.file.name
-property to point to your script.&lt;/p&gt;
 </description>
     </item>
     
