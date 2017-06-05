@@ -12,6 +12,34 @@
     <atom:link href="https://andrewrgoss.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>DOM Pig Game</title>
+      <link>https://andrewrgoss.com/projects/dom_pig_game/</link>
+      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/projects/dom_pig_game/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;https://andrewrgoss.com/udemy-complete-javascript/dom-pig-game&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://andrewrgoss.com/img/projects/dom_pig_game.png&#34; alt=&#34;DOM Pig Game&#34;&gt;&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/&#34;&gt;Udemy- Complete JavaScript Course&lt;/a&gt; &amp;gt;&amp;gt; &lt;b&gt;My projects&lt;/b&gt;&lt;br&gt;
+&lt;hr&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;game-rules:229eedee5891aa94a277619cf36534ac&#34;&gt;GAME RULES:&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The game has 2 players, playing in rounds&lt;/li&gt;
+&lt;li&gt;In each turn, a player rolls a dice as many times as he/she wishes. Each result get added to his ROUND score&lt;/li&gt;
+&lt;li&gt;BUT, if the player rolls a 1, all his/her ROUND score gets lost. After that, it&amp;rsquo;s the next player&amp;rsquo;s turn&lt;/li&gt;
+&lt;li&gt;The player can choose to &amp;lsquo;Hold&amp;rsquo;, which means that his/her ROUND score gets added to the GLOBAL score. After that, it&amp;rsquo;s the next player&amp;rsquo;s turn&lt;/li&gt;
+&lt;li&gt;The first player to reach 100 points on GLOBAL score wins the game&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://andrewrgoss.com/udemy-complete-javascript/dom-pig-game&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my project&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-complete-javascript/tree/gh-pages/dom-pig-game&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Udemy- Complete JavaScript Course</title>
       <link>https://andrewrgoss.com/2017/udemy--complete-javascript-course/how_js_works_behind/</link>
       <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
@@ -178,7 +206,7 @@
 
 &lt;h5 id=&#34;my-projects:f84187bd0236cff9ef749957d6953b7f&#34;&gt;My Projects&lt;/h5&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://andrewrgoss.com/udemy-complete-javascript/dom-pig-game&#34; target=&#34;_blank&#34;&gt;DOM Pig Game&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://andrewrgoss.com/projects/dom_pig_game&#34;&gt;DOM Pig Game&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr&gt;
 
@@ -911,95 +939,6 @@ it monitors for any failing tasks that need to be rescheduled on a different
 TaskTracker. To achieve the parallelism for your map and reduce tasks, there are many
 TaskTrackers in a Hadoop cluster. Each TaskTracker spawns Java Virtual Machines to run your map
 or reduce task. It communicates with the JobTracker and reads blocks from DataNodes.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Big Data University- Hadoop 101</title>
-      <link>https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_2_Hadoop_Architecture_Part2/</link>
-      <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_2_Hadoop_Architecture_Part2/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/hadoop.png&#34; alt=&#34;Hadoop&#34; title=&#34;Hadoop&#34; /&gt;&lt;br&gt;
-&lt;a href=&#34;https://andrewrgoss.com/2017/big-data-university--hadoop-101/&#34;&gt;Big Data University- Hadoop 101&lt;/a&gt; &amp;gt;&amp;gt; &lt;a href=&#34;https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs&#34;&gt;Lesson Transcripts/Labs&lt;/a&gt; &amp;gt;&amp;gt; &lt;b&gt;Unit_2_Hadoop_Architecture_Part2&lt;/b&gt;
-&lt;hr&gt;&lt;/p&gt;
-
-&lt;iframe width=&#34;660&#34; height=&#34;371&#34; src=&#34;https://www.youtube.com/embed/iJmJhxIsmb8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Hadoop 2.2 brought about architectural changes to MapReduce. As Hadoop has matured, people
-have found that it can be used for more than running MapReduce jobs. But to keep each new
-framework from having its own resource manager and scheduler, that would compete with the
-other framework resource managers and schedulers, it was decided to have the recourse manager
-and schedulers to be external to any framework. This new architecture is called YARN. (Yet
-Another Resource Negotiator) . You still have DataNodes but there are no longer TaskTrackers
-and the JobTracker. You are not required to run YARN with Hadoop 2.2. as MapReduce V1 is
-still supported.&lt;/p&gt;
-
-&lt;p&gt;There are two main ideas with YARN. Provide generic scheduling and resource management. This way Hadoop can support more than just
-MapReduce. The other is to try to provide a more efficient scheduling and workload management.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/big-data-university--hadoop-101/yarn.png&#34; alt=&#34;YARN&#34; title=&#34;YARN&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;With MapReduce V1, the administrator had to define how many
-map slots and how many reduce slots there were on each node. Since the hardware capabilities
-for each node in a Hadoop cluster can vary, for performance reasons, you might want to
-limit the number of tasks on certain nodes. With YARN, this is no longer required.
-With YARN, the resource manager is aware of the capabilities of each node via communication
-with the NodeManager running on each node. When an application gets invoked , an Application
-Master gets started. The Application Master is then responsible for negotiating resources
-from the ResourceManager. These resources are assigned to Containers on each slave-node
-and you can think that tasks then run in Containers. With this architecture, you are no longer
-forced into a one size fits all. The NameNode is a single point of failure.&lt;/p&gt;
-
-&lt;p&gt;Is there anything that can be done about that? Hadoop now supports high availability. In
-this setup, there are now two NameNodes, one active and one standby.&lt;/p&gt;
-
-&lt;p&gt;Also, now there are JournalNodes. There must be at least three and there must be an odd
-number. Only one of the NameNodes can be active at a time. It is the JournalNodes, working
-together , that decide which of the NameNodes is to be the active one and if the active
-NameNode has been lost and whether the backup NameNode should take over.&lt;/p&gt;
-
-&lt;p&gt;The NameNode loads the metadata for the file system into memory. This is the reason that
-we said that NameNodes needed large amounts of RAM. But you are going to be limited at
-some point when you use this vertical growth model. Hadoop Federation allows you to grow
-your system horizontally. This setup also utilizes multiple NameNodes. But they act
-independently. However, they do all share all of the DataNodes. Each NameNode has its
-own namespace and therefore has control over its own set of files. For example, one file
-that has blocks on DataNode 1 and DataNode 2 might be owned by NameNode 1. NameNode 2
-might own a file that has blocks on DataNode 2 and DataNode 3. And NameNode 3 might have
-a file with blocks on all three DataNodes.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/big-data-university--hadoop-101/hadoop_federation.png&#34; alt=&#34;Hadoop Federation&#34; title=&#34;Hadoop Federation&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Hadoop has awareness of the topology of the network. This allows it to optimize where
-it sends the computations to be applied to the data. Placing the work as close as possible
-to the data it operates on maximizes the bandwidth available for reading the data. In the diagram,
-the data we wish to apply processing to is block B1, the dark blue rectangle on node
-n1 on rack 1. When deciding which TaskTracker should receive a MapTask that reads data from
-B1, the best option is to choose the TaskTracker that runs on the same node as the data. If
-we can&amp;rsquo;t place the computation on the same node, our next best option is to place it
-on a node in the same rack as the data. The worst case that Hadoop currently supports
-is when the computation must be processed from a node in a different rack than the data.
-When rack-awareness is configured for your cluster, Hadoop will always try to run the
-task on the TaskTracker node with the highest bandwidth access to the data.&lt;/p&gt;
-
-&lt;p&gt;Let us walk through an example of how a file gets written to HDFS. First, the client submits
-a &amp;ldquo;create&amp;rdquo; request to the NameNode. The NameNode checks that the file does not already exist
-and the client has permission to write the file. If that succeeds, the NameNode determines
-the DataNode to where the first block is to be written. If the client is running on a
-DataNode, it will try to place it there. Otherwise, it chooses DataNode at random. By default,
-data is replicated to two other places in the cluster. A pipeline is built between the
-three DataNodes that make up the pipeline. The second DataNode is a randomly chosen node
-on a rack other than that of the first replica of the block. This is to increase redundancy.
-The final replica is placed on a random node within the same rack as the second replica.
-The data is piped from the second DataNode to the third. To ensure the write was successful
-before continuing, acknowledgment packets are sent from the third DataNode to the second,
-From the second DataNode to the first And from the first DataNode to the client This
-process occurs for each of the blocks that makes up the file Notice that, for every block,
-by default, there is a replica on at least two racks. When the client is done writing
-to the DataNode pipeline and has received acknowledgements, it tells the NameNode that
-the write has completed. The NameNode then checks that the blocks are at least minimally
-replicated before responding.&lt;/p&gt;
 </description>
     </item>
     

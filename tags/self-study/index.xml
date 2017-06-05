@@ -12,6 +12,34 @@
     <atom:link href="https://andrewrgoss.com/tags/self-study/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>DOM Pig Game</title>
+      <link>https://andrewrgoss.com/projects/dom_pig_game/</link>
+      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/projects/dom_pig_game/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;https://andrewrgoss.com/udemy-complete-javascript/dom-pig-game&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://andrewrgoss.com/img/projects/dom_pig_game.png&#34; alt=&#34;DOM Pig Game&#34;&gt;&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/&#34;&gt;Udemy- Complete JavaScript Course&lt;/a&gt; &amp;gt;&amp;gt; &lt;b&gt;My projects&lt;/b&gt;&lt;br&gt;
+&lt;hr&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;game-rules:229eedee5891aa94a277619cf36534ac&#34;&gt;GAME RULES:&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The game has 2 players, playing in rounds&lt;/li&gt;
+&lt;li&gt;In each turn, a player rolls a dice as many times as he/she wishes. Each result get added to his ROUND score&lt;/li&gt;
+&lt;li&gt;BUT, if the player rolls a 1, all his/her ROUND score gets lost. After that, it&amp;rsquo;s the next player&amp;rsquo;s turn&lt;/li&gt;
+&lt;li&gt;The player can choose to &amp;lsquo;Hold&amp;rsquo;, which means that his/her ROUND score gets added to the GLOBAL score. After that, it&amp;rsquo;s the next player&amp;rsquo;s turn&lt;/li&gt;
+&lt;li&gt;The first player to reach 100 points on GLOBAL score wins the game&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://andrewrgoss.com/udemy-complete-javascript/dom-pig-game&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my project&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-complete-javascript/tree/gh-pages/dom-pig-game&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Udemy- Complete JavaScript Course</title>
       <link>https://andrewrgoss.com/2017/udemy--complete-javascript-course/</link>
       <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
@@ -37,7 +65,7 @@
 
 &lt;h5 id=&#34;my-projects:f84187bd0236cff9ef749957d6953b7f&#34;&gt;My Projects&lt;/h5&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://andrewrgoss.com/udemy-complete-javascript/dom-pig-game&#34; target=&#34;_blank&#34;&gt;DOM Pig Game&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://andrewrgoss.com/projects/dom_pig_game&#34;&gt;DOM Pig Game&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr&gt;
 
@@ -202,7 +230,7 @@ I&amp;rsquo;ve worked on Windows servers throughout my career, which initially g
     <item>
       <title>Scratch - Wind Power</title>
       <link>https://andrewrgoss.com/projects/scratch/</link>
-      <pubDate>Fri, 02 Jan 2015 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 18 Feb 2014 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/projects/scratch/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/projects/scratch.jpg&#34; alt=&#34;Scratch&#34; title=&#34;Scratch&#34; /&gt;&lt;br&gt;
@@ -210,11 +238,17 @@ I&amp;rsquo;ve worked on Windows servers throughout my career, which initially g
 
 &lt;hr&gt;
 
-&lt;p&gt;Scratch is a language wherein you create programs by dragging together and connecting “blocks”. Unlike other programming languages, Scratch is very visual, making it a very good first programming language.&lt;/p&gt;
+&lt;p&gt;As part of the popular Harvard University course &lt;a href=&#34;https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!&#34; target=&#34;_blank&#34;&gt;CS50x&lt;/a&gt; that I took through EdX, I built a small &lt;a href=&#34;https://scratch.mit.edu&#34; target=&#34;_blank&#34;&gt;Scratch&lt;/a&gt; application in completing the first &lt;a href=&#34;http://docs.cs50.net/2017/x/psets/0/pset0.html&#34; target=&#34;_blank&#34;&gt;problem set&lt;/a&gt;.&lt;/p&gt;
 
 &lt;iframe allowtransparency=&#34;true&#34; width=&#34;485&#34; height=&#34;402&#34; src=&#34;//scratch.mit.edu/projects/embed/16817421/?autostart=false&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Scratch requires Flash to run. &lt;a href=&#34;https://scratch.mit.edu/projects/16817421&#34; target=&#34;_blank&#34;&gt;You can also view the project here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Scratch is a &amp;lsquo;language&amp;rsquo; wherein you create programs by dragging together and connecting “blocks”. Unlike other programming languages, Scratch is very visual, making it a good first project for building fundamentals and learning to think like a programmer.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/projects/scratch_project.png&#34; alt=&#34;Scratch Project&#34; title=&#34;Scratch Project&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Please note that Scratch requires Flash to run and thus you won&amp;rsquo;t be able to view it live from your mobile device or tablet.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://scratch.mit.edu/projects/16817421&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my project&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
