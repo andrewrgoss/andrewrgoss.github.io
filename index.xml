@@ -8,8 +8,30 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Thu, 04 May 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jun 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://andrewrgoss.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>What&#39;s the Go Language Really Good For?</title>
+      <link>https://andrewrgoss.com/2017/whats-the-go-language-really-good-for/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2017/whats-the-go-language-really-good-for/</guid>
+      <description>&lt;p&gt;&lt;sub&gt;&lt;i&gt;written by &lt;a href=&#34;http://www.infoworld.com/author/Serdar-Yegulalp&#34; target=&#34;_blank&#34;&gt;Serdar Yegulalp&lt;/a&gt;&lt;/i&gt;&lt;/sub&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.infoworld.com&#34; target=&#34;_blank&#34;&gt;InfoWorld&lt;/a&gt; examines the strengths, weaknesses, use cases, and future directions of Google&amp;rsquo;s hit programming language&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;During its eight-plus years in the wild, &lt;a href=&#34;https://golang.org&#34; target=&#34;_blank&#34;&gt;Google’s Go language&lt;/a&gt;—with version 1.8.1 out as of April 2017—has evolved from being a curiosity for alpha geeks to being the battle-tested programming language behind some of the world’s most important cloud-centric projects.&lt;/p&gt;
+
+&lt;p&gt;Why was Go chosen by the developers of such projects as Docker and Kubernetes? What are Go’s defining characteristics, how does it differ from other programming languages, and what kinds of projects is it most suitable for building? This excellent InfoWorld article explores Go’s feature set, the optimal use cases, the language’s omissions and limitations, and where Go may be going from here.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.infoworld.com/article/3198928/development-tools/whats-the-go-language-really-good-for.html&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View article&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;sub&gt;*Source: &lt;a href=&#34;http://www.infoworld.com&#34; target=_&gt;InfoWorld&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>DOM Pig Game</title>
@@ -818,127 +840,6 @@ Create a file view to browse and work with directories and files.&lt;/p&gt;
 &lt;iframe width=&#34;660&#34; height=&#34;371&#34; src=&#34;https://www.youtube.com/embed/35ZKvSjAoSo&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://andrewrgoss.com/img/2017/big-data-university--hadoop-101/Unit_2_Hadoop_Architecture_Lab.pdf&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;Lab exercises&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Big Data University- Hadoop 101</title>
-      <link>https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_2_Hadoop_Architecture_Part1/</link>
-      <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_2_Hadoop_Architecture_Part1/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/hadoop.png&#34; alt=&#34;Hadoop&#34; title=&#34;Hadoop&#34; /&gt;&lt;br&gt;
-&lt;a href=&#34;https://andrewrgoss.com/2017/big-data-university--hadoop-101/&#34;&gt;Big Data University- Hadoop 101&lt;/a&gt; &amp;gt;&amp;gt; &lt;a href=&#34;https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs&#34;&gt;Lesson Transcripts/Labs&lt;/a&gt; &amp;gt;&amp;gt; &lt;b&gt;Unit_2_Hadoop_Architecture_Part1&lt;/b&gt;
-&lt;hr&gt;&lt;/p&gt;
-
-&lt;iframe width=&#34;660&#34; height=&#34;371&#34; src=&#34;https://www.youtube.com/embed/8AtrYcqO5ho&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Welcome to the unit of Hadoop Fundamentals on Hadoop architecture.
-I will begin with a terminology review and then cover the major components
-of Hadoop. We will see what types of nodes can exist in a Hadoop cluster and talk about
-how Hadoop uses replication to lessen data loss. Finally I will explain an important
-feature of Hadoop called &amp;ldquo;rack awareness&amp;rdquo; or &amp;ldquo;network topology awareness&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;Before we examine Hadoop components and architecture, let&amp;rsquo;s review some of the
-terms that are used in this discussion. A node is simply a computer. This is typically
-non-enterprise, commodity hardware for nodes that contain data. So in this example,
-we have Node 1. Then we can add more nodes, such as Node 2, Node 3, and so on.
-This would be called a rack. A rack is a collection of 30 or 40 nodes that are
-physically stored close together and are all connected to the same network switch.
-Network bandwidth between any two nodes in the same rack is greater than bandwidth
-between two nodes on different racks. You will see later how Hadoop takes advantage
-of this fact. A Hadoop Cluster (or just cluster from
-now on) is a collection of racks.&lt;/p&gt;
-
-&lt;p&gt;Let us now examine the pre-Hadoop 2.2 architecture. Hadoop has two major components:
-- the distributed filesystem component, the main example of which is the Hadoop
-Distributed File System, though other file systems, such as IBM Spectrum Scale, are supported.
-- the MapReduce component, which is a framework for performing calculations on
-the data in the distributed file system. Pre-Hadoop 2.2 MapReduce is referred to as MapReduce
-V1 and has its own built-in resource manager and schedule. This unit covers the Hadoop
-Distributed File System and MapReduce is covered separately.&lt;/p&gt;
-
-&lt;p&gt;Let&amp;rsquo;s now examine the Hadoop distributed file system - HDFS
-HDFS runs on top of the existing file systems on each node in a Hadoop cluster. It is not
-POSIX compliant. It is designed to tolerate high component failure rate through replication
-of the data. Hadoop works best with very large files. The
-larger the file, the less time Hadoop spends seeking for the next data location
-on disk, the more time Hadoop runs at the limit of the bandwidth of your disks.
-Seeks are generally expensive operations that are useful when they only need to analyze
-a small subset of your dataset. Since Hadoop is designed to run over your entire
-dataset, it is best to minimize seeks by using large files. Hadoop is designed for
-streaming or sequential data access rather than random access. Sequential data access
-means fewer seeks, since Hadoop only seeks to the beginning of each block and begins
-reading sequentially from there. Hadoop uses blocks to store a file or parts
-of a file. This is shown in the figure.&lt;/p&gt;
-
-&lt;p&gt;Let us now examine file blocks in more detail. A Hadoop block is a file on the underlying
-filesystem. Since the underlying filesystem stores files as blocks, one Hadoop block may
-consist of many blocks in the underlying file system. Blocks are large. They default to
-64 megabytes each and most systems run with block sizes of 128 megabytes or larger. Blocks
-have several advantages: Firstly, they are fixed in size. This makes
-it easy to calculate how many can fit on a disk.&lt;/p&gt;
-
-&lt;p&gt;Secondly, by being made up of blocks that can be spread over multiple nodes, a file
-can be larger than any single disk in the cluster. HDFS blocks also don&amp;rsquo;t waste space.
-If a file is not an even multiple of the block size, the block containing the remainder does
-not occupy the space of an entire block. As shown in the figure, a 450 megabyte file with
-a 128 megabyte block size consumes four blocks, but the fourth block does not consume a full
-128 megabytes. Finally, blocks fit well with replication,
-which allows HDFS to be fault tolerant and available on commodity hardware.
-As shown in the figure: Each block is replicated to multiple nodes. For example, block 1 is
-stored on node 1 and node 2. Block 2 is stored on node 1 and node 3. And block 3 is stored
-on node 2 and node 3. This allows for node failure without data loss. If node 1 crashes,
-node 2 still runs and has block 1&amp;rsquo;s data. In this example, we are only replicating data
-across two nodes, but you can set replication to be across many more nodes by changing Hadoop&amp;rsquo;s
-configuration or even setting the replication factor for each individual file.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/big-data-university--hadoop-101/hdfs_replication.png&#34; alt=&#34;HDFS Replication&#34; title=&#34;HDFS Replication&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The second major component of Hadoop, described in detail in another lecture, is the MapReduce
-component. HDFS was based on a paper Google published about their Google File System,
-Hadoop&amp;rsquo;s MapReduce is inspired by a paper Google published on the MapReduce technology.
-It is designed to process huge datasets for certain kinds of distributable problems using
-a large number of nodes. A MapReduce program consists of two types of transformations that
-can be applied to data any number of times - a map transformation and a reduce transformation.
-A MapReduce job is an executing MapReduce program that is divided into map tasks that
-run in parallel with each other and reduce tasks that run in parallel with each other.
-Let us examine the main types of nodes in pre-Hadoop 2.2. They are classified as HDFS
-or MapReduce V1 nodes. For HDFS nodes we have the NameNode, and the DataNodes. For MapReduce
-V1 nodes we have the JobTracker and the TaskTracker nodes. Each of these is discussed in more
-detail later in this presentation. There are other HDFS nodes such as the Secondary NameNode,
-Checkpoint node, and Backup node that are not discussed in this course. This diagram
-shows some of the communication paths between the different types of nodes on the system.
-A client is shown as communicating with a JobTracker. It can also communicate with the
-NameNode and with any DataNode.&lt;/p&gt;
-
-&lt;p&gt;There is only one NameNode in the cluster. While the data that makes up a file is stored
-in blocks at the data nodes, the metadata for a file is stored at the NameNode. The
-NameNode is also responsible for the filesystem namespace. To compensate for the fact that
-there is only one NameNode, one should configure the NameNode to write a copy of its state
-information to multiple locations, such as a local disk and an NFS mount. If there is
-one node in the cluster to spend money on the best enterprise hardware for maximum reliability,
-it is the NameNode. The NameNode should also have as much RAM as possible because it keeps
-the entire filesystem metadata in memory.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/big-data-university--hadoop-101/types_of_nodes.png&#34; alt=&#34;Types of Nodes&#34; title=&#34;Types of Nodes&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;A typical HDFS cluster has many DataNodes. DataNodes store the blocks of data and blocks
-from different files can be stored on the same DataNode. When a client requests a file,
-the client finds out from the NameNode which DataNodes stored the blocks that make up that
-file and the client directly reads the blocks from the individual DataNodes. Each DataNode
-also reports to the NameNode periodically with the list of blocks it stores. DataNodes
-do not require expensive enterprise hardware or replication at the hardware layer. The
-DataNodes are designed to run on commodity hardware and replication is provided at the
-software layer.&lt;/p&gt;
-
-&lt;p&gt;A JobTracker node manages MapReduce V1 jobs. There is only one of these on the cluster.
-It receives jobs submitted by clients. It schedules the Map tasks and Reduce tasks on
-the appropriate TaskTrackers, that is where the data resides, in a rack-aware manner and
-it monitors for any failing tasks that need to be rescheduled on a different
-TaskTracker. To achieve the parallelism for your map and reduce tasks, there are many
-TaskTrackers in a Hadoop cluster. Each TaskTracker spawns Java Virtual Machines to run your map
-or reduce task. It communicates with the JobTracker and reads blocks from DataNodes.&lt;/p&gt;
 </description>
     </item>
     
