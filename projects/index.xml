@@ -8,13 +8,13 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Thu, 04 May 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 May 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://andrewrgoss.com/projects/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>DOM Pig Game</title>
       <link>https://andrewrgoss.com/projects/dom_pig_game/</link>
-      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/projects/dom_pig_game/</guid>
       <description>
@@ -36,6 +36,44 @@
 &lt;p&gt;&lt;a href=&#34;https://andrewrgoss.com/udemy-complete-javascript/dom-pig-game&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my project&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-complete-javascript/tree/gh-pages/dom-pig-game&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DOM Pig Game - Coding Challenge</title>
+      <link>https://andrewrgoss.com/projects/dom_pig_game_coding_challenge/</link>
+      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/projects/dom_pig_game_coding_challenge/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;https://andrewrgoss.com/udemy-complete-javascript/dom-pig-game-coding-challenge&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://andrewrgoss.com/img/projects/dom_pig_game.png&#34; alt=&#34;DOM Pig Game&#34;&gt;&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/&#34;&gt;Udemy- Complete JavaScript Course&lt;/a&gt; &amp;gt;&amp;gt; &lt;b&gt;My projects&lt;/b&gt;&lt;br&gt;
+&lt;hr&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;game-rules:8f6cb2237b9a2a7c74b8f2a1abc654d0&#34;&gt;GAME RULES:&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The game has 2 players, playing in rounds&lt;/li&gt;
+&lt;li&gt;In each turn, a player rolls a dice as many times as he/she wishes. Each result get added to his ROUND score&lt;/li&gt;
+&lt;li&gt;BUT, if the player rolls a 1, all his/her ROUND score gets lost. After that, it&amp;rsquo;s the next player&amp;rsquo;s turn&lt;/li&gt;
+&lt;li&gt;The player can choose to &amp;lsquo;Hold&amp;rsquo;, which means that his/her ROUND score gets added to the GLOBAL score. After that, it&amp;rsquo;s the next player&amp;rsquo;s turn&lt;/li&gt;
+&lt;li&gt;The first player to reach the user-set winning score wins the game&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;coding-challenges:8f6cb2237b9a2a7c74b8f2a1abc654d0&#34;&gt;CODING CHALLENGES&lt;/h4&gt;
+
+&lt;p&gt;Change the game to follow these rules:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;A player loses his ENTIRE score when he rolls two 6 in a row. After that, it&amp;rsquo;s the next player&amp;rsquo;s turn. (Hint: Always save the previous dice roll in a separate variable)&lt;/li&gt;
+&lt;li&gt;Add an input field to the HTML where players can set the winning score, so that they can change the predefined score of 100. (Hint: you can read that value with the .value property in JavaScript. This is a good oportunity to use google to figure this out :)&lt;/li&gt;
+&lt;li&gt;Add another dice to the game, so that there are two dices now. The player looses his current score when one of them is a 1. (Hint: you will need CSS to position the second dice, so take a look at the CSS code for the first one.)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://andrewrgoss.com/udemy-complete-javascript/dom-pig-game-coding-challenge&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my project&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-complete-javascript/tree/gh-pages/dom-pig-game-coding-challenge&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
