@@ -13,6 +13,39 @@
     
     <item>
       <title>Udemy- Complete JavaScript Course</title>
+      <link>https://andrewrgoss.com/2017/udemy--complete-javascript-course/advanced_js_objects_functions/</link>
+      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2017/udemy--complete-javascript-course/advanced_js_objects_functions/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/javascript.png&#34; alt=&#34;JavaScript&#34; title=&#34;JavaScript&#34; /&gt;&lt;br&gt;
+&lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/&#34;&gt;Udemy- Complete JavaScript Course&lt;/a&gt; &amp;gt;&amp;gt; &lt;b&gt;Advanced JavaScript: Objections and Functions&lt;/b&gt;
+&lt;hr&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/udemy--complete-javascript-course/js_objects.png&#34; alt=&#34;Objects in JavaScript&#34; title=&#34;Objects in JavaScript&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/udemy--complete-javascript-course/oo_paradigm.png&#34; alt=&#34;The Object-Oriented Paradigm&#34; title=&#34;The Object-Oriented Paradigm&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/udemy--complete-javascript-course/js_constructors_instances.png&#34; alt=&#34;Constructors and Instances in JavaScript&#34; title=&#34;Constructors and Instances in JavaScript&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/udemy--complete-javascript-course/inheritance.png&#34; alt=&#34;Inheritance in General&#34; title=&#34;Inheritance in General&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/udemy--complete-javascript-course/prototypes.png&#34; alt=&#34;Inheritance in JavaScript: Prototypes and Prototype Chains&#34; title=&#34;Inheritance in JavaScript: Prototypes and Prototype Chains&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;summary:0e899c4bc90c28bac84dfe5fb6761b11&#34;&gt;Summary&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Every JavaScript object has a &lt;b&gt;prototype property&lt;/b&gt;, which makes inheritance possible in JavaScript;&lt;/li&gt;
+&lt;li&gt;The prototype property of an object is where we put methods and properties that we want &lt;b&gt;other objects to inherit&lt;/b&gt;;&lt;/li&gt;
+&lt;li&gt;The Constructor&amp;rsquo;s prototype property is &lt;b&gt;NOT&lt;/b&gt; the prototype of the Constructor itself; it&amp;rsquo;s the prototype of &lt;b&gt;ALL&lt;/b&gt; instances that are created through it;&lt;/li&gt;
+&lt;li&gt;When a certain method (or property) is called, the search starts in the object itself, and if it cannot be found, the search moves on to the object&amp;rsquo;s prototype. This continues until the method is found: &lt;b&gt;prototype chain.&lt;/b&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Udemy- Complete JavaScript Course</title>
       <link>https://andrewrgoss.com/2017/udemy--complete-javascript-course/how_js_works_behind/</link>
       <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>

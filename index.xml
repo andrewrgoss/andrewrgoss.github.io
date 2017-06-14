@@ -101,6 +101,39 @@
     
     <item>
       <title>Udemy- Complete JavaScript Course</title>
+      <link>https://andrewrgoss.com/2017/udemy--complete-javascript-course/advanced_js_objects_functions/</link>
+      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2017/udemy--complete-javascript-course/advanced_js_objects_functions/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/javascript.png&#34; alt=&#34;JavaScript&#34; title=&#34;JavaScript&#34; /&gt;&lt;br&gt;
+&lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/&#34;&gt;Udemy- Complete JavaScript Course&lt;/a&gt; &amp;gt;&amp;gt; &lt;b&gt;Advanced JavaScript: Objections and Functions&lt;/b&gt;
+&lt;hr&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/udemy--complete-javascript-course/js_objects.png&#34; alt=&#34;Objects in JavaScript&#34; title=&#34;Objects in JavaScript&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/udemy--complete-javascript-course/oo_paradigm.png&#34; alt=&#34;The Object-Oriented Paradigm&#34; title=&#34;The Object-Oriented Paradigm&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/udemy--complete-javascript-course/js_constructors_instances.png&#34; alt=&#34;Constructors and Instances in JavaScript&#34; title=&#34;Constructors and Instances in JavaScript&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/udemy--complete-javascript-course/inheritance.png&#34; alt=&#34;Inheritance in General&#34; title=&#34;Inheritance in General&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/udemy--complete-javascript-course/prototypes.png&#34; alt=&#34;Inheritance in JavaScript: Prototypes and Prototype Chains&#34; title=&#34;Inheritance in JavaScript: Prototypes and Prototype Chains&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;summary:0e899c4bc90c28bac84dfe5fb6761b11&#34;&gt;Summary&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Every JavaScript object has a &lt;b&gt;prototype property&lt;/b&gt;, which makes inheritance possible in JavaScript;&lt;/li&gt;
+&lt;li&gt;The prototype property of an object is where we put methods and properties that we want &lt;b&gt;other objects to inherit&lt;/b&gt;;&lt;/li&gt;
+&lt;li&gt;The Constructor&amp;rsquo;s prototype property is &lt;b&gt;NOT&lt;/b&gt; the prototype of the Constructor itself; it&amp;rsquo;s the prototype of &lt;b&gt;ALL&lt;/b&gt; instances that are created through it;&lt;/li&gt;
+&lt;li&gt;When a certain method (or property) is called, the search starts in the object itself, and if it cannot be found, the search moves on to the object&amp;rsquo;s prototype. This continues until the method is found: &lt;b&gt;prototype chain.&lt;/b&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Udemy- Complete JavaScript Course</title>
       <link>https://andrewrgoss.com/2017/udemy--complete-javascript-course/how_js_works_behind/</link>
       <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
@@ -253,11 +286,13 @@
 &lt;a href=&#34;http://codingheroes.io/resources&#34; target=&#34;_blank&#34;&gt;Design and Coding Resources&lt;/a&gt;&lt;br&gt;
 &lt;hr&gt;&lt;/p&gt;
 
+&lt;p&gt;This course represents my official foray into learning JavaScript. Up to this point I&amp;rsquo;ve used it only on occasion with no formal training. With a new goal of becoming a full-stack developer, JavaScript is a core front-end technology for me to have as part of my stack. This course covers the following areas:&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/js_language_basics&#34;&gt;JavaScript language basics&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/how_js_works_behind&#34;&gt;How JavaScript works behind the scenes&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/js_browser&#34;&gt;JavaScript in the browser: DOM manipulation and events&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Advanced JavaScript: objections and functions&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/advanced_js_objects_functions&#34;&gt;Advanced JavaScript: objections and functions&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Putting it all together: budget app project&lt;/li&gt;
 &lt;li&gt;Coding challenges&lt;/li&gt;
 &lt;/ul&gt;
@@ -273,9 +308,9 @@
 
 &lt;h5 id=&#34;course-progress:f84187bd0236cff9ef749957d6953b7f&#34;&gt;Course Progress&lt;/h5&gt;
 
-&lt;progress max=&#34;1.0&#34; value=&#34;0.43&#34;&gt;&lt;/progress&gt;
+&lt;progress max=&#34;1.0&#34; value=&#34;0.45&#34;&gt;&lt;/progress&gt;
 
-&lt;p&gt;43% - &lt;font color=&#34;green&#34;&gt;[IN PROGRESS]&lt;/font&gt;.&lt;/p&gt;
+&lt;p&gt;45% - &lt;font color=&#34;green&#34;&gt;[IN PROGRESS]&lt;/font&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-complete-javascript&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -806,63 +841,6 @@ considering the data integration challenges. The integration workload is systema
 &lt;p&gt;Big data solutions may also be used to derive information from data in motion, for example, IBM has a product called InfoSphere Streams that can be used to quickly determine customer sentiment for a new product based on Facebook or Twitter comments.&lt;/p&gt;
 
 &lt;p&gt;Finally we would like to end this presentation with one final thought: Cloud computing has gained a tremendous track in the past few years, and it is a perfect fit for Big Data solutions. Using the cloud, a Hadoop cluster can be setup in minutes, on demand, and it can run for as long as needed without having to pay for more than what is used.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Big Data University- Hadoop 101</title>
-      <link>https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_2_HDFS_Command_Line/</link>
-      <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_2_HDFS_Command_Line/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/hadoop.png&#34; alt=&#34;Hadoop&#34; title=&#34;Hadoop&#34; /&gt;&lt;br&gt;
-&lt;a href=&#34;https://andrewrgoss.com/2017/big-data-university--hadoop-101/&#34;&gt;Big Data University- Hadoop 101&lt;/a&gt; &amp;gt;&amp;gt; &lt;a href=&#34;https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs&#34;&gt;Lesson Transcripts/Labs&lt;/a&gt; &amp;gt;&amp;gt; &lt;b&gt;Unit_2_HDFS_Command_Line&lt;/b&gt;
-&lt;hr&gt;&lt;/p&gt;
-
-&lt;iframe width=&#34;660&#34; height=&#34;371&#34; src=&#34;https://www.youtube.com/embed/Gd1sVPOYzuk&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Welcome to HDFS command line interface.
-In this presentation, I will cover the general usage of the HDFS command line
-interface and commands specific to HDFS. Other commands should be familiar to
-anyone with UNIX experience and will not be covered.&lt;/p&gt;
-
-&lt;p&gt;The HDFS can be manipulated through a Java API or through a command line
-interface. All commands for manipulating HDFS through Hadoop&amp;rsquo;s command line
-interface begin with &lt;code&gt;hdfs&lt;/code&gt;, a space, and &lt;code&gt;dfs&lt;/code&gt;. This is the file system shell. This
-is followed by the command name as an argument
-to &lt;code&gt;hdfs dfs&lt;/code&gt;. These commands start with a dash. For example, the &lt;code&gt;ls&lt;/code&gt; command
-for listing a directory is a common UNIX command and is preceded with a dash.
-As on UNIX systems, &lt;code&gt;ls&lt;/code&gt; can take a path as an argument. In this example, the
-path is the current directory, represented by a single dot.&lt;/p&gt;
-
-&lt;p&gt;As we saw for the &lt;code&gt;ls&lt;/code&gt; command, the file system shell commands can take paths as arguments.
-These paths can be expressed in the form of &lt;b&gt;uniform resource identifiers&lt;/b&gt; or URIs. The
-URI format consists of a scheme, an authority, and path. There are multiple schemes supported.
-The local file system has a scheme of &amp;ldquo;file&amp;rdquo;. HDFS has
-a scheme called &amp;ldquo;hdfs&amp;rdquo;. For example, let us say you wish to copy a file called &amp;ldquo;myfile.txt&amp;rdquo;
-from your local filesystem to an HDFS file system on the localhost. You can do this by
-issuing the command shown. The cp command takes a URI for the source and a URI for the
-destination. The scheme and the authority do not always need to be specified. Instead
-you may rely on their default values. These defaults can be overridden by specifying them
-in a file named core-site.xml in the conf directory of your Hadoop installation.
-HDFS is not a fully POSIX compliant file system,
-but it supports many of the commands. The HDFS commands are mostly easily-recognized
-UNIX commands like &lt;code&gt;cat&lt;/code&gt; and &lt;code&gt;chmod&lt;/code&gt;. There are also a few commands that are specific to HDFS
-such as &lt;code&gt;copyFromLocal&lt;/code&gt;. We&amp;rsquo;ll examine a few of these.&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;copyFromLocal&lt;/code&gt; and &lt;code&gt;put&lt;/code&gt; are two HDFS-specific commands that do the same thing -
-copy files from the local filesystem to a location on another filesystem. Their opposite
-is the &lt;code&gt;copyToLocal&lt;/code&gt; command which can also be referred to as get. This command copies
-files out of the filesystem you specify and into the local filesystem.
-&lt;code&gt;getMerge&lt;/code&gt; is an enhanced form of get that can merge the files from multiple locations
-into a single local file. &lt;code&gt;setRep&lt;/code&gt; lets you override the default level
-of replication. You can do this for one file or, with the &lt;code&gt;-R&lt;/code&gt; option, to an entire tree.&lt;/p&gt;
-
-&lt;p&gt;This command returns immediately after requesting the new replication level. If you want the
-command to block until the job is done, pass the &lt;code&gt;-w&lt;/code&gt; option.
-IBM, with BigInsights, provides the Ambari Console as graphical way to work with HDFS.
-The services tab provides a simple way to view the status of the Hadoop components.
-Create a file view to browse and work with directories and files.&lt;/p&gt;
 </description>
     </item>
     
