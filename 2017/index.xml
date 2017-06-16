@@ -41,6 +41,8 @@
 &lt;li&gt;The Constructor&amp;rsquo;s prototype property is &lt;b&gt;NOT&lt;/b&gt; the prototype of the Constructor itself; it&amp;rsquo;s the prototype of &lt;b&gt;ALL&lt;/b&gt; instances that are created through it;&lt;/li&gt;
 &lt;li&gt;When a certain method (or property) is called, the search starts in the object itself, and if it cannot be found, the search moves on to the object&amp;rsquo;s prototype. This continues until the method is found: &lt;b&gt;prototype chain.&lt;/b&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/udemy--complete-javascript-course/function_objects.png&#34; alt=&#34;Functions Are Also Objects in JavaScript&#34; title=&#34;Functions Are Also Objects in JavaScript&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
