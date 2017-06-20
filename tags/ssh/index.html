@@ -830,6 +830,11 @@ footer a:hover
               hljs.initHighlighting();
               
               
+                var isMobile = window.matchMedia("only screen and (max-width: 800px)");
+                if(isMobile.matches) {
+                    $("html, body").animate({scrollTop: $('#content').offset().top }, 500);
+                }
+              
           }});
         }
       });
