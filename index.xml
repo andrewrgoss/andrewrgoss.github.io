@@ -8,8 +8,25 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Thu, 01 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Sep 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://andrewrgoss.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Complete Software Developer&#39;s Career Guide</title>
+      <link>https://andrewrgoss.com/books/complete_software_dev_career_guide/</link>
+      <pubDate>Fri, 15 Sep 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/books/complete_software_dev_career_guide/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.amazon.com/Complete-Software-Developers-Career-Guide-ebook/dp/B073X6GNJ1&#34; target=&#34;blank&#34;&gt;&lt;img src=&#34;https://andrewrgoss.com/img/books/complete_software_dev_career_guide.jpg&#34; alt=&#34;The Complete Software Developer&#39;s Career Guide&#34; title=&#34;The Complete Software Developer&#39;s Career Guide&#34; /&gt;&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://andrewrgoss.com/books/&#34;&gt;Books&lt;/a&gt; &amp;gt;&amp;gt; &lt;b&gt;The Complete Software Developer&amp;rsquo;s Career Guide&lt;/b&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://simpleprogrammer.com/products/careerguide/links&#34; target=&#34;_blank&#34;&gt;Book resources and links&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://membership.simpleprogrammer.com/courses/toolkit&#34; target=&#34;_blank&#34;&gt;Digital toolkit&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>What&#39;s the Go Language Really Good For?</title>
@@ -329,9 +346,9 @@
 
 &lt;h5 id=&#34;course-progress:f84187bd0236cff9ef749957d6953b7f&#34;&gt;Course Progress&lt;/h5&gt;
 
-&lt;progress max=&#34;1.0&#34; value=&#34;0.59&#34;&gt;&lt;/progress&gt;
+&lt;progress max=&#34;1.0&#34; value=&#34;0.63&#34;&gt;&lt;/progress&gt;
 
-&lt;p&gt;59% - &lt;font color=&#34;green&#34;&gt;[IN PROGRESS]&lt;/font&gt;.&lt;/p&gt;
+&lt;p&gt;63% - &lt;font color=&#34;green&#34;&gt;[IN PROGRESS]&lt;/font&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-complete-javascript&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -771,46 +788,6 @@ considering the data integration challenges. The integration workload is systema
 &lt;p&gt;&lt;a href=&#34;https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_4_Pig_Hive&#34;&gt;Unit_4 &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash; Pig_Hive&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_4_Flume_Sqoop_Oozie&#34;&gt;Unit_4 &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash; Flume_Sqoop_Oozie&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Big Data University- Hadoop 101</title>
-      <link>https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_1_What_is_Hadoop_Part1/</link>
-      <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_1_What_is_Hadoop_Part1/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/hadoop.png&#34; alt=&#34;Hadoop&#34; title=&#34;Hadoop&#34; /&gt;&lt;br&gt;
-&lt;a href=&#34;https://andrewrgoss.com/2017/big-data-university--hadoop-101/&#34;&gt;Big Data University- Hadoop 101&lt;/a&gt; &amp;gt;&amp;gt; &lt;a href=&#34;https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs&#34;&gt;Lesson Transcripts/Labs&lt;/a&gt; &amp;gt;&amp;gt; &lt;b&gt;Unit_1_What_is_Hadoop_Part1&lt;/b&gt;
-&lt;hr&gt;&lt;/p&gt;
-
-&lt;iframe width=&#34;660&#34; height=&#34;371&#34; src=&#34;https://www.youtube.com/embed/-65WgvIJ5xo&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Hello everyone and welcome to Hadoop Fundamentals What is Hadoop. My name is Asma Desai and I will be covering this topic.&lt;/p&gt;
-
-&lt;p&gt;In this video we will explain what is Hadoop and what is Big Data. We will define some Hadoop-related open source projects and give some examples of Hadoop in action. Finally we will end off with some Big Data solutions and the Cloud.&lt;/p&gt;
-
-&lt;p&gt;Imagine this scenario: You have 1GB of data that you need to process.&lt;/p&gt;
-
-&lt;p&gt;The data is stored in a relational database in your desktop computer which has no problem handling the load. Then your company starts growing very quickly, and that data grows to 10GB, then 100GB, and you start to reach the limits of your current desktop computer.&lt;/p&gt;
-
-&lt;p&gt;So what do you do? You scale up by investing in a larger computer, and you are then OK for a few more months. When your data grows from 1 TB to 10TB, and then 100TB, you are again quickly approaching the limits of that computer.&lt;/p&gt;
-
-&lt;p&gt;Moreover, you are now asked to feed your application with unstructured data coming from sources like Facebook, Twitter, RFID readers, sensors, and so on. Your management wants to derive information from both the relational data and the unstructured data and wants this information as soon as possible. What should you do? Hadoop may be the answer.&lt;/p&gt;
-
-&lt;p&gt;What is Hadoop? Hadoop is an open source project of the Apache Foundation. It is a framework written in Java originally developed by Doug Cutting who named it after his son&amp;rsquo;s toy elephant. Hadoop uses Google&amp;rsquo;s MapReduce technology as its foundation. It is optimized to handle massive quantities of data which could be structured, unstructured or semi-structured, using commodity hardware, that is, relatively inexpensive computers.&lt;/p&gt;
-
-&lt;p&gt;This massive parallel processing is done with great performance. However, it is a batch operation handling massive amounts of data, so the response time is not immediate. Currently, in place updates are not possible in Hadoop, but appends to existing data is supported.&lt;/p&gt;
-
-&lt;p&gt;Now, what&amp;rsquo;s the value of a system if the information it stores or retrieves is not consistent? Hadoop replicates its data across different computers, so that if one goes down, the data is processed on one of the replicated computers. Hadoop is not suitable for OnLine Transaction Processing workloads where data is randomly accessed on structured data like a relational database.&lt;/p&gt;
-
-&lt;p&gt;Also, Hadoop is not suitable for OnLine Analytical Processing or Decision Support System workloads where data is sequentially accessed on structured data like a relational database, to generate reports that provide business intelligence. As of Hadoop version 2.6, updates are not possible, but appends are possible. Hadoop is used for Big Data. It complements OnLine Transaction Processing and OnLine Analytical Processing. It is NOT a replacement for a relational database system.&lt;/p&gt;
-
-&lt;p&gt;So, what is Big Data? With all the devices available today to collect data, such as RFID readers, microphones, cameras, sensors, and so on, we are seeing an explosion in data being collected worldwide. Big Data is a term used to describe large collections of data (also known as datasets) that may be unstructured, and grow so large and quickly that it is difficult to manage with a regular database or statistical tools.&lt;/p&gt;
-
-&lt;p&gt;In terms of numbers, what are we looking at? How BIG is &amp;ldquo;big data&amp;rdquo;? Well there are more than 3.2 billion internet users, and active cell phones have surpassed 7.6 billion. There are now more in-use cell phones than there are people on the planet (7.4 billion).&lt;/p&gt;
-
-&lt;p&gt;Twitter processes 7TB of data ever day, and 600TB of data is processed by Facebook every day. Interestingly, about 80% of this data is unstructured. With this massive amount of data, businesses need fast, reliable, deeper data insight. Therefore, Big Data solutions based on Hadoop and other analytics software are becomingmore and more relevant.&lt;/p&gt;
 </description>
     </item>
     

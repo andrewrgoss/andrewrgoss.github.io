@@ -3,8 +3,13 @@
   
   <url>
     <loc>https://andrewrgoss.com/</loc>
-    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andrewrgoss.com/books/complete_software_dev_career_guide/</loc>
+    <lastmod>2017-09-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -214,6 +219,10 @@
   
   <url>
     <loc>https://andrewrgoss.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://andrewrgoss.com/books/</loc>
   </url>
   
   <url>
