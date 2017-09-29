@@ -8,13 +8,41 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Fri, 05 May 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Sep 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://andrewrgoss.com/tags/self-study/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Budget App</title>
+      <link>https://andrewrgoss.com/projects/budget_app/</link>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/projects/budget_app/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://andrewrgoss.com/udemy-complete-javascript/budget-app&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://andrewrgoss.com/img/projects/budget_app.png&#34; alt=&#34;Budget App&#34;&gt;&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/&#34;&gt;Udemy- Complete JavaScript Course&lt;/a&gt; &amp;gt;&amp;gt; &lt;b&gt;My projects&lt;/b&gt;&lt;br&gt;
+&lt;a href=&#34;https://andrewrgoss.com/docs/budget-app-planning-guide.pdf&#34; target=&#34;_blank&#34;&gt;Planning Guide&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://andrewrgoss.com/udemy-complete-javascript/budget-app&#34; target=&#34;_blank&#34;&gt;View project&lt;/a&gt;
+&lt;hr&gt;&lt;/p&gt;
+
+&lt;p&gt;This project put all kinds of different JavaScript concepts from the &lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/&#34;&gt;Complete JavaScript Course&lt;/a&gt; I completed into practice.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/udemy--complete-javascript-course/modules_structuring.png&#34; alt=&#34;Structuring Code With Modules&#34; title=&#34;Structuring Code With Modules&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/udemy--complete-javascript-course/budget_app_modules.png&#34; alt=&#34;Budget App Modules&#34; title=&#34;Budget App Modules&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/udemy--complete-javascript-course/event_bubbling.png&#34; alt=&#34;Event Bubbling, Target Element, and Event Delegation&#34; title=&#34;Event Bubbling, Target Element, and Event Delegation&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/udemy--complete-javascript-course/event_delegation.png&#34; alt=&#34;When to Use Event Delegation&#34; title=&#34;When to Use Event Delegation&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://andrewrgoss.com/udemy-complete-javascript/budget-app&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my project&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-complete-javascript/tree/gh-pages/budget-app&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>DOM Pig Game</title>
       <link>https://andrewrgoss.com/projects/dom_pig_game/</link>
-      <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/projects/dom_pig_game/</guid>
       <description>
@@ -23,35 +51,9 @@
 &lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/&#34;&gt;Udemy- Complete JavaScript Course&lt;/a&gt; &amp;gt;&amp;gt; &lt;b&gt;My projects&lt;/b&gt;&lt;br&gt;
 &lt;hr&gt;&lt;/p&gt;
 
+&lt;p&gt;Part of the &lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/&#34;&gt;Complete JavaScript Course&lt;/a&gt; I completed, this project put JavaScript concepts from the section on DOM manipulation and events into practice.&lt;/p&gt;
+
 &lt;h4 id=&#34;game-rules:229eedee5891aa94a277619cf36534ac&#34;&gt;GAME RULES:&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;The game has 2 players, playing in rounds&lt;/li&gt;
-&lt;li&gt;In each turn, a player rolls a dice as many times as he/she wishes. Each result get added to his ROUND score&lt;/li&gt;
-&lt;li&gt;BUT, if the player rolls a 1, all his/her ROUND score gets lost. After that, it&amp;rsquo;s the next player&amp;rsquo;s turn&lt;/li&gt;
-&lt;li&gt;The player can choose to &amp;lsquo;Hold&amp;rsquo;, which means that his/her ROUND score gets added to the GLOBAL score. After that, it&amp;rsquo;s the next player&amp;rsquo;s turn&lt;/li&gt;
-&lt;li&gt;The first player to reach 100 points on GLOBAL score wins the game&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://andrewrgoss.com/udemy-complete-javascript/dom-pig-game&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my project&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-complete-javascript/tree/gh-pages/dom-pig-game&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>DOM Pig Game - Coding Challenge</title>
-      <link>https://andrewrgoss.com/projects/dom_pig_game_coding_challenge/</link>
-      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>https://andrewrgoss.com/projects/dom_pig_game_coding_challenge/</guid>
-      <description>
-
-&lt;p&gt;&lt;a href=&#34;https://andrewrgoss.com/udemy-complete-javascript/dom-pig-game-coding-challenge&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://andrewrgoss.com/img/projects/dom_pig_game.png&#34; alt=&#34;DOM Pig Game&#34;&gt;&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/&#34;&gt;Udemy- Complete JavaScript Course&lt;/a&gt; &amp;gt;&amp;gt; &lt;b&gt;My projects&lt;/b&gt;&lt;br&gt;
-&lt;hr&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;game-rules:8f6cb2237b9a2a7c74b8f2a1abc654d0&#34;&gt;GAME RULES:&lt;/h4&gt;
 
 &lt;ul&gt;
 &lt;li&gt;The game has 2 players, playing in rounds&lt;/li&gt;
@@ -61,44 +63,43 @@
 &lt;li&gt;The first player to reach the user-set winning score wins the game&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&#34;coding-challenges:8f6cb2237b9a2a7c74b8f2a1abc654d0&#34;&gt;CODING CHALLENGES&lt;/h4&gt;
+&lt;h4 id=&#34;coding-challenges:229eedee5891aa94a277619cf36534ac&#34;&gt;CODING CHALLENGES&lt;/h4&gt;
 
 &lt;p&gt;Change the game to follow these rules:&lt;/p&gt;
 
 &lt;ol&gt;
 &lt;li&gt;A player loses his ENTIRE score when he rolls two 6 in a row. After that, it&amp;rsquo;s the next player&amp;rsquo;s turn. (Hint: Always save the previous dice roll in a separate variable)&lt;/li&gt;
 &lt;li&gt;Add an input field to the HTML where players can set the winning score, so that they can change the predefined score of 100. (Hint: you can read that value with the .value property in JavaScript. This is a good oportunity to use google to figure this out :)&lt;/li&gt;
-&lt;li&gt;Add another dice to the game, so that there are two dices now. The player looses his current score when one of them is a 1. (Hint: you will need CSS to position the second dice, so take a look at the CSS code for the first one.)&lt;/li&gt;
+&lt;li&gt;Add another dice to the game, so that there are two dices now. The player loses his current score when one of them is a 1. (Hint: you will need CSS to position the second dice, so take a look at the CSS code for the first one.)&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://andrewrgoss.com/udemy-complete-javascript/dom-pig-game-coding-challenge&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my project&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://andrewrgoss.com/udemy-complete-javascript/dom-pig-game&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my project&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-complete-javascript/tree/gh-pages/dom-pig-game-coding-challenge&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-complete-javascript/tree/gh-pages/dom-pig-game&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Udemy- Complete JavaScript Course</title>
       <link>https://andrewrgoss.com/2017/udemy--complete-javascript-course/</link>
-      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2017/udemy--complete-javascript-course/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/javascript.png&#34; alt=&#34;JavaScript&#34; title=&#34;JavaScript&#34; /&gt;&lt;br&gt;
-&lt;a href=&#34;https://www.udemy.com/the-complete-javascript-course/learn/&#34; target=&#34;_blank&#34;&gt;COURSE LINK&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.udemy.com/certificate/UC-NWM229P1&#34; target=&#34;_blank&#34;&gt;COMPLETION CERTIFICATE&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;http://codingheroes.io/resources&#34; target=&#34;_blank&#34;&gt;Design and Coding Resources&lt;/a&gt;&lt;br&gt;
 &lt;hr&gt;&lt;/p&gt;
 
-&lt;p&gt;This course represents my official foray into learning JavaScript. Up to this point I&amp;rsquo;ve used it only on occasion with no formal training, as my focus has been predominantly on back-end data engineering. I&amp;rsquo;d like to gain a closer perspective on full-stack development, so JavaScript is a core front-end technology for me to have as part of my stack. This course covers the following areas:&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;This course represented my official foray into learning JavaScript. Up to this point I&amp;rsquo;d only used it on occasion with no formal training, as my focus has been predominantly on back-end data engineering. I wanted to gain a closer perspective on full-stack development, and JavaScript is a core front-end technology for me to have as part of my stack. This course covers the following areas:&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/js_language_basics&#34;&gt;JavaScript language basics&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/how_js_works_behind&#34;&gt;How JavaScript works behind the scenes&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/js_browser&#34;&gt;JavaScript in the browser: DOM manipulation and events&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/advanced_js_objects_functions&#34;&gt;Advanced JavaScript: objections and functions&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/budget_app&#34;&gt;Putting it all together: budget app project&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Coding challenges&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://andrewrgoss.com/projects/budget_app&#34;&gt;Putting it all together: budget app project&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr&gt;
@@ -106,15 +107,15 @@
 &lt;h5 id=&#34;my-projects:f84187bd0236cff9ef749957d6953b7f&#34;&gt;My Projects&lt;/h5&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://andrewrgoss.com/projects/dom_pig_game&#34;&gt;DOM Pig Game&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://andrewrgoss.com/projects/dom_pig_game_coding_challenge&#34;&gt;DOM Pig Game - Coding Challenge&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://andrewrgoss.com/projects/budget_app&#34;&gt;Budget App&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;hr&gt;
 
 &lt;h5 id=&#34;course-progress:f84187bd0236cff9ef749957d6953b7f&#34;&gt;Course Progress&lt;/h5&gt;
 
-&lt;progress max=&#34;1.0&#34; value=&#34;0.70&#34;&gt;&lt;/progress&gt;
+&lt;progress max=&#34;1.0&#34; value=&#34;1.0&#34;&gt;&lt;/progress&gt;
 
-&lt;p&gt;70% - &lt;font color=&#34;green&#34;&gt;[IN PROGRESS]&lt;/font&gt;.&lt;/p&gt;
+&lt;p&gt;100% - completed 9/29/17.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-complete-javascript&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
 </description>

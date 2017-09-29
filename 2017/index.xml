@@ -8,13 +8,13 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Thu, 04 May 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Sep 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://andrewrgoss.com/2017/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Udemy- Complete JavaScript Course</title>
       <link>https://andrewrgoss.com/2017/udemy--complete-javascript-course/advanced_js_objects_functions/</link>
-      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2017/udemy--complete-javascript-course/advanced_js_objects_functions/</guid>
       <description>
@@ -50,29 +50,8 @@
     
     <item>
       <title>Udemy- Complete JavaScript Course</title>
-      <link>https://andrewrgoss.com/2017/udemy--complete-javascript-course/budget_app/</link>
-      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>https://andrewrgoss.com/2017/udemy--complete-javascript-course/budget_app/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/javascript.png&#34; alt=&#34;JavaScript&#34; title=&#34;JavaScript&#34; /&gt;&lt;br&gt;
-&lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/&#34;&gt;Udemy- Complete JavaScript Course&lt;/a&gt; &amp;gt;&amp;gt; &lt;b&gt;Budget App Project&lt;/b&gt;&lt;br&gt;
-&lt;a href=&#34;https://andrewrgoss.com/docs/budget-app-planning-guide.pdf&#34; target=&#34;_blank&#34;&gt;Planning Guide&lt;/a&gt;
-&lt;hr&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/udemy--complete-javascript-course/modules_structuring.png&#34; alt=&#34;Structuring Code With Modules&#34; title=&#34;Structuring Code With Modules&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/udemy--complete-javascript-course/budget_app_modules.png&#34; alt=&#34;Budget App Modules&#34; title=&#34;Budget App Modules&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/udemy--complete-javascript-course/event_bubbling.png&#34; alt=&#34;Event Bubbling, Target Element, and Event Delegation&#34; title=&#34;Event Bubbling, Target Element, and Event Delegation&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/udemy--complete-javascript-course/event_delegation.png&#34; alt=&#34;When to Use Event Delegation&#34; title=&#34;When to Use Event Delegation&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Udemy- Complete JavaScript Course</title>
       <link>https://andrewrgoss.com/2017/udemy--complete-javascript-course/how_js_works_behind/</link>
-      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2017/udemy--complete-javascript-course/how_js_works_behind/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/javascript.png&#34; alt=&#34;JavaScript&#34; title=&#34;JavaScript&#34; /&gt;&lt;br&gt;
@@ -102,7 +81,7 @@
     <item>
       <title>Udemy- Complete JavaScript Course</title>
       <link>https://andrewrgoss.com/2017/udemy--complete-javascript-course/js_browser/</link>
-      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2017/udemy--complete-javascript-course/js_browser/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/javascript.png&#34; alt=&#34;JavaScript&#34; title=&#34;JavaScript&#34; /&gt;&lt;br&gt;
@@ -122,7 +101,7 @@
     <item>
       <title>Udemy- Complete JavaScript Course</title>
       <link>https://andrewrgoss.com/2017/udemy--complete-javascript-course/js_language_basics/</link>
-      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2017/udemy--complete-javascript-course/js_language_basics/</guid>
       <description>
@@ -873,6 +852,78 @@ key together, so we see B now has two values, both 1, associated with it.
 The reduce is simple: it just sums the values it is given to produce a sum for each key.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/big-data-university--hadoop-101/mapreduce_simple_dataflow_example.png&#34; alt=&#34;MapReduce - Simple Data Flow Example&#34; title=&#34;MapReduce - Simple Data Flow Example&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Big Data University- Hadoop 101</title>
+      <link>https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_4_Pig_Hive/</link>
+      <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_4_Pig_Hive/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/hadoop.png&#34; alt=&#34;Hadoop&#34; title=&#34;Hadoop&#34; /&gt;&lt;br&gt;
+&lt;a href=&#34;https://andrewrgoss.com/2017/big-data-university--hadoop-101/&#34;&gt;Big Data University- Hadoop 101&lt;/a&gt; &amp;gt;&amp;gt; &lt;a href=&#34;https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs&#34;&gt;Lesson Transcripts/Labs&lt;/a&gt; &amp;gt;&amp;gt; &lt;b&gt;Unit_4_Pig_Hive&lt;/b&gt;
+&lt;hr&gt;&lt;/p&gt;
+
+&lt;iframe width=&#34;660&#34; height=&#34;371&#34; src=&#34;https://www.youtube.com/embed/_Ae0x1ffYRs&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Pig and Hive have much in common. They all translate high-level languages into MapReduce
+jobs so that the programmer can work at a higher level than he or she would when writing
+MapReduce jobs in Java or other lower-level languages supported by Hadoop using Hadoop
+streaming. The high level languages offered by Pig and Hive let you write programs
+that are much smaller than the equivalent Java code. When you find that you need to
+work at a lower level to accomplish something these high-level languages do not support
+themselves, you have the option to extend these languages, often by writing user-defined
+functions in Java. Interoperability can work both ways since programs written in these
+high-level languages can be imbedded inside other languages as well. Finally, since all
+these technologies run on top of Hadoop, when they do so, they have the same limitations
+with respect to random reads and writes and low-latency queries as Hadoop does.&lt;/p&gt;
+
+&lt;p&gt;Now, let us examine what is unique about each technology, starting with Pig. Pig was developed
+at Yahoo Research around 2006 and moved into the Apache Software Foundation in 2007. Pig&amp;rsquo;s
+language, called PigLatin, is a data flow language - this is the kind of language in
+which you program by connecting things together. Pig can operate on complex data
+structures, even those that can have levels of nesting. Unlike SQL, Pig does not require
+that the data have a schema, so it is well suited to processing unstructured data. However,
+Pig can still leverage the value of a schema if you choose to supply one. Like SQL, PigLatin
+is relationally complete, which means it is at least as powerful as relational algebra.
+Turing completeness requires looping constructs, an infinite memory model, and conditional
+constructs. PigLatin is not Turing complete on its own, but is Turing complete when extended
+with User-Defined Functions.&lt;/p&gt;
+
+&lt;p&gt;Hive is a technology developed at Facebook that turns Hadoop into a data warehouse complete with a dialect of SQL for querying. Being
+an SQL dialect, HiveQL is a declarative language. Unlike in PigLatin, you do not specify the
+data flow, but instead describe the result you want and Hive figures out how to build
+a data flow to achieve it. Also unlike Pig, a schema is required, but you are not limited
+to one schema. Like PigLatin and SQL, HiveQL on its own is a relationally complete language
+but not a Turing complete language. It can be extended through UDFs just like Pig to
+be Turing complete.&lt;/p&gt;
+
+&lt;p&gt;Let us examine Pig in detail. Pig consists
+of a language and an execution environment. The language is called PigLatin. There are
+two choices of execution environment: a local environment and distributed environment. A
+local environment is good for testing when you do not have a full distributed Hadoop
+environment deployed. You tell Pig to run in the local
+environment when you start Pig&amp;rsquo;s command line interpreter by passing it the -x local option.
+You tell Pig to run in a distributed environment by passing -x mapreduce instead. Alternatively,
+you can start the Pig command line interpreter without any arguments and it will start it
+in the distributed environment. There are three different ways to run Pig. You can run
+your PigLatin code as a script, just by passing the name of your script
+file to the pig command. You can run it interactively through the grunt command line launched using
+pig with no script argument. Finally, you can call into Pig from within Java using Pig&amp;rsquo;s
+embedded form.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/big-data-university--hadoop-101/pig.png&#34; alt=&#34;Pig&#34; title=&#34;Pig&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As mentioned in the overview, Hive is a technology
+for turning Hadoop into a data warehouse, complete with an SQL dialect for querying
+it. There are three ways to run Hive. You can run it interactively by launching the
+hive shell using the hive command with no arguments. You can run a Hive script by passing
+the -f option to the hive command along with the path to your script file. Finally, you
+can execute a Hive program as one command by passing the -e option to the hive command
+followed by your Hive program in quotes.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/big-data-university--hadoop-101/hive.png&#34; alt=&#34;Hive&#34; title=&#34;Hive&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     

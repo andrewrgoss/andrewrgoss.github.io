@@ -3,8 +3,43 @@
   
   <url>
     <loc>https://andrewrgoss.com/</loc>
-    <lastmod>2017-09-15T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andrewrgoss.com/projects/budget_app/</loc>
+    <lastmod>2017-09-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewrgoss.com/projects/dom_pig_game/</loc>
+    <lastmod>2017-09-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewrgoss.com/2017/udemy--complete-javascript-course/advanced_js_objects_functions/</loc>
+    <lastmod>2017-09-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewrgoss.com/2017/udemy--complete-javascript-course/how_js_works_behind/</loc>
+    <lastmod>2017-09-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewrgoss.com/2017/udemy--complete-javascript-course/js_browser/</loc>
+    <lastmod>2017-09-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewrgoss.com/2017/udemy--complete-javascript-course/js_language_basics/</loc>
+    <lastmod>2017-09-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewrgoss.com/2017/udemy--complete-javascript-course/</loc>
+    <lastmod>2017-09-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -15,46 +50,6 @@
   <url>
     <loc>https://andrewrgoss.com/2017/whats-the-go-language-really-good-for/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://andrewrgoss.com/projects/dom_pig_game/</loc>
-    <lastmod>2017-05-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://andrewrgoss.com/projects/dom_pig_game_coding_challenge/</loc>
-    <lastmod>2017-05-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://andrewrgoss.com/2017/udemy--complete-javascript-course/advanced_js_objects_functions/</loc>
-    <lastmod>2017-05-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://andrewrgoss.com/2017/udemy--complete-javascript-course/budget_app/</loc>
-    <lastmod>2017-05-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://andrewrgoss.com/2017/udemy--complete-javascript-course/how_js_works_behind/</loc>
-    <lastmod>2017-05-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://andrewrgoss.com/2017/udemy--complete-javascript-course/js_browser/</loc>
-    <lastmod>2017-05-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://andrewrgoss.com/2017/udemy--complete-javascript-course/js_language_basics/</loc>
-    <lastmod>2017-05-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://andrewrgoss.com/2017/udemy--complete-javascript-course/</loc>
-    <lastmod>2017-05-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
