@@ -8,8 +8,30 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Fri, 29 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Oct 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://andrewrgoss.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Udemy- Complete Java Masterclass</title>
+      <link>https://andrewrgoss.com/2017/udemy--complete-java-masterclass/</link>
+      <pubDate>Sun, 08 Oct 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2017/udemy--complete-java-masterclass/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/java.png&#34; alt=&#34;Java&#34; title=&#34;Java&#34; /&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.udemy.com/java-the-complete-java-developer-course&#34; target=&#34;_blank&#34;&gt;COURSE LINK&lt;/a&gt;&lt;br&gt;
+&lt;hr&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;course-progress:ca88433d15302b856faf2ea8b1334f4e&#34;&gt;Course Progress&lt;/h5&gt;
+
+&lt;progress max=&#34;1.0&#34; value=&#34;0.06&#34;&gt;&lt;/progress&gt;
+
+&lt;p&gt;6% - &lt;green&gt;IN PROGRESS&lt;/green&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/complete-java-masterclass&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Udemy- Complete JavaScript Course</title>
@@ -752,30 +774,6 @@ eval $(/usr/bin/ssh-pageant -r -a &amp;quot;/tmp/.ssh-pageant-$USERNAME&amp;quot
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;With Cygwin running now with the loaded private keys from Pageant, you will be able to make secure, automated SSH connections from this shell to remote environments or other services built on top of SSH, like SFTP file transfers or pushing to git repositories.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Udemy- Ultimate Python Programming Tutorial</title>
-      <link>https://andrewrgoss.com/2016/udemy--ultimate-python-programming-tutorial/</link>
-      <pubDate>Mon, 18 Jul 2016 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>https://andrewrgoss.com/2016/udemy--ultimate-python-programming-tutorial/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/python.png&#34; alt=&#34;Python&#34; title=&#34;Python&#34; /&gt;&lt;br&gt;
-&lt;a href=&#34;https://www.udemy.com/certificate/UC-H1VZZXZV&#34; target=&#34;_blank&#34;&gt;COMPLETION CERTIFICATE&lt;/a&gt;
-&lt;hr&gt;
-I&amp;rsquo;ve started using Python more for work and took this course to strengthen my knowledge around the fundamentals of the language. Previously, I had been wanting to add Python to my personal tech stack for some time as it is a powerful (and popular) all-purpose programming language. It is a high-level language, meaning it looks more like a readable, human language than a low-level language does. The user-friendly syntax makes it one of the easier languages to learn and it is also one of the most commonly-used languages for analytics, data mining, and data science.
-&lt;hr&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;course-progress:b609afaabbef53e4f3d69f90af30ad86&#34;&gt;Course Progress&lt;/h5&gt;
-
-&lt;progress max=&#34;1.0&#34; value=&#34;1.0&#34;&gt;&lt;/progress&gt;
-
-&lt;p&gt;100% - completed 7/18/16.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-ultimate-python&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
