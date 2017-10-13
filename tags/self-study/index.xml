@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Self Study on Data Engineer &amp; Software Developer in Boston</title>
+    <link>https://andrewrgoss.com/tags/self-study/</link>
+    <description>Recent content in Self Study on Data Engineer &amp; Software Developer in Boston</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
+    <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
+    <lastBuildDate>Fri, 13 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://andrewrgoss.com/tags/self-study/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Coursera- Functional Programming Principles in Scala</title>
+      <link>https://andrewrgoss.com/2017/coursera--functional-programming-principles-in-scala/</link>
+      <pubDate>Fri, 13 Oct 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2017/coursera--functional-programming-principles-in-scala/</guid>
+      <description>COURSE LINK
+
+View my code on GitHub</description>
+    </item>
+    
+    <item>
+      <title>Budget App</title>
+      <link>https://andrewrgoss.com/projects/budget_app/</link>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/projects/budget_app/</guid>
+      <description>Udemy- Complete JavaScript Course &amp;gt;&amp;gt; My projects
+Planning Guide
+View project 
+This project put all kinds of different JavaScript concepts from the Complete JavaScript Course I completed into practice.
+View my project
+View my code on GitHub</description>
+    </item>
+    
+    <item>
+      <title>DOM Pig Game</title>
+      <link>https://andrewrgoss.com/projects/dom_pig_game/</link>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/projects/dom_pig_game/</guid>
+      <description>Udemy- Complete JavaScript Course &amp;gt;&amp;gt; My projects
+
+Part of the Complete JavaScript Course I completed, this project put JavaScript concepts from the section on DOM manipulation and events into practice.
+GAME RULES:  The game has 2 players, playing in rounds In each turn, a player rolls a dice as many times as he/she wishes. Each result get added to his ROUND score BUT, if the player rolls a 1, all his/her ROUND score gets lost.</description>
+    </item>
+    
+    <item>
+      <title>Udemy- Complete JavaScript Course</title>
+      <link>https://andrewrgoss.com/2017/udemy--complete-javascript-course/</link>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2017/udemy--complete-javascript-course/</guid>
+      <description>COMPLETION CERTIFICATE
+Design and Coding Resources
+
+This course represented my official foray into learning JavaScript. Up to this point I&amp;rsquo;d only used it on occasion with no formal training, as my focus has been predominantly on back-end data engineering. I wanted to gain a closer perspective on full-stack development, and JavaScript is a core front-end technology for me to have as part of my stack. This course covers the following areas:</description>
+    </item>
+    
+    <item>
+      <title>Big Data University- Hadoop 101</title>
+      <link>https://andrewrgoss.com/2017/big-data-university--hadoop-101/</link>
+      <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2017/big-data-university--hadoop-101/</guid>
+      <description>Course Code: BD0111EN
+Course Certificate
+Course Link
+IBM Analytics Demo Cloud
+Lesson Transcripts/Labs  My goal in taking this course was to expand upon my knowledge around Apache Hadoop, a free, open source, Java-based programming framework. Topics in this course include:
+ Hadoop&amp;rsquo;s architecture and core components, such as MapReduce and the Hadoop Distributed File System (HDFS). Adding/removing nodes from Hadoop clusters, how to check available disk space on each node, and how to modify configuration parameters.</description>
+    </item>
+    
+    <item>
+      <title>Udemy- Python for Data Structures &amp; Algorithms</title>
+      <link>https://andrewrgoss.com/2016/udemy--python-for-data-structures--algorithms/</link>
+      <pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2016/udemy--python-for-data-structures--algorithms/</guid>
+      <description>COURSE LINK
+Jupyter Notebooks
+ I took this course to get some experience using Jupyter Notebooks and furthered my Python skills in a couple of areas:
+ Algorithm Analysis and Big-O Notation Array Sequences  Additionally, this course offers video content on the &amp;lsquo;soft skills&amp;rsquo; needed to advance a career in technology such as personal branding, building a strong professional network, and practicing technical questions that could be asked on a future interview.</description>
+    </item>
+    
+    <item>
+      <title>Udemy- Ultimate Python Programming Tutorial</title>
+      <link>https://andrewrgoss.com/2016/udemy--ultimate-python-programming-tutorial/</link>
+      <pubDate>Mon, 18 Jul 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2016/udemy--ultimate-python-programming-tutorial/</guid>
+      <description>COMPLETION CERTIFICATE  I&amp;rsquo;ve started using Python more for work and took this course to strengthen my knowledge around the fundamentals of the language. Previously, I had been wanting to add Python to my personal tech stack for some time as it is a powerful (and popular) all-purpose programming language. It is a high-level language, meaning it looks more like a readable, human language than a low-level language does. The user-friendly syntax makes it one of the easier languages to learn and it is also one of the most commonly-used languages for analytics, data mining, and data science.</description>
+    </item>
+    
+    <item>
+      <title>Caleb Doxsey- An Introduction to Programming in Go</title>
+      <link>https://andrewrgoss.com/2016/caleb-doxsey--an-introduction-to-programming-in-go/</link>
+      <pubDate>Wed, 27 Jan 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2016/caleb-doxsey--an-introduction-to-programming-in-go/</guid>
+      <description>BOOK LINK  Go (Golang) is an open source programming language that makes it easy to build simple, reliable, and efficient software. I first started using Go through my work at DigitasLBi. My department adopted this language as one of our tech stacks for the following reasons:
+ It’s open source (i.e. free) and intended to be simple yet expressive. It’s intended to be a good middleware layer to provide for both quick one-off applications as well as large collaborative code bases.</description>
+    </item>
+    
+    <item>
+      <title>Udemy- Programming for Beginners in C#</title>
+      <link>https://andrewrgoss.com/2015/udemy--programming-for-beginners-in-c/</link>
+      <pubDate>Sat, 28 Nov 2015 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2015/udemy--programming-for-beginners-in-c/</guid>
+      <description>COMPLETION CERTIFICATE  I&amp;rsquo;ve worked on Windows servers throughout my career, which initially got me started with this language. Learning some of the Base Class Library (BCL) of the Microsoft .NET Framework and using these classes through C# has helped me automate various tasks within these environments.
+My goal in taking this course was to strengthen my knowledge around the fundamentals of C# programming (and objected-oriented programming in general) and to get more practice.</description>
+    </item>
+    
+    <item>
+      <title>Scratch - Wind Power</title>
+      <link>https://andrewrgoss.com/projects/scratch/</link>
+      <pubDate>Tue, 18 Feb 2014 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/projects/scratch/</guid>
+      <description>Projects &amp;gt;&amp;gt; Scratch - Wind Power
+ As part of the popular Harvard University course CS50x that I took through EdX, I built a small Scratch application in completing the first problem set.
+ Scratch is a &amp;lsquo;language&amp;rsquo; wherein you create programs by dragging together and connecting “blocks”. Unlike other programming languages, Scratch is very visual, making it a good first project for building fundamentals and learning to think like a programmer.</description>
+    </item>
+    
+  </channel>
+</rss>

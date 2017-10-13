@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cygwin on Data Engineer &amp; Software Developer in Boston</title>
+    <link>https://andrewrgoss.com/tags/cygwin/</link>
+    <description>Recent content in Cygwin on Data Engineer &amp; Software Developer in Boston</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
+    <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
+    <lastBuildDate>Mon, 22 Aug 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://andrewrgoss.com/tags/cygwin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SSH Keys With PuTTY and Cygwin for Windows</title>
+      <link>https://andrewrgoss.com/2016/ssh-keys-with-putty-and-cygwin-for-windows/</link>
+      <pubDate>Mon, 22 Aug 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2016/ssh-keys-with-putty-and-cygwin-for-windows/</guid>
+      <description>In my work at DigitasLBi, I need to login to a number of client-specific Linux machines via a terminal emulator (there is no UI for these remote environments) from my local Windows laptop. For this my team uses Cygwin, a Linux-like environment for Windows making it possible to port software running on POSIX systems (such as Linux, BSD, and Unix systems) to Windows. It&amp;rsquo;s possible to login of course just using a standard username/password combination with Mosh or SSH at the command line.</description>
+    </item>
+    
+  </channel>
+</rss>

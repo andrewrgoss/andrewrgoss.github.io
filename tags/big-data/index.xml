@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Big Data on Data Engineer &amp; Software Developer in Boston</title>
+    <link>https://andrewrgoss.com/tags/big-data/</link>
+    <description>Recent content in Big Data on Data Engineer &amp; Software Developer in Boston</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
+    <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
+    <lastBuildDate>Wed, 05 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://andrewrgoss.com/tags/big-data/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The 2017 Big Data Landscape</title>
+      <link>https://andrewrgoss.com/2017/the-2017-big-data-landscape/</link>
+      <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2017/the-2017-big-data-landscape/</guid>
+      <description>Just released - an excellent &amp;ldquo;State of the Union&amp;rdquo; roundup of the key trends in the 2017 data ecosystem. Some high level trends and questions that are explored in this comprehensive article:
+ Big data + AI = the new stack. Big data provides the pipes, and AI provides the smarts. Enterprise budgets - follow the money Enterprise data moving to the cloud As the big data landscape gets busier every passing year, is big data consolidation coming?</description>
+    </item>
+    
+    <item>
+      <title>Big Data University- Hadoop 101</title>
+      <link>https://andrewrgoss.com/2017/big-data-university--hadoop-101/</link>
+      <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2017/big-data-university--hadoop-101/</guid>
+      <description>Course Code: BD0111EN
+Course Certificate
+Course Link
+IBM Analytics Demo Cloud
+Lesson Transcripts/Labs  My goal in taking this course was to expand upon my knowledge around Apache Hadoop, a free, open source, Java-based programming framework. Topics in this course include:
+ Hadoop&amp;rsquo;s architecture and core components, such as MapReduce and the Hadoop Distributed File System (HDFS). Adding/removing nodes from Hadoop clusters, how to check available disk space on each node, and how to modify configuration parameters.</description>
+    </item>
+    
+  </channel>
+</rss>

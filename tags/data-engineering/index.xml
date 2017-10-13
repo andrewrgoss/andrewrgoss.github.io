@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Engineering on Data Engineer &amp; Software Developer in Boston</title>
+    <link>https://andrewrgoss.com/tags/data-engineering/</link>
+    <description>Recent content in Data Engineering on Data Engineer &amp; Software Developer in Boston</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
+    <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
+    <lastBuildDate>Thu, 20 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://andrewrgoss.com/tags/data-engineering/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What is a Productive Data Engineering Team?</title>
+      <link>https://andrewrgoss.com/2017/what-is-a-productive-data-engineering-team/</link>
+      <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2017/what-is-a-productive-data-engineering-team/</guid>
+      <description>written by Jesse Anderson
+ Merging the gaps between data science and engineering, and what each side can learn from the other.
+ In my experience working with data engineering teams, I find that most teams don’t realize they have to change their thinking about data and systems to be successful with big data. Data engineering teams need to think about how data is valuable and at what scale the data is coming in.</description>
+    </item>
+    
+    <item>
+      <title>The Rise of the Data Engineer</title>
+      <link>https://andrewrgoss.com/2017/the-rise-of-the-data-engineer/</link>
+      <pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2017/the-rise-of-the-data-engineer/</guid>
+      <description>written by Maxime Beauchemin
+I joined Facebook in 2011 as a business intelligence engineer. By the time I left in 2013, I was a data engineer.
+I wasn&amp;rsquo;t promoted or assigned to this new role. Instead, Facebook came to realize that the work we were doing transcended classic business intelligence. The role we&amp;rsquo;d created for ourselves was a new discipline entirely.
+My team was at forefront of this transformation. We were developing new skills, new ways of doing things, new tools, and&amp;ndash;more often than not&amp;ndash;turning our backs to traditional methods.</description>
+    </item>
+    
+    <item>
+      <title>We Need Both Data Scientists &amp; Data Engineers</title>
+      <link>https://andrewrgoss.com/2016/we-need-both-data-scientists--data-engineers/</link>
+      <pubDate>Tue, 27 Dec 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2016/we-need-both-data-scientists--data-engineers/</guid>
+      <description>written by Neeraj Chadha
+When it comes to the medical profession, doctors get all the glory. In the world of IoT, it&amp;rsquo;s data scientists who get most of the attention and acclaim. They extract critical intelligence from big data so businesses can make informed decisions on the spot. But they don&amp;rsquo;t do their work in a vacuum. Data scientists can&amp;rsquo;t dazzle their industries without data engineers. These unheralded champions, equivalent to nurses, ensure that big data keeps flowing.</description>
+    </item>
+    
+    <item>
+      <title>The Data Science Industry: Who Does What</title>
+      <link>https://andrewrgoss.com/2016/the-data-science-industry-who-does-what/</link>
+      <pubDate>Wed, 09 Nov 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2016/the-data-science-industry-who-does-what/</guid>
+      <description>Great infographic from DataCamp that lays out the roles and skills associated with a data science team. As a data engineer within this group, these are the kind of people I work with day-to-day. *Source: DataCamp</description>
+    </item>
+    
+    <item>
+      <title>Data Engineers vs. Data Scientists</title>
+      <link>https://andrewrgoss.com/2016/data-engineers-vs.-data-scientists/</link>
+      <pubDate>Thu, 29 Sep 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2016/data-engineers-vs.-data-scientists/</guid>
+      <description>Data engineer and data scientist are the two most popular career tracks in big data - but how do they compare? At a high level, data engineers are concerned with data infrastructure, while data scientists are concerned with analysis.
+Like data scientists, data engineers write code. They’re highly analytical, and are interested in data visualization. Unlike data scientists — and inspired by a more mature parent, software engineering — data engineers build tools, infrastructure, frameworks, and services.</description>
+    </item>
+    
+    <item>
+      <title>Report- The State of Data Engineering</title>
+      <link>https://andrewrgoss.com/2016/report--the-state-of-data-engineering/</link>
+      <pubDate>Wed, 28 Sep 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2016/report--the-state-of-data-engineering/</guid>
+      <description>I recently came across an excellent report by Stitch on the state of data engineering.
+Today, there are 6,500 people on LinkedIn who call themselves data engineers. In San Francisco alone, there are 6,600 job listings for this same title. The number of data engineers has doubled in the past year, but engineering leaders still find themselves faced with a significant shortage of data engineering talent.
+The need for data talent is born from a fundamental shift: tech companies are now data companies.</description>
+    </item>
+    
+  </channel>
+</rss>

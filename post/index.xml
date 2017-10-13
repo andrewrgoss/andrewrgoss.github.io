@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post on Data Engineer &amp; Software Developer in Boston</title>
+    <link>https://andrewrgoss.com/post/</link>
+    <description>Recent content in Post on Data Engineer &amp; Software Developer in Boston</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
+    <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
+    <lastBuildDate>Fri, 13 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://andrewrgoss.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Coursera- Functional Programming Principles in Scala</title>
+      <link>https://andrewrgoss.com/2017/coursera--functional-programming-principles-in-scala/</link>
+      <pubDate>Fri, 13 Oct 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2017/coursera--functional-programming-principles-in-scala/</guid>
+      <description>COURSE LINK
+
+View my code on GitHub</description>
+    </item>
+    
+    <item>
+      <title>Udemy- Complete JavaScript Course</title>
+      <link>https://andrewrgoss.com/2017/udemy--complete-javascript-course/</link>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2017/udemy--complete-javascript-course/</guid>
+      <description>COMPLETION CERTIFICATE
+Design and Coding Resources
+
+This course represented my official foray into learning JavaScript. Up to this point I&amp;rsquo;d only used it on occasion with no formal training, as my focus has been predominantly on back-end data engineering. I wanted to gain a closer perspective on full-stack development, and JavaScript is a core front-end technology for me to have as part of my stack. This course covers the following areas:</description>
+    </item>
+    
+    <item>
+      <title>What&#39;s the Go Language Really Good For?</title>
+      <link>https://andrewrgoss.com/2017/whats-the-go-language-really-good-for/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2017/whats-the-go-language-really-good-for/</guid>
+      <description>written by Serdar Yegulalp
+ InfoWorld examines the strengths, weaknesses, use cases, and future directions of Google&amp;rsquo;s hit programming language
+ During its eight-plus years in the wild, Google’s Go language—with version 1.8.1 out as of April 2017—has evolved from being a curiosity for alpha geeks to being the battle-tested programming language behind some of the world’s most important cloud-centric projects.
+Why was Go chosen by the developers of such projects as Docker and Kubernetes?</description>
+    </item>
+    
+    <item>
+      <title>What is a Productive Data Engineering Team?</title>
+      <link>https://andrewrgoss.com/2017/what-is-a-productive-data-engineering-team/</link>
+      <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2017/what-is-a-productive-data-engineering-team/</guid>
+      <description>written by Jesse Anderson
+ Merging the gaps between data science and engineering, and what each side can learn from the other.
+ In my experience working with data engineering teams, I find that most teams don’t realize they have to change their thinking about data and systems to be successful with big data. Data engineering teams need to think about how data is valuable and at what scale the data is coming in.</description>
+    </item>
+    
+    <item>
+      <title>The 2017 Big Data Landscape</title>
+      <link>https://andrewrgoss.com/2017/the-2017-big-data-landscape/</link>
+      <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2017/the-2017-big-data-landscape/</guid>
+      <description>Just released - an excellent &amp;ldquo;State of the Union&amp;rdquo; roundup of the key trends in the 2017 data ecosystem. Some high level trends and questions that are explored in this comprehensive article:
+ Big data + AI = the new stack. Big data provides the pipes, and AI provides the smarts. Enterprise budgets - follow the money Enterprise data moving to the cloud As the big data landscape gets busier every passing year, is big data consolidation coming?</description>
+    </item>
+    
+    <item>
+      <title>Getting Started With NSQ for Go</title>
+      <link>https://andrewrgoss.com/2017/getting-started-with-nsq-for-go/</link>
+      <pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2017/getting-started-with-nsq-for-go/</guid>
+      <description>I&amp;rsquo;ve been recently working on software application project at DigitasLBi where we adopted NSQ as part of our microservices architecture. With this post I&amp;rsquo;d like to share how you can get started with NSQ by sending and receiving a simple message by writing some Go code.
+What is NSQ? Per the official website, NSQ is a realtime distributed messaging platform designed to operate at scale, handling billions of messages per day.</description>
+    </item>
+    
+    <item>
+      <title>The Rise of the Data Engineer</title>
+      <link>https://andrewrgoss.com/2017/the-rise-of-the-data-engineer/</link>
+      <pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2017/the-rise-of-the-data-engineer/</guid>
+      <description>written by Maxime Beauchemin
+I joined Facebook in 2011 as a business intelligence engineer. By the time I left in 2013, I was a data engineer.
+I wasn&amp;rsquo;t promoted or assigned to this new role. Instead, Facebook came to realize that the work we were doing transcended classic business intelligence. The role we&amp;rsquo;d created for ourselves was a new discipline entirely.
+My team was at forefront of this transformation. We were developing new skills, new ways of doing things, new tools, and&amp;ndash;more often than not&amp;ndash;turning our backs to traditional methods.</description>
+    </item>
+    
+    <item>
+      <title>Big Data University- Hadoop 101</title>
+      <link>https://andrewrgoss.com/2017/big-data-university--hadoop-101/</link>
+      <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2017/big-data-university--hadoop-101/</guid>
+      <description>Course Code: BD0111EN
+Course Certificate
+Course Link
+IBM Analytics Demo Cloud
+Lesson Transcripts/Labs  My goal in taking this course was to expand upon my knowledge around Apache Hadoop, a free, open source, Java-based programming framework. Topics in this course include:
+ Hadoop&amp;rsquo;s architecture and core components, such as MapReduce and the Hadoop Distributed File System (HDFS). Adding/removing nodes from Hadoop clusters, how to check available disk space on each node, and how to modify configuration parameters.</description>
+    </item>
+    
+    <item>
+      <title>We Need Both Data Scientists &amp; Data Engineers</title>
+      <link>https://andrewrgoss.com/2016/we-need-both-data-scientists--data-engineers/</link>
+      <pubDate>Tue, 27 Dec 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2016/we-need-both-data-scientists--data-engineers/</guid>
+      <description>written by Neeraj Chadha
+When it comes to the medical profession, doctors get all the glory. In the world of IoT, it&amp;rsquo;s data scientists who get most of the attention and acclaim. They extract critical intelligence from big data so businesses can make informed decisions on the spot. But they don&amp;rsquo;t do their work in a vacuum. Data scientists can&amp;rsquo;t dazzle their industries without data engineers. These unheralded champions, equivalent to nurses, ensure that big data keeps flowing.</description>
+    </item>
+    
+    <item>
+      <title>The Data Science Industry: Who Does What</title>
+      <link>https://andrewrgoss.com/2016/the-data-science-industry-who-does-what/</link>
+      <pubDate>Wed, 09 Nov 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2016/the-data-science-industry-who-does-what/</guid>
+      <description>Great infographic from DataCamp that lays out the roles and skills associated with a data science team. As a data engineer within this group, these are the kind of people I work with day-to-day. *Source: DataCamp</description>
+    </item>
+    
+    <item>
+      <title>Udemy- Python for Data Structures &amp; Algorithms</title>
+      <link>https://andrewrgoss.com/2016/udemy--python-for-data-structures--algorithms/</link>
+      <pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2016/udemy--python-for-data-structures--algorithms/</guid>
+      <description>COURSE LINK
+Jupyter Notebooks
+ I took this course to get some experience using Jupyter Notebooks and furthered my Python skills in a couple of areas:
+ Algorithm Analysis and Big-O Notation Array Sequences  Additionally, this course offers video content on the &amp;lsquo;soft skills&amp;rsquo; needed to advance a career in technology such as personal branding, building a strong professional network, and practicing technical questions that could be asked on a future interview.</description>
+    </item>
+    
+    <item>
+      <title>Stages of the Analytics Life Cycle</title>
+      <link>https://andrewrgoss.com/2016/stages-of-the-analytics-life-cycle/</link>
+      <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2016/stages-of-the-analytics-life-cycle/</guid>
+      <description>Across industries, the applied use of data to inform business decisions has become a foundational (arguably critical) element of business. The end goal is to ultimately derive actionable insights from vast amounts of data being collected but it takes a series of activities/tasks to arrive at this juncture. Here is a description of each stage of the analytics life cycle:
+ Data Acquisition – This may involve scraping data, interfacing with APIs, querying relational and non-relational databases, or defining strategy in relation to what data to pursue.</description>
+    </item>
+    
+    <item>
+      <title>Data Engineers vs. Data Scientists</title>
+      <link>https://andrewrgoss.com/2016/data-engineers-vs.-data-scientists/</link>
+      <pubDate>Thu, 29 Sep 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2016/data-engineers-vs.-data-scientists/</guid>
+      <description>Data engineer and data scientist are the two most popular career tracks in big data - but how do they compare? At a high level, data engineers are concerned with data infrastructure, while data scientists are concerned with analysis.
+Like data scientists, data engineers write code. They’re highly analytical, and are interested in data visualization. Unlike data scientists — and inspired by a more mature parent, software engineering — data engineers build tools, infrastructure, frameworks, and services.</description>
+    </item>
+    
+    <item>
+      <title>Report- The State of Data Engineering</title>
+      <link>https://andrewrgoss.com/2016/report--the-state-of-data-engineering/</link>
+      <pubDate>Wed, 28 Sep 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2016/report--the-state-of-data-engineering/</guid>
+      <description>I recently came across an excellent report by Stitch on the state of data engineering.
+Today, there are 6,500 people on LinkedIn who call themselves data engineers. In San Francisco alone, there are 6,600 job listings for this same title. The number of data engineers has doubled in the past year, but engineering leaders still find themselves faced with a significant shortage of data engineering talent.
+The need for data talent is born from a fundamental shift: tech companies are now data companies.</description>
+    </item>
+    
+    <item>
+      <title>SSH Keys With PuTTY and Cygwin for Windows</title>
+      <link>https://andrewrgoss.com/2016/ssh-keys-with-putty-and-cygwin-for-windows/</link>
+      <pubDate>Mon, 22 Aug 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2016/ssh-keys-with-putty-and-cygwin-for-windows/</guid>
+      <description>In my work at DigitasLBi, I need to login to a number of client-specific Linux machines via a terminal emulator (there is no UI for these remote environments) from my local Windows laptop. For this my team uses Cygwin, a Linux-like environment for Windows making it possible to port software running on POSIX systems (such as Linux, BSD, and Unix systems) to Windows. It&amp;rsquo;s possible to login of course just using a standard username/password combination with Mosh or SSH at the command line.</description>
+    </item>
+    
+    <item>
+      <title>Udemy- Ultimate Python Programming Tutorial</title>
+      <link>https://andrewrgoss.com/2016/udemy--ultimate-python-programming-tutorial/</link>
+      <pubDate>Mon, 18 Jul 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2016/udemy--ultimate-python-programming-tutorial/</guid>
+      <description>COMPLETION CERTIFICATE  I&amp;rsquo;ve started using Python more for work and took this course to strengthen my knowledge around the fundamentals of the language. Previously, I had been wanting to add Python to my personal tech stack for some time as it is a powerful (and popular) all-purpose programming language. It is a high-level language, meaning it looks more like a readable, human language than a low-level language does. The user-friendly syntax makes it one of the easier languages to learn and it is also one of the most commonly-used languages for analytics, data mining, and data science.</description>
+    </item>
+    
+    <item>
+      <title>SSH With Git Bash and TortoiseGit for Windows</title>
+      <link>https://andrewrgoss.com/2016/ssh-with-git-bash-and-tortoisegit-for-windows/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2016/ssh-with-git-bash-and-tortoisegit-for-windows/</guid>
+      <description>If you&amp;rsquo;ve ever written code of any kind for professional and personal purposes, you&amp;rsquo;ve likely come across the concept of Source Control Management (SCM). When I first became a developer, I used Subversion as my SCM tool but have since switched to the more popular Git. I use git to commit the latest versions of code in both Linux and Windows environments, but I&amp;rsquo;m going to focus on Windows in this post as this is the operating system for my personal computer.</description>
+    </item>
+    
+    <item>
+      <title>Open Data Science Conference East</title>
+      <link>https://andrewrgoss.com/2016/open-data-science-conference-east/</link>
+      <pubDate>Fri, 20 May 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2016/open-data-science-conference-east/</guid>
+      <description>In May 2016 I attended my first Open Data Science Conference in Boston. There were some 3,000+ data science practioners that came together at the Boston Convention &amp;amp; Exhibition Center to share ideas about this rapidly changing discipline. The following topics were covered throughout the conference:
+ Deep Learning Machine Learning Predictive Analytics Python Stan R Julia Hadoop Spark Scikit-learn Natural Language Processing  I attended sessions on popular data science statistical models and using Python for data science, where we worked through this example.</description>
+    </item>
+    
+    <item>
+      <title>Analytic Disciplines Compared to Data Science</title>
+      <link>https://andrewrgoss.com/2016/analytic-disciplines-compared-to-data-science/</link>
+      <pubDate>Mon, 09 May 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2016/analytic-disciplines-compared-to-data-science/</guid>
+      <description>Came across an excellent article on Data Science Central that digs into the differences between data science, data mining, machine learning, statistics, operations research, and so on. The author compares several analytic disciplines that overlap to explain the differences and common denominators. Typical job titles, types of analyses, and industries traditionally attached to each discipline are also detailed.
+Read more
+*Source: Data Science Central</description>
+    </item>
+    
+    <item>
+      <title>AWSome Day Boston</title>
+      <link>https://andrewrgoss.com/2016/awsome-day-boston/</link>
+      <pubDate>Tue, 29 Mar 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2016/awsome-day-boston/</guid>
+      <description>In March 2016 I joined Amazon Web Services for an all-day training event at the Westin Copley Place in Boston. The workshop provided a step-by-step introduction to the core AWS services for compute, storage, database and networking. AWS technical experts explained key features and use cases, shared best practices, and walked through technical demos. We specifically covered the following topics:
+ Module 1: AWS Introduction and History Module 2: Infrastructure Services: Amazon EC2, Amazon S3, Amazon EBS, and Amazon VPC Module 3: Security, Identity, and Access Management: IAM Module 4: Databases: Amazon DynamoDB and Amazon RDS Module 5: AWS Elasticity and Management Tools: Auto Scaling, Elastic Load Balancing, Amazon CloudWatch, and AWS Trusted Advisor  The day was a great for networking, learning more about cloud computing (from the clear market leader in this space) and how to get started on AWS Cloud.</description>
+    </item>
+    
+    <item>
+      <title>Caleb Doxsey- An Introduction to Programming in Go</title>
+      <link>https://andrewrgoss.com/2016/caleb-doxsey--an-introduction-to-programming-in-go/</link>
+      <pubDate>Wed, 27 Jan 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2016/caleb-doxsey--an-introduction-to-programming-in-go/</guid>
+      <description>BOOK LINK  Go (Golang) is an open source programming language that makes it easy to build simple, reliable, and efficient software. I first started using Go through my work at DigitasLBi. My department adopted this language as one of our tech stacks for the following reasons:
+ It’s open source (i.e. free) and intended to be simple yet expressive. It’s intended to be a good middleware layer to provide for both quick one-off applications as well as large collaborative code bases.</description>
+    </item>
+    
+    <item>
+      <title>Udemy- Programming for Beginners in C#</title>
+      <link>https://andrewrgoss.com/2015/udemy--programming-for-beginners-in-c/</link>
+      <pubDate>Sat, 28 Nov 2015 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2015/udemy--programming-for-beginners-in-c/</guid>
+      <description>COMPLETION CERTIFICATE  I&amp;rsquo;ve worked on Windows servers throughout my career, which initially got me started with this language. Learning some of the Base Class Library (BCL) of the Microsoft .NET Framework and using these classes through C# has helped me automate various tasks within these environments.
+My goal in taking this course was to strengthen my knowledge around the fundamentals of C# programming (and objected-oriented programming in general) and to get more practice.</description>
+    </item>
+    
+    <item>
+      <title>Why I Switched from Wordpress to Hugo</title>
+      <link>https://andrewrgoss.com/2015/why-i-switched-from-wordpress-to-hugo/</link>
+      <pubDate>Sun, 25 Oct 2015 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2015/why-i-switched-from-wordpress-to-hugo/</guid>
+      <description>For a long time I&amp;rsquo;ve believed in the importance of having a blog but have struggled to keep one going. I started out using Blogger back in the day and most recently was using Wordpress. But there were features about these blogging platforms that consistently bugged me. Fortunately for me, while I was learning the Go programming language I stumbled across Hugo, a static site generator written in this language.</description>
+    </item>
+    
+  </channel>
+</rss>

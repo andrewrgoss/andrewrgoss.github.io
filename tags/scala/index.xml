@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scala on Data Engineer &amp; Software Developer in Boston</title>
+    <link>https://andrewrgoss.com/tags/scala/</link>
+    <description>Recent content in Scala on Data Engineer &amp; Software Developer in Boston</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
+    <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
+    <lastBuildDate>Fri, 13 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://andrewrgoss.com/tags/scala/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Coursera- Functional Programming Principles in Scala</title>
+      <link>https://andrewrgoss.com/2017/coursera--functional-programming-principles-in-scala/</link>
+      <pubDate>Fri, 13 Oct 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2017/coursera--functional-programming-principles-in-scala/</guid>
+      <description>COURSE LINK
+
+View my code on GitHub</description>
+    </item>
+    
+  </channel>
+</rss>

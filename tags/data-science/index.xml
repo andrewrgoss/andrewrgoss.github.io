@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science on Data Engineer &amp; Software Developer in Boston</title>
+    <link>https://andrewrgoss.com/tags/data-science/</link>
+    <description>Recent content in Data Science on Data Engineer &amp; Software Developer in Boston</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
+    <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
+    <lastBuildDate>Tue, 27 Dec 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://andrewrgoss.com/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>We Need Both Data Scientists &amp; Data Engineers</title>
+      <link>https://andrewrgoss.com/2016/we-need-both-data-scientists--data-engineers/</link>
+      <pubDate>Tue, 27 Dec 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2016/we-need-both-data-scientists--data-engineers/</guid>
+      <description>written by Neeraj Chadha
+When it comes to the medical profession, doctors get all the glory. In the world of IoT, it&amp;rsquo;s data scientists who get most of the attention and acclaim. They extract critical intelligence from big data so businesses can make informed decisions on the spot. But they don&amp;rsquo;t do their work in a vacuum. Data scientists can&amp;rsquo;t dazzle their industries without data engineers. These unheralded champions, equivalent to nurses, ensure that big data keeps flowing.</description>
+    </item>
+    
+    <item>
+      <title>The Data Science Industry: Who Does What</title>
+      <link>https://andrewrgoss.com/2016/the-data-science-industry-who-does-what/</link>
+      <pubDate>Wed, 09 Nov 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2016/the-data-science-industry-who-does-what/</guid>
+      <description>Great infographic from DataCamp that lays out the roles and skills associated with a data science team. As a data engineer within this group, these are the kind of people I work with day-to-day. *Source: DataCamp</description>
+    </item>
+    
+    <item>
+      <title>Stages of the Analytics Life Cycle</title>
+      <link>https://andrewrgoss.com/2016/stages-of-the-analytics-life-cycle/</link>
+      <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2016/stages-of-the-analytics-life-cycle/</guid>
+      <description>Across industries, the applied use of data to inform business decisions has become a foundational (arguably critical) element of business. The end goal is to ultimately derive actionable insights from vast amounts of data being collected but it takes a series of activities/tasks to arrive at this juncture. Here is a description of each stage of the analytics life cycle:
+ Data Acquisition – This may involve scraping data, interfacing with APIs, querying relational and non-relational databases, or defining strategy in relation to what data to pursue.</description>
+    </item>
+    
+    <item>
+      <title>Data Engineers vs. Data Scientists</title>
+      <link>https://andrewrgoss.com/2016/data-engineers-vs.-data-scientists/</link>
+      <pubDate>Thu, 29 Sep 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2016/data-engineers-vs.-data-scientists/</guid>
+      <description>Data engineer and data scientist are the two most popular career tracks in big data - but how do they compare? At a high level, data engineers are concerned with data infrastructure, while data scientists are concerned with analysis.
+Like data scientists, data engineers write code. They’re highly analytical, and are interested in data visualization. Unlike data scientists — and inspired by a more mature parent, software engineering — data engineers build tools, infrastructure, frameworks, and services.</description>
+    </item>
+    
+    <item>
+      <title>Open Data Science Conference East</title>
+      <link>https://andrewrgoss.com/2016/open-data-science-conference-east/</link>
+      <pubDate>Fri, 20 May 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2016/open-data-science-conference-east/</guid>
+      <description>In May 2016 I attended my first Open Data Science Conference in Boston. There were some 3,000+ data science practioners that came together at the Boston Convention &amp;amp; Exhibition Center to share ideas about this rapidly changing discipline. The following topics were covered throughout the conference:
+ Deep Learning Machine Learning Predictive Analytics Python Stan R Julia Hadoop Spark Scikit-learn Natural Language Processing  I attended sessions on popular data science statistical models and using Python for data science, where we worked through this example.</description>
+    </item>
+    
+    <item>
+      <title>Analytic Disciplines Compared to Data Science</title>
+      <link>https://andrewrgoss.com/2016/analytic-disciplines-compared-to-data-science/</link>
+      <pubDate>Mon, 09 May 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2016/analytic-disciplines-compared-to-data-science/</guid>
+      <description>Came across an excellent article on Data Science Central that digs into the differences between data science, data mining, machine learning, statistics, operations research, and so on. The author compares several analytic disciplines that overlap to explain the differences and common denominators. Typical job titles, types of analyses, and industries traditionally attached to each discipline are also detailed.
+Read more
+*Source: Data Science Central</description>
+    </item>
+    
+  </channel>
+</rss>
