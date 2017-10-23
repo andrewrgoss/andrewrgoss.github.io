@@ -8,22 +8,20 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Fri, 13 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Coursera- Functional Programming Principles in Scala</title>
-      <link>https://andrewrgoss.com/2017/coursera--functional-programming-principles-in-scala/</link>
-      <pubDate>Fri, 13 Oct 2017 00:00:00 +0000</pubDate>
+      <title>My Path to Learning Scala</title>
+      <link>https://andrewrgoss.com/2017/my-path-to-learning-scala/</link>
+      <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>https://andrewrgoss.com/2017/coursera--functional-programming-principles-in-scala/</guid>
-      <description>COURSE LINK
-
-Learning Resources Scala School
-A Tour of Scala
-View my code on GitHub</description>
+      <guid>https://andrewrgoss.com/2017/my-path-to-learning-scala/</guid>
+      <description>Scala Reference Guide 
+I recently joined a new data engineering team at DigitasLBi and Scala is the predominant language being used. Having never coded in this language, I sought to quickly learn it and wanted to share the numerous resources I came across and bookmarked.
+The first place I usually turn when learning something new is to complete an introductory online course with videos and exercises. The most popular course for Scala is &amp;ldquo;Functional Programming Principles in Scala&amp;rdquo; on Coursera and it is taught by the inventor of the language (Martin Odersky), so I gave it a whirl.</description>
     </item>
     
     <item>
