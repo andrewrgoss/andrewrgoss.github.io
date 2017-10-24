@@ -19,8 +19,7 @@
       <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2017/my-path-to-learning-scala/</guid>
-      <description>Scala Reference Guide 
-I recently joined a new data engineering team at DigitasLBi and Scala is the predominant language being used. Having never coded in this language, I sought to quickly learn it and wanted to share the numerous resources I came across and bookmarked.
+      <description>I recently joined a new data engineering team at DigitasLBi and Scala is the predominant language being used. Having never coded in this language, I sought to quickly learn it and wanted to share the numerous resources I came across and bookmarked.
 The first place I usually turn when learning something new is to complete an introductory online course with videos and exercises. The most popular course for Scala is &amp;ldquo;Functional Programming Principles in Scala&amp;rdquo; on Coursera and it is taught by the inventor of the language (Martin Odersky), so I gave it a whirl.</description>
     </item>
     
