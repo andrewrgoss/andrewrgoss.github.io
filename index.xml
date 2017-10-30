@@ -20,7 +20,7 @@
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2017/my-path-to-learning-scala/</guid>
       <description>I recently joined a new data engineering team at DigitasLBi and Scala is the predominant language being used. Having never coded in this language, I sought to quickly learn it and wanted to share the numerous resources I came across and bookmarked.
-The first place I usually turn when learning something new is to complete an introductory online course with videos and exercises. The most popular course for Scala is &amp;ldquo;Functional Programming Principles in Scala&amp;rdquo; on Coursera and it is taught by the inventor of the language (Martin Odersky), so I gave it a whirl.</description>
+The first place I usually turn when learning something new is to complete an introductory online course with videos and exercises. The most popular course for Scala is Functional Programming Principles in Scala on Coursera and it is taught by the inventor of the language (Martin Odersky), so I gave it a whirl.</description>
     </item>
     
     <item>
@@ -469,9 +469,8 @@ My goal in taking this course was to strengthen my knowledge around the fundamen
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/about/</guid>
-      <description>TL;DR &amp;ndash; Senior software/data engineer building business intelligence and programmatic media applications in the marketing/advertising industry.
- My career has been tied closely to the convergence of marketing and technology (martech) and the ever-increasing reliance on data at the heart of it all. With petabytes of data being generated at every turn through digital interactions, I work to wrangle this data and derive value from it.
- I am currently a senior software/data engineer at DigitasLBi.</description>
+      <description>TL;DR &amp;ndash; Senior software/data engineer building backend systems that help industry-leading brands make smarter marketing/advertising decisions. Also a world traveler.
+ My career has been tied closely to the convergence of marketing and technology (martech) and the ever-increasing reliance on data at the heart of it all. With petabytes of data being generated at every turn through digital interactions, I work to wrangle this data and derive value from it.</description>
     </item>
     
     <item>
