@@ -9,9 +9,7 @@
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
     <lastBuildDate>Mon, 23 Oct 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://andrewrgoss.com/tags/scala/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://andrewrgoss.com/tags/scala/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>My Path to Learning Scala</title>
@@ -19,8 +17,41 @@
       <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2017/my-path-to-learning-scala/</guid>
-      <description>I recently joined a new data engineering team at DigitasLBi and Scala is the predominant language being used. Having never coded in this language, I sought to quickly learn it and wanted to share the numerous resources I came across and bookmarked.
-The first place I usually turn when learning something new is to complete an introductory online course with videos and exercises. The most popular course for Scala is Functional Programming Principles in Scala on Coursera and it is taught by the inventor of the language (Martin Odersky), so I gave it a whirl.</description>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/scala.png&#34; alt=&#34;Scala&#34; title=&#34;Scala&#34; /&gt;&lt;br&gt;
+&lt;hr&gt;&lt;/p&gt;
+
+&lt;p&gt;I recently joined a new data engineering team at &lt;a href=&#34;http://www.digitaslbi.com/us&#34; target=&#34;_blank&#34;&gt;DigitasLBi&lt;/a&gt; and &lt;a href=&#34;http://scala-lang.org&#34; target=&#34;_blank&#34;&gt;Scala&lt;/a&gt; is the predominant language being used. Having never coded in this language, I sought to quickly learn it and wanted to share the numerous resources I came across and bookmarked.&lt;/p&gt;
+
+&lt;p&gt;The first place I usually turn when learning something new is to complete an introductory online course with videos and exercises. The most popular course for Scala is &lt;a href=&#34;https://www.coursera.org/learn/progfun1&#34; target=&#34;_blank&#34;&gt;Functional Programming Principles in Scala&lt;/a&gt; on Coursera and it is taught by the inventor of the language (Martin Odersky), so I gave it a whirl. After trying it out for a few weeks, I don&amp;rsquo;t recommend it for learning the language. If you need Scala for work as I do, taking this course will be very inefficient. You will end up spending a lot of time and effort while gaining very little in practical terms. It&amp;rsquo;s extremely heavy on theory around functional programming and if you want to use the language for building useful things, it&amp;rsquo;s unlikely that understanding applicative functors will be crucial for finishing the project. Having said that, it&amp;rsquo;s worth investing some time in learning basic functional features like pattern matching and currying, because it will make you more productive right from the beginning. I mention the course here as a helpful reference, but I found a different online course - &lt;a href=&#34;https://www.lynda.com/Scala-tutorials/Scala-Essential-Training/574693-2.html&#34; target=&#34;_blank&#34;&gt;Scala Essential Training&lt;/a&gt; - to be more in line with what I needed to do - learn Scala quickly to apply it on the job.&lt;/p&gt;
+
+&lt;h4 id=&#34;cheat-sheets:8d3e9b9fdaee39d2df99b4141ab40343&#34;&gt;Cheat Sheets&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://andrewrgoss.com/docs/scala_reference_guide.pdf&#34; target=&#34;_blank&#34;&gt;Scala Reference Guide&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://alvinalexander.com/scala/scala-cheat-sheet-reference-examples&#34; target=&#34;_blank&#34;&gt;Scala Cheat Sheet&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;how-to-learn-scala:8d3e9b9fdaee39d2df99b4141ab40343&#34;&gt;How to Learn Scala&lt;/h4&gt;
+
+&lt;p&gt;This article has a great compiled list of Scala resources to kickstart your learning.&lt;br&gt;
+&lt;a href=&#34;https://blog.codacy.com/how-to-learn-scala-cb53c5eb5ff6&#34; target=&#34;_blank&#34;&gt;blog.codacy.com/how-to-learn-scala&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;learning-resource-links:8d3e9b9fdaee39d2df99b4141ab40343&#34;&gt;Learning Resource Links&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://allaboutscala.com&#34; target=&#34;_blank&#34;&gt;AllAboutScala&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.scala-exercises.org&#34; target=&#34;_blank&#34;&gt;Scala Exercises&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://scalafiddle.io&#34; target=&#34;_blank&#34;&gt;ScalaFiddle&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://twitter.github.io/scala_school&#34; target=&#34;_blank&#34;&gt;Scala School&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://docs.scala-lang.org/tour/tour-of-scala.html&#34; target=&#34;_blank&#34;&gt;A Tour of Scala&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://blog.redelastic.com/transitioning-to-scala-d1818f25b2b7&#34; target=&#34;_blank&#34;&gt;Transitioning to Scala from Another Language&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;style-checker:8d3e9b9fdaee39d2df99b4141ab40343&#34;&gt;Style Checker&lt;/h4&gt;
+
+&lt;p&gt;Scalastyle examines your Scala code and indicates potential problems with it.&lt;br&gt;
+&lt;a href=&#34;http://www.scalastyle.org&#34; target=&#34;_blank&#34;&gt;www.scalastyle.org&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/learning-scala&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

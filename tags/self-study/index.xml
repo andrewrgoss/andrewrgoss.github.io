@@ -9,9 +9,7 @@
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
     <lastBuildDate>Mon, 23 Oct 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://andrewrgoss.com/tags/self-study/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://andrewrgoss.com/tags/self-study/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>My Path to Learning Scala</title>
@@ -19,8 +17,41 @@
       <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2017/my-path-to-learning-scala/</guid>
-      <description>I recently joined a new data engineering team at DigitasLBi and Scala is the predominant language being used. Having never coded in this language, I sought to quickly learn it and wanted to share the numerous resources I came across and bookmarked.
-The first place I usually turn when learning something new is to complete an introductory online course with videos and exercises. The most popular course for Scala is Functional Programming Principles in Scala on Coursera and it is taught by the inventor of the language (Martin Odersky), so I gave it a whirl.</description>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/scala.png&#34; alt=&#34;Scala&#34; title=&#34;Scala&#34; /&gt;&lt;br&gt;
+&lt;hr&gt;&lt;/p&gt;
+
+&lt;p&gt;I recently joined a new data engineering team at &lt;a href=&#34;http://www.digitaslbi.com/us&#34; target=&#34;_blank&#34;&gt;DigitasLBi&lt;/a&gt; and &lt;a href=&#34;http://scala-lang.org&#34; target=&#34;_blank&#34;&gt;Scala&lt;/a&gt; is the predominant language being used. Having never coded in this language, I sought to quickly learn it and wanted to share the numerous resources I came across and bookmarked.&lt;/p&gt;
+
+&lt;p&gt;The first place I usually turn when learning something new is to complete an introductory online course with videos and exercises. The most popular course for Scala is &lt;a href=&#34;https://www.coursera.org/learn/progfun1&#34; target=&#34;_blank&#34;&gt;Functional Programming Principles in Scala&lt;/a&gt; on Coursera and it is taught by the inventor of the language (Martin Odersky), so I gave it a whirl. After trying it out for a few weeks, I don&amp;rsquo;t recommend it for learning the language. If you need Scala for work as I do, taking this course will be very inefficient. You will end up spending a lot of time and effort while gaining very little in practical terms. It&amp;rsquo;s extremely heavy on theory around functional programming and if you want to use the language for building useful things, it&amp;rsquo;s unlikely that understanding applicative functors will be crucial for finishing the project. Having said that, it&amp;rsquo;s worth investing some time in learning basic functional features like pattern matching and currying, because it will make you more productive right from the beginning. I mention the course here as a helpful reference, but I found a different online course - &lt;a href=&#34;https://www.lynda.com/Scala-tutorials/Scala-Essential-Training/574693-2.html&#34; target=&#34;_blank&#34;&gt;Scala Essential Training&lt;/a&gt; - to be more in line with what I needed to do - learn Scala quickly to apply it on the job.&lt;/p&gt;
+
+&lt;h4 id=&#34;cheat-sheets:8d3e9b9fdaee39d2df99b4141ab40343&#34;&gt;Cheat Sheets&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://andrewrgoss.com/docs/scala_reference_guide.pdf&#34; target=&#34;_blank&#34;&gt;Scala Reference Guide&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://alvinalexander.com/scala/scala-cheat-sheet-reference-examples&#34; target=&#34;_blank&#34;&gt;Scala Cheat Sheet&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;how-to-learn-scala:8d3e9b9fdaee39d2df99b4141ab40343&#34;&gt;How to Learn Scala&lt;/h4&gt;
+
+&lt;p&gt;This article has a great compiled list of Scala resources to kickstart your learning.&lt;br&gt;
+&lt;a href=&#34;https://blog.codacy.com/how-to-learn-scala-cb53c5eb5ff6&#34; target=&#34;_blank&#34;&gt;blog.codacy.com/how-to-learn-scala&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;learning-resource-links:8d3e9b9fdaee39d2df99b4141ab40343&#34;&gt;Learning Resource Links&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://allaboutscala.com&#34; target=&#34;_blank&#34;&gt;AllAboutScala&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.scala-exercises.org&#34; target=&#34;_blank&#34;&gt;Scala Exercises&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://scalafiddle.io&#34; target=&#34;_blank&#34;&gt;ScalaFiddle&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://twitter.github.io/scala_school&#34; target=&#34;_blank&#34;&gt;Scala School&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://docs.scala-lang.org/tour/tour-of-scala.html&#34; target=&#34;_blank&#34;&gt;A Tour of Scala&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://blog.redelastic.com/transitioning-to-scala-d1818f25b2b7&#34; target=&#34;_blank&#34;&gt;Transitioning to Scala from Another Language&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;style-checker:8d3e9b9fdaee39d2df99b4141ab40343&#34;&gt;Style Checker&lt;/h4&gt;
+
+&lt;p&gt;Scalastyle examines your Scala code and indicates potential problems with it.&lt;br&gt;
+&lt;a href=&#34;http://www.scalastyle.org&#34; target=&#34;_blank&#34;&gt;www.scalastyle.org&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/learning-scala&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -29,12 +60,26 @@ The first place I usually turn when learning something new is to complete an int
       <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/projects/budget_app/</guid>
-      <description>Udemy- Complete JavaScript Course &amp;gt;&amp;gt; My projects
-Planning Guide
-View project 
-This project put all kinds of different JavaScript concepts from the Complete JavaScript Course I completed into practice.
-View my project
-View my code on GitHub</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://andrewrgoss.com/udemy-complete-javascript/budget-app&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://andrewrgoss.com/img/projects/budget_app.png&#34; alt=&#34;Budget App&#34;&gt;&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/&#34;&gt;Udemy- Complete JavaScript Course&lt;/a&gt; &amp;gt;&amp;gt; &lt;b&gt;My projects&lt;/b&gt;&lt;br&gt;
+&lt;a href=&#34;https://andrewrgoss.com/docs/budget-app-planning-guide.pdf&#34; target=&#34;_blank&#34;&gt;Planning Guide&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://andrewrgoss.com/udemy-complete-javascript/budget-app&#34; target=&#34;_blank&#34;&gt;View project&lt;/a&gt;
+&lt;hr&gt;&lt;/p&gt;
+
+&lt;p&gt;This project put all kinds of different JavaScript concepts from the &lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/&#34;&gt;Complete JavaScript Course&lt;/a&gt; I completed into practice.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/udemy--complete-javascript-course/modules_structuring.png&#34; alt=&#34;Structuring Code With Modules&#34; title=&#34;Structuring Code With Modules&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/udemy--complete-javascript-course/budget_app_modules.png&#34; alt=&#34;Budget App Modules&#34; title=&#34;Budget App Modules&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/udemy--complete-javascript-course/event_bubbling.png&#34; alt=&#34;Event Bubbling, Target Element, and Event Delegation&#34; title=&#34;Event Bubbling, Target Element, and Event Delegation&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/udemy--complete-javascript-course/event_delegation.png&#34; alt=&#34;When to Use Event Delegation&#34; title=&#34;When to Use Event Delegation&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://andrewrgoss.com/udemy-complete-javascript/budget-app&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my project&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-complete-javascript/tree/gh-pages/budget-app&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -43,10 +88,38 @@ View my code on GitHub</description>
       <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/projects/dom_pig_game/</guid>
-      <description>Udemy- Complete JavaScript Course &amp;gt;&amp;gt; My projects
+      <description>
 
-Part of the Complete JavaScript Course I completed, this project put JavaScript concepts from the section on DOM manipulation and events into practice.
-GAME RULES:  The game has 2 players, playing in rounds In each turn, a player rolls a dice as many times as he/she wishes. Each result get added to his ROUND score BUT, if the player rolls a 1, all his/her ROUND score gets lost.</description>
+&lt;p&gt;&lt;a href=&#34;https://andrewrgoss.com/udemy-complete-javascript/dom-pig-game&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://andrewrgoss.com/img/projects/dom_pig_game.png&#34; alt=&#34;DOM Pig Game&#34;&gt;&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/&#34;&gt;Udemy- Complete JavaScript Course&lt;/a&gt; &amp;gt;&amp;gt; &lt;b&gt;My projects&lt;/b&gt;&lt;br&gt;
+&lt;hr&gt;&lt;/p&gt;
+
+&lt;p&gt;Part of the &lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/&#34;&gt;Complete JavaScript Course&lt;/a&gt; I completed, this project put JavaScript concepts from the section on DOM manipulation and events into practice.&lt;/p&gt;
+
+&lt;h4 id=&#34;game-rules:229eedee5891aa94a277619cf36534ac&#34;&gt;GAME RULES:&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The game has 2 players, playing in rounds&lt;/li&gt;
+&lt;li&gt;In each turn, a player rolls a dice as many times as he/she wishes. Each result get added to his ROUND score&lt;/li&gt;
+&lt;li&gt;BUT, if the player rolls a 1, all his/her ROUND score gets lost. After that, it&amp;rsquo;s the next player&amp;rsquo;s turn&lt;/li&gt;
+&lt;li&gt;The player can choose to &amp;lsquo;Hold&amp;rsquo;, which means that his/her ROUND score gets added to the GLOBAL score. After that, it&amp;rsquo;s the next player&amp;rsquo;s turn&lt;/li&gt;
+&lt;li&gt;The first player to reach the user-set winning score wins the game&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;coding-challenges:229eedee5891aa94a277619cf36534ac&#34;&gt;CODING CHALLENGES&lt;/h4&gt;
+
+&lt;p&gt;Change the game to follow these rules:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;A player loses his ENTIRE score when he rolls two 6 in a row. After that, it&amp;rsquo;s the next player&amp;rsquo;s turn. (Hint: Always save the previous dice roll in a separate variable)&lt;/li&gt;
+&lt;li&gt;Add an input field to the HTML where players can set the winning score, so that they can change the predefined score of 100. (Hint: you can read that value with the .value property in JavaScript. This is a good oportunity to use google to figure this out :)&lt;/li&gt;
+&lt;li&gt;Add another dice to the game, so that there are two dices now. The player loses his current score when one of them is a 1. (Hint: you will need CSS to position the second dice, so take a look at the CSS code for the first one.)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://andrewrgoss.com/udemy-complete-javascript/dom-pig-game&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my project&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-complete-javascript/tree/gh-pages/dom-pig-game&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -55,10 +128,40 @@ GAME RULES:  The game has 2 players, playing in rounds In each turn, a player ro
       <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2017/udemy--complete-javascript-course/</guid>
-      <description>COMPLETION CERTIFICATE
-Design and Coding Resources
+      <description>
 
-This course represented my official foray into learning JavaScript. Up to this point I&amp;rsquo;d only used it on occasion with no formal training, as my focus has been predominantly on back-end data engineering. I wanted to gain a closer perspective on full-stack development, and JavaScript is a core front-end technology for me to have as part of my stack. This course covers the following areas:</description>
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/javascript.png&#34; alt=&#34;JavaScript&#34; title=&#34;JavaScript&#34; /&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.udemy.com/certificate/UC-NWM229P1&#34; target=&#34;_blank&#34;&gt;COMPLETION CERTIFICATE&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://codingheroes.io/resources&#34; target=&#34;_blank&#34;&gt;Design and Coding Resources&lt;/a&gt;&lt;br&gt;
+&lt;hr&gt;&lt;/p&gt;
+
+&lt;p&gt;This course represented my official foray into learning JavaScript. Up to this point I&amp;rsquo;d only used it on occasion with no formal training, as my focus has been predominantly on back-end data engineering. I wanted to gain a closer perspective on full-stack development, and JavaScript is a core front-end technology for me to have as part of my stack. This course covers the following areas:&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/js_language_basics&#34;&gt;JavaScript language basics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/how_js_works_behind&#34;&gt;How JavaScript works behind the scenes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/js_browser&#34;&gt;JavaScript in the browser: DOM manipulation and events&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/advanced_js_objects_functions&#34;&gt;Advanced JavaScript: objections and functions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://andrewrgoss.com/projects/budget_app&#34;&gt;Putting it all together: budget app project&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr&gt;
+
+&lt;h5 id=&#34;my-projects:f84187bd0236cff9ef749957d6953b7f&#34;&gt;My Projects&lt;/h5&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://andrewrgoss.com/projects/dom_pig_game&#34;&gt;DOM Pig Game&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://andrewrgoss.com/projects/budget_app&#34;&gt;Budget App&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h5 id=&#34;course-progress:f84187bd0236cff9ef749957d6953b7f&#34;&gt;Course Progress&lt;/h5&gt;
+
+&lt;progress max=&#34;1.0&#34; value=&#34;1.0&#34;&gt;&lt;/progress&gt;
+
+&lt;p&gt;100% - completed 9/29/17.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-complete-javascript&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -67,12 +170,37 @@ This course represented my official foray into learning JavaScript. Up to this p
       <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2017/big-data-university--hadoop-101/</guid>
-      <description>Course Code: BD0111EN
-Course Certificate
-Course Link
-IBM Analytics Demo Cloud
-Lesson Transcripts/Labs  My goal in taking this course was to expand upon my knowledge around Apache Hadoop, a free, open source, Java-based programming framework. Topics in this course include:
- Hadoop&amp;rsquo;s architecture and core components, such as MapReduce and the Hadoop Distributed File System (HDFS). Adding/removing nodes from Hadoop clusters, how to check available disk space on each node, and how to modify configuration parameters.</description>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/hadoop.png&#34; alt=&#34;Hadoop&#34; title=&#34;Hadoop&#34; /&gt;&lt;br&gt;
+&lt;b&gt;Course Code&lt;/b&gt;: BD0111EN&lt;br&gt;
+&lt;a href=&#34;https://courses.bigdatauniversity.com/certificates/32dd5caed6994df9a872c70bf6efb7e8&#34; target=&#34;_blank&#34;&gt;Course Certificate&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://bigdatauniversity.com/courses/introduction-to-hadoop&#34; target=&#34;_blank&#34;&gt;Course Link&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://my.imdemocloud.com&#34; target=&#34;_blank&#34;&gt;IBM Analytics Demo Cloud&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs&#34;&gt;Lesson Transcripts/Labs&lt;/a&gt;
+&lt;hr&gt;
+My goal in taking this course was to expand upon my knowledge around Apache Hadoop, a free, open source, Java-based programming framework. Topics in this course include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Hadoop&amp;rsquo;s architecture and core components, such as MapReduce and the Hadoop Distributed File System (HDFS).&lt;/li&gt;
+&lt;li&gt;Adding/removing nodes from Hadoop clusters, how to check available disk space on each node, and how to modify configuration parameters.&lt;/li&gt;
+&lt;li&gt;Other Apache projects that are part of the Hadoop ecosystem, including Pig, Hive, HBase, ZooKeeper, Oozie, Sqoop, Flume, among others.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The course provides video lectures, diagrams, and an IBM cloud sandbox environment to practice administering a Hadoop cluster and performing tasks such as adding and removing nodes. Additionally, the course provides instructions for connecting to the cloud environment via a SFTP client or a SSH client, the latter through which you can practice using the HDFS command line:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/big-data-university--hadoop-101/hdfs_command_line.png&#34; alt=&#34;HDFS Command Line&#34; title=&#34;HDFS Command Line&#34; /&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h5 id=&#34;course-progress:8867589f317da4ba51ec6005579cfef2&#34;&gt;Course Progress&lt;/h5&gt;
+
+&lt;progress max=&#34;1.0&#34; value=&#34;1.0&#34;&gt;&lt;/progress&gt;
+
+&lt;p&gt;100% - completed 01/30/17.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://courses.bigdatauniversity.com/certificates/32dd5caed6994df9a872c70bf6efb7e8&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View completion certificate&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -81,10 +209,21 @@ Lesson Transcripts/Labs  My goal in taking this course was to expand upon my kno
       <pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2016/udemy--python-for-data-structures--algorithms/</guid>
-      <description>COURSE LINK
-Jupyter Notebooks
- I took this course to get some experience using Jupyter Notebooks and furthered my Python skills in a couple of areas:
- Algorithm Analysis and Big-O Notation Array Sequences  Additionally, this course offers video content on the &amp;lsquo;soft skills&amp;rsquo; needed to advance a career in technology such as personal branding, building a strong professional network, and practicing technical questions that could be asked on a future interview.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/python.png&#34; alt=&#34;Python&#34; title=&#34;Python&#34; /&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/learn/v4&#34; target=&#34;_blank&#34;&gt;COURSE LINK&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://nbviewer.jupyter.org/github/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews/tree/master&#34; target=&#34;_blank&#34;&gt;Jupyter Notebooks&lt;/a&gt;&lt;br&gt;
+&lt;hr&gt;
+I took this course to get some experience using &lt;a href=&#34;http://jupyter.org&#34; target=&#34;_blank&#34;&gt;Jupyter Notebooks&lt;/a&gt; and furthered my Python skills in a couple of areas:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-python-data_structs-algorithms/tree/master/algorithm_analysis_and_big-o&#34; target=&#34;_blank&#34;&gt;Algorithm Analysis and Big-O Notation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-python-data_structs-algorithms/tree/master/array_sequences&#34; target=&#34;_blank&#34;&gt;Array Sequences&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Additionally, this course offers video content on the &amp;lsquo;soft skills&amp;rsquo; needed to advance a career in technology such as personal branding, building a strong professional network, and practicing technical questions that could be asked on a future interview. With lifetime access it is always helpful to be able to go back and reference these sections.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-python-data_structs-algorithms&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -93,7 +232,22 @@ Jupyter Notebooks
       <pubDate>Mon, 18 Jul 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2016/udemy--ultimate-python-programming-tutorial/</guid>
-      <description>COMPLETION CERTIFICATE  I&amp;rsquo;ve started using Python more for work and took this course to strengthen my knowledge around the fundamentals of the language. Previously, I had been wanting to add Python to my personal tech stack for some time as it is a powerful (and popular) all-purpose programming language. It is a high-level language, meaning it looks more like a readable, human language than a low-level language does. The user-friendly syntax makes it one of the easier languages to learn and it is also one of the most commonly-used languages for analytics, data mining, and data science.</description>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/python.png&#34; alt=&#34;Python&#34; title=&#34;Python&#34; /&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.udemy.com/certificate/UC-H1VZZXZV&#34; target=&#34;_blank&#34;&gt;COMPLETION CERTIFICATE&lt;/a&gt;
+&lt;hr&gt;
+I&amp;rsquo;ve started using Python more for work and took this course to strengthen my knowledge around the fundamentals of the language. Previously, I had been wanting to add Python to my personal tech stack for some time as it is a powerful (and popular) all-purpose programming language. It is a high-level language, meaning it looks more like a readable, human language than a low-level language does. The user-friendly syntax makes it one of the easier languages to learn and it is also one of the most commonly-used languages for analytics, data mining, and data science.
+&lt;hr&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;course-progress:b609afaabbef53e4f3d69f90af30ad86&#34;&gt;Course Progress&lt;/h5&gt;
+
+&lt;progress max=&#34;1.0&#34; value=&#34;1.0&#34;&gt;&lt;/progress&gt;
+
+&lt;p&gt;100% - completed 7/18/16.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-ultimate-python&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -102,8 +256,34 @@ Jupyter Notebooks
       <pubDate>Wed, 27 Jan 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2016/caleb-doxsey--an-introduction-to-programming-in-go/</guid>
-      <description>BOOK LINK  Go (Golang) is an open source programming language that makes it easy to build simple, reliable, and efficient software. I first started using Go through my work at DigitasLBi. My department adopted this language as one of our tech stacks for the following reasons:
- It’s open source (i.e. free) and intended to be simple yet expressive. It’s intended to be a good middleware layer to provide for both quick one-off applications as well as large collaborative code bases.</description>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/golang_gopher.png&#34; alt=&#34;Golang Gopher&#34; title=&#34;Golang Gopher&#34; /&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.golang-book.com/books/intro&#34; target=&#34;_blank&#34;&gt;BOOK LINK&lt;/a&gt;
+&lt;hr&gt;
+&lt;a href=&#34;https://golang.org&#34; target=&#34;_blank&#34;&gt;Go (Golang)&lt;/a&gt; is an open source programming language that makes it easy to build simple, reliable, and efficient software. I first started using Go through my work at &lt;a href=&#34;http://www.digitaslbi.com/us&#34; target=&#34;_blank&#34;&gt;DigitasLBi&lt;/a&gt;. My department adopted this language as one of our tech stacks for the following reasons:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;It’s open source (i.e. free) and intended to be simple yet expressive.&lt;/li&gt;
+&lt;li&gt;It’s intended to be a good middleware layer to provide for both quick one-off applications as well as large collaborative code bases.&lt;/li&gt;
+&lt;li&gt;It&amp;rsquo;s a static simple language, which allows for static analysis tooling and fast compilation.&lt;/li&gt;
+&lt;li&gt;It can easily be compiled across multiple platforms, which is important for us since we host several different commercial and open source operating systems.&lt;/li&gt;
+&lt;li&gt;It&amp;rsquo;s based around composition instead of OOP inheritance, which avoids a whole class of issues. There&amp;rsquo;s no type casting hell. Things are either a type or not.&lt;/li&gt;
+&lt;li&gt;Objects and functionality can easily be combined. Structs provide simple blue-prints. Interfaces provide a lightweight polymorphism without complicating things too much.&lt;/li&gt;
+&lt;li&gt;Concurrency is built in through Go routines and channels, which are a simple and efficient means to run multiple executions at once.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;My aim in reading this book and completing the accompanying exercises was to gain a thorough understanding on the fundamentals of the Go programming language.
+&lt;hr&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;book-progress:c587c0792512b02996a2b4d2d5abf088&#34;&gt;Book Progress&lt;/h5&gt;
+
+&lt;progress max=&#34;1.0&#34; value=&#34;1.0&#34;&gt;&lt;/progress&gt;
+
+&lt;p&gt;100% - completed 01/27/16.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/golang-book&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -112,8 +292,24 @@ Jupyter Notebooks
       <pubDate>Sat, 28 Nov 2015 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2015/udemy--programming-for-beginners-in-c/</guid>
-      <description>COMPLETION CERTIFICATE  I&amp;rsquo;ve worked on Windows servers throughout my career, which initially got me started with this language. Learning some of the Base Class Library (BCL) of the Microsoft .NET Framework and using these classes through C# has helped me automate various tasks within these environments.
-My goal in taking this course was to strengthen my knowledge around the fundamentals of C# programming (and objected-oriented programming in general) and to get more practice.</description>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/csharp.png&#34; alt=&#34;C#&#34; title=&#34;C#&#34; /&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.udemy.com/certificate/UC-TT5IFIPW&#34; target=&#34;_blank&#34;&gt;COMPLETION CERTIFICATE&lt;/a&gt;
+&lt;hr&gt;
+I&amp;rsquo;ve worked on Windows servers throughout my career, which initially got me started with this language. Learning some of the Base Class Library (BCL) of the Microsoft .NET Framework and using these classes through C# has helped me automate various tasks within these environments.&lt;/p&gt;
+
+&lt;p&gt;My goal in taking this course was to strengthen my knowledge around the fundamentals of C# programming (and objected-oriented programming in general) and to get more practice.
+&lt;hr&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;course-progress:0419b73c29db8b0a8014c550c35f1f69&#34;&gt;Course Progress&lt;/h5&gt;
+
+&lt;progress max=&#34;1.0&#34; value=&#34;1.0&#34;&gt;&lt;/progress&gt;
+
+&lt;p&gt;100% - completed 11/28/15.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-beginning-csharp&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -122,9 +318,23 @@ My goal in taking this course was to strengthen my knowledge around the fundamen
       <pubDate>Tue, 18 Feb 2014 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/projects/scratch/</guid>
-      <description>Projects &amp;gt;&amp;gt; Scratch - Wind Power
- As part of the popular Harvard University course CS50x that I took through EdX, I built a small Scratch application in completing the first problem set.
- Scratch is a &amp;lsquo;language&amp;rsquo; wherein you create programs by dragging together and connecting “blocks”. Unlike other programming languages, Scratch is very visual, making it a good first project for building fundamentals and learning to think like a programmer.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/projects/scratch.jpg&#34; alt=&#34;Scratch&#34; title=&#34;Scratch&#34; /&gt;&lt;br&gt;
+&lt;a href=&#34;https://andrewrgoss.com/projects/&#34;&gt;Projects&lt;/a&gt; &amp;gt;&amp;gt; &lt;b&gt;Scratch - Wind Power&lt;/b&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;As part of the popular Harvard University course &lt;a href=&#34;https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!&#34; target=&#34;_blank&#34;&gt;CS50x&lt;/a&gt; that I took through EdX, I built a small &lt;a href=&#34;https://scratch.mit.edu&#34; target=&#34;_blank&#34;&gt;Scratch&lt;/a&gt; application in completing the first &lt;a href=&#34;http://docs.cs50.net/2017/x/psets/0/pset0.html&#34; target=&#34;_blank&#34;&gt;problem set&lt;/a&gt;.&lt;/p&gt;
+
+&lt;iframe allowtransparency=&#34;true&#34; width=&#34;485&#34; height=&#34;402&#34; src=&#34;//scratch.mit.edu/projects/embed/16817421/?autostart=false&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Scratch is a &amp;lsquo;language&amp;rsquo; wherein you create programs by dragging together and connecting “blocks”. Unlike other programming languages, Scratch is very visual, making it a good first project for building fundamentals and learning to think like a programmer.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/projects/scratch_project.png&#34; alt=&#34;Scratch Project&#34; title=&#34;Scratch Project&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Please note that Scratch requires Flash to run and thus you won&amp;rsquo;t be able to view it live from your mobile device or tablet.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://scratch.mit.edu/projects/16817421&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my project&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
