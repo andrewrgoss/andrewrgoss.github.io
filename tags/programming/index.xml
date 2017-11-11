@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming on Senior Software / Data Engineer in Boston</title>
+    <link>https://andrewrgoss.com/tags/programming/</link>
+    <description>Recent content in Programming on Senior Software / Data Engineer in Boston</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
+    <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
+    <lastBuildDate>Sat, 11 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://andrewrgoss.com/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>25 Potential Pitfalls In Mastering Programming</title>
+      <link>https://andrewrgoss.com/2017/25-potential-pitfalls-in-mastering-programming/</link>
+      <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2017/25-potential-pitfalls-in-mastering-programming/</guid>
+      <description>
+
+&lt;p&gt;&lt;sub&gt;&lt;i&gt;written by &lt;a href=&#34;http://programmingzen.com/author/antonio-cangiano&#34; target=&#34;_blank&#34;&gt;Antonio Cangiano&lt;/a&gt;&lt;/i&gt;&lt;/sub&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;I wanted to share this post as it really resonated with me. I&amp;rsquo;ve encountered many of these at times during my coding journey and plan to reread this.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I&amp;rsquo;m going to share with you what I see as &amp;ldquo;25&amp;rdquo; common pitfalls when learning to program (or working towards mastering programming). Many of these points affect both beginners and professionals alike — myself very much included.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Forgetting that &lt;b&gt;programming is all about people&lt;/b&gt;. Yes, the machine will execute your code, but programming is solving problems for people, translating their requirements into code that will be read, maintained, and modified by other people (or yourself down the line).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;b&gt;Not spending enough time programming&lt;/b&gt;. Depending on your job or schedule, you might spend a lot of time on tasks that are related to programming but aren&amp;rsquo;t actually programming itself.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;b&gt;Stopping at the surface&lt;/b&gt; of a given technology you&amp;rsquo;re learning. Feeling satisfied with having mastered the basics just enough to get stuff done, without ever exploring further or going behind the scenes all that much.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;b&gt;The Magpie approach&lt;/b&gt; to learning programming. You start learning Rails, half-way through you realize that Phoenix is out there, oh and you need to learn JavaScript so you might as well go with Node.js&amp;hellip; but wait &lt;a href=&#34;https://medium.com/@tjholowaychuk/farewell-node-js-4ba9e7f3e52b&#34; target=&#34;_blank&#34;&gt;TJ switched to Go&lt;/a&gt;, and hold on&amp;hellip; what about Rust? Soon enough your browser history will have, &amp;ldquo;web development or data science career&amp;rdquo;, &amp;ldquo;is Clojure dead?&amp;rdquo;, &amp;ldquo;Clojure vs Elixir&amp;rdquo;, &amp;ldquo;is Crystal mature enough&amp;rdquo;, &amp;ldquo;any good frameworks for Golang&amp;rdquo;, &amp;ldquo;Phoenix vs Buffalo&amp;rdquo; and &amp;ldquo;Kotlin for web development&amp;rdquo; all in the same week. 😀&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Reading books and watching courses online but &lt;b&gt;not practicing the skills&lt;/b&gt; presented, therefore quickly forgetting about them.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;b&gt;Skipping fundamentals&lt;/b&gt;. So you end up learning about continuation-passing style (CPS) but still can&amp;rsquo;t do SQL joins without an object-relational mapper.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;b&gt;Not enough patience or discipline&lt;/b&gt; to progress through the learning process and steps required to master any technology.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;b&gt;No clear map or schedule for continuing to learn&lt;/b&gt; through available resources, while you tackle more immediate challenges in your day-to-day programming.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;b&gt;Analysis paralysis&lt;/b&gt;, wasting way too much time choosing amongst various frameworks and libraries (like Angular, React, and Vue), rather than just picking one, using it, and switching to something else only if you actually need to do so. Basically being a maximizer instead of a satisficer.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Refusing the polyglot nature of modern-day programming. In most domains, it isn&amp;rsquo;t reasonable to expect one programming language to be the best fit for every problem. Likewise, &lt;b&gt;identifying too much as an X or Y programmer&lt;/b&gt;, rather than just a programmer who prefers X or Y.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;b&gt;Fear of experimenting with new technology&lt;/b&gt;. Rather than just reading about certain emerging technologies (e.g., blockchain or chatbots), actually firing up a VM to try them out yourself, even if it involves getting your hands dirty with a programming language or API you are not familiar with.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;b&gt;Expecting to know everything upfront&lt;/b&gt;. Being disappointed after finding pointers to the solution via Google, because you didn&amp;rsquo;t come up with an elegant solution entirely on your own and kicking yourself while thinking, &amp;ldquo;I should have thought of that myself&amp;rdquo;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;b&gt;Not creating many small katas&lt;/b&gt;, exercises, and projects while learning.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;b&gt;Fear of sharing code&lt;/b&gt; with others or getting code reviews, lest you be judged.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;b&gt;Not seeking one-on-one mentorship&lt;/b&gt; from more experienced developers.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Expecting to learn everything at once with &lt;b&gt;unrealistic timelines&lt;/b&gt; (e.g., master iOS development in a month).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;For the more entrepreneur-minded, &lt;b&gt;not exploring cool projects because they don&amp;rsquo;t have a clear path to revenue generation&lt;/b&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Not asking questions for &lt;b&gt;fear of coming across as stupid&lt;/b&gt; or as more of a newbie than you actually are.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Feeling like you are not a real programmer if you&amp;rsquo;re creating apps by gluing high-level libraries together, in a high-level language instead of doing &amp;ldquo;hardcore&amp;rdquo; algorithms in more complex languages. I dub this &lt;b&gt;low-level programming envy&lt;/b&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;b&gt;Allowing the desire to learn best practices to hinder your ability to grasp the fundamentals&lt;/b&gt; of a given language or technology. For example, feeling like you need to learn a whole book on design patterns or master TDD/BDD before you start creating projects.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Perfectionism. &lt;b&gt;Letting perfect be the enemy of good enough&lt;/b&gt;. Never shipping anything, getting stuck in the &amp;ldquo;final touches&amp;rdquo; phase. (But balance is important, so don&amp;rsquo;t ship horribly broken software for the sake of shipping.)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Related to the previous point, &lt;b&gt;ignoring the progression: make it work, make it faster, make it clean&lt;/b&gt;. Instead, expecting a polished solution from the get-go. It&amp;rsquo;s important to accept that the first iteration will be a rough draft to improve upon.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;b&gt;Impostor Syndrome&lt;/b&gt;. Feeling that you aren&amp;rsquo;t good enough. This is particularly bad if you don&amp;rsquo;t fit the current developer stereotype, as a lack of role models that you can relate with might mistakenly confirm your doubts. This is part of why women and minorities representation in tech is so key.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Writing code and learning about programming from books, but &lt;b&gt;never reading other people&amp;rsquo;s code&lt;/b&gt;. Open Source gives us an amazing resource that can drastically speed up our understanding of programming and best practices.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;b&gt;Not getting exposed to other paradigms or domains&lt;/b&gt;. If you&amp;rsquo;re a web developer, not learning about other types of development. If you know Object-Oriented programming, not learning about Functional programming.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;b&gt;Not teaching others what you learn&lt;/b&gt;. Nothing will solidify what you learn as well as trying to explain it to others. Even just studying with the intention of teaching will increase your ability to learn.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;There you have it&amp;hellip; 25 pitfalls. Oh, don&amp;rsquo;t forget off-by-one errors, too. 😀&lt;/p&gt;
+
+&lt;h3 id=&#34;conclusion:fb811f506d8cdd068bd4e69efa38e874&#34;&gt;Conclusion&lt;/h3&gt;
+
+&lt;p&gt;All this to say:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;You&amp;rsquo;re good enough. You can definitely do it. Just watch out for these pitfalls, make a plan, commit to it, then take it one step at the time.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;When learning to program (or improving your current mastery of it), I recommend the code/read/teach method. Code one real project, and many small exercises/katas as you learn. Read books but also other people&amp;rsquo;s code. Finally, teach what you learn online and in person. You don&amp;rsquo;t need to be an expert to do so.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://i0.wp.com/programmingzen.com/wp-content/uploads/2017/11/learning-to-program.gif?zoom=1.25&amp;resize=692%2C267&#34;&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://programmingzen.com/pitfalls-when-learning-to-program&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View original article&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;sub&gt;*Source: &lt;a href=&#34;http://programmingzen.com&#34; target=_&gt;Programming Zen&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
