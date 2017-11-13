@@ -9,7 +9,9 @@
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
     <lastBuildDate>Wed, 19 Oct 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://andrewrgoss.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://andrewrgoss.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Udemy- Python for Data Structures &amp; Algorithms</title>
@@ -17,21 +19,10 @@
       <pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2016/udemy--python-for-data-structures--algorithms/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/python.png&#34; alt=&#34;Python&#34; title=&#34;Python&#34; /&gt;&lt;br&gt;
-&lt;a href=&#34;https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/learn/v4&#34; target=&#34;_blank&#34;&gt;COURSE LINK&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://nbviewer.jupyter.org/github/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews/tree/master&#34; target=&#34;_blank&#34;&gt;Jupyter Notebooks&lt;/a&gt;&lt;br&gt;
-&lt;hr&gt;
-I took this course to get some experience using &lt;a href=&#34;http://jupyter.org&#34; target=&#34;_blank&#34;&gt;Jupyter Notebooks&lt;/a&gt; and furthered my Python skills in a couple of areas:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-python-data_structs-algorithms/tree/master/algorithm_analysis_and_big-o&#34; target=&#34;_blank&#34;&gt;Algorithm Analysis and Big-O Notation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-python-data_structs-algorithms/tree/master/array_sequences&#34; target=&#34;_blank&#34;&gt;Array Sequences&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Additionally, this course offers video content on the &amp;lsquo;soft skills&amp;rsquo; needed to advance a career in technology such as personal branding, building a strong professional network, and practicing technical questions that could be asked on a future interview. With lifetime access it is always helpful to be able to go back and reference these sections.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-python-data_structs-algorithms&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>COURSE LINK
+Jupyter Notebooks
+ I took this course to get some experience using Jupyter Notebooks and furthered my Python skills in a couple of areas:
+ Algorithm Analysis and Big-O Notation Array Sequences  Additionally, this course offers video content on the &amp;lsquo;soft skills&amp;rsquo; needed to advance a career in technology such as personal branding, building a strong professional network, and practicing technical questions that could be asked on a future interview.</description>
     </item>
     
     <item>
@@ -40,22 +31,7 @@ I took this course to get some experience using &lt;a href=&#34;http://jupyter.o
       <pubDate>Mon, 18 Jul 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2016/udemy--ultimate-python-programming-tutorial/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/python.png&#34; alt=&#34;Python&#34; title=&#34;Python&#34; /&gt;&lt;br&gt;
-&lt;a href=&#34;https://www.udemy.com/certificate/UC-H1VZZXZV&#34; target=&#34;_blank&#34;&gt;COMPLETION CERTIFICATE&lt;/a&gt;
-&lt;hr&gt;
-I&amp;rsquo;ve started using Python more for work and took this course to strengthen my knowledge around the fundamentals of the language. Previously, I had been wanting to add Python to my personal tech stack for some time as it is a powerful (and popular) all-purpose programming language. It is a high-level language, meaning it looks more like a readable, human language than a low-level language does. The user-friendly syntax makes it one of the easier languages to learn and it is also one of the most commonly-used languages for analytics, data mining, and data science.
-&lt;hr&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;course-progress:b609afaabbef53e4f3d69f90af30ad86&#34;&gt;Course Progress&lt;/h5&gt;
-
-&lt;progress max=&#34;1.0&#34; value=&#34;1.0&#34;&gt;&lt;/progress&gt;
-
-&lt;p&gt;100% - completed 7/18/16.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-ultimate-python&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>COMPLETION CERTIFICATE  I&amp;rsquo;ve started using Python more for work and took this course to strengthen my knowledge around the fundamentals of the language. Previously, I had been wanting to add Python to my personal tech stack for some time as it is a powerful (and popular) all-purpose programming language. It is a high-level language, meaning it looks more like a readable, human language than a low-level language does. The user-friendly syntax makes it one of the easier languages to learn and it is also one of the most commonly-used languages for analytics, data mining, and data science.</description>
     </item>
     
   </channel>

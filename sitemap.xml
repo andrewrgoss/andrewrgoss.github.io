@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://andrewrgoss.com/</loc>
-    <lastmod>2017-11-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://andrewrgoss.com/2017/udemy--complete-java-masterclass/</loc>
+    <lastmod>2017-11-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -88,52 +88,52 @@
   </url>
   
   <url>
-    <loc>https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_1_What_is_Hadoop_Part1/</loc>
+    <loc>https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/unit_1_what_is_hadoop_part1/</loc>
     <lastmod>2017-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_1_What_is_Hadoop_Part2/</loc>
+    <loc>https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/unit_1_what_is_hadoop_part2/</loc>
     <lastmod>2017-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_2_HDFS_Command_Line/</loc>
+    <loc>https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/unit_2_hdfs_command_line/</loc>
     <lastmod>2017-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_2_Hadoop_Architecture_Lab/</loc>
+    <loc>https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/unit_2_hadoop_architecture_lab/</loc>
     <lastmod>2017-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_2_Hadoop_Architecture_Part1/</loc>
+    <loc>https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/unit_2_hadoop_architecture_part1/</loc>
     <lastmod>2017-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_2_Hadoop_Architecture_Part2/</loc>
+    <loc>https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/unit_2_hadoop_architecture_part2/</loc>
     <lastmod>2017-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_3_Hadoop_Administration/</loc>
+    <loc>https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/unit_3_hadoop_administration/</loc>
     <lastmod>2017-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_4_Flume_Sqoop_Oozie/</loc>
+    <loc>https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/unit_4_flume_sqoop_oozie/</loc>
     <lastmod>2017-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_4_MapReduce/</loc>
+    <loc>https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/unit_4_mapreduce/</loc>
     <lastmod>2017-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/Unit_4_Pig_Hive/</loc>
+    <loc>https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/unit_4_pig_hive/</loc>
     <lastmod>2017-01-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -223,7 +223,43 @@
   </url>
   
   <url>
+    <loc>https://andrewrgoss.com/2017/</loc>
+    <lastmod>2017-09-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://andrewrgoss.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://andrewrgoss.com/tags/ai/</loc>
+    <lastmod>2017-04-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andrewrgoss.com/tags/analytics/</loc>
+    <lastmod>2016-10-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andrewrgoss.com/tags/aws/</loc>
+    <lastmod>2016-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andrewrgoss.com/tags/big-data/</loc>
+    <lastmod>2017-04-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andrewrgoss.com/books/</loc>
+    <lastmod>2017-09-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -231,7 +267,121 @@
   </url>
   
   <url>
+    <loc>https://andrewrgoss.com/tags/career-management/</loc>
+    <lastmod>2017-09-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andrewrgoss.com/tags/cloud-computing/</loc>
+    <lastmod>2016-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andrewrgoss.com/tags/csharp/</loc>
+    <lastmod>2015-11-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andrewrgoss.com/tags/cygwin/</loc>
+    <lastmod>2016-08-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andrewrgoss.com/tags/data-engineering/</loc>
+    <lastmod>2017-04-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andrewrgoss.com/tags/data-science/</loc>
+    <lastmod>2016-12-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andrewrgoss.com/tags/events/</loc>
+    <lastmod>2016-05-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andrewrgoss.com/tags/git/</loc>
+    <lastmod>2016-06-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andrewrgoss.com/tags/golang/</loc>
+    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andrewrgoss.com/tags/hadoop/</loc>
+    <lastmod>2017-01-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andrewrgoss.com/tags/hugo/</loc>
+    <lastmod>2015-10-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andrewrgoss.com/tags/java/</loc>
+    <lastmod>2017-11-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andrewrgoss.com/tags/javascript/</loc>
+    <lastmod>2017-09-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andrewrgoss.com/tags/nsq/</loc>
+    <lastmod>2017-03-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andrewrgoss.com/post/</loc>
+    <lastmod>2017-11-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andrewrgoss.com/tags/programming/</loc>
+    <lastmod>2017-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://andrewrgoss.com/projects/</loc>
+    <lastmod>2017-09-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andrewrgoss.com/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://andrewrgoss.com/tags/putty/</loc>
+    <lastmod>2016-08-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andrewrgoss.com/tags/python/</loc>
+    <lastmod>2016-10-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -243,11 +393,59 @@
   </url>
   
   <url>
+    <loc>https://andrewrgoss.com/tags/scala/</loc>
+    <lastmod>2017-10-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://andrewrgoss.com/search/</loc>
   </url>
   
   <url>
+    <loc>https://andrewrgoss.com/tags/self-study/</loc>
+    <lastmod>2017-11-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andrewrgoss.com/</loc>
+    <lastmod>2017-11-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andrewrgoss.com/tags/ssh/</loc>
+    <lastmod>2016-08-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andrewrgoss.com/tags/</loc>
+    <lastmod>2017-04-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://andrewrgoss.com/travel/</loc>
+  </url>
+  
+  <url>
+    <loc>https://andrewrgoss.com/tags/web/</loc>
+    <lastmod>2015-10-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andrewrgoss.com/tags/windows/</loc>
+    <lastmod>2016-08-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andrewrgoss.com/tags/wordpress/</loc>
+    <lastmod>2015-10-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

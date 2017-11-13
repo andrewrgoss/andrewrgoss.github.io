@@ -9,7 +9,9 @@
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
     <lastBuildDate>Fri, 20 May 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://andrewrgoss.com/tags/events/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://andrewrgoss.com/tags/events/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Open Data Science Conference East</title>
@@ -17,28 +19,8 @@
       <pubDate>Fri, 20 May 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2016/open-data-science-conference-east/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.odsc.com/boston&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/odsc.png&#34; alt=&#34;Open Data Science Conference&#34; title=&#34;Open Data Science Conference&#34; /&gt;&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;In May 2016 I attended my first &lt;a href=&#34;https://www.odsc.com&#34; target=&#34;_blank&#34;&gt;Open Data Science Conference&lt;/a&gt; in Boston. There were some 3,000+ data science practioners that came together at the Boston Convention &amp;amp; Exhibition Center to share ideas about this rapidly changing discipline. The following topics were covered throughout the conference:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Deep Learning&lt;/li&gt;
-&lt;li&gt;Machine Learning&lt;/li&gt;
-&lt;li&gt;Predictive Analytics&lt;/li&gt;
-&lt;li&gt;Python&lt;/li&gt;
-&lt;li&gt;Stan&lt;/li&gt;
-&lt;li&gt;R&lt;/li&gt;
-&lt;li&gt;Julia&lt;/li&gt;
-&lt;li&gt;Hadoop&lt;/li&gt;
-&lt;li&gt;Spark&lt;/li&gt;
-&lt;li&gt;Scikit-learn&lt;/li&gt;
-&lt;li&gt;Natural Language Processing&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I attended sessions on popular data science statistical models and using Python for data science, where we worked through &lt;a href=&#34;https://github.com/brianbelljr/fantasy_football/blob/master/football.ipynb&#34; target=&#34;_blank&#34;&gt;this example&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The workshop materials from the conference are available on &lt;a href=&#34;https://www.opendatascience.com/category/conferences&#34; target=&#34;_blank&#34;&gt;opendatascience.com&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>In May 2016 I attended my first Open Data Science Conference in Boston. There were some 3,000+ data science practioners that came together at the Boston Convention &amp;amp; Exhibition Center to share ideas about this rapidly changing discipline. The following topics were covered throughout the conference:
+ Deep Learning Machine Learning Predictive Analytics Python Stan R Julia Hadoop Spark Scikit-learn Natural Language Processing  I attended sessions on popular data science statistical models and using Python for data science, where we worked through this example.</description>
     </item>
     
     <item>
@@ -47,22 +29,8 @@
       <pubDate>Tue, 29 Mar 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2016/awsome-day-boston/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/awsome_day.png&#34; alt=&#34;AWSome Day&#34; title=&#34;AWSome Day&#34; /&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;In March 2016 I joined Amazon Web Services for an all-day training event at the Westin Copley Place in Boston. The workshop provided a step-by-step introduction to the core AWS services for compute, storage, database and networking. AWS technical experts explained key features and use cases, shared best practices, and walked through technical demos. We specifically covered the following topics:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;Module 1&lt;/b&gt;: AWS Introduction and History&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Module 2&lt;/b&gt;: Infrastructure Services: Amazon EC2, Amazon S3, Amazon EBS, and Amazon VPC&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Module 3&lt;/b&gt;: Security, Identity, and Access Management: IAM&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Module 4&lt;/b&gt;: Databases: Amazon DynamoDB and Amazon RDS&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Module 5&lt;/b&gt;: AWS Elasticity and Management Tools: Auto Scaling, Elastic Load Balancing, Amazon CloudWatch, and AWS Trusted Advisor&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The day was a great for networking, learning more about cloud computing (from the clear market leader in this space) and how to get started on AWS Cloud. It is particularly valuable as some of my working environment is being shifted to Amazon&amp;rsquo;s data warehouse solution, &lt;a href=&#34;https://aws.amazon.com/redshift&#34; target=&#34;_blank&#34;&gt;Amazon Redshift&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The slides from this event can be viewed &lt;a href=&#34;https://www.slideshare.net/secret/fcDgOrIt5Eldb6&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>In March 2016 I joined Amazon Web Services for an all-day training event at the Westin Copley Place in Boston. The workshop provided a step-by-step introduction to the core AWS services for compute, storage, database and networking. AWS technical experts explained key features and use cases, shared best practices, and walked through technical demos. We specifically covered the following topics:
+ Module 1: AWS Introduction and History Module 2: Infrastructure Services: Amazon EC2, Amazon S3, Amazon EBS, and Amazon VPC Module 3: Security, Identity, and Access Management: IAM Module 4: Databases: Amazon DynamoDB and Amazon RDS Module 5: AWS Elasticity and Management Tools: Auto Scaling, Elastic Load Balancing, Amazon CloudWatch, and AWS Trusted Advisor  The day was a great for networking, learning more about cloud computing (from the clear market leader in this space) and how to get started on AWS Cloud.</description>
     </item>
     
   </channel>
