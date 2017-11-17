@@ -58,7 +58,7 @@
                     "@type": "Person",
 "name": "Andrew Goss",
 "email": "andrewrgoss@gmail.com",
-"url": "https:\/\/andrewrgoss.com\/",
+"url": "https://andrewrgoss.com/",
 "sameAs":
 	[
 		"https://twitter.com/andrewrgoss",
@@ -67,11 +67,11 @@
 	]
                 },
                 "datePublished": "Jun 2016",
-                "description": "If you\x26rsquo;ve ever written code of any kind for professional and personal purposes, you\x26rsquo;ve likely come across the concept of Source Control Management (SCM). When I first became a developer, I used Subversion as my SCM tool but have since switched to the more popular Git. I use git to commit the latest versions of code in both Linux and Windows environments, but I\x26rsquo;m going to focus on Windows in this post as this is the operating system for my personal computer.",
-                "wordCount":  667 ,
+                "description": "If you&rsquo;ve ever written code of any kind for professional and personal purposes, you&rsquo;ve likely come across the concept of Source Control Management (SCM). When I first became a developer, I used Subversion as my SCM tool but have since switched to the more popular Git. I use git to commit the latest versions of code in both Linux and Windows environments, but I&rsquo;m going to focus on Windows in this post as this is the operating system for my personal computer.",
+                "wordCount": 667,
                 "articleSection": "post",
                 "timeRequired": "0:4:0",
-                "url": "https:\/\/andrewrgoss.com\/2016\/ssh-with-git-bash-and-tortoisegit-for-windows\/"
+                "url": "https://andrewrgoss.com/2016/ssh-with-git-bash-and-tortoisegit-for-windows/"
             }
         </script>
         
@@ -813,17 +813,17 @@ h2.resources
 
 <p>Git itself is strictly a command-line tool and in setting up my Windows machine, I wanted the ability to make passwordless commits via bash commands or through my favorite git GUI tool, <a href="https://git-scm.com" target="_blank">TortoiseGit</a>. Why passwordless? It&rsquo;s gets quite annoying having to enter your Github credentials every single time you push repository changes. Through the use of SSH keys, there is a secure way of doing this that allows Git Bash (or <a href="https://www.cygwin.com" target="_blank">Cygwin</a>) and TortoiseGit to play nice together. I didn&rsquo;t find any good current documentation for this and had to mess around a bit to get the setup I now use, hence the reason for this post.</p>
 
-<h2 id="step-1:ca600a9d3dfcf61b6d7740c7d2519dbe">Step 1</h2>
+<h2 id="step-1">Step 1</h2>
 
 <p>Download the latest version of <a href="https://git-scm.com/download/win" target="_blank">Git for Windows</a> and install it. I would recommend you use most of the default settings, including running Git from the Windows Command Prompt so you can use Cygwin as your command-line tool if you prefer it over Git Bash, which comes with this download.</p>
 
 <p><img src="/img/post/installing_git.png" alt="Installing Git" title="Installing Git" /></p>
 
-<h2 id="step-2:ca600a9d3dfcf61b6d7740c7d2519dbe">Step 2</h2>
+<h2 id="step-2">Step 2</h2>
 
 <p>Download the latest version of <a href="https://tortoisegit.org" target="_blank">TortoiseGit</a> and install it. There are no special steps to follow here, just keep hitting &lsquo;next&rsquo;.</p>
 
-<h2 id="step-3:ca600a9d3dfcf61b6d7740c7d2519dbe">Step 3</h2>
+<h2 id="step-3">Step 3</h2>
 
 <p>Generate an SSH key for your Github account following these <a href="https://help.github.com/articles/generating-an-ssh-key" target="_blank">instructions</a>. At the end, be sure to test your SSH connection:</p>
 
@@ -833,7 +833,7 @@ h2.resources
 
 <p>If you did everything correctly here, two files should now exist in a .ssh folder of your home directory (for Windows this will be C:\Users\<em>username</em>\.ssh). By the default they will be named id_rsa (the private SSH key) and id_rsa.pub (the public SSH key). If you have Microsoft Publisher installed on your computer, it will think the public key is a publisher file (because of the .pub extension). Use &lsquo;open with&rsquo; to view this key in a text editor tool like <a href="https://notepad-plus-plus.org" target="_blank">Notepad++</a>.</p>
 
-<h2 id="step-4:ca600a9d3dfcf61b6d7740c7d2519dbe">Step 4</h2>
+<h2 id="step-4">Step 4</h2>
 
 <p>TortoiseGit uses a PuTTY private key file format, so you will need to generate a private key in this format using the private key you generated following the steps from Github. Search your programs and files for PuTTygen, which should have been installed with TortoiseGit. Open this program and go to Conversions &gt; Import key.</p>
 
@@ -843,7 +843,7 @@ h2.resources
 
 <p><img src="/img/post/ssh_keys.PNG" alt="SSH Keys" title="SSH Keys" /></p>
 
-<h2 id="step-5:ca600a9d3dfcf61b6d7740c7d2519dbe">Step 5</h2>
+<h2 id="step-5">Step 5</h2>
 
 <p>In your Github repository, select &lsquo;Clone with SSH&rsquo; and copy the URL path to the clipboard (make sure it starts with <code>git@github.com</code>). Use TortoiseGit to to clone a copy of your Github repository to your local machine (right click in the directory, then select Git Clone&hellip;). Paste the copied URL path into TortoiseGit. Check &lsquo;Load Putty Key&rsquo; and browse to the .ppk file you created in Step 5.</p>
 

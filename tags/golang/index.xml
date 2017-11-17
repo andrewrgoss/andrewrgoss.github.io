@@ -9,7 +9,9 @@
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
     <lastBuildDate>Thu, 01 Jun 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://andrewrgoss.com/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://andrewrgoss.com/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>What&#39;s the Go Language Really Good For?</title>
@@ -17,20 +19,10 @@
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2017/whats-the-go-language-really-good-for/</guid>
-      <description>&lt;p&gt;&lt;sub&gt;&lt;i&gt;written by &lt;a href=&#34;http://www.infoworld.com/author/Serdar-Yegulalp&#34; target=&#34;_blank&#34;&gt;Serdar Yegulalp&lt;/a&gt;&lt;/i&gt;&lt;/sub&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.infoworld.com&#34; target=&#34;_blank&#34;&gt;InfoWorld&lt;/a&gt; examines the strengths, weaknesses, use cases, and future directions of Google&amp;rsquo;s hit programming language&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;During its eight-plus years in the wild, &lt;a href=&#34;https://golang.org&#34; target=&#34;_blank&#34;&gt;Google’s Go language&lt;/a&gt;—with version 1.8.1 out as of April 2017—has evolved from being a curiosity for alpha geeks to being the battle-tested programming language behind some of the world’s most important cloud-centric projects.&lt;/p&gt;
-
-&lt;p&gt;Why was Go chosen by the developers of such projects as Docker and Kubernetes? What are Go’s defining characteristics, how does it differ from other programming languages, and what kinds of projects is it most suitable for building? This excellent InfoWorld article explores Go’s feature set, the optimal use cases, the language’s omissions and limitations, and where Go may be going from here.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.infoworld.com/article/3198928/development-tools/whats-the-go-language-really-good-for.html&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View article&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;sub&gt;*Source: &lt;a href=&#34;http://www.infoworld.com&#34; target=_&gt;InfoWorld&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
-</description>
+      <description>written by Serdar Yegulalp
+ InfoWorld examines the strengths, weaknesses, use cases, and future directions of Google&amp;rsquo;s hit programming language
+ During its eight-plus years in the wild, Google’s Go language—with version 1.8.1 out as of April 2017—has evolved from being a curiosity for alpha geeks to being the battle-tested programming language behind some of the world’s most important cloud-centric projects.
+Why was Go chosen by the developers of such projects as Docker and Kubernetes?</description>
     </item>
     
     <item>
@@ -39,152 +31,8 @@
       <pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2017/getting-started-with-nsq-for-go/</guid>
-      <description>
-
-&lt;p&gt;&lt;a href=&#34;http://nsq.io&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/nsq.png&#34; alt=&#34;NSQ&#34; title=&#34;NSQ&#34; /&gt;&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;ve been recently working on software application project at &lt;a href=&#34;https://www.digitaslbi.com/en-us&#34; target=&#34;_blank&#34;&gt;DigitasLBi&lt;/a&gt; where we adopted &lt;a href=&#34;http://nsq.io&#34; target=&#34;_blank&#34;&gt;NSQ&lt;/a&gt; as part of our microservices architecture. With this post I&amp;rsquo;d like to share how you can get started with NSQ by sending and receiving a simple message by writing some &lt;a href=&#34;https://golang.org&#34; target=&#34;_blank&#34;&gt;Go&lt;/a&gt; code.&lt;/p&gt;
-
-&lt;h2 id=&#34;what-is-nsq:dda9787168a23dcd34b7e3f1e03bb799&#34;&gt;What is NSQ?&lt;/h2&gt;
-
-&lt;p&gt;Per the official website, NSQ is a realtime distributed messaging platform designed to operate at scale, handling billions of messages per day.&lt;/p&gt;
-
-&lt;p&gt;It promotes distributed and decentralized topologies without single points of failure, enabling fault tolerance and high availability coupled with a reliable message delivery guarantee.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://f.cloud.github.com/assets/187441/1700696/f1434dc8-6029-11e3-8a66-18ca4ea10aca.gif&#34;&gt;&lt;/img&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;nsqd&lt;/code&gt; is the daemon that receives, queues, and delivers messages to clients.&lt;/p&gt;
-
-&lt;p&gt;With the chart above you can understand the basic premise of NSQ involves producers and consumers - within your code you create NSQ producers to push messages to NSQ that get queued up to be consumed by other programs within your application.&lt;/p&gt;
-
-&lt;h2 id=&#34;installing-nsq-on-linux-vm:dda9787168a23dcd34b7e3f1e03bb799&#34;&gt;Installing NSQ (on Linux VM)&lt;/h2&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ wget https://s3.amazonaws.com/bitly-downloads/nsq/nsq-1.0.0-compat.linux-amd64.go1.8.tar.gz
-$ tar nsq-1.0.0-compat.linux-amd64.go1.8.tar.gz
-$ sudo mv nsq-1.0.0-compat.linux-amd64.go1.8.tar.gz/bin/* /usr/local/bin
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;launching-nsqd:dda9787168a23dcd34b7e3f1e03bb799&#34;&gt;Launching NSQD&lt;/h2&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ nsqlookupd &amp;amp; 
-$ nsqd --lookupd-tcp-address=127.0.0.1:4160 &amp;amp;
-$ nsqadmin --lookupd-http-address=127.0.0.1:4161 &amp;amp;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;If done successfully you will be able to view a web UI that looks like this:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://nsq.io/static/img/nsqadmin_screenshot.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;nsqadmin&lt;/code&gt; is a Web UI to view aggregated cluster stats in realtime and perform various administrative tasks.&lt;/p&gt;
-
-&lt;h2 id=&#34;writing-your-go-program:dda9787168a23dcd34b7e3f1e03bb799&#34;&gt;Writing Your Go Program&lt;/h2&gt;
-
-&lt;p&gt;To import the NSQ client library, use a &lt;code&gt;go get&lt;/code&gt; command:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ go get github.com/nsqio/go-nsq
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h3 id=&#34;creating-a-consumer:dda9787168a23dcd34b7e3f1e03bb799&#34;&gt;Creating a Consumer&lt;/h3&gt;
-
-&lt;p&gt;I like creating the consumer first so I can see the handler in action after pushing a message with a producer (see next &lt;a href=&#34;#producer&#34;&gt;section&lt;/a&gt;).&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-go&#34;&gt;package main
-
-import (
-    &amp;quot;log&amp;quot;
-    &amp;quot;sync&amp;quot;
-
-    &amp;quot;github.com/nsqio/go-nsq&amp;quot;
-)
-
-func main() {
-    wg := &amp;amp;sync.WaitGroup{}
-    wg.Add(1)
-
-    decodeConfig := nsq.NewConfig()
-    c, err := nsq.NewConsumer(&amp;quot;My_NSQ_Topic&amp;quot;, &amp;quot;My_NSQ_Channel&amp;quot;, decodeConfig)
-    if err != nil {
-        log.Panic(&amp;quot;Could not create consumer&amp;quot;)
-    }
-    //c.MaxInFlight defaults to 1
-
-    c.AddHandler(nsq.HandlerFunc(func(message *nsq.Message) error {
-        log.Println(&amp;quot;NSQ message received:&amp;quot;)
-        log.Println(string(message.Body))
-        return nil
-    }))
-
-    err = c.ConnectToNSQD(&amp;quot;127.0.0.1:4150&amp;quot;)
-    if err != nil {
-        log.Panic(&amp;quot;Could not connect&amp;quot;)
-    }
-    log.Println(&amp;quot;Awaiting messages from NSQ topic \&amp;quot;My NSQ Topic\&amp;quot;...&amp;quot;)
-    wg.Wait()
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Now run this consumer program:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ go run consume.go
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;You&amp;rsquo;ll get this output:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;2017/04/05 17:33:42 INF    1 [My_NSQ_Topic/My_NSQ_Channel] (127.0.0.1:4150) connecting to nsqd
-2017/04/05 17:33:42 Awaiting messages from NSQ topic &amp;quot;My NSQ Topic&amp;quot;...
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;This should hang there waiting to receive a NSQ message from a topic you specify. Nothing will happen just yet since there aren&amp;rsquo;t any queued up messages for this particular topic. Leave this program running in a terminal window for now. In the next step we&amp;rsquo;ll push a message to it.&lt;/p&gt;
-
-&lt;h3 id=&#34;a-name-producer-a-creating-a-producer:dda9787168a23dcd34b7e3f1e03bb799&#34;&gt;&lt;a name=&#34;producer&#34;&gt;&lt;/a&gt;Creating a Producer&lt;/h3&gt;
-
-&lt;p&gt;You can publish a message with a producer with some simple code like this:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-go&#34;&gt;package main
-
-import (
-  &amp;quot;log&amp;quot;
-
-  &amp;quot;github.com/nsqio/go-nsq&amp;quot;
-)
-
-func main() {
-    config := nsq.NewConfig()
-    p, err := nsq.NewProducer(&amp;quot;127.0.0.1:4150&amp;quot;, config)
-    if err != nil {
-        log.Panic(err)
-    }
-    err = p.Publish(&amp;quot;My_NSQ_Topic&amp;quot;, []byte(&amp;quot;sample NSQ message&amp;quot;))
-    if err != nil {
-        log.Panic(err)
-    }
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Now run this publisher program:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ go run publish.go
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;In this terminal window, you&amp;rsquo;ll only see this message indicating your message was published to NSQ:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;go run publish.go
-2017/04/05 17:39:15 INF    1 (127.0.0.1:4150) connecting to nsqd
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;If you look at your consumer terminal window that you left running from the previous step, you&amp;rsquo;ll now see this additional output:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;2017/04/05 17:33:42 Awaiting messages from NSQ topic &amp;quot;My NSQ Topic&amp;quot;...
-2017/04/05 17:39:15 NSQ message received:
-2017/04/05 17:39:15 sample NSQ message
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Congrats - you just pushed and received your first NSQ message!&lt;/p&gt;
-
-&lt;p&gt;If you go back to your web UI console you&amp;rsquo;ll see your newly-created topic. If you drill into this topic, you can also see the channel that you consumed the message to, with the message counter at 1:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/nsq_topic.png&#34; alt=&#34;NSQ Topic&#34; title=&#34;NSQ Topic&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>I&amp;rsquo;ve been recently working on software application project at DigitasLBi where we adopted NSQ as part of our microservices architecture. With this post I&amp;rsquo;d like to share how you can get started with NSQ by sending and receiving a simple message by writing some Go code.
+What is NSQ? Per the official website, NSQ is a realtime distributed messaging platform designed to operate at scale, handling billions of messages per day.</description>
     </item>
     
     <item>
@@ -193,34 +41,8 @@ func main() {
       <pubDate>Wed, 27 Jan 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2016/caleb-doxsey--an-introduction-to-programming-in-go/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/golang_gopher.png&#34; alt=&#34;Golang Gopher&#34; title=&#34;Golang Gopher&#34; /&gt;&lt;br&gt;
-&lt;a href=&#34;https://www.golang-book.com/books/intro&#34; target=&#34;_blank&#34;&gt;BOOK LINK&lt;/a&gt;
-&lt;hr&gt;
-&lt;a href=&#34;https://golang.org&#34; target=&#34;_blank&#34;&gt;Go (Golang)&lt;/a&gt; is an open source programming language that makes it easy to build simple, reliable, and efficient software. I first started using Go through my work at &lt;a href=&#34;http://www.digitaslbi.com/us&#34; target=&#34;_blank&#34;&gt;DigitasLBi&lt;/a&gt;. My department adopted this language as one of our tech stacks for the following reasons:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;It’s open source (i.e. free) and intended to be simple yet expressive.&lt;/li&gt;
-&lt;li&gt;It’s intended to be a good middleware layer to provide for both quick one-off applications as well as large collaborative code bases.&lt;/li&gt;
-&lt;li&gt;It&amp;rsquo;s a static simple language, which allows for static analysis tooling and fast compilation.&lt;/li&gt;
-&lt;li&gt;It can easily be compiled across multiple platforms, which is important for us since we host several different commercial and open source operating systems.&lt;/li&gt;
-&lt;li&gt;It&amp;rsquo;s based around composition instead of OOP inheritance, which avoids a whole class of issues. There&amp;rsquo;s no type casting hell. Things are either a type or not.&lt;/li&gt;
-&lt;li&gt;Objects and functionality can easily be combined. Structs provide simple blue-prints. Interfaces provide a lightweight polymorphism without complicating things too much.&lt;/li&gt;
-&lt;li&gt;Concurrency is built in through Go routines and channels, which are a simple and efficient means to run multiple executions at once.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;My aim in reading this book and completing the accompanying exercises was to gain a thorough understanding on the fundamentals of the Go programming language.
-&lt;hr&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;book-progress:c587c0792512b02996a2b4d2d5abf088&#34;&gt;Book Progress&lt;/h5&gt;
-
-&lt;progress max=&#34;1.0&#34; value=&#34;1.0&#34;&gt;&lt;/progress&gt;
-
-&lt;p&gt;100% - completed 01/27/16.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/golang-book&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>BOOK LINK  Go (Golang) is an open source programming language that makes it easy to build simple, reliable, and efficient software. I first started using Go through my work at DigitasLBi. My department adopted this language as one of our tech stacks for the following reasons:
+ It’s open source (i.e. free) and intended to be simple yet expressive. It’s intended to be a good middleware layer to provide for both quick one-off applications as well as large collaborative code bases.</description>
     </item>
     
   </channel>

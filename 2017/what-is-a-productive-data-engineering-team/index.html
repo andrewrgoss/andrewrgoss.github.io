@@ -30,9 +30,15 @@
         <meta name="twitter:url" content="https://andrewrgoss.com/2017/what-is-a-productive-data-engineering-team/" />
         <link rel="canonical" href="https://andrewrgoss.com/2017/what-is-a-productive-data-engineering-team/" />
         
-        <meta name="description" content="written by Jesse Anderson Merging the gaps between data science and engineering, and what each side can learn from the other. In my experience working with data engineering teams, I find that most teams don’t realize they have to change their thinking about data and systems to be successful with big data. Data engineering teams need to think about how data is valuable and at what scale the data is coming in." />
-        <meta name="twitter:description" content="written by Jesse Anderson Merging the gaps between data science and engineering, and what each side can learn from the other. In my experience working with data engineering teams, I find that most teams don’t realize they have to change their thinking about data and systems to be successful with big data. Data engineering teams need to think about how data is valuable and at what scale the data is coming in." />
-        <meta property="og:description" content="written by Jesse Anderson Merging the gaps between data science and engineering, and what each side can learn from the other. In my experience working with data engineering teams, I find that most teams don’t realize they have to change their thinking about data and systems to be successful with big data. Data engineering teams need to think about how data is valuable and at what scale the data is coming in." />
+        <meta name="description" content="written by Jesse Anderson
+ Merging the gaps between data science and engineering, and what each side can learn from the other.
+ In my experience working with data engineering teams, I find that most teams don’t realize they have to change their thinking about data and systems to be successful with big data. Data engineering teams need to think about how data is valuable and at what scale the data is coming in." />
+        <meta name="twitter:description" content="written by Jesse Anderson
+ Merging the gaps between data science and engineering, and what each side can learn from the other.
+ In my experience working with data engineering teams, I find that most teams don’t realize they have to change their thinking about data and systems to be successful with big data. Data engineering teams need to think about how data is valuable and at what scale the data is coming in." />
+        <meta property="og:description" content="written by Jesse Anderson
+ Merging the gaps between data science and engineering, and what each side can learn from the other.
+ In my experience working with data engineering teams, I find that most teams don’t realize they have to change their thinking about data and systems to be successful with big data. Data engineering teams need to think about how data is valuable and at what scale the data is coming in." />
         
         <meta name="twitter:site" content="@Andrewrgoss" />
         <meta name="twitter:creator" content="@Andrewrgoss" />
@@ -58,7 +64,7 @@
                     "@type": "Person",
 "name": "Andrew Goss",
 "email": "andrewrgoss@gmail.com",
-"url": "https:\/\/andrewrgoss.com\/",
+"url": "https://andrewrgoss.com/",
 "sameAs":
 	[
 		"https://twitter.com/andrewrgoss",
@@ -67,11 +73,13 @@
 	]
                 },
                 "datePublished": "Apr 2017",
-                "description": "written by Jesse Anderson Merging the gaps between data science and engineering, and what each side can learn from the other. In my experience working with data engineering teams, I find that most teams don’t realize they have to change their thinking about data and systems to be successful with big data. Data engineering teams need to think about how data is valuable and at what scale the data is coming in.",
-                "wordCount":  1287 ,
+                "description": "written by Jesse Anderson
+ Merging the gaps between data science and engineering, and what each side can learn from the other.
+ In my experience working with data engineering teams, I find that most teams don’t realize they have to change their thinking about data and systems to be successful with big data. Data engineering teams need to think about how data is valuable and at what scale the data is coming in.",
+                "wordCount": 1287,
                 "articleSection": "post",
                 "timeRequired": "0:7:0",
-                "url": "https:\/\/andrewrgoss.com\/2017\/what-is-a-productive-data-engineering-team\/"
+                "url": "https://andrewrgoss.com/2017/what-is-a-productive-data-engineering-team/"
             }
         </script>
         
@@ -811,15 +819,15 @@ h2.resources
 
 <p>In my experience working with data engineering teams, I find that most teams don’t realize they have to change their thinking about data and systems to be successful with big data. Data engineering teams need to think about how data is valuable and at what scale the data is coming in. When thinking about scale, I encourage teams to think in terms of 100 billion rows or events, processing 1PB of data, and jobs that take 10 hours to complete.</p>
 
-<h2 id="imagine-processing-at-100-billion-rows:be8878b9aea0d8ff31bd44efb170191f">Imagine processing at 100 billion rows</h2>
+<h2 id="imagine-processing-at-100-billion-rows">Imagine processing at 100 billion rows</h2>
 
 <p>When you are processing data in real-time or batch, you need to imagine that you’re processing 100 billion rows. This affects how you think about reduces, or the equivalent of reduces, in your technology of choice. If you reduce inefficiently, or when you don’t have to, you’ll experience scaling issues.</p>
 
-<h2 id="your-code-should-scale-to-1pb:be8878b9aea0d8ff31bd44efb170191f">Your code should scale to 1PB</h2>
+<h2 id="your-code-should-scale-to-1pb">Your code should scale to 1PB</h2>
 
 <p>When you’re thinking about amounts of data, think in terms of 1 PB. Although you may have substantially less data stored, you’ll want to make sure your processing is planned in such a way that it can handle 1 PB. As you’re writing a program to process 100 GB, you’ll want to make sure that same code can scale to 1 PB. One common manifestation for this problem is to cache data in memory for an algorithm. While that may work at 100 GB, it probably will get an out-of-memory error at 1 PB.</p>
 
-<h2 id="why-you-should-plan-for-10-hour-jobs:be8878b9aea0d8ff31bd44efb170191f">Why you should plan for 10-hour jobs</h2>
+<h2 id="why-you-should-plan-for-10-hour-jobs">Why you should plan for 10-hour jobs</h2>
 
 <p>When you are thinking about long-running processes, I encourage teams to think of processes requiring running for 10 hours to complete. To explain this reasoning, let’s talk about coding defensively. If you have an exception at 9.5 hours into a 10-hour job, for example, you now have two problems: to find and fix the error, and to rerun the 10-hour job.</p>
 
@@ -829,7 +837,7 @@ h2.resources
 
 <p>Every engineering decision needs to be made through these lenses. I teach this to every team, even if their data isn’t at these levels. If a data engineering team is truly experiencing big data problems, they will hit these levels eventually.</p>
 
-<h2 id="a-data-engineering-team-should-be-at-the-hub-of-the-wheel:be8878b9aea0d8ff31bd44efb170191f">A data engineering team should be at the “hub of the wheel”</h2>
+<h2 id="a-data-engineering-team-should-be-at-the-hub-of-the-wheel">A data engineering team should be at the “hub of the wheel”</h2>
 
 <p>Sometimes I’m teaching at large enterprises and they disagree that there should be a separate data engineering team. In these situations, the enterprise is usually thinking entirely of the technical requirements. Setting a data engineering team at the hub of the wheel puts the team in a completely different light and reveals how the team can become an essential part of the business process.</p>
 
@@ -839,13 +847,13 @@ h2.resources
 
 <p>Once a data pipeline is first released, it doesn’t stay at its initial usage; it almost always grows. There is pent-up demand for data products that the pipeline starts to facilitate. New data sets and data sources will get added. There will be new processing and consumption of data. In a complete technical free-for-all, you will end up with issues. Often, teams that lack qualified data engineers will completely misuse or misunderstand how the technologies should be used.</p>
 
-<h2 id="how-to-work-with-a-data-science-team:be8878b9aea0d8ff31bd44efb170191f">How to work with a data science team</h2>
+<h2 id="how-to-work-with-a-data-science-team">How to work with a data science team</h2>
 
 <p>Before diving into the relationship between data science and data engineering teams, I want to briefly define the roles. A data scientist is typically someone with a math and probability background, who also knows how to program. Data scientists are often familiar with big data technologies, in order to run algorithms at scale. A data science team is multidisciplinary, just like a data engineering team. The team has the variety of skills needed to prevent any gaps. It’s unusual to have a single person with all of these skills, and you’ll usually need several different people.</p>
 
 <p>The role of data engineer typically requires a strong background in programming and distributed systems, whereas the role of a data scientist typically requires a stronger background in math, analysis, and probabilities; of course, there is some crossover, but the two teams are more complementary than heavily overlapping.</p>
 
-<h2 id="where-data-science-and-data-engineering-meet:be8878b9aea0d8ff31bd44efb170191f">Where data science and data engineering meet</h2>
+<h2 id="where-data-science-and-data-engineering-meet">Where data science and data engineering meet</h2>
 
 <p><img src="https://d3ansictanv2wj.cloudfront.net/image01-1ce0c458317c9db05febf41792a73973.jpg"></p>
 
@@ -857,7 +865,7 @@ h2.resources
 
 <p><img src="https://d3ansictanv2wj.cloudfront.net/image02-94a3d7311cd4cfe3d85bd7f204066259.jpg" align="right"></p>
 
-<h3 id="how-to-work-with-a-data-warehousing-team:be8878b9aea0d8ff31bd44efb170191f">How to work with a data warehousing team</h3>
+<h3 id="how-to-work-with-a-data-warehousing-team">How to work with a data warehousing team</h3>
 
 <p>In contrast to the data science team, there is a great deal of overlap with a data warehousing team. Often, the entire reason for creating a data engineering team and moving to big data solutions is to move off of data warehousing products.</p>
 
@@ -924,7 +932,7 @@ h2.resources
       </li>
 	  
 	  <li class="linkedin">
-          <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://andrewrgoss.com/2017/what-is-a-productive-data-engineering-team/&amp;title=What%20is%20a%20Productive%20Data%20Engineering%20Team%3f&amp;summary=written%20by%20Jesse%20Anderson%20Merging%20the%20gaps%20between%20data%20science%20and%20engineering%2c%20and%20what%20each%20side%20can%20learn%20from%20the%20other.%20In%20my%20experience%20working%20with%20data%20engineering%20teams%2c%20I%20find%20that%20most%20teams%20don%e2%80%99t%20realize%20they%20have%20to%20change%20their%20thinking%20about%20data%20and%20systems%20to%20be%20successful%20with%20big%20data.%20Data%20engineering%20teams%20need%20to%20think%20about%20how%20data%20is%20valuable%20and%20at%20what%20scale%20the%20data%20is%20coming%20in...." class="popup">
+          <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://andrewrgoss.com/2017/what-is-a-productive-data-engineering-team/&amp;title=What%20is%20a%20Productive%20Data%20Engineering%20Team%3f&amp;summary=written%20by%20Jesse%20Anderson%0a%20Merging%20the%20gaps%20between%20data%20science%20and%20engineering%2c%20and%20what%20each%20side%20can%20learn%20from%20the%20other.%0a%20In%20my%20experience%20working%20with%20data%20engineering%20teams%2c%20I%20find%20that%20most%20teams%20don%e2%80%99t%20realize%20they%20have%20to%20change%20their%20thinking%20about%20data%20and%20systems%20to%20be%20successful%20with%20big%20data.%20Data%20engineering%20teams%20need%20to%20think%20about%20how%20data%20is%20valuable%20and%20at%20what%20scale%20the%20data%20is%20coming%20in...." class="popup">
               <span class="icon">
                   <svg version="1.1" id="btn-li" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="28px" height="28px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve">
                       <path d="M25.424,15.887v8.447h-4.896v-7.882c0-1.979-0.709-3.331-2.48-3.331c-1.354,0-2.158,0.911-2.514,1.803 c-0.129,0.315-0.162,0.753-0.162,1.194v8.216h-4.899c0,0,0.066-13.349,0-14.731h4.899v2.088c-0.01,0.016-0.023,0.032-0.033,0.048 h0.033V11.69c0.65-1.002,1.812-2.435,4.414-2.435C23.008,9.254,25.424,11.361,25.424,15.887z M5.348,2.501 c-1.676,0-2.772,1.092-2.772,2.539c0,1.421,1.066,2.538,2.717,2.546h0.032c1.709,0,2.771-1.132,2.771-2.546 C8.054,3.593,7.019,2.501,5.343,2.501H5.348z M2.867,24.334h4.897V9.603H2.867V24.334z"/>
