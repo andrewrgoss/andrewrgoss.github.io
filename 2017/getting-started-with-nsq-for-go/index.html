@@ -30,12 +30,9 @@
         <meta name="twitter:url" content="https://andrewrgoss.com/2017/getting-started-with-nsq-for-go/" />
         <link rel="canonical" href="https://andrewrgoss.com/2017/getting-started-with-nsq-for-go/" />
         
-        <meta name="description" content="I&rsquo;ve been recently working on software application project at DigitasLBi where we adopted NSQ as part of our microservices architecture. With this post I&rsquo;d like to share how you can get started with NSQ by sending and receiving a simple message by writing some Go code.
-What is NSQ? Per the official website, NSQ is a realtime distributed messaging platform designed to operate at scale, handling billions of messages per day." />
-        <meta name="twitter:description" content="I&rsquo;ve been recently working on software application project at DigitasLBi where we adopted NSQ as part of our microservices architecture. With this post I&rsquo;d like to share how you can get started with NSQ by sending and receiving a simple message by writing some Go code.
-What is NSQ? Per the official website, NSQ is a realtime distributed messaging platform designed to operate at scale, handling billions of messages per day." />
-        <meta property="og:description" content="I&rsquo;ve been recently working on software application project at DigitasLBi where we adopted NSQ as part of our microservices architecture. With this post I&rsquo;d like to share how you can get started with NSQ by sending and receiving a simple message by writing some Go code.
-What is NSQ? Per the official website, NSQ is a realtime distributed messaging platform designed to operate at scale, handling billions of messages per day." />
+        <meta name="description" content="I&rsquo;ve been recently working on software application project at DigitasLBi where we adopted NSQ as part of our microservices architecture. With this post I&rsquo;d like to share how you can get started with NSQ by sending and receiving a simple message by writing some Go code. What is NSQ? Per the official website, NSQ is a realtime distributed messaging platform designed to operate at scale, handling billions of messages per day." />
+        <meta name="twitter:description" content="I&rsquo;ve been recently working on software application project at DigitasLBi where we adopted NSQ as part of our microservices architecture. With this post I&rsquo;d like to share how you can get started with NSQ by sending and receiving a simple message by writing some Go code. What is NSQ? Per the official website, NSQ is a realtime distributed messaging platform designed to operate at scale, handling billions of messages per day." />
+        <meta property="og:description" content="I&rsquo;ve been recently working on software application project at DigitasLBi where we adopted NSQ as part of our microservices architecture. With this post I&rsquo;d like to share how you can get started with NSQ by sending and receiving a simple message by writing some Go code. What is NSQ? Per the official website, NSQ is a realtime distributed messaging platform designed to operate at scale, handling billions of messages per day." />
         
         <meta name="twitter:site" content="@Andrewrgoss" />
         <meta name="twitter:creator" content="@Andrewrgoss" />
@@ -61,7 +58,7 @@ What is NSQ? Per the official website, NSQ is a realtime distributed messaging p
                     "@type": "Person",
 "name": "Andrew Goss",
 "email": "andrewrgoss@gmail.com",
-"url": "https://andrewrgoss.com/",
+"url": "https:\/\/andrewrgoss.com\/",
 "sameAs":
 	[
 		"https://twitter.com/andrewrgoss",
@@ -70,12 +67,11 @@ What is NSQ? Per the official website, NSQ is a realtime distributed messaging p
 	]
                 },
                 "datePublished": "Mar 2017",
-                "description": "I&rsquo;ve been recently working on software application project at DigitasLBi where we adopted NSQ as part of our microservices architecture. With this post I&rsquo;d like to share how you can get started with NSQ by sending and receiving a simple message by writing some Go code.
-What is NSQ? Per the official website, NSQ is a realtime distributed messaging platform designed to operate at scale, handling billions of messages per day.",
-                "wordCount": 594,
+                "description": "I\x26rsquo;ve been recently working on software application project at DigitasLBi where we adopted NSQ as part of our microservices architecture. With this post I\x26rsquo;d like to share how you can get started with NSQ by sending and receiving a simple message by writing some Go code. What is NSQ? Per the official website, NSQ is a realtime distributed messaging platform designed to operate at scale, handling billions of messages per day.",
+                "wordCount":  594 ,
                 "articleSection": "post",
                 "timeRequired": "0:3:0",
-                "url": "https://andrewrgoss.com/2017/getting-started-with-nsq-for-go/"
+                "url": "https:\/\/andrewrgoss.com\/2017\/getting-started-with-nsq-for-go\/"
             }
         </script>
         
@@ -813,7 +809,7 @@ h2.resources
 
 <p>I&rsquo;ve been recently working on software application project at <a href="https://www.digitaslbi.com/en-us" target="_blank">DigitasLBi</a> where we adopted <a href="http://nsq.io" target="_blank">NSQ</a> as part of our microservices architecture. With this post I&rsquo;d like to share how you can get started with NSQ by sending and receiving a simple message by writing some <a href="https://golang.org" target="_blank">Go</a> code.</p>
 
-<h2 id="what-is-nsq">What is NSQ?</h2>
+<h2 id="what-is-nsq:dda9787168a23dcd34b7e3f1e03bb799">What is NSQ?</h2>
 
 <p>Per the official website, NSQ is a realtime distributed messaging platform designed to operate at scale, handling billions of messages per day.</p>
 
@@ -825,14 +821,14 @@ h2.resources
 
 <p>With the chart above you can understand the basic premise of NSQ involves producers and consumers - within your code you create NSQ producers to push messages to NSQ that get queued up to be consumed by other programs within your application.</p>
 
-<h2 id="installing-nsq-on-linux-vm">Installing NSQ (on Linux VM)</h2>
+<h2 id="installing-nsq-on-linux-vm:dda9787168a23dcd34b7e3f1e03bb799">Installing NSQ (on Linux VM)</h2>
 
 <pre><code class="language-bash">$ wget https://s3.amazonaws.com/bitly-downloads/nsq/nsq-1.0.0-compat.linux-amd64.go1.8.tar.gz
 $ tar nsq-1.0.0-compat.linux-amd64.go1.8.tar.gz
 $ sudo mv nsq-1.0.0-compat.linux-amd64.go1.8.tar.gz/bin/* /usr/local/bin
 </code></pre>
 
-<h2 id="launching-nsqd">Launching NSQD</h2>
+<h2 id="launching-nsqd:dda9787168a23dcd34b7e3f1e03bb799">Launching NSQD</h2>
 
 <pre><code class="language-bash">$ nsqlookupd &amp; 
 $ nsqd --lookupd-tcp-address=127.0.0.1:4160 &amp;
@@ -845,14 +841,14 @@ $ nsqadmin --lookupd-http-address=127.0.0.1:4161 &amp;
 
 <p><code>nsqadmin</code> is a Web UI to view aggregated cluster stats in realtime and perform various administrative tasks.</p>
 
-<h2 id="writing-your-go-program">Writing Your Go Program</h2>
+<h2 id="writing-your-go-program:dda9787168a23dcd34b7e3f1e03bb799">Writing Your Go Program</h2>
 
 <p>To import the NSQ client library, use a <code>go get</code> command:</p>
 
 <pre><code class="language-bash">$ go get github.com/nsqio/go-nsq
 </code></pre>
 
-<h3 id="creating-a-consumer">Creating a Consumer</h3>
+<h3 id="creating-a-consumer:dda9787168a23dcd34b7e3f1e03bb799">Creating a Consumer</h3>
 
 <p>I like creating the consumer first so I can see the handler in action after pushing a message with a producer (see next <a href="#producer">section</a>).</p>
 
@@ -904,7 +900,7 @@ func main() {
 
 <p>This should hang there waiting to receive a NSQ message from a topic you specify. Nothing will happen just yet since there aren&rsquo;t any queued up messages for this particular topic. Leave this program running in a terminal window for now. In the next step we&rsquo;ll push a message to it.</p>
 
-<h3 id="a-name-producer-a-creating-a-producer"><a name="producer"></a>Creating a Producer</h3>
+<h3 id="a-name-producer-a-creating-a-producer:dda9787168a23dcd34b7e3f1e03bb799"><a name="producer"></a>Creating a Producer</h3>
 
 <p>You can publish a message with a producer with some simple code like this:</p>
 
@@ -1008,7 +1004,7 @@ func main() {
       </li>
 	  
 	  <li class="linkedin">
-          <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://andrewrgoss.com/2017/getting-started-with-nsq-for-go/&amp;title=Getting%20Started%20With%20NSQ%20for%20Go&amp;summary=I%26rsquo%3bve%20been%20recently%20working%20on%20software%20application%20project%20at%20DigitasLBi%20where%20we%20adopted%20NSQ%20as%20part%20of%20our%20microservices%20architecture.%20With%20this%20post%20I%26rsquo%3bd%20like%20to%20share%20how%20you%20can%20get%20started%20with%20NSQ%20by%20sending%20and%20receiving%20a%20simple%20message%20by%20writing%20some%20Go%20code.%0aWhat%20is%20NSQ%3f%20Per%20the%20official%20website%2c%20NSQ%20is%20a%20realtime%20distributed%20messaging%20platform%20designed%20to%20operate%20at%20scale%2c%20handling%20billions%20of%20messages%20per%20day...." class="popup">
+          <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://andrewrgoss.com/2017/getting-started-with-nsq-for-go/&amp;title=Getting%20Started%20With%20NSQ%20for%20Go&amp;summary=I%26rsquo%3bve%20been%20recently%20working%20on%20software%20application%20project%20at%20DigitasLBi%20where%20we%20adopted%20NSQ%20as%20part%20of%20our%20microservices%20architecture.%20With%20this%20post%20I%26rsquo%3bd%20like%20to%20share%20how%20you%20can%20get%20started%20with%20NSQ%20by%20sending%20and%20receiving%20a%20simple%20message%20by%20writing%20some%20Go%20code.%20What%20is%20NSQ%3f%20Per%20the%20official%20website%2c%20NSQ%20is%20a%20realtime%20distributed%20messaging%20platform%20designed%20to%20operate%20at%20scale%2c%20handling%20billions%20of%20messages%20per%20day...." class="popup">
               <span class="icon">
                   <svg version="1.1" id="btn-li" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="28px" height="28px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve">
                       <path d="M25.424,15.887v8.447h-4.896v-7.882c0-1.979-0.709-3.331-2.48-3.331c-1.354,0-2.158,0.911-2.514,1.803 c-0.129,0.315-0.162,0.753-0.162,1.194v8.216h-4.899c0,0,0.066-13.349,0-14.731h4.899v2.088c-0.01,0.016-0.023,0.032-0.033,0.048 h0.033V11.69c0.65-1.002,1.812-2.435,4.414-2.435C23.008,9.254,25.424,11.361,25.424,15.887z M5.348,2.501 c-1.676,0-2.772,1.092-2.772,2.539c0,1.421,1.066,2.538,2.717,2.546h0.032c1.709,0,2.771-1.132,2.771-2.546 C8.054,3.593,7.019,2.501,5.343,2.501H5.348z M2.867,24.334h4.897V9.603H2.867V24.334z"/>

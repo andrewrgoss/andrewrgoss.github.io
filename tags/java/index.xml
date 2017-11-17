@@ -9,9 +9,7 @@
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
     <lastBuildDate>Wed, 15 Nov 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://andrewrgoss.com/tags/java/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://andrewrgoss.com/tags/java/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Udemy- Complete Java Masterclass</title>
@@ -19,12 +17,28 @@
       <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2017/udemy--complete-java-masterclass/</guid>
-      <description>COURSE LINK
+      <description>
 
-Other Learning Resources Oracle Java™ Tutorials &amp;ndash; Trail: Learning the Java Language
-Cheat Sheets Java Operator Precedence Table
-Course Progress  7% - IN PROGRESS
-View my code on GitHub</description>
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/java.png&#34; alt=&#34;Java&#34; title=&#34;Java&#34; /&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.udemy.com/java-the-complete-java-developer-course&#34; target=&#34;_blank&#34;&gt;COURSE LINK&lt;/a&gt;&lt;br&gt;
+&lt;hr&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;other-learning-resources:ca88433d15302b856faf2ea8b1334f4e&#34;&gt;Other Learning Resources&lt;/h5&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://docs.oracle.com/javase/tutorial/java/index.html&#34; target=&#34;_blank&#34;&gt;Oracle Java™ Tutorials &amp;ndash; Trail: Learning the Java Language&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;cheat-sheets:ca88433d15302b856faf2ea8b1334f4e&#34;&gt;Cheat Sheets&lt;/h5&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://cs.bilkent.edu.tr/~guvenir/courses/CS101/op_precedence.html&#34; target=&#34;_blank&#34;&gt;Java Operator Precedence Table&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;course-progress:ca88433d15302b856faf2ea8b1334f4e&#34;&gt;Course Progress&lt;/h5&gt;
+
+&lt;progress max=&#34;1.0&#34; value=&#34;0.07&#34;&gt;&lt;/progress&gt;
+
+&lt;p&gt;7% - &lt;green&gt;IN PROGRESS&lt;/green&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/complete-java-masterclass&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

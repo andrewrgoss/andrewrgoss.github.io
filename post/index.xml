@@ -9,9 +9,7 @@
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
     <lastBuildDate>Wed, 15 Nov 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://andrewrgoss.com/post/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://andrewrgoss.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Udemy- Complete Java Masterclass</title>
@@ -19,12 +17,28 @@
       <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2017/udemy--complete-java-masterclass/</guid>
-      <description>COURSE LINK
+      <description>
 
-Other Learning Resources Oracle Java™ Tutorials &amp;ndash; Trail: Learning the Java Language
-Cheat Sheets Java Operator Precedence Table
-Course Progress  7% - IN PROGRESS
-View my code on GitHub</description>
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/java.png&#34; alt=&#34;Java&#34; title=&#34;Java&#34; /&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.udemy.com/java-the-complete-java-developer-course&#34; target=&#34;_blank&#34;&gt;COURSE LINK&lt;/a&gt;&lt;br&gt;
+&lt;hr&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;other-learning-resources:ca88433d15302b856faf2ea8b1334f4e&#34;&gt;Other Learning Resources&lt;/h5&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://docs.oracle.com/javase/tutorial/java/index.html&#34; target=&#34;_blank&#34;&gt;Oracle Java™ Tutorials &amp;ndash; Trail: Learning the Java Language&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;cheat-sheets:ca88433d15302b856faf2ea8b1334f4e&#34;&gt;Cheat Sheets&lt;/h5&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://cs.bilkent.edu.tr/~guvenir/courses/CS101/op_precedence.html&#34; target=&#34;_blank&#34;&gt;Java Operator Precedence Table&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;course-progress:ca88433d15302b856faf2ea8b1334f4e&#34;&gt;Course Progress&lt;/h5&gt;
+
+&lt;progress max=&#34;1.0&#34; value=&#34;0.07&#34;&gt;&lt;/progress&gt;
+
+&lt;p&gt;7% - &lt;green&gt;IN PROGRESS&lt;/green&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/complete-java-masterclass&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -33,9 +47,88 @@ View my code on GitHub</description>
       <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2017/25-potential-pitfalls-in-mastering-programming/</guid>
-      <description>written by Antonio Cangiano
- I wanted to share this post as it really resonated with me. I&amp;rsquo;ve encountered many of these at times during my coding journey and plan to reread this.
- I&amp;rsquo;m going to share with you what I see as &amp;ldquo;25&amp;rdquo; common pitfalls when learning to program (or working towards mastering programming). Many of these points affect both beginners and professionals alike — myself very much included.</description>
+      <description>
+
+&lt;p&gt;&lt;sub&gt;&lt;i&gt;written by &lt;a href=&#34;http://programmingzen.com/author/antonio-cangiano&#34; target=&#34;_blank&#34;&gt;Antonio Cangiano&lt;/a&gt;&lt;/i&gt;&lt;/sub&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;I wanted to share this post as it really resonated with me. I&amp;rsquo;ve encountered many of these at times during my coding journey and plan to reread this.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I&amp;rsquo;m going to share with you what I see as &amp;ldquo;25&amp;rdquo; common pitfalls when learning to program (or working towards mastering programming). Many of these points affect both beginners and professionals alike — myself very much included.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Forgetting that &lt;b&gt;programming is all about people&lt;/b&gt;. Yes, the machine will execute your code, but programming is solving problems for people, translating their requirements into code that will be read, maintained, and modified by other people (or yourself down the line).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;b&gt;Not spending enough time programming&lt;/b&gt;. Depending on your job or schedule, you might spend a lot of time on tasks that are related to programming but aren&amp;rsquo;t actually programming itself.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;b&gt;Stopping at the surface&lt;/b&gt; of a given technology you&amp;rsquo;re learning. Feeling satisfied with having mastered the basics just enough to get stuff done, without ever exploring further or going behind the scenes all that much.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;b&gt;The Magpie approach&lt;/b&gt; to learning programming. You start learning Rails, half-way through you realize that Phoenix is out there, oh and you need to learn JavaScript so you might as well go with Node.js&amp;hellip; but wait &lt;a href=&#34;https://medium.com/@tjholowaychuk/farewell-node-js-4ba9e7f3e52b&#34; target=&#34;_blank&#34;&gt;TJ switched to Go&lt;/a&gt;, and hold on&amp;hellip; what about Rust? Soon enough your browser history will have, &amp;ldquo;web development or data science career&amp;rdquo;, &amp;ldquo;is Clojure dead?&amp;rdquo;, &amp;ldquo;Clojure vs Elixir&amp;rdquo;, &amp;ldquo;is Crystal mature enough&amp;rdquo;, &amp;ldquo;any good frameworks for Golang&amp;rdquo;, &amp;ldquo;Phoenix vs Buffalo&amp;rdquo; and &amp;ldquo;Kotlin for web development&amp;rdquo; all in the same week. 😀&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Reading books and watching courses online but &lt;b&gt;not practicing the skills&lt;/b&gt; presented, therefore quickly forgetting about them.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;b&gt;Skipping fundamentals&lt;/b&gt;. So you end up learning about continuation-passing style (CPS) but still can&amp;rsquo;t do SQL joins without an object-relational mapper.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;b&gt;Not enough patience or discipline&lt;/b&gt; to progress through the learning process and steps required to master any technology.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;b&gt;No clear map or schedule for continuing to learn&lt;/b&gt; through available resources, while you tackle more immediate challenges in your day-to-day programming.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;b&gt;Analysis paralysis&lt;/b&gt;, wasting way too much time choosing amongst various frameworks and libraries (like Angular, React, and Vue), rather than just picking one, using it, and switching to something else only if you actually need to do so. Basically being a maximizer instead of a satisficer.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Refusing the polyglot nature of modern-day programming. In most domains, it isn&amp;rsquo;t reasonable to expect one programming language to be the best fit for every problem. Likewise, &lt;b&gt;identifying too much as an X or Y programmer&lt;/b&gt;, rather than just a programmer who prefers X or Y.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;b&gt;Fear of experimenting with new technology&lt;/b&gt;. Rather than just reading about certain emerging technologies (e.g., blockchain or chatbots), actually firing up a VM to try them out yourself, even if it involves getting your hands dirty with a programming language or API you are not familiar with.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;b&gt;Expecting to know everything upfront&lt;/b&gt;. Being disappointed after finding pointers to the solution via Google, because you didn&amp;rsquo;t come up with an elegant solution entirely on your own and kicking yourself while thinking, &amp;ldquo;I should have thought of that myself&amp;rdquo;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;b&gt;Not creating many small katas&lt;/b&gt;, exercises, and projects while learning.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;b&gt;Fear of sharing code&lt;/b&gt; with others or getting code reviews, lest you be judged.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;b&gt;Not seeking one-on-one mentorship&lt;/b&gt; from more experienced developers.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Expecting to learn everything at once with &lt;b&gt;unrealistic timelines&lt;/b&gt; (e.g., master iOS development in a month).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;For the more entrepreneur-minded, &lt;b&gt;not exploring cool projects because they don&amp;rsquo;t have a clear path to revenue generation&lt;/b&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Not asking questions for &lt;b&gt;fear of coming across as stupid&lt;/b&gt; or as more of a newbie than you actually are.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Feeling like you are not a real programmer if you&amp;rsquo;re creating apps by gluing high-level libraries together, in a high-level language instead of doing &amp;ldquo;hardcore&amp;rdquo; algorithms in more complex languages. I dub this &lt;b&gt;low-level programming envy&lt;/b&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;b&gt;Allowing the desire to learn best practices to hinder your ability to grasp the fundamentals&lt;/b&gt; of a given language or technology. For example, feeling like you need to learn a whole book on design patterns or master TDD/BDD before you start creating projects.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Perfectionism. &lt;b&gt;Letting perfect be the enemy of good enough&lt;/b&gt;. Never shipping anything, getting stuck in the &amp;ldquo;final touches&amp;rdquo; phase. (But balance is important, so don&amp;rsquo;t ship horribly broken software for the sake of shipping.)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Related to the previous point, &lt;b&gt;ignoring the progression: make it work, make it faster, make it clean&lt;/b&gt;. Instead, expecting a polished solution from the get-go. It&amp;rsquo;s important to accept that the first iteration will be a rough draft to improve upon.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;b&gt;Impostor Syndrome&lt;/b&gt;. Feeling that you aren&amp;rsquo;t good enough. This is particularly bad if you don&amp;rsquo;t fit the current developer stereotype, as a lack of role models that you can relate with might mistakenly confirm your doubts. This is part of why women and minorities representation in tech is so key.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Writing code and learning about programming from books, but &lt;b&gt;never reading other people&amp;rsquo;s code&lt;/b&gt;. Open Source gives us an amazing resource that can drastically speed up our understanding of programming and best practices.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;b&gt;Not getting exposed to other paradigms or domains&lt;/b&gt;. If you&amp;rsquo;re a web developer, not learning about other types of development. If you know Object-Oriented programming, not learning about Functional programming.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;b&gt;Not teaching others what you learn&lt;/b&gt;. Nothing will solidify what you learn as well as trying to explain it to others. Even just studying with the intention of teaching will increase your ability to learn.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;There you have it&amp;hellip; 25 pitfalls. Oh, don&amp;rsquo;t forget off-by-one errors, too. 😀&lt;/p&gt;
+
+&lt;h3 id=&#34;conclusion:fb811f506d8cdd068bd4e69efa38e874&#34;&gt;Conclusion&lt;/h3&gt;
+
+&lt;p&gt;All this to say:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;You&amp;rsquo;re good enough. You can definitely do it. Just watch out for these pitfalls, make a plan, commit to it, then take it one step at the time.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;When learning to program (or improving your current mastery of it), I recommend the code/read/teach method. Code one real project, and many small exercises/katas as you learn. Read books but also other people&amp;rsquo;s code. Finally, teach what you learn online and in person. You don&amp;rsquo;t need to be an expert to do so.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://i0.wp.com/programmingzen.com/wp-content/uploads/2017/11/learning-to-program.gif?zoom=1.25&amp;resize=692%2C267&#34;&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://programmingzen.com/pitfalls-when-learning-to-program&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View original article&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;sub&gt;*Source: &lt;a href=&#34;http://programmingzen.com&#34; target=_&gt;Programming Zen&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -44,8 +137,41 @@ View my code on GitHub</description>
       <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2017/my-path-to-learning-scala/</guid>
-      <description>I recently joined a new data engineering team at DigitasLBi and Scala is the predominant language being used. Having never coded in this language, I sought to quickly learn it and wanted to share the numerous resources I came across and bookmarked.
-The first place I usually turn when learning something new is to complete an introductory online course with videos and exercises. The most popular course for Scala is Functional Programming Principles in Scala on Coursera and it is taught by the inventor of the language (Martin Odersky), so I gave it a whirl.</description>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/scala.png&#34; alt=&#34;Scala&#34; title=&#34;Scala&#34; /&gt;&lt;br&gt;
+&lt;hr&gt;&lt;/p&gt;
+
+&lt;p&gt;I recently joined a new data engineering team at &lt;a href=&#34;http://www.digitaslbi.com/us&#34; target=&#34;_blank&#34;&gt;DigitasLBi&lt;/a&gt; and &lt;a href=&#34;http://scala-lang.org&#34; target=&#34;_blank&#34;&gt;Scala&lt;/a&gt; is the predominant language being used. Having never coded in this language, I sought to quickly learn it and wanted to share the numerous resources I came across and bookmarked.&lt;/p&gt;
+
+&lt;p&gt;The first place I usually turn when learning something new is to complete an introductory online course with videos and exercises. The most popular course for Scala is &lt;a href=&#34;https://www.coursera.org/learn/progfun1&#34; target=&#34;_blank&#34;&gt;Functional Programming Principles in Scala&lt;/a&gt; on Coursera and it is taught by the inventor of the language (Martin Odersky), so I gave it a whirl. After trying it out for a few weeks, I don&amp;rsquo;t recommend it for learning the language. If you need Scala for work as I do, taking this course will be very inefficient. You will end up spending a lot of time and effort while gaining very little in practical terms. It&amp;rsquo;s extremely heavy on theory around functional programming and if you want to use the language for building useful things, it&amp;rsquo;s unlikely that understanding applicative functors will be crucial for finishing the project. Having said that, it&amp;rsquo;s worth investing some time in learning basic functional features like pattern matching and currying, because it will make you more productive right from the beginning. I mention the course here as a helpful reference, but I found a different online course - &lt;a href=&#34;https://www.lynda.com/Scala-tutorials/Scala-Essential-Training/574693-2.html&#34; target=&#34;_blank&#34;&gt;Scala Essential Training&lt;/a&gt; - to be more in line with what I needed to do - learn Scala quickly to apply it on the job.&lt;/p&gt;
+
+&lt;h4 id=&#34;cheat-sheets:8d3e9b9fdaee39d2df99b4141ab40343&#34;&gt;Cheat Sheets&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://andrewrgoss.com/docs/scala_reference_guide.pdf&#34; target=&#34;_blank&#34;&gt;Scala Reference Guide&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://alvinalexander.com/scala/scala-cheat-sheet-reference-examples&#34; target=&#34;_blank&#34;&gt;Scala Cheat Sheet&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;how-to-learn-scala:8d3e9b9fdaee39d2df99b4141ab40343&#34;&gt;How to Learn Scala&lt;/h4&gt;
+
+&lt;p&gt;This article has a great compiled list of Scala resources to kickstart your learning.&lt;br&gt;
+&lt;a href=&#34;https://blog.codacy.com/how-to-learn-scala-cb53c5eb5ff6&#34; target=&#34;_blank&#34;&gt;blog.codacy.com/how-to-learn-scala&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;learning-resource-links:8d3e9b9fdaee39d2df99b4141ab40343&#34;&gt;Learning Resource Links&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://allaboutscala.com&#34; target=&#34;_blank&#34;&gt;AllAboutScala&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.scala-exercises.org&#34; target=&#34;_blank&#34;&gt;Scala Exercises&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://scalafiddle.io&#34; target=&#34;_blank&#34;&gt;ScalaFiddle&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://twitter.github.io/scala_school&#34; target=&#34;_blank&#34;&gt;Scala School&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://docs.scala-lang.org/tour/tour-of-scala.html&#34; target=&#34;_blank&#34;&gt;A Tour of Scala&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://blog.redelastic.com/transitioning-to-scala-d1818f25b2b7&#34; target=&#34;_blank&#34;&gt;Transitioning to Scala from Another Language&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;style-checker:8d3e9b9fdaee39d2df99b4141ab40343&#34;&gt;Style Checker&lt;/h4&gt;
+
+&lt;p&gt;Scalastyle examines your Scala code and indicates potential problems with it.&lt;br&gt;
+&lt;a href=&#34;http://www.scalastyle.org&#34; target=&#34;_blank&#34;&gt;www.scalastyle.org&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/learning-scala&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -54,10 +180,40 @@ The first place I usually turn when learning something new is to complete an int
       <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2017/udemy--complete-javascript-course/</guid>
-      <description>COMPLETION CERTIFICATE
-Design and Coding Resources
+      <description>
 
-This course represented my official foray into learning JavaScript. Up to this point I&amp;rsquo;d only used it on occasion with no formal training, as my focus has been predominantly on back-end data engineering. I wanted to gain a closer perspective on full-stack development, and JavaScript is a core front-end technology for me to have as part of my stack. This course covers the following areas:</description>
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/javascript.png&#34; alt=&#34;JavaScript&#34; title=&#34;JavaScript&#34; /&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.udemy.com/certificate/UC-NWM229P1&#34; target=&#34;_blank&#34;&gt;COMPLETION CERTIFICATE&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://codingheroes.io/resources&#34; target=&#34;_blank&#34;&gt;Design and Coding Resources&lt;/a&gt;&lt;br&gt;
+&lt;hr&gt;&lt;/p&gt;
+
+&lt;p&gt;This course represented my official foray into learning JavaScript. Up to this point I&amp;rsquo;d only used it on occasion with no formal training, as my focus has been predominantly on back-end data engineering. I wanted to gain a closer perspective on full-stack development, and JavaScript is a core front-end technology for me to have as part of my stack. This course covers the following areas:&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/js_language_basics&#34;&gt;JavaScript language basics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/how_js_works_behind&#34;&gt;How JavaScript works behind the scenes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/js_browser&#34;&gt;JavaScript in the browser: DOM manipulation and events&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://andrewrgoss.com/2017/udemy--complete-javascript-course/advanced_js_objects_functions&#34;&gt;Advanced JavaScript: objections and functions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://andrewrgoss.com/projects/budget_app&#34;&gt;Putting it all together: budget app project&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr&gt;
+
+&lt;h5 id=&#34;my-projects:f84187bd0236cff9ef749957d6953b7f&#34;&gt;My Projects&lt;/h5&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://andrewrgoss.com/projects/dom_pig_game&#34;&gt;DOM Pig Game&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://andrewrgoss.com/projects/budget_app&#34;&gt;Budget App&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h5 id=&#34;course-progress:f84187bd0236cff9ef749957d6953b7f&#34;&gt;Course Progress&lt;/h5&gt;
+
+&lt;progress max=&#34;1.0&#34; value=&#34;1.0&#34;&gt;&lt;/progress&gt;
+
+&lt;p&gt;100% - completed 9/29/17.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-complete-javascript&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -66,10 +222,20 @@ This course represented my official foray into learning JavaScript. Up to this p
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2017/whats-the-go-language-really-good-for/</guid>
-      <description>written by Serdar Yegulalp
- InfoWorld examines the strengths, weaknesses, use cases, and future directions of Google&amp;rsquo;s hit programming language
- During its eight-plus years in the wild, Google’s Go language—with version 1.8.1 out as of April 2017—has evolved from being a curiosity for alpha geeks to being the battle-tested programming language behind some of the world’s most important cloud-centric projects.
-Why was Go chosen by the developers of such projects as Docker and Kubernetes?</description>
+      <description>&lt;p&gt;&lt;sub&gt;&lt;i&gt;written by &lt;a href=&#34;http://www.infoworld.com/author/Serdar-Yegulalp&#34; target=&#34;_blank&#34;&gt;Serdar Yegulalp&lt;/a&gt;&lt;/i&gt;&lt;/sub&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.infoworld.com&#34; target=&#34;_blank&#34;&gt;InfoWorld&lt;/a&gt; examines the strengths, weaknesses, use cases, and future directions of Google&amp;rsquo;s hit programming language&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;During its eight-plus years in the wild, &lt;a href=&#34;https://golang.org&#34; target=&#34;_blank&#34;&gt;Google’s Go language&lt;/a&gt;—with version 1.8.1 out as of April 2017—has evolved from being a curiosity for alpha geeks to being the battle-tested programming language behind some of the world’s most important cloud-centric projects.&lt;/p&gt;
+
+&lt;p&gt;Why was Go chosen by the developers of such projects as Docker and Kubernetes? What are Go’s defining characteristics, how does it differ from other programming languages, and what kinds of projects is it most suitable for building? This excellent InfoWorld article explores Go’s feature set, the optimal use cases, the language’s omissions and limitations, and where Go may be going from here.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.infoworld.com/article/3198928/development-tools/whats-the-go-language-really-good-for.html&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View article&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;sub&gt;*Source: &lt;a href=&#34;http://www.infoworld.com&#34; target=_&gt;InfoWorld&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -78,9 +244,74 @@ Why was Go chosen by the developers of such projects as Docker and Kubernetes?</
       <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2017/what-is-a-productive-data-engineering-team/</guid>
-      <description>written by Jesse Anderson
- Merging the gaps between data science and engineering, and what each side can learn from the other.
- In my experience working with data engineering teams, I find that most teams don’t realize they have to change their thinking about data and systems to be successful with big data. Data engineering teams need to think about how data is valuable and at what scale the data is coming in.</description>
+      <description>
+
+&lt;p&gt;&lt;sub&gt;&lt;i&gt;written by &lt;a href=&#34;https://www.oreilly.com/people/17084-jesse-anderson&#34; target=&#34;_blank&#34;&gt;Jesse Anderson&lt;/a&gt;&lt;/i&gt;&lt;/sub&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Merging the gaps between data science and engineering, and what each side can learn from the other.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In my experience working with data engineering teams, I find that most teams don’t realize they have to change their thinking about data and systems to be successful with big data. Data engineering teams need to think about how data is valuable and at what scale the data is coming in. When thinking about scale, I encourage teams to think in terms of 100 billion rows or events, processing 1PB of data, and jobs that take 10 hours to complete.&lt;/p&gt;
+
+&lt;h2 id=&#34;imagine-processing-at-100-billion-rows:be8878b9aea0d8ff31bd44efb170191f&#34;&gt;Imagine processing at 100 billion rows&lt;/h2&gt;
+
+&lt;p&gt;When you are processing data in real-time or batch, you need to imagine that you’re processing 100 billion rows. This affects how you think about reduces, or the equivalent of reduces, in your technology of choice. If you reduce inefficiently, or when you don’t have to, you’ll experience scaling issues.&lt;/p&gt;
+
+&lt;h2 id=&#34;your-code-should-scale-to-1pb:be8878b9aea0d8ff31bd44efb170191f&#34;&gt;Your code should scale to 1PB&lt;/h2&gt;
+
+&lt;p&gt;When you’re thinking about amounts of data, think in terms of 1 PB. Although you may have substantially less data stored, you’ll want to make sure your processing is planned in such a way that it can handle 1 PB. As you’re writing a program to process 100 GB, you’ll want to make sure that same code can scale to 1 PB. One common manifestation for this problem is to cache data in memory for an algorithm. While that may work at 100 GB, it probably will get an out-of-memory error at 1 PB.&lt;/p&gt;
+
+&lt;h2 id=&#34;why-you-should-plan-for-10-hour-jobs:be8878b9aea0d8ff31bd44efb170191f&#34;&gt;Why you should plan for 10-hour jobs&lt;/h2&gt;
+
+&lt;p&gt;When you are thinking about long-running processes, I encourage teams to think of processes requiring running for 10 hours to complete. To explain this reasoning, let’s talk about coding defensively. If you have an exception at 9.5 hours into a 10-hour job, for example, you now have two problems: to find and fix the error, and to rerun the 10-hour job.&lt;/p&gt;
+
+&lt;p&gt;A job should be coded to check assumptions, whenever possible, and to avoid an exception from exiting a job. A common example of these issues is when a team is dealing with string-based formats, like JSON and XML, and then expecting a certain format; this could be casting a string to a number—if you don’t check that string beforehand with a regular expression, you could find yourself with an exception.&lt;/p&gt;
+
+&lt;p&gt;Given the 10-hour job consideration, the team needs to decide what to do about data that doesn’t fit the expected input. Most frameworks won’t handle data errors by themselves—this is something the team has to solve in code. Some common options are to skip the data and move on, log the error and the data, or to die immediately. Each of these decisions is very use-case dependent. If losing data or not processing every single piece of data is the end of the world, you’ll end up having to fix any bad data, manually.&lt;/p&gt;
+
+&lt;p&gt;Every engineering decision needs to be made through these lenses. I teach this to every team, even if their data isn’t at these levels. If a data engineering team is truly experiencing big data problems, they will hit these levels eventually.&lt;/p&gt;
+
+&lt;h2 id=&#34;a-data-engineering-team-should-be-at-the-hub-of-the-wheel:be8878b9aea0d8ff31bd44efb170191f&#34;&gt;A data engineering team should be at the “hub of the wheel”&lt;/h2&gt;
+
+&lt;p&gt;Sometimes I’m teaching at large enterprises and they disagree that there should be a separate data engineering team. In these situations, the enterprise is usually thinking entirely of the technical requirements. Setting a data engineering team at the hub of the wheel puts the team in a completely different light and reveals how the team can become an essential part of the business process.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://d3ansictanv2wj.cloudfront.net/image00-d628951691b15e9457f4cfe9200f20d4.jpg&#34; align=&#34;right&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;This hub concept is often foreign or not thought of, and many organizations don’t realize their project will grow in scope. As the other parts of the organization begin to consume the data or use the data pipeline, it becomes clear the data engineering team will need help—usually to fill any skill gaps, often having to do with programming.&lt;/p&gt;
+
+&lt;p&gt;Once a data pipeline is first released, it doesn’t stay at its initial usage; it almost always grows. There is pent-up demand for data products that the pipeline starts to facilitate. New data sets and data sources will get added. There will be new processing and consumption of data. In a complete technical free-for-all, you will end up with issues. Often, teams that lack qualified data engineers will completely misuse or misunderstand how the technologies should be used.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-to-work-with-a-data-science-team:be8878b9aea0d8ff31bd44efb170191f&#34;&gt;How to work with a data science team&lt;/h2&gt;
+
+&lt;p&gt;Before diving into the relationship between data science and data engineering teams, I want to briefly define the roles. A data scientist is typically someone with a math and probability background, who also knows how to program. Data scientists are often familiar with big data technologies, in order to run algorithms at scale. A data science team is multidisciplinary, just like a data engineering team. The team has the variety of skills needed to prevent any gaps. It’s unusual to have a single person with all of these skills, and you’ll usually need several different people.&lt;/p&gt;
+
+&lt;p&gt;The role of data engineer typically requires a strong background in programming and distributed systems, whereas the role of a data scientist typically requires a stronger background in math, analysis, and probabilities; of course, there is some crossover, but the two teams are more complementary than heavily overlapping.&lt;/p&gt;
+
+&lt;h2 id=&#34;where-data-science-and-data-engineering-meet:be8878b9aea0d8ff31bd44efb170191f&#34;&gt;Where data science and data engineering meet&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://d3ansictanv2wj.cloudfront.net/image01-1ce0c458317c9db05febf41792a73973.jpg&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;In the image above, I show how tasks are distributed between data science and data engineering teams. I could, and have, talked about this diagram for an hour. The duties are shown as more of a data science or data engineering duty by how close they are to the top or bottom of the center panel. Notice that very few duties are solely a data science or data engineering duty.&lt;/p&gt;
+
+&lt;p&gt;There are a few points I want you to take away from this diagram. A data engineering team isn’t just there to write the code—they need to be able to analyze data, too.&lt;/p&gt;
+
+&lt;p&gt;Likewise, data scientists aren’t just there to just make equations and throw them over the fence to the data engineering team—data scientists need to have some level of programming. If the throw-it-over-the-fence scenario becomes the perception or reality, there can be a great deal of animosity between the teams. In Figure 3, I show how there should be a high bandwidth and significant level of interaction between the two teams.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://d3ansictanv2wj.cloudfront.net/image02-94a3d7311cd4cfe3d85bd7f204066259.jpg&#34; align=&#34;right&#34;&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;how-to-work-with-a-data-warehousing-team:be8878b9aea0d8ff31bd44efb170191f&#34;&gt;How to work with a data warehousing team&lt;/h3&gt;
+
+&lt;p&gt;In contrast to the data science team, there is a great deal of overlap with a data warehousing team. Often, the entire reason for creating a data engineering team and moving to big data solutions is to move off of data warehousing products.&lt;/p&gt;
+
+&lt;p&gt;Big data technologies can do everything that a data warehousing product can do and much more; however, the skillsets are very different. While a data warehousing team focuses on SQL and doesn’t program, a data engineering team focuses on SQL, programming, and other necessary skills.&lt;/p&gt;
+
+&lt;p&gt;The data warehousing team is almost always separate from a data engineering team, yet some companies will rename their data warehousing team as a data engineering team, despite the required skillsets being very different and the levels of complexity between the two teams much greater. Elements from a data warehousing team can sometimes fill in skill gaps in a data engineering team, however—usually domain knowledge and skills in analysis. If you do decide to merge or rename your data warehousing team as a data engineering team, you will need to check for capability gaps. This is a common reason why data warehousing teams have low success rates with big data projects.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.oreilly.com/ideas/what-is-a-productive-data-engineering-team&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View original article&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;sub&gt;*Source: &lt;a href=&#34;https://www.oreilly.com&#34; target=_&gt;O’Reilly&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -89,8 +320,27 @@ Why was Go chosen by the developers of such projects as Docker and Kubernetes?</
       <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2017/the-2017-big-data-landscape/</guid>
-      <description>Just released - an excellent &amp;ldquo;State of the Union&amp;rdquo; roundup of the key trends in the 2017 data ecosystem. Some high level trends and questions that are explored in this comprehensive article:
- Big data + AI = the new stack. Big data provides the pipes, and AI provides the smarts. Enterprise budgets - follow the money Enterprise data moving to the cloud As the big data landscape gets busier every passing year, is big data consolidation coming?</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/big_data_landscape_2017.png&#34; alt=&#34;2017 Big Data Landscape&#34; title=&#34;2017 Big Data Landscape&#34; /&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;Just released - an excellent &amp;ldquo;State of the Union&amp;rdquo; roundup of the key trends in the 2017 data ecosystem. Some high level trends and questions that are explored in this comprehensive article:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Big data + AI = the new stack. &lt;b&gt;Big data provides the pipes, and AI provides the smarts.&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;Enterprise budgets - follow the money&lt;/li&gt;
+&lt;li&gt;Enterprise data moving to the cloud&lt;/li&gt;
+&lt;li&gt;As the big data landscape gets busier every passing year, is big data consolidation coming?&lt;/li&gt;
+&lt;li&gt;The cloud wars&lt;/li&gt;
+&lt;li&gt;The rise of the data team workbench. &lt;b&gt;Success in big data is based on creating an assembly line of technologies, people and processes.&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;AI-powered vertical applications&lt;/li&gt;
+&lt;li&gt;Bots backlash&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;With the killer combination of big data and AI (hype aside), the possibilities are enormous. As core infrastructure continues to mature, and the application side, powered by AI, is bursting with activity, in 2017 the big data (and AI) ecosystem is firing on all cylinders.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mattturck.com/bigdata2017&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View the full report&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;sub&gt;*Source: &lt;a href=&#34;http://mattturck.com&#34; target=_&gt;Matt Turck&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -99,8 +349,152 @@ Why was Go chosen by the developers of such projects as Docker and Kubernetes?</
       <pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2017/getting-started-with-nsq-for-go/</guid>
-      <description>I&amp;rsquo;ve been recently working on software application project at DigitasLBi where we adopted NSQ as part of our microservices architecture. With this post I&amp;rsquo;d like to share how you can get started with NSQ by sending and receiving a simple message by writing some Go code.
-What is NSQ? Per the official website, NSQ is a realtime distributed messaging platform designed to operate at scale, handling billions of messages per day.</description>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;http://nsq.io&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/nsq.png&#34; alt=&#34;NSQ&#34; title=&#34;NSQ&#34; /&gt;&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve been recently working on software application project at &lt;a href=&#34;https://www.digitaslbi.com/en-us&#34; target=&#34;_blank&#34;&gt;DigitasLBi&lt;/a&gt; where we adopted &lt;a href=&#34;http://nsq.io&#34; target=&#34;_blank&#34;&gt;NSQ&lt;/a&gt; as part of our microservices architecture. With this post I&amp;rsquo;d like to share how you can get started with NSQ by sending and receiving a simple message by writing some &lt;a href=&#34;https://golang.org&#34; target=&#34;_blank&#34;&gt;Go&lt;/a&gt; code.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-is-nsq:dda9787168a23dcd34b7e3f1e03bb799&#34;&gt;What is NSQ?&lt;/h2&gt;
+
+&lt;p&gt;Per the official website, NSQ is a realtime distributed messaging platform designed to operate at scale, handling billions of messages per day.&lt;/p&gt;
+
+&lt;p&gt;It promotes distributed and decentralized topologies without single points of failure, enabling fault tolerance and high availability coupled with a reliable message delivery guarantee.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://f.cloud.github.com/assets/187441/1700696/f1434dc8-6029-11e3-8a66-18ca4ea10aca.gif&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;nsqd&lt;/code&gt; is the daemon that receives, queues, and delivers messages to clients.&lt;/p&gt;
+
+&lt;p&gt;With the chart above you can understand the basic premise of NSQ involves producers and consumers - within your code you create NSQ producers to push messages to NSQ that get queued up to be consumed by other programs within your application.&lt;/p&gt;
+
+&lt;h2 id=&#34;installing-nsq-on-linux-vm:dda9787168a23dcd34b7e3f1e03bb799&#34;&gt;Installing NSQ (on Linux VM)&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ wget https://s3.amazonaws.com/bitly-downloads/nsq/nsq-1.0.0-compat.linux-amd64.go1.8.tar.gz
+$ tar nsq-1.0.0-compat.linux-amd64.go1.8.tar.gz
+$ sudo mv nsq-1.0.0-compat.linux-amd64.go1.8.tar.gz/bin/* /usr/local/bin
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;launching-nsqd:dda9787168a23dcd34b7e3f1e03bb799&#34;&gt;Launching NSQD&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ nsqlookupd &amp;amp; 
+$ nsqd --lookupd-tcp-address=127.0.0.1:4160 &amp;amp;
+$ nsqadmin --lookupd-http-address=127.0.0.1:4161 &amp;amp;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;If done successfully you will be able to view a web UI that looks like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://nsq.io/static/img/nsqadmin_screenshot.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;nsqadmin&lt;/code&gt; is a Web UI to view aggregated cluster stats in realtime and perform various administrative tasks.&lt;/p&gt;
+
+&lt;h2 id=&#34;writing-your-go-program:dda9787168a23dcd34b7e3f1e03bb799&#34;&gt;Writing Your Go Program&lt;/h2&gt;
+
+&lt;p&gt;To import the NSQ client library, use a &lt;code&gt;go get&lt;/code&gt; command:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ go get github.com/nsqio/go-nsq
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;creating-a-consumer:dda9787168a23dcd34b7e3f1e03bb799&#34;&gt;Creating a Consumer&lt;/h3&gt;
+
+&lt;p&gt;I like creating the consumer first so I can see the handler in action after pushing a message with a producer (see next &lt;a href=&#34;#producer&#34;&gt;section&lt;/a&gt;).&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-go&#34;&gt;package main
+
+import (
+    &amp;quot;log&amp;quot;
+    &amp;quot;sync&amp;quot;
+
+    &amp;quot;github.com/nsqio/go-nsq&amp;quot;
+)
+
+func main() {
+    wg := &amp;amp;sync.WaitGroup{}
+    wg.Add(1)
+
+    decodeConfig := nsq.NewConfig()
+    c, err := nsq.NewConsumer(&amp;quot;My_NSQ_Topic&amp;quot;, &amp;quot;My_NSQ_Channel&amp;quot;, decodeConfig)
+    if err != nil {
+        log.Panic(&amp;quot;Could not create consumer&amp;quot;)
+    }
+    //c.MaxInFlight defaults to 1
+
+    c.AddHandler(nsq.HandlerFunc(func(message *nsq.Message) error {
+        log.Println(&amp;quot;NSQ message received:&amp;quot;)
+        log.Println(string(message.Body))
+        return nil
+    }))
+
+    err = c.ConnectToNSQD(&amp;quot;127.0.0.1:4150&amp;quot;)
+    if err != nil {
+        log.Panic(&amp;quot;Could not connect&amp;quot;)
+    }
+    log.Println(&amp;quot;Awaiting messages from NSQ topic \&amp;quot;My NSQ Topic\&amp;quot;...&amp;quot;)
+    wg.Wait()
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Now run this consumer program:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ go run consume.go
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;You&amp;rsquo;ll get this output:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;2017/04/05 17:33:42 INF    1 [My_NSQ_Topic/My_NSQ_Channel] (127.0.0.1:4150) connecting to nsqd
+2017/04/05 17:33:42 Awaiting messages from NSQ topic &amp;quot;My NSQ Topic&amp;quot;...
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This should hang there waiting to receive a NSQ message from a topic you specify. Nothing will happen just yet since there aren&amp;rsquo;t any queued up messages for this particular topic. Leave this program running in a terminal window for now. In the next step we&amp;rsquo;ll push a message to it.&lt;/p&gt;
+
+&lt;h3 id=&#34;a-name-producer-a-creating-a-producer:dda9787168a23dcd34b7e3f1e03bb799&#34;&gt;&lt;a name=&#34;producer&#34;&gt;&lt;/a&gt;Creating a Producer&lt;/h3&gt;
+
+&lt;p&gt;You can publish a message with a producer with some simple code like this:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-go&#34;&gt;package main
+
+import (
+  &amp;quot;log&amp;quot;
+
+  &amp;quot;github.com/nsqio/go-nsq&amp;quot;
+)
+
+func main() {
+    config := nsq.NewConfig()
+    p, err := nsq.NewProducer(&amp;quot;127.0.0.1:4150&amp;quot;, config)
+    if err != nil {
+        log.Panic(err)
+    }
+    err = p.Publish(&amp;quot;My_NSQ_Topic&amp;quot;, []byte(&amp;quot;sample NSQ message&amp;quot;))
+    if err != nil {
+        log.Panic(err)
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Now run this publisher program:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ go run publish.go
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;In this terminal window, you&amp;rsquo;ll only see this message indicating your message was published to NSQ:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;go run publish.go
+2017/04/05 17:39:15 INF    1 (127.0.0.1:4150) connecting to nsqd
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;If you look at your consumer terminal window that you left running from the previous step, you&amp;rsquo;ll now see this additional output:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;2017/04/05 17:33:42 Awaiting messages from NSQ topic &amp;quot;My NSQ Topic&amp;quot;...
+2017/04/05 17:39:15 NSQ message received:
+2017/04/05 17:39:15 sample NSQ message
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Congrats - you just pushed and received your first NSQ message!&lt;/p&gt;
+
+&lt;p&gt;If you go back to your web UI console you&amp;rsquo;ll see your newly-created topic. If you drill into this topic, you can also see the channel that you consumed the message to, with the message counter at 1:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/nsq_topic.png&#34; alt=&#34;NSQ Topic&#34; title=&#34;NSQ Topic&#34; /&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -109,10 +503,139 @@ What is NSQ? Per the official website, NSQ is a realtime distributed messaging p
       <pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2017/the-rise-of-the-data-engineer/</guid>
-      <description>written by Maxime Beauchemin
-I joined Facebook in 2011 as a business intelligence engineer. By the time I left in 2013, I was a data engineer.
-I wasn&amp;rsquo;t promoted or assigned to this new role. Instead, Facebook came to realize that the work we were doing transcended classic business intelligence. The role we&amp;rsquo;d created for ourselves was a new discipline entirely.
-My team was at forefront of this transformation. We were developing new skills, new ways of doing things, new tools, and&amp;ndash;more often than not&amp;ndash;turning our backs to traditional methods.</description>
+      <description>
+
+&lt;p&gt;&lt;sub&gt;&lt;i&gt;written by &lt;a href=&#34;https://medium.freecodecamp.com/@maximebeauchemin&#34; target=&#34;_blank&#34;&gt;Maxime Beauchemin&lt;/a&gt;&lt;/i&gt;&lt;/sub&gt;&lt;/p&gt;
+
+&lt;p&gt;I joined Facebook in 2011 as a &lt;b&gt;business intelligence engineer&lt;/b&gt;. By the time I left in 2013, I was a &lt;b&gt;data engineer&lt;/b&gt;.&lt;/p&gt;
+
+&lt;p&gt;I wasn&amp;rsquo;t promoted or assigned to this new role. Instead, Facebook came to realize that the work we were doing transcended classic business intelligence. The role we&amp;rsquo;d created for ourselves was a new discipline entirely.&lt;/p&gt;
+
+&lt;p&gt;My team was at forefront of this transformation. We were developing new skills, new ways of doing things, new tools, and&amp;ndash;more often than not&amp;ndash;turning our backs to traditional methods.&lt;/p&gt;
+
+&lt;p&gt;We were pioneers. We were data engineers!&lt;/p&gt;
+
+&lt;h2 id=&#34;data-engineering:6a9fa2d276b1eefe8e0ddcdbde3e2acf&#34;&gt;Data engineering?&lt;/h2&gt;
+
+&lt;p&gt;&lt;b&gt;Data science&lt;/b&gt; as a discipline was going through its adolescence of self-affirming and defining itself. At the same time, &lt;b&gt;data engineering&lt;/b&gt; was the slightly younger sibling, but it was going through something similar. The data engineering discipline took cues from its sibling, while also defining itself in opposition, and finding its own identity.&lt;/p&gt;
+
+&lt;p&gt;Like data scientists, data engineers write code. They&amp;rsquo;re highly analytical, and are interested in data visualization.&lt;/p&gt;
+
+&lt;p&gt;Unlike data scientists&amp;ndash;and inspired by our more mature parent, &lt;b&gt;software engineering&lt;/b&gt;&amp;ndash;data engineers build tools, infrastructure, frameworks, and services. In fact, it&amp;rsquo;s arguable that data engineering is much closer to software engineering than it is to a data science.&lt;/p&gt;
+
+&lt;p&gt;In relation to &lt;b&gt;previously existing roles&lt;/b&gt;, the data engineering field could be thought of as a superset of &lt;b&gt;business intelligence&lt;/b&gt; and &lt;b&gt;data warehousing&lt;/b&gt; that brings more elements from &lt;b&gt;software engineering&lt;/b&gt;. This discipline also integrates specialization around the operation of so called &amp;ldquo;big data&amp;rdquo; distributed systems, along with concepts around the extended Hadoop ecosystem, stream processing, and in computation at scale.&lt;/p&gt;
+
+&lt;p&gt;In smaller companies&amp;ndash;where no &lt;b&gt;data infrastructure&lt;/b&gt; team has yet been formalized&amp;ndash;the data engineering role may also cover the workload around setting up and operating the organization&amp;rsquo;s data infrastructure. This includes tasks like setting up and operating platforms like Hadoop/Hive/HBase, Spark, and the like.&lt;/p&gt;
+
+&lt;p&gt;In smaller environments people tend to use hosted services offered by Amazon or Databricks, or get support from companies like Cloudera or Hortonworks&amp;ndash;which essentially subcontracts the data engineering role to other companies.&lt;/p&gt;
+
+&lt;p&gt;In larger environments, there tends to be specialization and the creation of a formal role to manage this workload, as the need for a data infrastructure team grows. In those organizations, the role of automating some of the data engineering processes falls under the hand of both the data engineering and data infrastructure teams, and it&amp;rsquo;s common for these teams to collaborate to solve higher level problems.&lt;/p&gt;
+
+&lt;p&gt;While the engineering aspect of the role is growing in scope, other aspects of the original business engineering role are becoming secondary. Areas like crafting and maintaining portfolios of reports and dashboards are not a data engineer&amp;rsquo;s primary focus.&lt;/p&gt;
+
+&lt;p&gt;We now have better self-service tooling where analysts, data scientist and the general &amp;ldquo;information worker&amp;rdquo; is becoming more data-savvy and can take care of data consumption autonomously.&lt;/p&gt;
+
+&lt;h2 id=&#34;etl-is-changing:6a9fa2d276b1eefe8e0ddcdbde3e2acf&#34;&gt;ETL is changing&lt;/h2&gt;
+
+&lt;p&gt;We&amp;rsquo;ve also observed a general shift away from drag-and-drop &lt;a href=&#34;https://en.wikipedia.org/wiki/Extract,_transform,_load&#34; target=&#34;_blank&#34;&gt;ETL (Extract Transform and Load)&lt;/a&gt; tools towards a more programmatic approach. Product know-how on platforms like Informatica, IBM Datastage, Cognos, AbInitio or Microsoft SSIS isn&amp;rsquo;t common amongst modern data engineers, and being replaced by more generic software engineering skills along with understanding of programmatic or configuration driven platforms like Airflow, Oozie, Azkabhan or Luigi. It&amp;rsquo;s also fairly common for engineers to develop and manage their own job orchestrator/scheduler.&lt;/p&gt;
+
+&lt;p&gt;There&amp;rsquo;s a multitude of reasons why complex pieces of software are not developed using drag and drop tools: it&amp;rsquo;s that &lt;mark&gt;ultimately &lt;b&gt;code&lt;/b&gt; is the best abstraction there is for software&lt;/mark&gt;. While it&amp;rsquo;s beyond the scope of this article to argue on this topic, it&amp;rsquo;s easy to infer that these same reasons apply to writing ETL as it applies to any other software. Code allows for arbitrary levels of abstractions, allows for all logical operation in a familiar way, integrates well with source control, is easy to version and to collaborate on. The fact that ETL tools evolved to expose graphical interfaces seems like a detour in the history of data processing, and would certainly make for an interesting blog post of its own.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s highlight the fact that the abstractions exposed by traditional ETL tools are off-target. Sure, there&amp;rsquo;s a need to abstract the complexity of data processing, computation and storage. But I would argue that the solution is not to expose ETL primitives (like source/target, aggregations, filtering) into a drag-and-drop fashion. The abstractions needed are of a higher level.&lt;/p&gt;
+
+&lt;p&gt;For example, an example of a needed abstraction in a modern data environment is the configuration for the experiments in an A/B testing framework: &lt;i&gt;what are all the experiment? what are the related treatments? what percentage of users should be exposed? what are the metrics that each experiment expects to affect? when is the experiment taking effect?&lt;/i&gt; In this example, we have a framework that receives precise, high level input, performs complex statistical computation and delivers computed results. We expect that adding an entry for a new experiment will result in extra computation and results being delivered. What is important to note in this example is that the input parameters of this abstraction are not the one offered by a traditional ETL tool, and that a building such an abstraction in a drag and drop interface would not be manageable.&lt;/p&gt;
+
+&lt;p&gt;To a modern data engineer, traditional ETL tools are largely &lt;b&gt;obsolete&lt;/b&gt; because logic cannot be expressed using code. As a result, the abstractions needed cannot be expressed intuitively in those tools. Now knowing that the data engineer&amp;rsquo;s role consist largely of defining ETL, and knowing that a completely new set of tools and methodology is needed, one can argue that this forces the discipline to rebuild itself from the ground up. New stack, new tools, a new set of constraints, and in many cases, a new generation of individuals.&lt;/p&gt;
+
+&lt;h2 id=&#34;data-modeling-is-changing:6a9fa2d276b1eefe8e0ddcdbde3e2acf&#34;&gt;Data modeling is changing&lt;/h2&gt;
+
+&lt;p&gt;Typical data modeling techniques&amp;ndash;like the &lt;a href=&#34;https://en.wikipedia.org/wiki/Star_schema&#34; target=&#34;_blank&#34;&gt;star schema&lt;/a&gt;&amp;ndash;which defined our approach to data modeling for the analytics workloads typically associated with data warehouses, are less relevant than they once were. The traditional best practices of data warehousing are loosing ground on a shifting stack. Storage and compute is cheaper than ever, and with the advent of distributed databases that scale out linearly, the scarcer resource is engineering time.&lt;/p&gt;
+
+&lt;p&gt;Here are some changes observed in data modeling techniques:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;b&gt;further denormalization:&lt;/b&gt; maintaining &lt;a href=&#34;http://www.kimballgroup.com/1998/05/surrogate-keys&#34; target=&#34;_blank&#34;&gt;surrogate keys&lt;/a&gt; in dimensions can be tricky, and it makes fact tables less readable. The use of natural, human readable keys and dimension attributes in fact tables is becoming more common, reducing the need for costly joins that can be heavy on distributed databases. Also note that support for encoding and compression in serialization formats like Parquet or ORC, or in database engines like Vertica, address most of the performance loss that would normally be associated with denormalization. Those systems have been taught to normalize the data for storage on their own.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;b&gt;blobs:&lt;/b&gt; modern databases have a growing support for blobs through native types and functions. This opens new moves in the data modeler&amp;rsquo;s playbook, and can allow for fact tables to store multiple grains at once when needed&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;b&gt;dynamic schemas:&lt;/b&gt; since the advent of map reduce, with the growing popularity of document stores and with support for blobs in databases, it&amp;rsquo;s becoming easier to evolve database schemas without executing &lt;a href=&#34;https://en.wikipedia.org/wiki/Data_definition_language&#34; target=&#34;_blank&#34;&gt;DML&lt;/a&gt;. This makes it easier to have an iterative approach to warehousing, and removes the need to get full consensus and buy-in prior to development.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;systematically &lt;b&gt;snapshoting&lt;/b&gt; dimensions (storing a full copy of the dimension for each ETL schedule cycle, usually in distinct table partitions) as a generic way to handle &lt;a href=&#34;https://en.wikipedia.org/wiki/Slowly_changing_dimension&#34; target=&#34;_blank&#34;&gt;slowly changing dimension&lt;/a&gt; (SCD) is a simple generic approach that requires little engineering effort, and that unlike the classical approach, is easy to grasp when writing ETL and queries alike. It&amp;rsquo;s also easy and relatively cheap to denormalize the dimension&amp;rsquo;s attribute into the fact table to keep track of its value at the moment of the transaction. In retrospect, complex SCD modeling techniques are not intuitive and reduce accessibility.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;b&gt;conformance&lt;/b&gt;, as in &lt;a href=&#34;http://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/conformed-dimension&#34; target=&#34;_blank&#34;&gt;conformed dimensions&lt;/a&gt; and metrics is still extremely important in modern data environment, but with the need for data warehouses to move fast, and with more team and roles invited to contribute to this effort, it&amp;rsquo;s less imperative and more of a tradeoff. Consensus and convergence can happen as a background process in the areas where the pain point of divergence become out-of-hand.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Also, more generally, it&amp;rsquo;s arguable to say that with the commoditization of compute cycles and with more people being data-savvy then before, there&amp;rsquo;s less need to precompute and store results in the warehouse. For instance you can have complex Spark job that can compute complex analysis on-demand only, and not be scheduled to be part of the warehouse.&lt;/p&gt;
+
+&lt;h2 id=&#34;roles-responsibilities:6a9fa2d276b1eefe8e0ddcdbde3e2acf&#34;&gt;Roles &amp;amp; responsibilities&lt;/h2&gt;
+
+&lt;h3 id=&#34;the-data-warehouse:6a9fa2d276b1eefe8e0ddcdbde3e2acf&#34;&gt;The data warehouse&lt;/h3&gt;
+
+&lt;p&gt;&lt;i&gt;A data warehouse is a copy of transaction data specifically structured for query and analysis.&lt;/i&gt;  &amp;ndash;Ralph Kimball&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;A data warehouse is a subject-oriented, integrated, time-variant and non-volatile collection of data in support of management&amp;rsquo;s decision making process.&lt;/i&gt;  &amp;ndash;Bill Inmon&lt;/p&gt;
+
+&lt;p&gt;The data warehouse is just as relevant as it ever was, and data engineers are in charge of many aspects of its construction and operation. The data engineer&amp;rsquo;s focal point is the data warehouse and gravitates around it.&lt;/p&gt;
+
+&lt;p&gt;The modern data warehouse is a more public institution than it was historically, welcoming data scientists, analysts, and software engineers to partake in its construction and operation. Data is simply too centric to the company&amp;rsquo;s activity to have limitation around what roles can manage its flow. While this allows scaling to match the organization&amp;rsquo;s data needs, it often results in a much more chaotic, shape-shifting, imperfect piece of infrastructure.&lt;/p&gt;
+
+&lt;p&gt;The data engineering team will often own pockets of certified, high quality areas in the data warehouse. At Airbnb for instance, there&amp;rsquo;s a set of &amp;ldquo;core&amp;rdquo; schemas that are managed by the data engineering team, where service level agreement (SLAs) are clearly defined and measured, naming conventions are strictly followed, business metadata and documentation is of the highest quality, and the related pipeline code follows a set of well defined best practices.&lt;/p&gt;
+
+&lt;p&gt;It also becomes the role of the data engineering team to be a &amp;ldquo;center of excellence&amp;rdquo; through the definitions of standards, best practices and certification processes for data objects. The team can evolve to partake or lead an education program sharing its core competencies to help other teams become better citizens of the data warehouse. For instance, Facebook has a &amp;ldquo;data camp&amp;rdquo; education program and Airbnb is developing a similar &amp;ldquo;Data University&amp;rdquo; program where data engineers lead session that teach people how to be proficient with data.&lt;/p&gt;
+
+&lt;p&gt;Data engineers are also the &amp;ldquo;librarians&amp;rdquo; of the data warehouse, cataloging and organizing metadata, defining the processes by which one files or extract data from the warehouse. In a fast growing, rapidly evolving, slightly chaotic data ecosystem, metadata management and tooling become a vital component of a modern data platform.&lt;/p&gt;
+
+&lt;h3 id=&#34;performance-tuning-and-optimization:6a9fa2d276b1eefe8e0ddcdbde3e2acf&#34;&gt;Performance tuning and optimization&lt;/h3&gt;
+
+&lt;p&gt;With data becoming more strategic than ever, companies are growing impressive budgets for their data infrastructure. This makes it increasingly rational for data engineers to spend cycles on performance tuning and optimization of data processing and storage. Since the budgets are rarely shrinking in this area, optimization is often coming from the perspective of achieving more with the same amount of resources or trying to linearize exponential growth in resource utilization and costs.&lt;/p&gt;
+
+&lt;p&gt;Knowing that the complexity of the data engineering stack is exploding we can assume that the complexity of optimizing such stack and processes can be just as challenging. Where it can be easy to get huge wins with little effort, diminishing returns laws typically apply.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s definitely in the interest of the data engineer to build [on] infrastructure that scales with the company, and to be resource conscious at all times.&lt;/p&gt;
+
+&lt;h4 id=&#34;data-integration:6a9fa2d276b1eefe8e0ddcdbde3e2acf&#34;&gt;Data Integration&lt;/h4&gt;
+
+&lt;p&gt;Data integration, the practice behind integrating businesses and systems
+through the exchange of data, is as important and as challenging as its ever
+been. As &lt;a href=&#34;https://en.wikipedia.org/wiki/Software_as_a_service&#34; target=&#34;_blank&#34;&gt;Software as a Service (SaaS)&lt;/a&gt; becomes the new standard way for companies to operate, the need to synchronize referential data across these systems becomes increasingly critical. Not only SaaS needs up-to-date data to function, we often want to bring the data generated on their side into our data warehouse so that it can be analyzed along the rest of our data. Sure SaaS often have their own analytics offering, but are systematically lacking the perspective that the rest of you company&amp;rsquo;s data offer, so more often than not it&amp;rsquo;s necessary to pull some of this data back.&lt;/p&gt;
+
+&lt;p&gt;Letting these SaaS offering redefine referential data without integrating and sharing a common primary key is a disaster that should be avoided at all costs. No one wants to manually maintain two employee or customer lists in 2 different systems, and worst: having to do fuzzy matching when bringing their HR data back into their warehouse.&lt;/p&gt;
+
+&lt;p&gt;Worst, company executive often sign deal with SaaS providers without really
+considering the data integration challenges. The integration workload is systematically downplayed by vendors to facilitate their sales, and leaves data engineers stuck doing unaccounted, under appreciated work to do. Let alone the fact that typical SaaS APIs are often poorly designed, unclearly documented and &amp;ldquo;agile&amp;rdquo;: meaning that you can expect them to change without notice.&lt;/p&gt;
+
+&lt;h3 id=&#34;services:6a9fa2d276b1eefe8e0ddcdbde3e2acf&#34;&gt;Services&lt;/h3&gt;
+
+&lt;p&gt;Data engineers are operating at a higher level of abstraction and in some cases that means providing services and tooling to automate the type of work that data engineers, data scientists or analysts may do manually.&lt;/p&gt;
+
+&lt;p&gt;Here are a few examples of services that data engineers and data infrastructure engineer may build and operate.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;data ingestion: services and tooling around &amp;ldquo;scraping&amp;rdquo; databases, loading logs, fetching data from external stores or APIs, &amp;hellip;&lt;/li&gt;
+&lt;li&gt;metric computation: frameworks to compute and summarize engagement, growth or segmentation related metrics&lt;/li&gt;
+&lt;li&gt;anomaly detection: automating data consumption to alert people anomalous events occur or when trends are changing significantly&lt;/li&gt;
+&lt;li&gt;metadata management: tooling around allowing generation and consumption of metadata, making it easy to find information in and around the data warehouse&lt;/li&gt;
+&lt;li&gt;experimentation: A/B testing and experimentation frameworks is often a critical piece of company&amp;rsquo;s analytics with a significant data engineering component to it&lt;/li&gt;
+&lt;li&gt;instrumentation: analytics starts with logging events and attributes related to those events, data engineers have vested interests in making sure that high quality data is captured upstream&lt;/li&gt;
+&lt;li&gt;sessionization: pipelines that are specialized in understand series of actions in time, allowing analysts to understand user behaviors&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Just like software engineers, data engineers should be constantly looking to automate their workloads and building abstraction that allow them to climb the complexity ladder. While the nature of the workflows that can be automated differs depending on the environment, the need to automate them is common across the board.&lt;/p&gt;
+
+&lt;h2 id=&#34;required-skills:6a9fa2d276b1eefe8e0ddcdbde3e2acf&#34;&gt;Required Skills&lt;/h2&gt;
+
+&lt;p&gt;&lt;b&gt;SQL mastery:&lt;/b&gt; if english is the language of business, SQL is the language of data. How successful of a business man can you be if you don&amp;rsquo;t speak good english? While generations of technologies age and fade, SQL is still standing strong as the lingua franca of data. A data engineer should be able to express any degree of complexity in SQL using techniques like &amp;ldquo;correlated subqueries&amp;rdquo; and window functions. SQL/DML/DDL primitives are simple enough that it should hold no secrets to a data engineer. Beyond the declarative nature of SQL, she/he should be able to read and understand database execution plans, and have an understanding of what all the steps are, how indices work, the different join algorithm and the distributed dimension within the plan.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Data modeling techniques:&lt;/b&gt; for a data engineer, entity-relationship modeling should be a cognitive reflex, along with a clear understanding of normalization, and have a sharp intuition around denormalization tradeoffs. The data engineer should be familiar with &lt;a href=&#34;https://en.wikipedia.org/wiki/Dimensional_modeling&#34; target=&#34;_blank&#34;&gt;dimensional modeling&lt;/a&gt; and the related concepts and lexical field.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;ETL design:&lt;/b&gt; writing efficient, resilient and &amp;ldquo;evolvable&amp;rdquo; ETL is key. This topic will be expanded upon in an upcoming blog post.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Architectural projections:&lt;/b&gt; like any professional in any given field of expertise, the data engineer needs to have a high level understanding of most of the tools, platforms, libraries and other resources at its disposal. The properties, use-cases and subtleties behind the different flavors of databases, computation engines, stream processors, message queues, workflow orchestrators, serialization formats and other related technologies. When designing solutions, she/he should be able to make good choices as to which technologies to use and have a vision as to how to make them work together.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.freecodecamp.com/the-rise-of-the-data-engineer-91be18f1e603&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View original article&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;sub&gt;*Source: &lt;a href=&#34;https://medium.freecodecamp.com&#34; target=_&gt;FreeCodeCamp&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -121,12 +644,37 @@ My team was at forefront of this transformation. We were developing new skills, 
       <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2017/big-data-university--hadoop-101/</guid>
-      <description>Course Code: BD0111EN
-Course Certificate
-Course Link
-IBM Analytics Demo Cloud
-Lesson Transcripts/Labs  My goal in taking this course was to expand upon my knowledge around Apache Hadoop, a free, open source, Java-based programming framework. Topics in this course include:
- Hadoop&amp;rsquo;s architecture and core components, such as MapReduce and the Hadoop Distributed File System (HDFS). Adding/removing nodes from Hadoop clusters, how to check available disk space on each node, and how to modify configuration parameters.</description>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/hadoop.png&#34; alt=&#34;Hadoop&#34; title=&#34;Hadoop&#34; /&gt;&lt;br&gt;
+&lt;b&gt;Course Code&lt;/b&gt;: BD0111EN&lt;br&gt;
+&lt;a href=&#34;https://courses.bigdatauniversity.com/certificates/32dd5caed6994df9a872c70bf6efb7e8&#34; target=&#34;_blank&#34;&gt;Course Certificate&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://bigdatauniversity.com/courses/introduction-to-hadoop&#34; target=&#34;_blank&#34;&gt;Course Link&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://my.imdemocloud.com&#34; target=&#34;_blank&#34;&gt;IBM Analytics Demo Cloud&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs&#34;&gt;Lesson Transcripts/Labs&lt;/a&gt;
+&lt;hr&gt;
+My goal in taking this course was to expand upon my knowledge around Apache Hadoop, a free, open source, Java-based programming framework. Topics in this course include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Hadoop&amp;rsquo;s architecture and core components, such as MapReduce and the Hadoop Distributed File System (HDFS).&lt;/li&gt;
+&lt;li&gt;Adding/removing nodes from Hadoop clusters, how to check available disk space on each node, and how to modify configuration parameters.&lt;/li&gt;
+&lt;li&gt;Other Apache projects that are part of the Hadoop ecosystem, including Pig, Hive, HBase, ZooKeeper, Oozie, Sqoop, Flume, among others.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The course provides video lectures, diagrams, and an IBM cloud sandbox environment to practice administering a Hadoop cluster and performing tasks such as adding and removing nodes. Additionally, the course provides instructions for connecting to the cloud environment via a SFTP client or a SSH client, the latter through which you can practice using the HDFS command line:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/big-data-university--hadoop-101/hdfs_command_line.png&#34; alt=&#34;HDFS Command Line&#34; title=&#34;HDFS Command Line&#34; /&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h5 id=&#34;course-progress:8867589f317da4ba51ec6005579cfef2&#34;&gt;Course Progress&lt;/h5&gt;
+
+&lt;progress max=&#34;1.0&#34; value=&#34;1.0&#34;&gt;&lt;/progress&gt;
+
+&lt;p&gt;100% - completed 01/30/17.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://courses.bigdatauniversity.com/certificates/32dd5caed6994df9a872c70bf6efb7e8&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View completion certificate&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -135,8 +683,51 @@ Lesson Transcripts/Labs  My goal in taking this course was to expand upon my kno
       <pubDate>Tue, 27 Dec 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2016/we-need-both-data-scientists--data-engineers/</guid>
-      <description>written by Neeraj Chadha
-When it comes to the medical profession, doctors get all the glory. In the world of IoT, it&amp;rsquo;s data scientists who get most of the attention and acclaim. They extract critical intelligence from big data so businesses can make informed decisions on the spot. But they don&amp;rsquo;t do their work in a vacuum. Data scientists can&amp;rsquo;t dazzle their industries without data engineers. These unheralded champions, equivalent to nurses, ensure that big data keeps flowing.</description>
+      <description>
+
+&lt;p&gt;&lt;sub&gt;&lt;i&gt;written by Neeraj Chadha&lt;/i&gt;&lt;/sub&gt;&lt;/p&gt;
+
+&lt;p&gt;When it comes to the medical profession, doctors get all the glory. In the world of IoT, it&amp;rsquo;s data scientists who get most of the attention and acclaim. They extract critical intelligence from big data so businesses can make informed decisions on the spot. But they don&amp;rsquo;t do their work in a vacuum. Data scientists can&amp;rsquo;t dazzle their industries without data engineers. These unheralded champions, equivalent to nurses, ensure that big data keeps flowing. As anyone who works in the medical profession will tell you, it&amp;rsquo;s the nurses who keep the hospital running.&lt;/p&gt;
+
+&lt;p&gt;What exactly do data engineers do? They work behind the scenes to design and maintain the networks and software that keep the big data pipeline operating. Like a hospital&amp;rsquo;s nursing staff, data engineers set the stage and keep it running. The roles of data scientists and data engineers can be confusing because they have some overlap. Data engineer and data scientist are not different titles for the same job, however. The two jobs require different skills and experience. Some data scientists can do data engineering. Some data engineers can do data analysis and data visualization.&lt;/p&gt;
+
+&lt;p&gt;The roles do have distinctions, however. For instance, large applications call for the skills of data engineers. Research is a primary focus of the data scientist. Like nurses, data engineers are a special breed. The best have certain personality traits that help them excel: focus, mechanical aptitude, patience and persistence. Good data engineers get down in the trenches. They want to understand how and why data pipelines work&amp;ndash;or don&amp;rsquo;t work. Data engineers need patience and persistence to set things right.&lt;/p&gt;
+
+&lt;p&gt;To do modeling, data scientists need data engineers to gather, store and process data so they can analyze it for insights. Responsible for data management, data engineers handle procedures, guidelines and standards. They develop data-management technologies and software-engineering tools. They design custom software and discover ways to recover from disasters. They improve data reliability, efficiency and quality. User-defined functions and analytics are part of a data engineer&amp;rsquo;s job, too.&lt;/p&gt;
+
+&lt;p&gt;In contrast, data scientists take a big-picture view of things and have a less nuts-and-bolts relationship with data. They handle analytic projects that arise from the needs of the business. Data scientists also take on data-mining architectures, modeling standards, reporting and data methodologies. They manage data-mining-system performance and efficiency, too.&lt;/p&gt;
+
+&lt;p&gt;Because they build and maintain the data pipelines that send information to data scientists, the work of data engineers is very valuable. They can run basic learning models if they understand algorithms. But data scientists tackle business problems that take sophisticated machine-learning algorithms. The best data scientists adapt machine-learning models to meet the changing requirements of the business or agency.&lt;/p&gt;
+
+&lt;h3 id=&#34;tools-for-tough-big-data-challenges:029588ea80b351abbdc001504769805c&#34;&gt;Tools for Tough Big Data Challenges&lt;/h3&gt;
+
+&lt;p&gt;The challenges of database integration and unstructured big data are handled by the data engineers. They must clean up that unstructured data before they pass it to anyone in the organization who needs it. Like nurses who prep patients for surgery, data engineers prepare the foundation for data scientists to work easily with data. They should know data warehousing, database design, data collection and transfer, and coding.&lt;/p&gt;
+
+&lt;p&gt;The part of the data pipeline on which data engineers are focusing on determines which tools they will use. Data engineers at the rear of the pipeline build APIs for data consumption, integrate data sets from external sources and analyze how the data is used to support business growth.&lt;/p&gt;
+
+&lt;p&gt;Although these professionals have many languages to choose from, Python is a good option. Data engineers use it to write code related to data ingestion. Python can talk to any data store, such as NoSQL and RDBMS. Data engineers may have to use big data technologies such as Hadoop and Spark to suggest improvements on the basis of how data is used.&lt;/p&gt;
+
+&lt;p&gt;Data engineers have many tools at their disposal, including the following:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Spark&lt;/li&gt;
+&lt;li&gt;NoSQL databases (e.g., Cassandra and MongoDB)&lt;/li&gt;
+&lt;li&gt;Hadoop and related tools such as HBase, Hive and Pig&lt;/li&gt;
+&lt;li&gt;Pentaho&lt;/li&gt;
+&lt;li&gt;VMware&lt;/li&gt;
+&lt;li&gt;JavaScript&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;data-scientists-and-data-engineers-growth-on-the-horizon:029588ea80b351abbdc001504769805c&#34;&gt;Data Scientists and Data Engineers: Growth on the Horizon&lt;/h3&gt;
+
+&lt;p&gt;A study last year from the Economist Intelligence Unit surveyed 422 executives in the U.S. and Europe. The survey asked them about the digital skills most in demand among industries such as financial services, health care, manufacturing and retail. Forty-three percent of the executives said that in three years, analytics and big data skills will be the most important digital capabilities at their companies.&lt;/p&gt;
+
+&lt;p&gt;As life and business become increasingly data driven, demand for both data engineers and data scientists will continue to rise. Now is the time for data professionals to acquire or build on their skills so they will be well positioned for career advancement and job security.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.datacenterjournal.com/need-data-scientists-data-engineers&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View original article&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;sub&gt;*Source: &lt;a href=&#34;http://www.datacenterjournal.com&#34; target=_&gt;Data Center Journal&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -145,7 +736,11 @@ When it comes to the medical profession, doctors get all the glory. In the world
       <pubDate>Wed, 09 Nov 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2016/the-data-science-industry-who-does-what/</guid>
-      <description>Great infographic from DataCamp that lays out the roles and skills associated with a data science team. As a data engineer within this group, these are the kind of people I work with day-to-day. *Source: DataCamp</description>
+      <description>&lt;p&gt;Great infographic from &lt;a href=&#34;https://www.datacamp.com&#34; target=&#34;_blank&#34;&gt;DataCamp&lt;/a&gt; that lays out the roles and skills associated with a data science team. As a data engineer within this group, these are the kind of people I work with day-to-day.
+&lt;img src=&#34;http://101.datascience.community/wp-content/uploads/2015/11/datasciencejobs.png&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;sub&gt;*Source: &lt;a href=&#34;https://www.datacamp.com&#34; target=&#34;_blank&#34;&gt;DataCamp&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -154,10 +749,21 @@ When it comes to the medical profession, doctors get all the glory. In the world
       <pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2016/udemy--python-for-data-structures--algorithms/</guid>
-      <description>COURSE LINK
-Jupyter Notebooks
- I took this course to get some experience using Jupyter Notebooks and furthered my Python skills in a couple of areas:
- Algorithm Analysis and Big-O Notation Array Sequences  Additionally, this course offers video content on the &amp;lsquo;soft skills&amp;rsquo; needed to advance a career in technology such as personal branding, building a strong professional network, and practicing technical questions that could be asked on a future interview.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/python.png&#34; alt=&#34;Python&#34; title=&#34;Python&#34; /&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/learn/v4&#34; target=&#34;_blank&#34;&gt;COURSE LINK&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://nbviewer.jupyter.org/github/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews/tree/master&#34; target=&#34;_blank&#34;&gt;Jupyter Notebooks&lt;/a&gt;&lt;br&gt;
+&lt;hr&gt;
+I took this course to get some experience using &lt;a href=&#34;http://jupyter.org&#34; target=&#34;_blank&#34;&gt;Jupyter Notebooks&lt;/a&gt; and furthered my Python skills in a couple of areas:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-python-data_structs-algorithms/tree/master/algorithm_analysis_and_big-o&#34; target=&#34;_blank&#34;&gt;Algorithm Analysis and Big-O Notation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-python-data_structs-algorithms/tree/master/array_sequences&#34; target=&#34;_blank&#34;&gt;Array Sequences&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Additionally, this course offers video content on the &amp;lsquo;soft skills&amp;rsquo; needed to advance a career in technology such as personal branding, building a strong professional network, and practicing technical questions that could be asked on a future interview. With lifetime access it is always helpful to be able to go back and reference these sections.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/andrewrgoss/udemy-python-data_structs-algorithms&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View my code on GitHub&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -166,8 +772,28 @@ Jupyter Notebooks
       <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2016/stages-of-the-analytics-life-cycle/</guid>
-      <description>Across industries, the applied use of data to inform business decisions has become a foundational (arguably critical) element of business. The end goal is to ultimately derive actionable insights from vast amounts of data being collected but it takes a series of activities/tasks to arrive at this juncture. Here is a description of each stage of the analytics life cycle:
- Data Acquisition – This may involve scraping data, interfacing with APIs, querying relational and non-relational databases, or defining strategy in relation to what data to pursue.</description>
+      <description>
+
+&lt;p&gt;Across industries, the applied use of data to inform business decisions has become a foundational (arguably critical) element of business. The end goal is to ultimately derive actionable insights from vast amounts of data being collected but it takes a series of activities/tasks to arrive at this juncture. Here is a description of each stage of the analytics life cycle:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;Data Acquisition&lt;/b&gt; – This may involve scraping data, interfacing with APIs, querying relational and non-relational databases, or defining strategy in relation to what data to pursue.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Data Cleaning/Transformation&lt;/b&gt; – This may involve parsing and aggregating messy, incomplete, and unstructured data sources to produce datasets that can be used in analytics and/or predictive modeling.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Analytics&lt;/b&gt; – This involves statistical and machine learning-based modeling in order to understand, describe, or predict patterns in the data.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Prescribing Actions&lt;/b&gt; – This involves interpreting analytical results through the lens of business priorities, and using data-driven insights to inform strategy.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Programming/Automation&lt;/b&gt; – In many cases, data scientists are responsible for creating libraries and utilities to operationalize or simplify various stages of this process. Often, they will contribute production-level code for a firm’s data products.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;sub&gt;*Source: Burtch Works&lt;/sub&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;big-data-analytics-lifecycle:fabfcdc15793a32766e038f5387cbc68&#34;&gt;Big Data Analytics Lifecycle&lt;/h2&gt;
+
+&lt;p&gt;Big Data analysis differs from traditional data analysis primarily due to the volume, velocity, and variety of characteristics for the data being processed. This is a helpful overview I found on the high-level steps involved with acquiring, processing, analyzing, and repurposing data with the end goal of performing Big Data analysis.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.informit.com/content/images/chap3_9780134291079/elementLinks/03fig06.jpg&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;sub&gt;*Source: &lt;a href=&#34;http://www.informit.com/articles/article.aspx?p=2473128&amp;seqNum=11&#34; target=&#34;_blank&#34;&gt;InformIT&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -176,106 +802,19 @@ Jupyter Notebooks
       <pubDate>Thu, 29 Sep 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2016/data-engineers-vs.-data-scientists/</guid>
-      <description>Data engineer and data scientist are the two most popular career tracks in big data - but how do they compare? At a high level, data engineers are concerned with data infrastructure, while data scientists are concerned with analysis.
-Like data scientists, data engineers write code. They’re highly analytical, and are interested in data visualization. Unlike data scientists — and inspired by a more mature parent, software engineering — data engineers build tools, infrastructure, frameworks, and services.</description>
-    </item>
-    
-    <item>
-      <title>Report- The State of Data Engineering</title>
-      <link>https://andrewrgoss.com/2016/report--the-state-of-data-engineering/</link>
-      <pubDate>Wed, 28 Sep 2016 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>https://andrewrgoss.com/2016/report--the-state-of-data-engineering/</guid>
-      <description>I recently came across an excellent report by Stitch on the state of data engineering.
-Today, there are 6,500 people on LinkedIn who call themselves data engineers. In San Francisco alone, there are 6,600 job listings for this same title. The number of data engineers has doubled in the past year, but engineering leaders still find themselves faced with a significant shortage of data engineering talent.
-The need for data talent is born from a fundamental shift: tech companies are now data companies.</description>
-    </item>
-    
-    <item>
-      <title>SSH Keys With PuTTY and Cygwin for Windows</title>
-      <link>https://andrewrgoss.com/2016/ssh-keys-with-putty-and-cygwin-for-windows/</link>
-      <pubDate>Mon, 22 Aug 2016 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>https://andrewrgoss.com/2016/ssh-keys-with-putty-and-cygwin-for-windows/</guid>
-      <description>In my work at DigitasLBi, I need to login to a number of client-specific Linux machines via a terminal emulator (there is no UI for these remote environments) from my local Windows laptop. For this my team uses Cygwin, a Linux-like environment for Windows making it possible to port software running on POSIX systems (such as Linux, BSD, and Unix systems) to Windows. It&amp;rsquo;s possible to login of course just using a standard username/password combination with Mosh or SSH at the command line.</description>
-    </item>
-    
-    <item>
-      <title>Udemy- Ultimate Python Programming Tutorial</title>
-      <link>https://andrewrgoss.com/2016/udemy--ultimate-python-programming-tutorial/</link>
-      <pubDate>Mon, 18 Jul 2016 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>https://andrewrgoss.com/2016/udemy--ultimate-python-programming-tutorial/</guid>
-      <description>COMPLETION CERTIFICATE  I&amp;rsquo;ve started using Python more for work and took this course to strengthen my knowledge around the fundamentals of the language. Previously, I had been wanting to add Python to my personal tech stack for some time as it is a powerful (and popular) all-purpose programming language. It is a high-level language, meaning it looks more like a readable, human language than a low-level language does. The user-friendly syntax makes it one of the easier languages to learn and it is also one of the most commonly-used languages for analytics, data mining, and data science.</description>
-    </item>
-    
-    <item>
-      <title>SSH With Git Bash and TortoiseGit for Windows</title>
-      <link>https://andrewrgoss.com/2016/ssh-with-git-bash-and-tortoisegit-for-windows/</link>
-      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>https://andrewrgoss.com/2016/ssh-with-git-bash-and-tortoisegit-for-windows/</guid>
-      <description>If you&amp;rsquo;ve ever written code of any kind for professional and personal purposes, you&amp;rsquo;ve likely come across the concept of Source Control Management (SCM). When I first became a developer, I used Subversion as my SCM tool but have since switched to the more popular Git. I use git to commit the latest versions of code in both Linux and Windows environments, but I&amp;rsquo;m going to focus on Windows in this post as this is the operating system for my personal computer.</description>
-    </item>
-    
-    <item>
-      <title>Open Data Science Conference East</title>
-      <link>https://andrewrgoss.com/2016/open-data-science-conference-east/</link>
-      <pubDate>Fri, 20 May 2016 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>https://andrewrgoss.com/2016/open-data-science-conference-east/</guid>
-      <description>In May 2016 I attended my first Open Data Science Conference in Boston. There were some 3,000+ data science practioners that came together at the Boston Convention &amp;amp; Exhibition Center to share ideas about this rapidly changing discipline. The following topics were covered throughout the conference:
- Deep Learning Machine Learning Predictive Analytics Python Stan R Julia Hadoop Spark Scikit-learn Natural Language Processing  I attended sessions on popular data science statistical models and using Python for data science, where we worked through this example.</description>
-    </item>
-    
-    <item>
-      <title>Analytic Disciplines Compared to Data Science</title>
-      <link>https://andrewrgoss.com/2016/analytic-disciplines-compared-to-data-science/</link>
-      <pubDate>Mon, 09 May 2016 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>https://andrewrgoss.com/2016/analytic-disciplines-compared-to-data-science/</guid>
-      <description>Came across an excellent article on Data Science Central that digs into the differences between data science, data mining, machine learning, statistics, operations research, and so on. The author compares several analytic disciplines that overlap to explain the differences and common denominators. Typical job titles, types of analyses, and industries traditionally attached to each discipline are also detailed.
-Read more
-*Source: Data Science Central</description>
-    </item>
-    
-    <item>
-      <title>AWSome Day Boston</title>
-      <link>https://andrewrgoss.com/2016/awsome-day-boston/</link>
-      <pubDate>Tue, 29 Mar 2016 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>https://andrewrgoss.com/2016/awsome-day-boston/</guid>
-      <description>In March 2016 I joined Amazon Web Services for an all-day training event at the Westin Copley Place in Boston. The workshop provided a step-by-step introduction to the core AWS services for compute, storage, database and networking. AWS technical experts explained key features and use cases, shared best practices, and walked through technical demos. We specifically covered the following topics:
- Module 1: AWS Introduction and History Module 2: Infrastructure Services: Amazon EC2, Amazon S3, Amazon EBS, and Amazon VPC Module 3: Security, Identity, and Access Management: IAM Module 4: Databases: Amazon DynamoDB and Amazon RDS Module 5: AWS Elasticity and Management Tools: Auto Scaling, Elastic Load Balancing, Amazon CloudWatch, and AWS Trusted Advisor  The day was a great for networking, learning more about cloud computing (from the clear market leader in this space) and how to get started on AWS Cloud.</description>
-    </item>
-    
-    <item>
-      <title>Caleb Doxsey- An Introduction to Programming in Go</title>
-      <link>https://andrewrgoss.com/2016/caleb-doxsey--an-introduction-to-programming-in-go/</link>
-      <pubDate>Wed, 27 Jan 2016 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>https://andrewrgoss.com/2016/caleb-doxsey--an-introduction-to-programming-in-go/</guid>
-      <description>BOOK LINK  Go (Golang) is an open source programming language that makes it easy to build simple, reliable, and efficient software. I first started using Go through my work at DigitasLBi. My department adopted this language as one of our tech stacks for the following reasons:
- It’s open source (i.e. free) and intended to be simple yet expressive. It’s intended to be a good middleware layer to provide for both quick one-off applications as well as large collaborative code bases.</description>
-    </item>
-    
-    <item>
-      <title>Udemy- Programming for Beginners in C#</title>
-      <link>https://andrewrgoss.com/2015/udemy--programming-for-beginners-in-c/</link>
-      <pubDate>Sat, 28 Nov 2015 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>https://andrewrgoss.com/2015/udemy--programming-for-beginners-in-c/</guid>
-      <description>COMPLETION CERTIFICATE  I&amp;rsquo;ve worked on Windows servers throughout my career, which initially got me started with this language. Learning some of the Base Class Library (BCL) of the Microsoft .NET Framework and using these classes through C# has helped me automate various tasks within these environments.
-My goal in taking this course was to strengthen my knowledge around the fundamentals of C# programming (and objected-oriented programming in general) and to get more practice.</description>
-    </item>
-    
-    <item>
-      <title>Why I Switched from Wordpress to Hugo</title>
-      <link>https://andrewrgoss.com/2015/why-i-switched-from-wordpress-to-hugo/</link>
-      <pubDate>Sun, 25 Oct 2015 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>https://andrewrgoss.com/2015/why-i-switched-from-wordpress-to-hugo/</guid>
-      <description>For a long time I&amp;rsquo;ve believed in the importance of having a blog but have struggled to keep one going. I started out using Blogger back in the day and most recently was using Wordpress. But there were features about these blogging platforms that consistently bugged me. Fortunately for me, while I was learning the Go programming language I stumbled across Hugo, a static site generator written in this language.</description>
+      <description>&lt;p&gt;Data engineer and data scientist are the two most popular career tracks in big data - but how do they compare? At a high level, data engineers are concerned with data infrastructure, while data scientists are concerned with analysis.&lt;/p&gt;
+
+&lt;p&gt;Like data scientists, data engineers write code. They’re highly analytical, and are interested in data visualization.
+Unlike data scientists — and inspired by a more mature parent, software engineering — data engineers build tools, infrastructure, frameworks, and services. In fact, it’s arguable that data engineering is much closer to software engineering than it is to data science.&lt;/p&gt;
+
+&lt;p&gt;This article by &lt;a href=&#34;https://www.stitchdata.com&#34; target=_&gt;Stitch&lt;/a&gt; digs into LinkedIn data to analyze the skills associated with each role. It also provides links to other helpful resources for further perspective.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://cdn-images-1.medium.com/max/800/1*QOw6_pX9r1G_ua_n0DsICQ.png&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blog.stitchdata.com/data-engineer-vs-data-scientist-the-difference-according-to-linkedin-e0bee6248fd4&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View the article&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;sub&gt;*Sources: &lt;a href=&#34;https://www.stitchdata.com&#34; target=_&gt;Stitch&lt;/a&gt;, &lt;a href=&#34;https://medium.freecodecamp.com&#34; target=_&gt;FreeCodeCamp&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

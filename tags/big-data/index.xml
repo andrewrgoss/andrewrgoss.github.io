@@ -9,9 +9,7 @@
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
     <lastBuildDate>Wed, 05 Apr 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://andrewrgoss.com/tags/big-data/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://andrewrgoss.com/tags/big-data/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The 2017 Big Data Landscape</title>
@@ -19,8 +17,27 @@
       <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2017/the-2017-big-data-landscape/</guid>
-      <description>Just released - an excellent &amp;ldquo;State of the Union&amp;rdquo; roundup of the key trends in the 2017 data ecosystem. Some high level trends and questions that are explored in this comprehensive article:
- Big data + AI = the new stack. Big data provides the pipes, and AI provides the smarts. Enterprise budgets - follow the money Enterprise data moving to the cloud As the big data landscape gets busier every passing year, is big data consolidation coming?</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/big_data_landscape_2017.png&#34; alt=&#34;2017 Big Data Landscape&#34; title=&#34;2017 Big Data Landscape&#34; /&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;Just released - an excellent &amp;ldquo;State of the Union&amp;rdquo; roundup of the key trends in the 2017 data ecosystem. Some high level trends and questions that are explored in this comprehensive article:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Big data + AI = the new stack. &lt;b&gt;Big data provides the pipes, and AI provides the smarts.&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;Enterprise budgets - follow the money&lt;/li&gt;
+&lt;li&gt;Enterprise data moving to the cloud&lt;/li&gt;
+&lt;li&gt;As the big data landscape gets busier every passing year, is big data consolidation coming?&lt;/li&gt;
+&lt;li&gt;The cloud wars&lt;/li&gt;
+&lt;li&gt;The rise of the data team workbench. &lt;b&gt;Success in big data is based on creating an assembly line of technologies, people and processes.&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;AI-powered vertical applications&lt;/li&gt;
+&lt;li&gt;Bots backlash&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;With the killer combination of big data and AI (hype aside), the possibilities are enormous. As core infrastructure continues to mature, and the application side, powered by AI, is bursting with activity, in 2017 the big data (and AI) ecosystem is firing on all cylinders.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mattturck.com/bigdata2017&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View the full report&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;sub&gt;*Source: &lt;a href=&#34;http://mattturck.com&#34; target=_&gt;Matt Turck&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -29,12 +46,37 @@
       <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2017/big-data-university--hadoop-101/</guid>
-      <description>Course Code: BD0111EN
-Course Certificate
-Course Link
-IBM Analytics Demo Cloud
-Lesson Transcripts/Labs  My goal in taking this course was to expand upon my knowledge around Apache Hadoop, a free, open source, Java-based programming framework. Topics in this course include:
- Hadoop&amp;rsquo;s architecture and core components, such as MapReduce and the Hadoop Distributed File System (HDFS). Adding/removing nodes from Hadoop clusters, how to check available disk space on each node, and how to modify configuration parameters.</description>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/post/hadoop.png&#34; alt=&#34;Hadoop&#34; title=&#34;Hadoop&#34; /&gt;&lt;br&gt;
+&lt;b&gt;Course Code&lt;/b&gt;: BD0111EN&lt;br&gt;
+&lt;a href=&#34;https://courses.bigdatauniversity.com/certificates/32dd5caed6994df9a872c70bf6efb7e8&#34; target=&#34;_blank&#34;&gt;Course Certificate&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://bigdatauniversity.com/courses/introduction-to-hadoop&#34; target=&#34;_blank&#34;&gt;Course Link&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://my.imdemocloud.com&#34; target=&#34;_blank&#34;&gt;IBM Analytics Demo Cloud&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs&#34;&gt;Lesson Transcripts/Labs&lt;/a&gt;
+&lt;hr&gt;
+My goal in taking this course was to expand upon my knowledge around Apache Hadoop, a free, open source, Java-based programming framework. Topics in this course include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Hadoop&amp;rsquo;s architecture and core components, such as MapReduce and the Hadoop Distributed File System (HDFS).&lt;/li&gt;
+&lt;li&gt;Adding/removing nodes from Hadoop clusters, how to check available disk space on each node, and how to modify configuration parameters.&lt;/li&gt;
+&lt;li&gt;Other Apache projects that are part of the Hadoop ecosystem, including Pig, Hive, HBase, ZooKeeper, Oozie, Sqoop, Flume, among others.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The course provides video lectures, diagrams, and an IBM cloud sandbox environment to practice administering a Hadoop cluster and performing tasks such as adding and removing nodes. Additionally, the course provides instructions for connecting to the cloud environment via a SFTP client or a SSH client, the latter through which you can practice using the HDFS command line:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://andrewrgoss.com/img/2017/big-data-university--hadoop-101/hdfs_command_line.png&#34; alt=&#34;HDFS Command Line&#34; title=&#34;HDFS Command Line&#34; /&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h5 id=&#34;course-progress:8867589f317da4ba51ec6005579cfef2&#34;&gt;Course Progress&lt;/h5&gt;
+
+&lt;progress max=&#34;1.0&#34; value=&#34;1.0&#34;&gt;&lt;/progress&gt;
+
+&lt;p&gt;100% - completed 01/30/17.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://courses.bigdatauniversity.com/certificates/32dd5caed6994df9a872c70bf6efb7e8&#34; class=&#34;btn&#34; target=&#34;_blank&#34;&gt;View completion certificate&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
