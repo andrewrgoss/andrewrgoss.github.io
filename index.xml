@@ -1,17 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Senior Software / Data Engineer in Boston</title>
+    <title>Andrew Goss · Senior Data Engineer in Boston</title>
     <link>https://andrewrgoss.com/</link>
-    <description>Recent content on Senior Software / Data Engineer in Boston</description>
+    <description>Recent content on Andrew Goss · Senior Data Engineer in Boston</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Thu, 07 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Udemy- Complete Java Masterclass</title>
+      <link>https://andrewrgoss.com/2017/udemy--complete-java-masterclass/</link>
+      <pubDate>Mon, 18 Dec 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2017/udemy--complete-java-masterclass/</guid>
+      <description>COURSE LINK
+
+Other Learning Resources Oracle Java™ Tutorials &amp;ndash; Trail: Learning the Java Language
+Cheat Sheets Java Keywords
+Java Operator Precedence Table
+Course Progress  17% - IN PROGRESS
+View my code on GitHub</description>
+    </item>
     
     <item>
       <title>How to Start a Successful Side Project</title>
@@ -25,21 +40,6 @@ View original article
 
 Do you ever feel like you are confident in only one particular field? Like you know only one tiny corner of the vast software universe? Then, the minute you try to escape it and work on something different, you get frustrated. And if you need to build a complete, functional project—from scratch—with:
 Initial research and machine setup (packages, installments)Managing dependencies (libraries, build tools, automations)The whole business logic plus high test coverageProduction deployment … then somebody else has to do everything except the little corner of your comfort zone?</description>
-    </item>
-    
-    <item>
-      <title>Udemy- Complete Java Masterclass</title>
-      <link>https://andrewrgoss.com/2017/udemy--complete-java-masterclass/</link>
-      <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>https://andrewrgoss.com/2017/udemy--complete-java-masterclass/</guid>
-      <description>COURSE LINK
-
-Other Learning Resources Oracle Java™ Tutorials &amp;ndash; Trail: Learning the Java Language
-Cheat Sheets Java Keywords
-Java Operator Precedence Table
-Course Progress  14% - IN PROGRESS
-View my code on GitHub</description>
     </item>
     
     <item>
@@ -509,7 +509,7 @@ My goal in taking this course was to strengthen my knowledge around the fundamen
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/about/</guid>
-      <description>TL;DR &amp;ndash; Senior software/data engineer building backend systems that help industry-leading brands make smarter marketing/advertising decisions. Also a world traveler.
+      <description>TL;DR &amp;ndash; Senior data engineer building backend systems that help industry-leading brands make smarter marketing/advertising decisions. Also a world traveler.
  My career has been tied closely to the convergence of marketing and technology (martech) and the ever-increasing reliance on data at the heart of it all. With petabytes of data being generated at every turn through digital interactions, I work to wrangle this data and derive value from it.</description>
     </item>
     
@@ -552,7 +552,7 @@ by Jeffrey Jung   Unbroken: A World War II Story of Survival, Resilience, and Re
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/resume/</guid>
       <description>For more on my professional background including additional details around my work history, you can visit my LinkedIn profile.
-  Summary Senior software/data engineer experienced in building data pipelines and backend applications in the marketing/advertising domain. I have worked as both a developer and a marketer in leveraging people, process, and technology to address data initiatives across industries such as finance, food services, higher education, retail, technology, and telecommunications.</description>
+  Summary Senior data engineer experienced in building data pipelines and backend applications in the marketing/advertising domain. I have worked as both a developer and a marketer in leveraging people, process, and technology to address data initiatives across industries such as finance, food services, higher education, retail, technology, and telecommunications.</description>
     </item>
     
     <item>
@@ -561,7 +561,7 @@ by Jeffrey Jung   Unbroken: A World War II Story of Survival, Resilience, and Re
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/search/</guid>
-      <description>A lot of ad/tracker blockers like Ghostery are blocking Google Custom Search Engine. Allow Google AJAX Search API to show your search results.</description>
+      <description>Some ad/tracker blockers like Ghostery block Google Custom Search Engine. Allow Google AJAX Search API to show your search results.</description>
     </item>
     
     <item>

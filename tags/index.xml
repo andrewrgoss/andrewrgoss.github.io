@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Senior Software / Data Engineer in Boston</title>
+    <title>Tags on Andrew Goss · Senior Data Engineer in Boston</title>
     <link>https://andrewrgoss.com/tags/</link>
-    <description>Recent content in Tags on Senior Software / Data Engineer in Boston</description>
+    <description>Recent content in Tags on Andrew Goss · Senior Data Engineer in Boston</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
@@ -151,7 +151,7 @@
     <item>
       <title>Java</title>
       <link>https://andrewrgoss.com/tags/java/</link>
-      <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 18 Dec 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/tags/java/</guid>
       <description></description>
@@ -214,7 +214,7 @@
     <item>
       <title>Self Study</title>
       <link>https://andrewrgoss.com/tags/self-study/</link>
-      <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 18 Dec 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/tags/self-study/</guid>
       <description></description>

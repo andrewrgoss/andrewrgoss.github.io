@@ -3,13 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://andrewrgoss.com/2017/how-to-start-a-successful-side-project/</loc>
-    <lastmod>2017-12-07T00:00:00+00:00</lastmod>
+    <loc>https://andrewrgoss.com/2017/udemy--complete-java-masterclass/</loc>
+    <lastmod>2017-12-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://andrewrgoss.com/2017/udemy--complete-java-masterclass/</loc>
-    <lastmod>2017-11-15T00:00:00+00:00</lastmod>
+    <loc>https://andrewrgoss.com/2017/how-to-start-a-successful-side-project/</loc>
+    <lastmod>2017-12-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -250,6 +250,12 @@
   </url>
   
   <url>
+    <loc>https://andrewrgoss.com/</loc>
+    <lastmod>2017-12-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://andrewrgoss.com/tags/aws/</loc>
     <lastmod>2016-03-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -339,7 +345,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/tags/java/</loc>
-    <lastmod>2017-11-15T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -357,7 +363,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/post/</loc>
-    <lastmod>2017-12-07T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -409,13 +415,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/tags/self-study/</loc>
-    <lastmod>2017-11-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://andrewrgoss.com/</loc>
-    <lastmod>2017-12-07T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
