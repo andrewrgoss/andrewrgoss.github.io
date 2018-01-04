@@ -72,13 +72,123 @@ The places I&rsquo;ve listed out below are grouped by geographical belonging, no
                 "datePublished": "Jan 0001",
                 "description": "Outside of work, I&rsquo;m passionate about traveling the world, having new experiences, and broadening my perspective. I have a long, ambitious list of places that I want to try and visit in my lifetime, so I decided to start tracking where I&rsquo;ve been and where I&rsquo;d like to go in the future.
 The places I&rsquo;ve listed out below are grouped by geographical belonging, not cultural significance (for example, Russia being listed under Asia and not Europe).",
-                "wordCount": 313,
+                "wordCount": 304,
                 "articleSection": "page",
                 "timeRequired": "0:2:0",
                 "url": "https://andrewrgoss.com/travel/"
             }
         </script>
+
+        <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+        <script type="text/javascript">
+              google.charts.load('current', {
+                'packages':['geochart'],
+                
+                
+                'mapsApiKey': 'AIzaSyAxLulfQ4XuDBy4FECF47mkdRyPfEH-5ao'
+              });
+              google.charts.setOnLoadCallback(drawRegionsMap);
         
+              function drawRegionsMap() {
+                var data = google.visualization.arrayToDataTable([
+                  ['Country'],
+                  ['Bahamas'],
+                  ['Cambodia'],
+                  ['Canada'],
+                  ['Cayman Islands'],
+                  ['France'],
+                  ['Haiti'],
+                  ['Holy See'],
+                  ['Hong Kong'],
+                  ['Ireland'],
+                  ['Italy'],
+                  ['Israel'],
+                  ['Jamaica'],
+                  ['Japan'],
+                  ['Malaysia'],
+                  ['Mexico'],
+                  ['Monaco'],
+                  ['Palestine, State of'],
+                  ['Peru'],
+                  ['Spain'],
+                  ['Thailand'],
+                  ['United Kingdom'],
+                  ['United States'],
+                  ['Vietnam']
+                ]);
+        
+                var options = {
+                    displayMode: 'regions',
+                    defaultColor: '#1abc9c',
+                };
+        
+                var chart = new google.visualization.GeoChart(document.getElementById('world_div'));
+        
+                chart.draw(data, options);
+              }
+        </script>
+        
+        <script type="text/javascript">
+          google.charts.load('current', {
+            'packages':['geochart'],
+            
+            
+            'mapsApiKey': 'AIzaSyAxLulfQ4XuDBy4FECF47mkdRyPfEH-5ao'
+          });
+          google.charts.setOnLoadCallback(drawRegionsMap);
+    
+          function drawRegionsMap() {
+            var data = google.visualization.arrayToDataTable([
+            ['State'],
+            ['US-AZ'],
+            ['US-CA'],
+            ['US-CT'],
+            ['US-DE'],
+            ['US-FL'],
+            ['US-GA'],
+            ['US-HI'],
+            ['US-ID'],
+            ['US-IL'],
+            ['US-IN'],
+            ['US-LA'],
+            ['US-ME'],
+            ['US-MD'],
+            ['US-MA'],
+            ['US-MT'],
+            ['US-NV'],
+            ['US-NH'],
+            ['US-NJ'],
+            ['US-NY'],
+            ['US-NC'],
+            ['US-OH'],
+            ['US-OR'],
+            ['US-PA'],
+            ['US-RI'],
+            ['US-SC'],
+            ['US-SD'],
+            ['US-TN'],
+            ['US-TX'],
+            ['US-UT'],
+            ['US-VT'],
+            ['US-VA'],
+            ['US-WA'],
+            ['US-WV'],
+            ['US-WY'],
+            ['US-DC']
+            ]);
+    
+            var options = {
+                region: 'US',
+                resolution: 'provinces',
+                defaultColor: '#1abc9c',
+            };
+    
+            var chart = new google.visualization.GeoChart(document.getElementById('us_div'));
+    
+            chart.draw(data, options);
+          }
+    </script>
+
     
  
         <meta name="HandheldFriendly" content="True" />
@@ -808,7 +918,7 @@ h2.resources
 Continents Visited: 4<br>
 Percent of World: ~11.79%</p>
 
-<p><img src="/img/matador_network_my_world_map.png" alt="My World Map" title="My World Map" /></p>
+<div id="world_div" style="max-width: 95%;"></div>
 
 <h5 id="north-america">North America</h5>
 
@@ -822,9 +932,7 @@ Percent of World: ~11.79%</p>
 
 <p><input type="checkbox" onclick="return false">&ensp;Aruba&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Belize&ensp;&ensp;
-<input type="checkbox" onclick="return false">&ensp;Costa Rica&ensp;&ensp;
-<input type="checkbox" onclick="return false">&ensp;Greenland&ensp;&ensp;
-<input type="checkbox" onclick="return false">&ensp;Turks and Caicos Islands&ensp;&ensp;</p>
+<input type="checkbox" onclick="return false">&ensp;Costa Rica&ensp;&ensp;</p>
 
 <h5 id="south-america">South America</h5>
 
@@ -859,7 +967,6 @@ Percent of World: ~11.79%</p>
 <input type="checkbox" onclick="return false">&ensp;Norway&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Poland&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Portugal&ensp;&ensp;
-<input type="checkbox" onclick="return false">&ensp;Romania&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Sweden&ensp;&ensp;</p>
 
 <h5 id="africa">Africa</h5>
@@ -886,11 +993,9 @@ Percent of World: ~11.79%</p>
 <input type="checkbox" onclick="return false" checked="checked">&ensp;Vietnam&ensp;&ensp;</p>
 
 <p><input type="checkbox" onclick="return false">&ensp;China&ensp;&ensp;
-<input type="checkbox" onclick="return false">&ensp;Indonesia&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Maldives&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Nepal&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Russia&ensp;&ensp;
-<input type="checkbox" onclick="return false">&ensp;Sri Lanka&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Turkey&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;United Arab Emirates&ensp;&ensp;</p>
 
@@ -904,7 +1009,7 @@ Percent of World: ~11.79%</p>
 <p>States Visited: 34<br>
 Percent of US: 68%</p>
 
-<p><img src="/img/matador_network_my_us_map.png" alt="My US Map" title="My US Map" /></p>
+<div id="us_div" style="max-width: 90%;"></div>
 
 <p><input type="checkbox" onclick="return false">&ensp;Alabama&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Alaska&ensp;&ensp;
