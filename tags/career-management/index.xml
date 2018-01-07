@@ -8,10 +8,22 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Thu, 07 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/tags/career-management/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Effective Engineer Notes</title>
+      <link>https://andrewrgoss.com/2018/effective-engineer-notes/</link>
+      <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2018/effective-engineer-notes/</guid>
+      <description>Some great reference notes from a highly recommended &amp;#x1F44D; book for engineers looking to reach the next level in their careers.
+ By Edmond Lau
+http://www.theeffectiveengineer.com
+What&amp;rsquo;s an Effective Engineer?  They are the people who get things done. Effective Engineers produce results.  Adopt the Right Mindsets Focus on High Leverage Activities  Leverage = Impact Produced / Time Invested Use Leverage as Your Yardstick for Effectiveness 80% of the impact comes from 20% of the work.</description>
+    </item>
     
     <item>
       <title>How to Start a Successful Side Project</title>
