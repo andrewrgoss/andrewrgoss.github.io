@@ -40,6 +40,18 @@ GAME RULES:  The game has 2 players, playing in rounds In each turn, a player ro
     </item>
     
     <item>
+      <title>Gologger</title>
+      <link>https://andrewrgoss.com/projects/gologger/</link>
+      <pubDate>Tue, 19 Jan 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/projects/gologger/</guid>
+      <description>Projects &amp;gt;&amp;gt; Gologger
+ Gologger incorporates the elements of the best user-designed logging tools for Go. It primarily makes use of CoLog, a prefix-based execution logging tool.
+The goal of this tool is to provide a simple, easy-to-use, customizable framework for implementing leveled, environment-based logging for new Go applications.
+Usage This tool is setup to customize logging outputs based on the environment command line flag. It uses CoLog to read and parse the standard log output, effectively acting as an extension of the default log library.</description>
+    </item>
+    
+    <item>
       <title>Scratch - Wind Power</title>
       <link>https://andrewrgoss.com/projects/scratch/</link>
       <pubDate>Tue, 18 Feb 2014 00:00:00 +0000</pubDate>
