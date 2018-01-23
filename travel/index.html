@@ -72,122 +72,12 @@ The places I&rsquo;ve listed out below are grouped by geographical belonging, no
                 "datePublished": "Jan 0001",
                 "description": "Outside of work, I&rsquo;m passionate about traveling the world, having new experiences, and broadening my perspective. I have a long, ambitious list of places that I want to try and visit in my lifetime, so I decided to start tracking where I&rsquo;ve been and where I&rsquo;d like to go in the future.
 The places I&rsquo;ve listed out below are grouped by geographical belonging, not cultural significance (for example, Russia being listed under Asia and not Europe).",
-                "wordCount": 304,
+                "wordCount": 467,
                 "articleSection": "page",
-                "timeRequired": "0:2:0",
+                "timeRequired": "0:3:0",
                 "url": "https://andrewrgoss.com/travel/"
             }
         </script>
-
-        <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-        <script type="text/javascript">
-              google.charts.load('current', {
-                'packages':['geochart'],
-                
-                
-                'mapsApiKey': 'AIzaSyAxLulfQ4XuDBy4FECF47mkdRyPfEH-5ao'
-              });
-              google.charts.setOnLoadCallback(drawRegionsMap);
-        
-              function drawRegionsMap() {
-                var data = google.visualization.arrayToDataTable([
-                  ['Country'],
-                  ['Bahamas'],
-                  ['Cambodia'],
-                  ['Canada'],
-                  ['Cayman Islands'],
-                  ['France'],
-                  ['Haiti'],
-                  ['Holy See'],
-                  ['Hong Kong'],
-                  ['Ireland'],
-                  ['Italy'],
-                  ['Israel'],
-                  ['Jamaica'],
-                  ['Japan'],
-                  ['Malaysia'],
-                  ['Mexico'],
-                  ['Monaco'],
-                  ['Palestine, State of'],
-                  ['Peru'],
-                  ['Spain'],
-                  ['Thailand'],
-                  ['United Kingdom'],
-                  ['United States'],
-                  ['Vietnam']
-                ]);
-        
-                var options = {
-                    displayMode: 'regions',
-                    defaultColor: '#1abc9c',
-                };
-        
-                var chart = new google.visualization.GeoChart(document.getElementById('world_div'));
-        
-                chart.draw(data, options);
-              }
-        </script>
-        
-        <script type="text/javascript">
-          google.charts.load('current', {
-            'packages':['geochart'],
-            
-            
-            'mapsApiKey': 'AIzaSyAxLulfQ4XuDBy4FECF47mkdRyPfEH-5ao'
-          });
-          google.charts.setOnLoadCallback(drawRegionsMap);
-    
-          function drawRegionsMap() {
-            var data = google.visualization.arrayToDataTable([
-            ['State'],
-            ['US-AZ'],
-            ['US-CA'],
-            ['US-CT'],
-            ['US-DE'],
-            ['US-FL'],
-            ['US-GA'],
-            ['US-HI'],
-            ['US-ID'],
-            ['US-IL'],
-            ['US-IN'],
-            ['US-LA'],
-            ['US-ME'],
-            ['US-MD'],
-            ['US-MA'],
-            ['US-MT'],
-            ['US-NV'],
-            ['US-NH'],
-            ['US-NJ'],
-            ['US-NY'],
-            ['US-NC'],
-            ['US-OH'],
-            ['US-OR'],
-            ['US-PA'],
-            ['US-RI'],
-            ['US-SC'],
-            ['US-SD'],
-            ['US-TN'],
-            ['US-TX'],
-            ['US-UT'],
-            ['US-VT'],
-            ['US-VA'],
-            ['US-WA'],
-            ['US-WV'],
-            ['US-WY'],
-            ['US-DC']
-            ]);
-    
-            var options = {
-                region: 'US',
-                resolution: 'provinces',
-                defaultColor: '#1abc9c',
-            };
-    
-            var chart = new google.visualization.GeoChart(document.getElementById('us_div'));
-    
-            chart.draw(data, options);
-          }
-    </script>
 
     
  
@@ -1061,6 +951,117 @@ Percent of US: 68%</p>
 <input type="checkbox" onclick="return false" checked="checked">&ensp;West Virginia&ensp;&ensp;
 <input type="checkbox" onclick="return false">&ensp;Wisconsin&ensp;&ensp;
 <input type="checkbox" onclick="return false" checked="checked">&ensp;Wyoming&ensp;&ensp;</p>
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {
+        'packages':['geochart'],
+        // Note: you will need to get a mapsApiKey for your project.
+        // See: https://developers.google.com/chart/interactive/docs/basic_load_libs#load-settings
+        'mapsApiKey': 'AIzaSyAxLulfQ4XuDBy4FECF47mkdRyPfEH-5ao'
+      });
+      google.charts.setOnLoadCallback(drawRegionsMap);
+
+      function drawRegionsMap() {
+        var data = google.visualization.arrayToDataTable([
+          ['Country'],
+          ['Bahamas'],
+          ['Cambodia'],
+          ['Canada'],
+          ['Cayman Islands'],
+          ['France'],
+          ['Haiti'],
+          ['Holy See'],
+          ['Hong Kong'],
+          ['Ireland'],
+          ['Italy'],
+          ['Israel'],
+          ['Jamaica'],
+          ['Japan'],
+          ['Malaysia'],
+          ['Mexico'],
+          ['Monaco'],
+          ['Palestine, State of'],
+          ['Peru'],
+          ['Spain'],
+          ['Thailand'],
+          ['United Kingdom'],
+          ['United States'],
+          ['Vietnam']
+        ]);
+
+        var options = {
+            displayMode: 'regions',
+            defaultColor: '#1abc9c',
+        };
+
+        var chart = new google.visualization.GeoChart(document.getElementById('world_div'));
+
+        chart.draw(data, options);
+      }
+</script>
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript">
+      google.charts.load('current', {
+        'packages':['geochart'],
+        // Note: you will need to get a mapsApiKey for your project.
+        // See: https://developers.google.com/chart/interactive/docs/basic_load_libs#load-settings
+        'mapsApiKey': 'AIzaSyAxLulfQ4XuDBy4FECF47mkdRyPfEH-5ao'
+      });
+      google.charts.setOnLoadCallback(drawRegionsMap);
+
+      function drawRegionsMap() {
+        var data = google.visualization.arrayToDataTable([
+        ['State'],
+    ['US-AZ'],
+    ['US-CA'],
+    ['US-CT'],
+    ['US-DE'],
+    ['US-FL'],
+    ['US-GA'],
+    ['US-HI'],
+    ['US-ID'],
+    ['US-IL'],
+    ['US-IN'],
+    ['US-LA'],
+    ['US-ME'],
+    ['US-MD'],
+    ['US-MA'],
+    ['US-MT'],
+    ['US-NV'],
+    ['US-NH'],
+    ['US-NJ'],
+    ['US-NY'],
+    ['US-NC'],
+    ['US-OH'],
+    ['US-OR'],
+    ['US-PA'],
+    ['US-RI'],
+    ['US-SC'],
+    ['US-SD'],
+    ['US-TN'],
+    ['US-TX'],
+    ['US-UT'],
+    ['US-VT'],
+    ['US-VA'],
+    ['US-WA'],
+    ['US-WV'],
+    ['US-WY'],
+    ['US-DC']
+        ]);
+
+        var options = {
+        region: 'US',
+        resolution: 'provinces',
+        defaultColor: '#1abc9c',
+    };
+
+        var chart = new google.visualization.GeoChart(document.getElementById('us_div'));
+
+        chart.draw(data, options);
+      }
+</script>
 
 </article>
 

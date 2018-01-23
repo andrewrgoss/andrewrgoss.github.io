@@ -8,10 +8,23 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Fri, 29 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/projects/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Web Scraping With Python</title>
+      <link>https://andrewrgoss.com/projects/web_scraping_py/</link>
+      <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/projects/web_scraping_py/</guid>
+      <description>Projects &amp;gt;&amp;gt; Web Scraping With Python
+
+Following a Boston Python Project Night event that I attended (where my group focused on web scraping techniques), I wanted to try out some web scraping on my own with Python.
+ Web scraping is a technique used to extract data from websites through an automated process.
+ Dataset A good site for web scraping that was recommended to me at the event is College Sailing’s Techscore.</description>
+    </item>
     
     <item>
       <title>Budget App</title>

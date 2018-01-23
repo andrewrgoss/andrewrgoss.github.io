@@ -8,10 +8,23 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Thu, 18 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Web Scraping With Python</title>
+      <link>https://andrewrgoss.com/projects/web_scraping_py/</link>
+      <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/projects/web_scraping_py/</guid>
+      <description>Projects &amp;gt;&amp;gt; Web Scraping With Python
+
+Following a Boston Python Project Night event that I attended (where my group focused on web scraping techniques), I wanted to try out some web scraping on my own with Python.
+ Web scraping is a technique used to extract data from websites through an automated process.
+ Dataset A good site for web scraping that was recommended to me at the event is College Sailing’s Techscore.</description>
+    </item>
     
     <item>
       <title>Udemy- Complete Java Masterclass</title>
@@ -556,7 +569,7 @@ by Jeffrey Jung   Unbroken: A World War II Story of Survival, Resilience, and Re
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/projects/</guid>
-      <description>Budget App &amp;middot;  Sep 2017 &amp;middot;  javascript self-study    DOM Pig Game &amp;middot;  Sep 2017 &amp;middot;  javascript self-study    Gologger &amp;middot;  Jan 2016 &amp;middot;  golang    Scratch - Wind Power &amp;middot;  Feb 2014 &amp;middot;  self-study    </description>
+      <description>Web Scraping With Python &amp;middot;  Jan 2018 &amp;middot;  python web-scraping    Budget App &amp;middot;  Sep 2017 &amp;middot;  javascript self-study    DOM Pig Game &amp;middot;  Sep 2017 &amp;middot;  javascript self-study    Gologger &amp;middot;  Jan 2016 &amp;middot;  golang    Scratch - Wind Power &amp;middot;  Feb 2014 &amp;middot;  self-study    </description>
     </item>
     
     <item>
