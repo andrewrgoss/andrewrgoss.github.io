@@ -205,7 +205,7 @@
     <item>
       <title>Scala</title>
       <link>https://andrewrgoss.com/tags/scala/</link>
-      <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/tags/scala/</guid>
       <description></description>
@@ -214,7 +214,7 @@
     <item>
       <title>Self Study</title>
       <link>https://andrewrgoss.com/tags/self-study/</link>
-      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/tags/self-study/</guid>
       <description></description>
@@ -226,6 +226,15 @@
       <pubDate>Thu, 07 Dec 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/tags/side-projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spark</title>
+      <link>https://andrewrgoss.com/tags/spark/</link>
+      <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/tags/spark/</guid>
       <description></description>
     </item>
     

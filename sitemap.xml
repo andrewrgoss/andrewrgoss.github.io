@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://andrewrgoss.com/2018/udemy--apache-spark-2.0-with-scala/</loc>
+    <lastmod>2018-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://andrewrgoss.com/projects/web_scraping_py/</loc>
     <lastmod>2018-01-23T00:00:00+00:00</lastmod>
   </url>
@@ -266,7 +271,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/</loc>
-    <lastmod>2018-01-23T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -378,7 +383,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/post/</loc>
-    <lastmod>2018-01-18T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -424,7 +429,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/tags/scala/</loc>
-    <lastmod>2017-10-23T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -434,13 +439,19 @@
   
   <url>
     <loc>https://andrewrgoss.com/tags/self-study/</loc>
-    <lastmod>2018-01-18T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://andrewrgoss.com/tags/side-projects/</loc>
     <lastmod>2017-12-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andrewrgoss.com/tags/spark/</loc>
+    <lastmod>2018-01-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
