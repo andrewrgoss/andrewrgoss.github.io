@@ -8,10 +8,20 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Sat, 06 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/tags/career-management/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Learning How to Learn</title>
+      <link>https://andrewrgoss.com/2018/learning-how-to-learn/</link>
+      <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2018/learning-how-to-learn/</guid>
+      <description>As 2018 began, I spent some time thinking about my goals for this year. An area that I wanted to focus on is improving upon how I learn. Many have argued that the ability to learn is the most valuable skill you can possess throughout your career and working in the ever-changing field of technology, I certainly would not disagree.
+So I decided to invest in the 10 Steps to Learn Anything Quickly course offered by Simple Programmer.</description>
+    </item>
     
     <item>
       <title>Effective Engineer Notes</title>

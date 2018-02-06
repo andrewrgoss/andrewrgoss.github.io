@@ -8,7 +8,7 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Sat, 27 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -16,13 +16,23 @@
     <item>
       <title>Udemy- Apache Spark 2.0 With Scala</title>
       <link>https://andrewrgoss.com/2018/udemy--apache-spark-2.0-with-scala/</link>
-      <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2018/udemy--apache-spark-2.0-with-scala/</guid>
       <description>COURSE LINK
 COURSE MATERIALS
 
 Description  Learn the concepts of Spark&amp;rsquo;s Resilient Distributed Datastores Get a crash course in the Scala programming language Develop and run Spark jobs quickly using Scala Translate complex analysis problems into iterative or multi-stage Spark scripts Scale up to larger data sets using Amazon&amp;rsquo;s Elastic MapReduce service Understand how Hadoop YARN distributes Spark across computing clusters Practice using other Spark technologies, like Spark SQL, DataFrames, DataSets, Spark Streaming, and GraphX  What am I going to get from this course?</description>
+    </item>
+    
+    <item>
+      <title>Learning How to Learn</title>
+      <link>https://andrewrgoss.com/2018/learning-how-to-learn/</link>
+      <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2018/learning-how-to-learn/</guid>
+      <description>As 2018 began, I spent some time thinking about my goals for this year. An area that I wanted to focus on is improving upon how I learn. Many have argued that the ability to learn is the most valuable skill you can possess throughout your career and working in the ever-changing field of technology, I certainly would not disagree.
+So I decided to invest in the 10 Steps to Learn Anything Quickly course offered by Simple Programmer.</description>
     </item>
     
     <item>
