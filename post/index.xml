@@ -8,7 +8,7 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Fri, 02 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -16,13 +16,24 @@
     <item>
       <title>Udemy- Apache Spark 2.0 With Scala</title>
       <link>https://andrewrgoss.com/2018/udemy--apache-spark-2.0-with-scala/</link>
-      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2018/udemy--apache-spark-2.0-with-scala/</guid>
       <description>COURSE LINK
 COURSE MATERIALS
 
 Description  Learn the concepts of Spark&amp;rsquo;s Resilient Distributed Datastores Get a crash course in the Scala programming language Develop and run Spark jobs quickly using Scala Translate complex analysis problems into iterative or multi-stage Spark scripts Scale up to larger data sets using Amazon&amp;rsquo;s Elastic MapReduce service Understand how Hadoop YARN distributes Spark across computing clusters Practice using other Spark technologies, like Spark SQL, DataFrames, DataSets, Spark Streaming, and GraphX  What am I going to get from this course?</description>
+    </item>
+    
+    <item>
+      <title>Becoming a Data Engineer</title>
+      <link>https://andrewrgoss.com/2018/becoming-a-data-engineer/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2018/becoming-a-data-engineer/</guid>
+      <description>written by Sergio Sola (with some grammatical edits by me)
+Becoming a Data Engineer I am a software engineer working at HelloFresh. I have been with the company for five years so far. Before HelloFresh and in this company I had different roles.
+I started my career as a web developer doing everything, something that nowadays is called &amp;lsquo;full stack developer&amp;rsquo; (I have a firm opinion about that position, and it is not good, but that would be another article).</description>
     </item>
     
     <item>
