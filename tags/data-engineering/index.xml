@@ -8,17 +8,17 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Tue, 20 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/tags/data-engineering/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Becoming a Data Engineer</title>
-      <link>https://andrewrgoss.com/2018/becoming-a-data-engineer/</link>
-      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
+      <link>https://andrewrgoss.com/2017/becoming-a-data-engineer/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>https://andrewrgoss.com/2018/becoming-a-data-engineer/</guid>
+      <guid>https://andrewrgoss.com/2017/becoming-a-data-engineer/</guid>
       <description>written by Sergio Sola (with some grammatical edits by me)
 Becoming a Data Engineer I am a software engineer working at HelloFresh. I have been with the company for five years so far. Before HelloFresh and in this company I had different roles.
 I started my career as a web developer doing everything, something that nowadays is called &amp;lsquo;full stack developer&amp;rsquo; (I have a firm opinion about that position, and it is not good, but that would be another article).</description>

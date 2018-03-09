@@ -21,7 +21,7 @@
       <guid>https://andrewrgoss.com/2018/udemy--apache-spark-2.0-with-scala/mov_sim_ml_1m_emr/</guid>
       <description>Udemy- Apache Spark 2.0 With Scala &amp;gt;&amp;gt; Creating Similar Movies from One Million Ratings on EMR
 
-I completed an exercise of compiling a .jar file from my Scala code through IntelliJ IDEA, uploaidng this to a S3 bucket I created, and then running a Spark job on a AWS EMR cluster that I spun up. Here are the steps I took with screenshots, since I terminated my EMR cluster at the end to avoid incurring unnecessary costs.</description>
+I completed an exercise of compiling a .jar file from my Scala code through IntelliJ IDEA, uploading this to a S3 bucket I created, and then running a Spark job on a AWS EMR cluster that I spun up. Here are the steps I took with screenshots, since I terminated my EMR cluster at the end to avoid incurring unnecessary costs.</description>
     </item>
     
   </channel>

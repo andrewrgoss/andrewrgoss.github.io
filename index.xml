@@ -21,7 +21,7 @@
       <guid>https://andrewrgoss.com/2018/udemy--apache-spark-2.0-with-scala/mov_sim_ml_1m_emr/</guid>
       <description>Udemy- Apache Spark 2.0 With Scala &amp;gt;&amp;gt; Creating Similar Movies from One Million Ratings on EMR
 
-I completed an exercise of compiling a .jar file from my Scala code through IntelliJ IDEA, uploaidng this to a S3 bucket I created, and then running a Spark job on a AWS EMR cluster that I spun up. Here are the steps I took with screenshots, since I terminated my EMR cluster at the end to avoid incurring unnecessary costs.</description>
+I completed an exercise of compiling a .jar file from my Scala code through IntelliJ IDEA, uploading this to a S3 bucket I created, and then running a Spark job on a AWS EMR cluster that I spun up. Here are the steps I took with screenshots, since I terminated my EMR cluster at the end to avoid incurring unnecessary costs.</description>
     </item>
     
     <item>
@@ -34,17 +34,6 @@ I completed an exercise of compiling a .jar file from my Scala code through Inte
 COURSE MATERIALS
 
 Description  Learn the concepts of Spark&amp;rsquo;s Resilient Distributed Datastores Get a crash course in the Scala programming language Develop and run Spark jobs quickly using Scala Translate complex analysis problems into iterative or multi-stage Spark scripts Scale up to larger data sets using Amazon&amp;rsquo;s Elastic MapReduce service Understand how Hadoop YARN distributes Spark across computing clusters Practice using other Spark technologies, like Spark SQL, DataFrames, DataSets, Spark Streaming, and GraphX  What am I going to get from this course?</description>
-    </item>
-    
-    <item>
-      <title>Becoming a Data Engineer</title>
-      <link>https://andrewrgoss.com/2018/becoming-a-data-engineer/</link>
-      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>https://andrewrgoss.com/2018/becoming-a-data-engineer/</guid>
-      <description>written by Sergio Sola (with some grammatical edits by me)
-Becoming a Data Engineer I am a software engineer working at HelloFresh. I have been with the company for five years so far. Before HelloFresh and in this company I had different roles.
-I started my career as a web developer doing everything, something that nowadays is called &amp;lsquo;full stack developer&amp;rsquo; (I have a firm opinion about that position, and it is not good, but that would be another article).</description>
     </item>
     
     <item>
@@ -109,6 +98,17 @@ View original article
 
 Do you ever feel like you are confident in only one particular field? Like you know only one tiny corner of the vast software universe? Then, the minute you try to escape it and work on something different, you get frustrated. And if you need to build a complete, functional project—from scratch—with:
 Initial research and machine setup (packages, installments)Managing dependencies (libraries, build tools, automations)The whole business logic plus high test coverageProduction deployment … then somebody else has to do everything except the little corner of your comfort zone?</description>
+    </item>
+    
+    <item>
+      <title>Becoming a Data Engineer</title>
+      <link>https://andrewrgoss.com/2017/becoming-a-data-engineer/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2017/becoming-a-data-engineer/</guid>
+      <description>written by Sergio Sola (with some grammatical edits by me)
+Becoming a Data Engineer I am a software engineer working at HelloFresh. I have been with the company for five years so far. Before HelloFresh and in this company I had different roles.
+I started my career as a web developer doing everything, something that nowadays is called &amp;lsquo;full stack developer&amp;rsquo; (I have a firm opinion about that position, and it is not good, but that would be another article).</description>
     </item>
     
     <item>
