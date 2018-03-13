@@ -33,15 +33,15 @@
         <meta name="description" content="COURSE LINK
 COURSE MATERIALS
 
-Description  Learn the concepts of Spark&rsquo;s Resilient Distributed Datastores Get a crash course in the Scala programming language Develop and run Spark jobs quickly using Scala Translate complex analysis problems into iterative or multi-stage Spark scripts Scale up to larger data sets using Amazon&rsquo;s Elastic MapReduce service Understand how Hadoop YARN distributes Spark across computing clusters Practice using other Spark technologies, like Spark SQL, DataFrames, DataSets, Spark Streaming, and GraphX  What am I going to get from this course?" />
+Description  Learn the concepts of Spark&rsquo;s Resilient Distributed Datastores Get a crash course in the Scala programming language Develop and run Spark jobs quickly using Scala Translate complex analysis problems into iterative or multi-stage Spark scripts Scale up to larger data sets using Amazon&rsquo;s Elastic MapReduce service Understand how Hadoop YARN distributes Spark across computing clusters Practice using other Spark technologies, like Spark SQL, DataFrames, DataSets, Spark Streaming, and GraphX  What am I got from this course" />
         <meta name="twitter:description" content="COURSE LINK
 COURSE MATERIALS
 
-Description  Learn the concepts of Spark&rsquo;s Resilient Distributed Datastores Get a crash course in the Scala programming language Develop and run Spark jobs quickly using Scala Translate complex analysis problems into iterative or multi-stage Spark scripts Scale up to larger data sets using Amazon&rsquo;s Elastic MapReduce service Understand how Hadoop YARN distributes Spark across computing clusters Practice using other Spark technologies, like Spark SQL, DataFrames, DataSets, Spark Streaming, and GraphX  What am I going to get from this course?" />
+Description  Learn the concepts of Spark&rsquo;s Resilient Distributed Datastores Get a crash course in the Scala programming language Develop and run Spark jobs quickly using Scala Translate complex analysis problems into iterative or multi-stage Spark scripts Scale up to larger data sets using Amazon&rsquo;s Elastic MapReduce service Understand how Hadoop YARN distributes Spark across computing clusters Practice using other Spark technologies, like Spark SQL, DataFrames, DataSets, Spark Streaming, and GraphX  What am I got from this course" />
         <meta property="og:description" content="COURSE LINK
 COURSE MATERIALS
 
-Description  Learn the concepts of Spark&rsquo;s Resilient Distributed Datastores Get a crash course in the Scala programming language Develop and run Spark jobs quickly using Scala Translate complex analysis problems into iterative or multi-stage Spark scripts Scale up to larger data sets using Amazon&rsquo;s Elastic MapReduce service Understand how Hadoop YARN distributes Spark across computing clusters Practice using other Spark technologies, like Spark SQL, DataFrames, DataSets, Spark Streaming, and GraphX  What am I going to get from this course?" />
+Description  Learn the concepts of Spark&rsquo;s Resilient Distributed Datastores Get a crash course in the Scala programming language Develop and run Spark jobs quickly using Scala Translate complex analysis problems into iterative or multi-stage Spark scripts Scale up to larger data sets using Amazon&rsquo;s Elastic MapReduce service Understand how Hadoop YARN distributes Spark across computing clusters Practice using other Spark technologies, like Spark SQL, DataFrames, DataSets, Spark Streaming, and GraphX  What am I got from this course" />
         
         <meta name="twitter:site" content="@Andrewrgoss" />
         <meta name="twitter:creator" content="@Andrewrgoss" />
@@ -79,10 +79,10 @@ Description  Learn the concepts of Spark&rsquo;s Resilient Distributed Datastore
                 "description": "COURSE LINK
 COURSE MATERIALS
 
-Description  Learn the concepts of Spark&rsquo;s Resilient Distributed Datastores Get a crash course in the Scala programming language Develop and run Spark jobs quickly using Scala Translate complex analysis problems into iterative or multi-stage Spark scripts Scale up to larger data sets using Amazon&rsquo;s Elastic MapReduce service Understand how Hadoop YARN distributes Spark across computing clusters Practice using other Spark technologies, like Spark SQL, DataFrames, DataSets, Spark Streaming, and GraphX  What am I going to get from this course?",
-                "wordCount": 384,
+Description  Learn the concepts of Spark&rsquo;s Resilient Distributed Datastores Get a crash course in the Scala programming language Develop and run Spark jobs quickly using Scala Translate complex analysis problems into iterative or multi-stage Spark scripts Scale up to larger data sets using Amazon&rsquo;s Elastic MapReduce service Understand how Hadoop YARN distributes Spark across computing clusters Practice using other Spark technologies, like Spark SQL, DataFrames, DataSets, Spark Streaming, and GraphX  What am I got from this course",
+                "wordCount": 487,
                 "articleSection": "post",
-                "timeRequired": "0:2:0",
+                "timeRequired": "0:3:0",
                 "url": "https://andrewrgoss.com/2018/udemy--apache-spark-2.0-with-scala/"
             }
         </script>
@@ -836,7 +836,7 @@ h2.resources
 <li>Practice using other Spark technologies, like Spark SQL, DataFrames, DataSets, Spark Streaming, and GraphX</li>
 </ul>
 
-<p><b>What am I going to get from this course?</b></p>
+<p><b>What am I got from this course</b></p>
 
 <ul>
 <li>Frame big data analysis problems as Apache Spark scripts</li>
@@ -851,7 +851,7 @@ h2.resources
 <h3 id="target-audience">Target Audience</h3>
 
 <ul>
-<li>Software engineers who want to expand their skills into the world of big data processing on a cluster</li>
+<li>Data engineers who want to expand their skills into the world of big data processing on a cluster</li>
 </ul>
 
 <h3 id="what-is-spark">What is Spark?</h3>
@@ -881,14 +881,6 @@ h2.resources
 <li>Python is slow in comparison</li>
 </ul>
 
-<h3 id="datasets">Datasets</h3>
-
-<p><a href="https://grouplens.org/datasets/movielens" target="_blank">MovieLens</a></p>
-
-<h3 id="hands-on-exercises">Hands-On Exercises</h3>
-
-<p><a href="/2018/udemy--apache-spark-2.0-with-scala/mov_sim_ml_1m_emr">Creating Similar Movies from One Million Ratings on EMR</a></p>
-
 <h3 id="key-concepts">Key Concepts</h3>
 
 <p><a href="https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/tutorial" target="_blank">Breadth First Search (BFS)</a><br></p>
@@ -906,11 +898,52 @@ h2.resources
 
 <p><a href="https://stackoverflow.com/questions/25836316/how-dag-works-under-the-covers-in-rdd" target=_>How Directed Acyclic Graph (DAG) works</a> underneath the hood on Resilient Distributed Datasets (RDDs)</p>
 
+<ul>
+<li><p>RDD dataframes (for working with structured data):</p>
+
+<ul>
+<li>Contains row objects</li>
+<li>Can run SQL queries</li>
+<li>Has a schema (leading to more efficient storage)</li>
+<li>Read and write to JSON, Hive, parquet</li>
+<li>Communicates with JDBC/ODBC, Tableau</li>
+</ul></li>
+
+<li><p><b>The trend in Spark is to use RDD&rsquo;s less, and DataSets more.</b></p></li>
+
+<li><p>DataSets are more efficient</p>
+
+<ul>
+<li>They can be serialized very efficiently - even better than Kryo</li>
+<li>Optimal execution plans can be determined at compile time</li>
+</ul></li>
+
+<li><p>DataSets allow for better interoperability</p>
+
+<ul>
+<li>MLLib and Spark Streaming are moving towards using DataSets instead of RDDs for their primary API</li>
+</ul></li>
+
+<li><p>DataSets simplify development</p>
+
+<ul>
+<li>You can perform most SQL operations on a dataset with one line</li>
+</ul></li>
+</ul>
+
+<h3 id="datasets">Datasets</h3>
+
+<p><a href="https://grouplens.org/datasets/movielens" target="_blank">MovieLens</a></p>
+
+<h3 id="hands-on-exercises">Hands-On Exercises</h3>
+
+<p><a href="/2018/udemy--apache-spark-2.0-with-scala/mov_sim_ml_1m_emr">Creating Similar Movies from One Million Ratings on EMR</a></p>
+
 <h4 id="course-progress">Course Progress</h4>
 
-<progress max="1.0" value="0.72"></progress>
+<progress max="1.0" value="0.74"></progress>
 
-<p>72% - <font color="green">IN PROGRESS</font></p>
+<p>74% - <font color="green">IN PROGRESS</font></p>
 
 <p><a href="https://github.com/andrewrgoss/udemy-spark-scala" class="btn" target="_blank">View my code on GitHub</a><br><br></p>
 
@@ -969,7 +1002,7 @@ h2.resources
       </li>
 	  
 	  <li class="linkedin">
-          <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://andrewrgoss.com/2018/udemy--apache-spark-2.0-with-scala/&amp;title=Udemy-%20Apache%20Spark%202.0%20With%20Scala&amp;summary=COURSE%20LINK%0aCOURSE%20MATERIALS%0a%0aDescription%20%20Learn%20the%20concepts%20of%20Spark%26rsquo%3bs%20Resilient%20Distributed%20Datastores%20Get%20a%20crash%20course%20in%20the%20Scala%20programming%20language%20Develop%20and%20run%20Spark%20jobs%20quickly%20using%20Scala%20Translate%20complex%20analysis%20problems%20into%20iterative%20or%20multi-stage%20Spark%20scripts%20Scale%20up%20to%20larger%20data%20sets%20using%20Amazon%26rsquo%3bs%20Elastic%20MapReduce%20service%20Understand%20how%20Hadoop%20YARN%20distributes%20Spark%20across%20computing%20clusters%20Practice%20using%20other%20Spark%20technologies%2c%20like%20Spark%20SQL%2c%20DataFrames%2c%20DataSets%2c%20Spark%20Streaming%2c%20and%20GraphX%20%20What%20am%20I%20going%20to%20get%20from%20this%20course%3f..." class="popup">
+          <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://andrewrgoss.com/2018/udemy--apache-spark-2.0-with-scala/&amp;title=Udemy-%20Apache%20Spark%202.0%20With%20Scala&amp;summary=COURSE%20LINK%0aCOURSE%20MATERIALS%0a%0aDescription%20%20Learn%20the%20concepts%20of%20Spark%26rsquo%3bs%20Resilient%20Distributed%20Datastores%20Get%20a%20crash%20course%20in%20the%20Scala%20programming%20language%20Develop%20and%20run%20Spark%20jobs%20quickly%20using%20Scala%20Translate%20complex%20analysis%20problems%20into%20iterative%20or%20multi-stage%20Spark%20scripts%20Scale%20up%20to%20larger%20data%20sets%20using%20Amazon%26rsquo%3bs%20Elastic%20MapReduce%20service%20Understand%20how%20Hadoop%20YARN%20distributes%20Spark%20across%20computing%20clusters%20Practice%20using%20other%20Spark%20technologies%2c%20like%20Spark%20SQL%2c%20DataFrames%2c%20DataSets%2c%20Spark%20Streaming%2c%20and%20GraphX%20%20What%20am%20I%20got%20from%20this%20course..." class="popup">
               <span class="icon">
                   <svg version="1.1" id="btn-li" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="28px" height="28px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve">
                       <path d="M25.424,15.887v8.447h-4.896v-7.882c0-1.979-0.709-3.331-2.48-3.331c-1.354,0-2.158,0.911-2.514,1.803 c-0.129,0.315-0.162,0.753-0.162,1.194v8.216h-4.899c0,0,0.066-13.349,0-14.731h4.899v2.088c-0.01,0.016-0.023,0.032-0.033,0.048 h0.033V11.69c0.65-1.002,1.812-2.435,4.414-2.435C23.008,9.254,25.424,11.361,25.424,15.887z M5.348,2.501 c-1.676,0-2.772,1.092-2.772,2.539c0,1.421,1.066,2.538,2.717,2.546h0.032c1.709,0,2.771-1.132,2.771-2.546 C8.054,3.593,7.019,2.501,5.343,2.501H5.348z M2.867,24.334h4.897V9.603H2.867V24.334z"/>
