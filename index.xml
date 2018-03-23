@@ -8,10 +8,24 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Thu, 08 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Twitter Streaming with Spark and Scala</title>
+      <link>https://andrewrgoss.com/projects/twitter_streaming/</link>
+      <pubDate>Thu, 22 Mar 2018 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/projects/twitter_streaming/</guid>
+      <description>Udemy- Apache Spark 2.0 With Scala &amp;gt;&amp;gt; Twitter Streaming
+
+Go to: DataChatter
+PopularHashtags.scala This is a Spark streaming script that monitors live tweets from Twitter and keeps track of the 10 most popular hashtags as tweets are received.
+Each hashtag is mapped to a key/value pair of (hashtag, 1) so they can be counted up over a 5-minute sliding window with this line of code:
+val hashtagCounts = hashtagKeyValues.</description>
+    </item>
     
     <item>
       <title>Udemy- Apache Spark 2.0 With Scala</title>
@@ -612,7 +626,7 @@ by Dan Brown   The Career Break Traveler&#39;s Handbook &amp;middot;  Dec 2015</
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/projects/</guid>
-      <description>Web Scraping With Python &amp;middot;  Jan 2018 &amp;middot;  python web-scraping    Budget App &amp;middot;  Sep 2017 &amp;middot;  javascript self-study    DOM Pig Game &amp;middot;  Sep 2017 &amp;middot;  javascript self-study    Gologger &amp;middot;  Jan 2016 &amp;middot;  golang    Scratch - Wind Power &amp;middot;  Feb 2014 &amp;middot;  self-study    </description>
+      <description>Twitter Streaming with Spark and Scala &amp;middot;  Mar 2018 &amp;middot;  spark scala data-streaming    Web Scraping With Python &amp;middot;  Jan 2018 &amp;middot;  python web-scraping    Budget App &amp;middot;  Sep 2017 &amp;middot;  javascript self-study    DOM Pig Game &amp;middot;  Sep 2017 &amp;middot;  javascript self-study    Gologger &amp;middot;  Jan 2016 &amp;middot;  golang    Scratch - Wind Power &amp;middot;  Feb 2014 &amp;middot;  self-study     Due to client confidentiality agreements, my work-specific projects cannot be listed here.</description>
     </item>
     
     <item>
