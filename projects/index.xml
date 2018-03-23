@@ -28,6 +28,17 @@ val hashtagCounts = hashtagKeyValues.</description>
     </item>
     
     <item>
+      <title>Creating Similar Movies from One Million Ratings on EMR</title>
+      <link>https://andrewrgoss.com/projects/mov_sim_ml_1m_emr/</link>
+      <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/projects/mov_sim_ml_1m_emr/</guid>
+      <description>Udemy- Apache Spark 2.0 With Scala &amp;gt;&amp;gt; Creating Similar Movies from One Million Ratings on EMR
+
+I completed an exercise of compiling a .jar file from my Scala code through IntelliJ IDEA, uploading this to a S3 bucket I created, and then running a Spark job on a AWS EMR cluster that I spun up. Here are the steps I took with screenshots, since I terminated my EMR cluster at the end to avoid incurring unnecessary costs.</description>
+    </item>
+    
+    <item>
       <title>Web Scraping With Python</title>
       <link>https://andrewrgoss.com/projects/web_scraping_py/</link>
       <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
@@ -64,6 +75,18 @@ View my code on GitHub</description>
 
 Part of the Complete JavaScript Course I completed, this project put JavaScript concepts from the section on DOM manipulation and events into practice.
 GAME RULES:  The game has 2 players, playing in rounds In each turn, a player rolls a dice as many times as he/she wishes. Each result get added to his ROUND score BUT, if the player rolls a 1, all his/her ROUND score gets lost.</description>
+    </item>
+    
+    <item>
+      <title>Google Analytics Reporting API for PostgreSQL</title>
+      <link>https://andrewrgoss.com/projects/ga_reporting_api/</link>
+      <pubDate>Sat, 17 Sep 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/projects/ga_reporting_api/</guid>
+      <description>Projects &amp;gt;&amp;gt; Google Analytics Reporting API for PostgreSQL 
+This is a Python script I developed for programmatically accessing report data in Google Analytics and inserting into PostgreSQL.
+Google Analytics Reporting API V4 is used in this code. A detailed reference of the API can be accessed here.
+In this example, a GA summary report is generated (using the JSON below) and inserted into a PostgreSQL staging table with the same name.</description>
     </item>
     
     <item>

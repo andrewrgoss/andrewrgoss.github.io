@@ -28,11 +28,11 @@ val hashtagCounts = hashtagKeyValues.</description>
     </item>
     
     <item>
-      <title>Udemy- Apache Spark 2.0 With Scala</title>
-      <link>https://andrewrgoss.com/2018/udemy--apache-spark-2.0-with-scala/mov_sim_ml_1m_emr/</link>
+      <title>Creating Similar Movies from One Million Ratings on EMR</title>
+      <link>https://andrewrgoss.com/projects/mov_sim_ml_1m_emr/</link>
       <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>https://andrewrgoss.com/2018/udemy--apache-spark-2.0-with-scala/mov_sim_ml_1m_emr/</guid>
+      <guid>https://andrewrgoss.com/projects/mov_sim_ml_1m_emr/</guid>
       <description>Udemy- Apache Spark 2.0 With Scala &amp;gt;&amp;gt; Creating Similar Movies from One Million Ratings on EMR
 
 I completed an exercise of compiling a .jar file from my Scala code through IntelliJ IDEA, uploading this to a S3 bucket I created, and then running a Spark job on a AWS EMR cluster that I spun up. Here are the steps I took with screenshots, since I terminated my EMR cluster at the end to avoid incurring unnecessary costs.</description>
@@ -489,6 +489,18 @@ The need for data talent is born from a fundamental shift: tech companies are no
     </item>
     
     <item>
+      <title>Google Analytics Reporting API for PostgreSQL</title>
+      <link>https://andrewrgoss.com/projects/ga_reporting_api/</link>
+      <pubDate>Sat, 17 Sep 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/projects/ga_reporting_api/</guid>
+      <description>Projects &amp;gt;&amp;gt; Google Analytics Reporting API for PostgreSQL 
+This is a Python script I developed for programmatically accessing report data in Google Analytics and inserting into PostgreSQL.
+Google Analytics Reporting API V4 is used in this code. A detailed reference of the API can be accessed here.
+In this example, a GA summary report is generated (using the JSON below) and inserted into a PostgreSQL staging table with the same name.</description>
+    </item>
+    
+    <item>
       <title>SSH Keys With PuTTY and Cygwin for Windows</title>
       <link>https://andrewrgoss.com/2016/ssh-keys-with-putty-and-cygwin-for-windows/</link>
       <pubDate>Mon, 22 Aug 2016 00:00:00 +0000</pubDate>
@@ -626,7 +638,7 @@ by Dan Brown   The Career Break Traveler&#39;s Handbook &amp;middot;  Dec 2015</
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/projects/</guid>
-      <description>Twitter Streaming with Spark and Scala &amp;middot;  Mar 2018 &amp;middot;  spark scala data-streaming    Web Scraping With Python &amp;middot;  Jan 2018 &amp;middot;  python web-scraping    Budget App &amp;middot;  Sep 2017 &amp;middot;  javascript self-study    DOM Pig Game &amp;middot;  Sep 2017 &amp;middot;  javascript self-study    Gologger &amp;middot;  Jan 2016 &amp;middot;  golang    Scratch - Wind Power &amp;middot;  Feb 2014 &amp;middot;  self-study     Due to client confidentiality agreements, my work-specific projects cannot be listed here.</description>
+      <description>Twitter Streaming with Spark and Scala &amp;middot;  Mar 2018 &amp;middot;  spark scala data-streaming    Creating Similar Movies from One Million Ratings on EMR &amp;middot;  Mar 2018 &amp;middot;  spark scala aws    Web Scraping With Python &amp;middot;  Jan 2018 &amp;middot;  python web-scraping    Budget App &amp;middot;  Sep 2017 &amp;middot;  javascript self-study    DOM Pig Game &amp;middot;  Sep 2017 &amp;middot;  javascript self-study    Google Analytics Reporting API for PostgreSQL &amp;middot;  Sep 2016 &amp;middot;  python    Gologger &amp;middot;  Jan 2016 &amp;middot;  golang    Scratch - Wind Power &amp;middot;  Feb 2014 &amp;middot;  self-study    Due to client confidentiality agreements, my work-specific projects cannot be listed here.</description>
     </item>
     
     <item>

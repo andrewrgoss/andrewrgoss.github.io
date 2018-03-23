@@ -8,7 +8,7 @@
   </url>
   
   <url>
-    <loc>https://andrewrgoss.com/2018/udemy--apache-spark-2.0-with-scala/mov_sim_ml_1m_emr/</loc>
+    <loc>https://andrewrgoss.com/projects/mov_sim_ml_1m_emr/</loc>
     <lastmod>2018-03-08T00:00:00+00:00</lastmod>
   </url>
   
@@ -213,6 +213,11 @@
   </url>
   
   <url>
+    <loc>https://andrewrgoss.com/projects/ga_reporting_api/</loc>
+    <lastmod>2016-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://andrewrgoss.com/2016/ssh-keys-with-putty-and-cygwin-for-windows/</loc>
     <lastmod>2016-08-22T00:00:00+00:00</lastmod>
   </url>
@@ -274,12 +279,6 @@
   </url>
   
   <url>
-    <loc>https://andrewrgoss.com/2018/</loc>
-    <lastmod>2018-03-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://andrewrgoss.com/about/</loc>
   </url>
   
@@ -303,7 +302,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/tags/aws/</loc>
-    <lastmod>2016-03-29T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
