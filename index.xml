@@ -489,12 +489,12 @@ The need for data talent is born from a fundamental shift: tech companies are no
     </item>
     
     <item>
-      <title>Google DCM/DFA Reporting and Trafficking API for PostgreSQL</title>
+      <title>Google DCM/DFA Reporting/Trafficking API for PostgreSQL</title>
       <link>https://andrewrgoss.com/projects/dcm-dfa-reporting-api/</link>
       <pubDate>Sun, 18 Sep 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/projects/dcm-dfa-reporting-api/</guid>
-      <description>Projects &amp;gt;&amp;gt; Google DCM/DFA Reporting and Trafficking API for PostgreSQL 
+      <description>Projects &amp;gt;&amp;gt; Google DCM/DFA Reporting/Trafficking API for PostgreSQL 
 This is a Python script I developed for programmatically generating Google DCM/DFA report data and inserting into PostgreSQL. There is additionally the option of running a report that contains floodlight tags - my code flattens this for the PostgreSQL staging table structure.
 DCM/DFA Reporting and Trafficking API v2.8 is used in this code. A detailed reference of the API can be accessed here.</description>
     </item>
@@ -649,7 +649,7 @@ by Dan Brown   The Career Break Traveler&#39;s Handbook &amp;middot;  Dec 2015</
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/projects/</guid>
-      <description>Twitter Streaming with Spark and Scala &amp;middot;  Mar 2018 &amp;middot;  spark scala data-streaming    Creating Similar Movies from One Million Ratings on EMR &amp;middot;  Mar 2018 &amp;middot;  spark scala aws    Web Scraping With Python &amp;middot;  Jan 2018 &amp;middot;  python web-scraping    Budget App &amp;middot;  Sep 2017 &amp;middot;  javascript self-study    DOM Pig Game &amp;middot;  Sep 2017 &amp;middot;  javascript self-study    Google DCM/DFA Reporting and Trafficking API for PostgreSQL &amp;middot;  Sep 2016 &amp;middot;  python    Google Analytics Reporting API for PostgreSQL &amp;middot;  Sep 2016 &amp;middot;  python    Page 1 of 2 Older &amp;rarr;  Due to client confidentiality agreements, my work-specific projects cannot be listed here.</description>
+      <description>Twitter Streaming with Spark and Scala &amp;middot;  Mar 2018 &amp;middot;  spark scala data-streaming    Creating Similar Movies from One Million Ratings on EMR &amp;middot;  Mar 2018 &amp;middot;  spark scala aws    Web Scraping With Python &amp;middot;  Jan 2018 &amp;middot;  python web-scraping    Budget App &amp;middot;  Sep 2017 &amp;middot;  javascript self-study    DOM Pig Game &amp;middot;  Sep 2017 &amp;middot;  javascript self-study    Google DCM/DFA Reporting/Trafficking API for PostgreSQL &amp;middot;  Sep 2016 &amp;middot;  python    Google Analytics Reporting API for PostgreSQL &amp;middot;  Sep 2016 &amp;middot;  python    Page 1 of 2 Older &amp;rarr;  Due to client confidentiality agreements, my work-specific projects cannot be listed here.</description>
     </item>
     
     <item>
