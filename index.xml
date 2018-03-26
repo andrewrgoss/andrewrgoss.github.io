@@ -638,7 +638,9 @@ by Dan Brown   The Career Break Traveler&#39;s Handbook &amp;middot;  Dec 2015</
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/projects/</guid>
-      <description>Twitter Streaming with Spark and Scala &amp;middot;  Mar 2018 &amp;middot;  spark scala data-streaming    Creating Similar Movies from One Million Ratings on EMR &amp;middot;  Mar 2018 &amp;middot;  spark scala aws    Web Scraping With Python &amp;middot;  Jan 2018 &amp;middot;  python web-scraping    Budget App &amp;middot;  Sep 2017 &amp;middot;  javascript self-study    DOM Pig Game &amp;middot;  Sep 2017 &amp;middot;  javascript self-study    Google Analytics Reporting API for PostgreSQL &amp;middot;  Sep 2016 &amp;middot;  python    Gologger &amp;middot;  Jan 2016 &amp;middot;  golang    Page 1 of 2 Older &amp;rarr;  Due to client confidentiality agreements, my work-specific projects cannot be listed here.</description>
+      <description>{{ $paginator := .Paginate (where .Data.Pages &amp;ldquo;Type&amp;rdquo; &amp;ldquo;projects&amp;rdquo;) }}
+{{ range $index, $page := .Paginator.Pages }} {{ .Render &amp;quot;li&amp;quot; }} {{ end }}  {{ partial &amp;ldquo;pagination.html&amp;rdquo; $paginator }}
+ </description>
     </item>
     
     <item>

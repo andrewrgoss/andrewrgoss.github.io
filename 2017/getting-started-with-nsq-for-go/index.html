@@ -72,7 +72,7 @@ What is NSQ? Per the official website, NSQ is a realtime distributed messaging p
                 "datePublished": "Mar 2017",
                 "description": "I&rsquo;ve been recently working on software application project at DigitasLBi where we adopted NSQ as part of our microservices architecture. With this post I&rsquo;d like to share how you can get started with NSQ by sending and receiving a simple message by writing some Go code.
 What is NSQ? Per the official website, NSQ is a realtime distributed messaging platform designed to operate at scale, handling billions of messages per day.",
-                "wordCount": 594,
+                "wordCount": 484,
                 "articleSection": "post",
                 "timeRequired": "0:3:0",
                 "url": "https://andrewrgoss.com/2017/getting-started-with-nsq-for-go/"
@@ -856,40 +856,7 @@ $ nsqadmin --lookupd-http-address=127.0.0.1:4161 &amp;
 
 <p>I like creating the consumer first so I can see the handler in action after pushing a message with a producer (see next <a href="#producer">section</a>).</p>
 
-<pre><code class="language-go">package main
-
-import (
-    &quot;log&quot;
-    &quot;sync&quot;
-
-    &quot;github.com/nsqio/go-nsq&quot;
-)
-
-func main() {
-    wg := &amp;sync.WaitGroup{}
-    wg.Add(1)
-
-    decodeConfig := nsq.NewConfig()
-    c, err := nsq.NewConsumer(&quot;My_NSQ_Topic&quot;, &quot;My_NSQ_Channel&quot;, decodeConfig)
-    if err != nil {
-        log.Panic(&quot;Could not create consumer&quot;)
-    }
-    //c.MaxInFlight defaults to 1
-
-    c.AddHandler(nsq.HandlerFunc(func(message *nsq.Message) error {
-        log.Println(&quot;NSQ message received:&quot;)
-        log.Println(string(message.Body))
-        return nil
-    }))
-
-    err = c.ConnectToNSQD(&quot;127.0.0.1:4150&quot;)
-    if err != nil {
-        log.Panic(&quot;Could not connect&quot;)
-    }
-    log.Println(&quot;Awaiting messages from NSQ topic \&quot;My NSQ Topic\&quot;...&quot;)
-    wg.Wait()
-}
-</code></pre>
+<script src="//gist.github.com/andrewrgoss/eba98ce6334d98a9f2f0b99cab62fd1f.js"></script>
 
 <p>Now run this consumer program:</p>
 
@@ -908,26 +875,7 @@ func main() {
 
 <p>You can publish a message with a producer with some simple code like this:</p>
 
-<pre><code class="language-go">package main
-
-import (
-  &quot;log&quot;
-
-  &quot;github.com/nsqio/go-nsq&quot;
-)
-
-func main() {
-    config := nsq.NewConfig()
-    p, err := nsq.NewProducer(&quot;127.0.0.1:4150&quot;, config)
-    if err != nil {
-        log.Panic(err)
-    }
-    err = p.Publish(&quot;My_NSQ_Topic&quot;, []byte(&quot;sample NSQ message&quot;))
-    if err != nil {
-        log.Panic(err)
-    }
-}
-</code></pre>
+<script src="//gist.github.com/andrewrgoss/f0b2f20690730c0d8b0d65c23d5b7906.js"></script>
 
 <p>Now run this publisher program:</p>
 
