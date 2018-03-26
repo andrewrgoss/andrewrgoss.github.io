@@ -8,7 +8,7 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Thu, 08 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/tags/self-study/index.xml" rel="self" type="application/rss+xml" />
     
@@ -16,10 +16,10 @@
     <item>
       <title>Udemy- Apache Spark 2.0 With Scala</title>
       <link>https://andrewrgoss.com/2018/udemy--apache-spark-2.0-with-scala/</link>
-      <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2018/udemy--apache-spark-2.0-with-scala/</guid>
-      <description>COURSE LINK
+      <description>COMPLETION CERTIFICATE
 COURSE MATERIALS
 
 Description  Learn the concepts of Spark&amp;rsquo;s Resilient Distributed Datastores Get a crash course in the Scala programming language Develop and run Spark jobs quickly using Scala Translate complex analysis problems into iterative or multi-stage Spark scripts Scale up to larger data sets using Amazon&amp;rsquo;s Elastic MapReduce service Understand how Hadoop YARN distributes Spark across computing clusters Practice using other Spark technologies, like Spark SQL, DataFrames, DataSets, Spark Streaming, and GraphX  What am I got from this course</description>
