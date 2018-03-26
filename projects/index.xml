@@ -78,6 +78,17 @@ GAME RULES:  The game has 2 players, playing in rounds In each turn, a player ro
     </item>
     
     <item>
+      <title>Google DCM/DFA Reporting and Trafficking API for PostgreSQL</title>
+      <link>https://andrewrgoss.com/projects/dcm-dfa-reporting-api/</link>
+      <pubDate>Sun, 18 Sep 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/projects/dcm-dfa-reporting-api/</guid>
+      <description>Projects &amp;gt;&amp;gt; Google DCM/DFA Reporting and Trafficking API for PostgreSQL 
+This is a Python script I developed for programmatically generating Google DCM/DFA report data and inserting into PostgreSQL. There is additionally the option of running a report that contains floodlight tags - my code flattens this for the PostgreSQL staging table structure.
+DCM/DFA Reporting and Trafficking API v2.8 is used in this code. A detailed reference of the API can be accessed here.</description>
+    </item>
+    
+    <item>
       <title>Google Analytics Reporting API for PostgreSQL</title>
       <link>https://andrewrgoss.com/projects/ga_reporting_api/</link>
       <pubDate>Sat, 17 Sep 2016 00:00:00 +0000</pubDate>
