@@ -61,32 +61,6 @@ The first place I usually turn when learning something new is to complete an int
     </item>
     
     <item>
-      <title>Budget App</title>
-      <link>https://andrewrgoss.com/projects/budget_app/</link>
-      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>https://andrewrgoss.com/projects/budget_app/</guid>
-      <description>Udemy- Complete JavaScript Course &amp;gt;&amp;gt; My projects
-Planning Guide
-View project 
-This project put all kinds of different JavaScript concepts from the Complete JavaScript Course I completed into practice.
-View my project
-View my code on GitHub</description>
-    </item>
-    
-    <item>
-      <title>DOM Pig Game</title>
-      <link>https://andrewrgoss.com/projects/dom_pig_game/</link>
-      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>https://andrewrgoss.com/projects/dom_pig_game/</guid>
-      <description>Udemy- Complete JavaScript Course &amp;gt;&amp;gt; My projects
-
-Part of the Complete JavaScript Course I completed, this project put JavaScript concepts from the section on DOM manipulation and events into practice.
-GAME RULES:  The game has 2 players, playing in rounds In each turn, a player rolls a dice as many times as he/she wishes. Each result get added to his ROUND score BUT, if the player rolls a 1, all his/her ROUND score gets lost.</description>
-    </item>
-    
-    <item>
       <title>Udemy- Complete JavaScript Course</title>
       <link>https://andrewrgoss.com/2017/udemy--complete-javascript-course/</link>
       <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>

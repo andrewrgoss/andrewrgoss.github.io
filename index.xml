@@ -33,7 +33,7 @@ Description  Learn the concepts of Spark&amp;rsquo;s Resilient Distributed Datas
       <guid>https://andrewrgoss.com/projects/twitter_streaming/</guid>
       <description>Udemy- Apache Spark 2.0 With Scala &amp;gt;&amp;gt; Twitter Streaming
 
-Go to: DataChatter
+Go to: DataChatter | TweetLength
 PopularHashtags.scala This is a Spark streaming script that monitors live tweets from Twitter and keeps track of the 10 most popular hashtags as tweets are received.
 Each hashtag is mapped to a key/value pair of (hashtag, 1) so they can be counted up over a 5-minute sliding window with this line of code:
 val hashtagCounts = hashtagKeyValues.</description>

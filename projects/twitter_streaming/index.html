@@ -32,19 +32,19 @@
         
         <meta name="description" content="Udemy- Apache Spark 2.0 With Scala &gt;&gt; Twitter Streaming
 
-Go to: DataChatter
+Go to: DataChatter | TweetLength
 PopularHashtags.scala This is a Spark streaming script that monitors live tweets from Twitter and keeps track of the 10 most popular hashtags as tweets are received.
 Each hashtag is mapped to a key/value pair of (hashtag, 1) so they can be counted up over a 5-minute sliding window with this line of code:
 val hashtagCounts = hashtagKeyValues." />
         <meta name="twitter:description" content="Udemy- Apache Spark 2.0 With Scala &gt;&gt; Twitter Streaming
 
-Go to: DataChatter
+Go to: DataChatter | TweetLength
 PopularHashtags.scala This is a Spark streaming script that monitors live tweets from Twitter and keeps track of the 10 most popular hashtags as tweets are received.
 Each hashtag is mapped to a key/value pair of (hashtag, 1) so they can be counted up over a 5-minute sliding window with this line of code:
 val hashtagCounts = hashtagKeyValues." />
         <meta property="og:description" content="Udemy- Apache Spark 2.0 With Scala &gt;&gt; Twitter Streaming
 
-Go to: DataChatter
+Go to: DataChatter | TweetLength
 PopularHashtags.scala This is a Spark streaming script that monitors live tweets from Twitter and keeps track of the 10 most popular hashtags as tweets are received.
 Each hashtag is mapped to a key/value pair of (hashtag, 1) so they can be counted up over a 5-minute sliding window with this line of code:
 val hashtagCounts = hashtagKeyValues." />
@@ -84,11 +84,11 @@ val hashtagCounts = hashtagKeyValues." />
                 "datePublished": "Mar 2018",
                 "description": "Udemy- Apache Spark 2.0 With Scala &gt;&gt; Twitter Streaming
 
-Go to: DataChatter
+Go to: DataChatter | TweetLength
 PopularHashtags.scala This is a Spark streaming script that monitors live tweets from Twitter and keeps track of the 10 most popular hashtags as tweets are received.
 Each hashtag is mapped to a key/value pair of (hashtag, 1) so they can be counted up over a 5-minute sliding window with this line of code:
 val hashtagCounts = hashtagKeyValues.",
-                "wordCount": 504,
+                "wordCount": 573,
                 "articleSection": "projects",
                 "timeRequired": "0:3:0",
                 "url": "https://andrewrgoss.com/projects/twitter_streaming/"
@@ -832,7 +832,7 @@ h2.resources
 <hr></p>
 
 <p>Go to:
-<a href="#data_chatter">DataChatter</a></p>
+<a href="#data_chatter">DataChatter</a> | <a href="#tweet_length">TweetLength</a></p>
 
 <h2 id="popularhashtags-scala">PopularHashtags.scala</h2>
 
@@ -871,6 +871,18 @@ h2.resources
 <li>At the time I streamed these tweets, there was a hot story in the news about a political data mining company called <a href="https://en.wikipedia.org/wiki/Cambridge_Analytica" target=_>Cambridge Analytica</a> and how they used personal information acquired from Facebook without users&rsquo; permission. In response, Facebook banned Cambridge Analytica from advertising on its platform but the company was slow to respond and its stock valuation took a huge hit.</li>
 <li>The top four words in tweets relating to data all pertained to this scandal and an additional two words &lsquo;mark&rsquo; and &lsquo;obama&rsquo; also can be tied to it.</li>
 <li>The &lsquo;weather&rsquo; word also makes sense since there was an expected nor&rsquo;easter storm to hit on the day I streamed these tweets, with forecasts calling for 8-10 inches of snow in the Boston area where I live. The forecast models ended up being completely wrong and there was basically a dusting with about an inch of snow which likely caused people to question the data behind these weather models.</li>
+</ul>
+
+<h2 id="a-name-tweet-length-a-tweetlength-scala"><a name="tweet_length"></a> TweetLength.scala</h2>
+
+<p>Another self-challenge I completed was creating a new script to see what the most common length of live tweets is. I again used a 5-minute window that slides every one second. These were the most common number of characters per tweet at runtime:</p>
+
+<script src="//gist.github.com/andrewrgoss/3853ac19211ec5d02f14054f6436cbcd.js"></script>
+
+<h4 id="takeaways-2">Takeaways</h4>
+
+<ul>
+<li>People on Twitter have a lot to say. Most people hit exactly the maximum 140-character limit, or push right up against it.</li>
 </ul>
 
 <p><a href="https://github.com/andrewrgoss/udemy-spark-scala/tree/master/twitter_streaming" class="btn" target="_blank">View my code on GitHub</a><br><br></p>
@@ -930,7 +942,7 @@ h2.resources
       </li>
 	  
 	  <li class="linkedin">
-          <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://andrewrgoss.com/projects/twitter_streaming/&amp;title=Twitter%20Streaming%20with%20Spark%20and%20Scala&amp;summary=Udemy-%20Apache%20Spark%202.0%20With%20Scala%20%26gt%3b%26gt%3b%20Twitter%20Streaming%0a%0aGo%20to%3a%20DataChatter%0aPopularHashtags.scala%20This%20is%20a%20Spark%20streaming%20script%20that%20monitors%20live%20tweets%20from%20Twitter%20and%20keeps%20track%20of%20the%2010%20most%20popular%20hashtags%20as%20tweets%20are%20received.%0aEach%20hashtag%20is%20mapped%20to%20a%20key%2fvalue%20pair%20of%20%28hashtag%2c%201%29%20so%20they%20can%20be%20counted%20up%20over%20a%205-minute%20sliding%20window%20with%20this%20line%20of%20code%3a%0aval%20hashtagCounts%20%3d%20hashtagKeyValues...." class="popup">
+          <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://andrewrgoss.com/projects/twitter_streaming/&amp;title=Twitter%20Streaming%20with%20Spark%20and%20Scala&amp;summary=Udemy-%20Apache%20Spark%202.0%20With%20Scala%20%26gt%3b%26gt%3b%20Twitter%20Streaming%0a%0aGo%20to%3a%20DataChatter%20%7c%20TweetLength%0aPopularHashtags.scala%20This%20is%20a%20Spark%20streaming%20script%20that%20monitors%20live%20tweets%20from%20Twitter%20and%20keeps%20track%20of%20the%2010%20most%20popular%20hashtags%20as%20tweets%20are%20received.%0aEach%20hashtag%20is%20mapped%20to%20a%20key%2fvalue%20pair%20of%20%28hashtag%2c%201%29%20so%20they%20can%20be%20counted%20up%20over%20a%205-minute%20sliding%20window%20with%20this%20line%20of%20code%3a%0aval%20hashtagCounts%20%3d%20hashtagKeyValues...." class="popup">
               <span class="icon">
                   <svg version="1.1" id="btn-li" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="28px" height="28px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve">
                       <path d="M25.424,15.887v8.447h-4.896v-7.882c0-1.979-0.709-3.331-2.48-3.331c-1.354,0-2.158,0.911-2.514,1.803 c-0.129,0.315-0.162,0.753-0.162,1.194v8.216h-4.899c0,0,0.066-13.349,0-14.731h4.899v2.088c-0.01,0.016-0.023,0.032-0.033,0.048 h0.033V11.69c0.65-1.002,1.812-2.435,4.414-2.435C23.008,9.254,25.424,11.361,25.424,15.887z M5.348,2.501 c-1.676,0-2.772,1.092-2.772,2.539c0,1.421,1.066,2.538,2.717,2.546h0.032c1.709,0,2.771-1.132,2.771-2.546 C8.054,3.593,7.019,2.501,5.343,2.501H5.348z M2.867,24.334h4.897V9.603H2.867V24.334z"/>
