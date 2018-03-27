@@ -14,12 +14,12 @@
     
     
     <item>
-      <title>Web Scraping With Python</title>
+      <title>Web Scraping with Python</title>
       <link>https://andrewrgoss.com/projects/web_scraping_py/</link>
       <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/projects/web_scraping_py/</guid>
-      <description>Projects &amp;gt;&amp;gt; Web Scraping With Python
+      <description>Projects &amp;gt;&amp;gt; Web Scraping with Python
 
 Following a Boston Python Project Night event that I attended (where my group focused on web scraping techniques), I wanted to try out some web scraping on my own with Python.
  Web scraping is a technique used to extract data from websites through an automated process.
