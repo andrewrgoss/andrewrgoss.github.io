@@ -289,6 +289,16 @@ My team was at forefront of this transformation. We were developing new skills, 
     </item>
     
     <item>
+      <title>HDFS DCM Matchtables V2</title>
+      <link>https://andrewrgoss.com/projects/hdfs_dcm_v2_logs/</link>
+      <pubDate>Mon, 16 Jan 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/projects/hdfs_dcm_v2_logs/</guid>
+      <description>Projects &amp;gt;&amp;gt; HDFS DCM Matchtables V2 
+Overview This is my code that pulls down daily DoubleClick Campaign Manager (DCM) log files (v2) from Google Cloud Storage (GCS) and loads them into Hadoop Distributed File System (HDFS) for use in Hive queries. The script fully replaces matchtable_v2 files with each day&amp;rsquo;s new log file on HDFS. Match tables are demoed here, but it is imperative to frequently download other log files that change more often (ex.</description>
+    </item>
+    
+    <item>
       <title>Big Data University- Hadoop 101</title>
       <link>https://andrewrgoss.com/2017/big-data-university--hadoop-101/lesson_transcripts_labs/</link>
       <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
