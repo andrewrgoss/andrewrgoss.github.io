@@ -51,6 +51,19 @@ I completed an exercise of compiling a .jar file from my Scala code through Inte
     </item>
     
     <item>
+      <title>DataOps- Next Gen Data Engineering Organization</title>
+      <link>https://andrewrgoss.com/2018/dataops--next-gen-data-engineering-organization/</link>
+      <pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2018/dataops--next-gen-data-engineering-organization/</guid>
+      <description>Large enterprises are experiencing a foundational shift in how they view their data and structure their data engineering teams. As organizations capture more data than ever before, and store it in an ever-increasing variety of data stores, the prospect of competing on analytics becomes more tantalizing than ever.
+  written by Andy Palmer
+View original article
+
+The challenges of using data at scale, however, is rooted in the &amp;ldquo;data debt&amp;rdquo; accumulated over time by enterprises struggling to manage the extreme volume and variety of their data.</description>
+    </item>
+    
+    <item>
       <title>Learning How to Learn</title>
       <link>https://andrewrgoss.com/2018/learning-how-to-learn/</link>
       <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>

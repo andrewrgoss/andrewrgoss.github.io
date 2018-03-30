@@ -8,10 +8,23 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/tags/data-engineering/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DataOps- Next Gen Data Engineering Organization</title>
+      <link>https://andrewrgoss.com/2018/dataops--next-gen-data-engineering-organization/</link>
+      <pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2018/dataops--next-gen-data-engineering-organization/</guid>
+      <description>Large enterprises are experiencing a foundational shift in how they view their data and structure their data engineering teams. As organizations capture more data than ever before, and store it in an ever-increasing variety of data stores, the prospect of competing on analytics becomes more tantalizing than ever.
+  written by Andy Palmer
+View original article
+
+The challenges of using data at scale, however, is rooted in the &amp;ldquo;data debt&amp;rdquo; accumulated over time by enterprises struggling to manage the extreme volume and variety of their data.</description>
+    </item>
     
     <item>
       <title>Becoming a Data Engineer</title>
