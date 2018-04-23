@@ -8,10 +8,21 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Tue, 23 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/tags/career-management/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Complete Software Developer&#39;s Career Guide</title>
+      <link>https://andrewrgoss.com/books/complete_software_dev_career_guide/</link>
+      <pubDate>Sun, 11 Feb 2018 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/books/complete_software_dev_career_guide/</guid>
+      <description>Books &amp;gt;&amp;gt; The Complete Software Developer&amp;rsquo;s Career Guide
+ Book resources and links
+Digital toolkit</description>
+    </item>
     
     <item>
       <title>Learning How to Learn</title>
@@ -47,17 +58,6 @@ View original article
 
 Do you ever feel like you are confident in only one particular field? Like you know only one tiny corner of the vast software universe? Then, the minute you try to escape it and work on something different, you get frustrated. And if you need to build a complete, functional project—from scratch—with:
 Initial research and machine setup (packages, installments)Managing dependencies (libraries, build tools, automations)The whole business logic plus high test coverageProduction deployment … then somebody else has to do everything except the little corner of your comfort zone?</description>
-    </item>
-    
-    <item>
-      <title>The Complete Software Developer&#39;s Career Guide</title>
-      <link>https://andrewrgoss.com/books/complete_software_dev_career_guide/</link>
-      <pubDate>Fri, 15 Sep 2017 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>https://andrewrgoss.com/books/complete_software_dev_career_guide/</guid>
-      <description>Books &amp;gt;&amp;gt; The Complete Software Developer&amp;rsquo;s Career Guide
- Book resources and links
-Digital toolkit</description>
     </item>
     
   </channel>
