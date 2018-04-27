@@ -516,11 +516,11 @@ Jupyter Notebooks
     </item>
     
     <item>
-      <title>Data Engineers vs. Data Scientists</title>
-      <link>https://andrewrgoss.com/2016/data-engineers-vs.-data-scientists/</link>
+      <title>Comparing Data Engineers &amp; Data Scientists</title>
+      <link>https://andrewrgoss.com/2016/comparing-data-engineers--data-scientists/</link>
       <pubDate>Thu, 29 Sep 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>https://andrewrgoss.com/2016/data-engineers-vs.-data-scientists/</guid>
+      <guid>https://andrewrgoss.com/2016/comparing-data-engineers--data-scientists/</guid>
       <description>Data engineer and data scientist are the two most popular career tracks in big data - but how do they compare? At a high level, data engineers are concerned with data infrastructure, while data scientists are concerned with analysis.
 Like data scientists, data engineers write code. They’re highly analytical, and are interested in data visualization. Unlike data scientists — and inspired by a more mature parent, software engineering — data engineers build tools, infrastructure, frameworks, and services.</description>
     </item>
