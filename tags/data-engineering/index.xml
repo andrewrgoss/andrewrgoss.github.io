@@ -8,10 +8,24 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Thu, 08 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/tags/data-engineering/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Data Engineers vs. Data Scientists</title>
+      <link>https://andrewrgoss.com/2018/data-engineers-vs.-data-scientists/</link>
+      <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2018/data-engineers-vs.-data-scientists/</guid>
+      <description>The two positions are not interchangeable—and misperceptions of their roles can hurt teams and compromise productivity.
+ written by Jesse Anderson
+View original article
+
+It’s important to understand the differences between a data engineer and a data scientist. Misunderstanding or not knowing these differences are making teams fail or underperform with big data.
+A key misunderstanding is the strengths and weaknesses of each position. I think some of these misconceptions come from the diagrams that are used to describe data scientists and data engineers.</description>
+    </item>
     
     <item>
       <title>DataOps- Next Gen Data Engineering Organization</title>
