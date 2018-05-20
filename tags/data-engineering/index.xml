@@ -8,10 +8,24 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Wed, 11 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/tags/data-engineering/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Getting Started with Data Engineering</title>
+      <link>https://andrewrgoss.com/2018/getting-started-with-data-engineering/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2018/getting-started-with-data-engineering/</guid>
+      <description>written by Richard Taylor
+
+This is an excellent overview article that covers essential knowledge areas related to data engineering. Specifically the author digs into the following topics:
+ A brief history of the big data sector and why it exists.
+ What is big data? Terminology guide  What a data engineer is and how and why the role came to be.
+ What is a data engineer? Fundamentals and ongoing trends Roles and responsibilities as a data engineer  Big picture overview of the technologies data engineers have been using thus far.</description>
+    </item>
     
     <item>
       <title>Data Engineers vs. Data Scientists</title>
