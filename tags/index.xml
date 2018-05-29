@@ -61,7 +61,7 @@
     <item>
       <title>Cloud Computing</title>
       <link>https://andrewrgoss.com/tags/cloud-computing/</link>
-      <pubDate>Tue, 29 Mar 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/tags/cloud-computing/</guid>
       <description></description>
@@ -88,7 +88,7 @@
     <item>
       <title>Data Engineering</title>
       <link>https://andrewrgoss.com/tags/data-engineering/</link>
-      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/tags/data-engineering/</guid>
       <description></description>
@@ -127,6 +127,15 @@
       <pubDate>Fri, 20 May 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/tags/events/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gcp</title>
+      <link>https://andrewrgoss.com/tags/gcp/</link>
+      <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/tags/gcp/</guid>
       <description></description>
     </item>
     
