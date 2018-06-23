@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_big_data_ml_fundamentals/</loc>
+    <lastmod>2018-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/</loc>
-    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -309,6 +314,12 @@
   </url>
   
   <url>
+    <loc>https://andrewrgoss.com/2018/</loc>
+    <lastmod>2018-06-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://andrewrgoss.com/about/</loc>
   </url>
   
@@ -326,7 +337,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/</loc>
-    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -354,7 +365,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/tags/cloud-computing/</loc>
-    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -372,7 +383,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/tags/data-engineering/</loc>
-    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -402,7 +413,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/tags/gcp/</loc>
-    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -443,6 +454,12 @@
   </url>
   
   <url>
+    <loc>https://andrewrgoss.com/tags/machine-learning/</loc>
+    <lastmod>2018-06-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://andrewrgoss.com/tags/nsq/</loc>
     <lastmod>2017-03-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -450,7 +467,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/post/</loc>
-    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
