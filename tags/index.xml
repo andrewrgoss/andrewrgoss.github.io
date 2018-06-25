@@ -61,7 +61,7 @@
     <item>
       <title>Cloud Computing</title>
       <link>https://andrewrgoss.com/tags/cloud-computing/</link>
-      <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/tags/cloud-computing/</guid>
       <description></description>
@@ -82,6 +82,15 @@
       <pubDate>Mon, 22 Aug 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/tags/cygwin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Analysis</title>
+      <link>https://andrewrgoss.com/tags/data-analysis/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/tags/data-analysis/</guid>
       <description></description>
     </item>
     
@@ -133,7 +142,7 @@
     <item>
       <title>Gcp</title>
       <link>https://andrewrgoss.com/tags/gcp/</link>
-      <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/tags/gcp/</guid>
       <description></description>
@@ -280,6 +289,15 @@
       <pubDate>Mon, 22 Aug 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/tags/ssh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unstructured Data</title>
+      <link>https://andrewrgoss.com/tags/unstructured-data/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/tags/unstructured-data/</guid>
       <description></description>
     </item>
     
