@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_streaming_systems/</loc>
+    <lastmod>2018-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_unstructured_dataproc/</loc>
     <lastmod>2018-06-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_serverless_data_analysis/</loc>
+    <lastmod>2018-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_serverless_ml/</loc>
     <lastmod>2018-06-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -411,7 +421,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/tags/data-streaming/</loc>
-    <lastmod>2018-03-22T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -471,7 +481,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/tags/machine-learning/</loc>
-    <lastmod>2018-06-22T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

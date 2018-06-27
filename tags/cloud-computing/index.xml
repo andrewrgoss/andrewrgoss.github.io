@@ -14,6 +14,18 @@
     
     
     <item>
+      <title>Coursera- Building Resilient Streaming Systems on GCP</title>
+      <link>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_streaming_systems/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_streaming_systems/</guid>
+      <description> 
+COURSE LINK
+GCP Professional Data Engineer Certification &amp;gt;&amp;gt; Building Resilient Streaming Systems 
+Module Lab Exercises Module Review Notes Resources </description>
+    </item>
+    
+    <item>
       <title>Coursera- Leveraging Unstructured Data with Cloud Dataproc on GCP</title>
       <link>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_unstructured_dataproc/</link>
       <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
@@ -34,6 +46,18 @@ Module Lab Exercises Module Review Notes Resources </description>
       <description> 
 COURSE LINK
 GCP Professional Data Engineer Certification &amp;gt;&amp;gt; Serverless Data Analysis with Google BigQuery and Cloud Dataflow 
+Module Lab Exercises Module Review Notes Resources </description>
+    </item>
+    
+    <item>
+      <title>Coursera- Serverless Machine Learning with Tensorflow on GCP</title>
+      <link>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_serverless_ml/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_serverless_ml/</guid>
+      <description> 
+COURSE LINK
+GCP Professional Data Engineer Certification &amp;gt;&amp;gt; Serverless Machine Learning with Tensorflow 
 Module Lab Exercises Module Review Notes Resources </description>
     </item>
     
