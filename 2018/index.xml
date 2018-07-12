@@ -61,17 +61,5 @@ GCP Professional Data Engineer Certification &amp;gt;&amp;gt; Big Data and Machi
 Module Lab Exercises Module 2: Foundations of GCP Compute and Storage  Create a Compute Engine Instance Interact with Cloud Storage  Module 3: Data Analysis on the Cloud  Setup Rentals Data in Cloud SQL Recommendations ML with Dataproc  Module 4: Scaling Data Analysis: Compute with GCP  Create ML dataset with BigQuery Carry out ML with TensorFLow Invoke Machine Learning APIs  View my code on GitHub</description>
     </item>
     
-    <item>
-      <title>Coursera- Leveraging Unstructured Data with Cloud Dataproc on GCP</title>
-      <link>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_unstructured_dataproc/</link>
-      <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_unstructured_dataproc/</guid>
-      <description> 
-COURSE LINK
-GCP Professional Data Engineer Certification &amp;gt;&amp;gt; Leveraging Unstructured Data with Cloud Dataproc 
-Module Lab Exercises What Qualifies as Unstructured Data? Dataproc Eases Hadoop Management Module Review Notes Resources </description>
-    </item>
-    
   </channel>
 </rss>
