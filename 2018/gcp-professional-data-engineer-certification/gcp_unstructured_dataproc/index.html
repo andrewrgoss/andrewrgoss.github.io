@@ -32,13 +32,13 @@
         
         <meta name="description" content="COURSE LINK
 GCP Professional Data Engineer Certification &gt;&gt; Leveraging Unstructured Data with Cloud Dataproc 
-Module Lab Exercises Module 1: Introduction to Cloud Dataproc  Create a Dataproc Cluster  Prepare a bucket and a cluster initialization script Create a Dataproc Hadoop Cluster customized to use Google Cloud API Enable secure access to Dataproc cluster Explore Hadoop operations   Module 2: Running Dataproc jobs  Work with structured and semi-structured data Submit Dataproc jobs for unstructured data  Module 3: Leveraging GCP  Leverage GCP Cluster automation using CLI commands  Module 4: Analyzing Unstructured Data  Add Machine Learning  What Qualifies as Unstructured Data?" />
+Module Lab Exercises Module 1: Introduction to Cloud Dataproc  Create a Dataproc Cluster  Prepare a bucket and a cluster initialization script Create a Dataproc Hadoop Cluster customized to use Google Cloud API Enable secure access to Dataproc cluster Explore Hadoop operations   Module 2: Running Dataproc jobs  Work with structured and semi-structured data  Use the Hive CLI and run a Pig job Hive is used for structured data, similar to SQL Pig is used for semi-structured data, similar to SQL &#43; scripting  Submit Dataproc jobs for unstructured data  Module 3: Leveraging GCP  Leverage GCP Cluster automation using CLI commands  Module 4: Analyzing Unstructured Data  Add Machine Learning  What Qualifies as Unstructured Data?" />
         <meta name="twitter:description" content="COURSE LINK
 GCP Professional Data Engineer Certification &gt;&gt; Leveraging Unstructured Data with Cloud Dataproc 
-Module Lab Exercises Module 1: Introduction to Cloud Dataproc  Create a Dataproc Cluster  Prepare a bucket and a cluster initialization script Create a Dataproc Hadoop Cluster customized to use Google Cloud API Enable secure access to Dataproc cluster Explore Hadoop operations   Module 2: Running Dataproc jobs  Work with structured and semi-structured data Submit Dataproc jobs for unstructured data  Module 3: Leveraging GCP  Leverage GCP Cluster automation using CLI commands  Module 4: Analyzing Unstructured Data  Add Machine Learning  What Qualifies as Unstructured Data?" />
+Module Lab Exercises Module 1: Introduction to Cloud Dataproc  Create a Dataproc Cluster  Prepare a bucket and a cluster initialization script Create a Dataproc Hadoop Cluster customized to use Google Cloud API Enable secure access to Dataproc cluster Explore Hadoop operations   Module 2: Running Dataproc jobs  Work with structured and semi-structured data  Use the Hive CLI and run a Pig job Hive is used for structured data, similar to SQL Pig is used for semi-structured data, similar to SQL &#43; scripting  Submit Dataproc jobs for unstructured data  Module 3: Leveraging GCP  Leverage GCP Cluster automation using CLI commands  Module 4: Analyzing Unstructured Data  Add Machine Learning  What Qualifies as Unstructured Data?" />
         <meta property="og:description" content="COURSE LINK
 GCP Professional Data Engineer Certification &gt;&gt; Leveraging Unstructured Data with Cloud Dataproc 
-Module Lab Exercises Module 1: Introduction to Cloud Dataproc  Create a Dataproc Cluster  Prepare a bucket and a cluster initialization script Create a Dataproc Hadoop Cluster customized to use Google Cloud API Enable secure access to Dataproc cluster Explore Hadoop operations   Module 2: Running Dataproc jobs  Work with structured and semi-structured data Submit Dataproc jobs for unstructured data  Module 3: Leveraging GCP  Leverage GCP Cluster automation using CLI commands  Module 4: Analyzing Unstructured Data  Add Machine Learning  What Qualifies as Unstructured Data?" />
+Module Lab Exercises Module 1: Introduction to Cloud Dataproc  Create a Dataproc Cluster  Prepare a bucket and a cluster initialization script Create a Dataproc Hadoop Cluster customized to use Google Cloud API Enable secure access to Dataproc cluster Explore Hadoop operations   Module 2: Running Dataproc jobs  Work with structured and semi-structured data  Use the Hive CLI and run a Pig job Hive is used for structured data, similar to SQL Pig is used for semi-structured data, similar to SQL &#43; scripting  Submit Dataproc jobs for unstructured data  Module 3: Leveraging GCP  Leverage GCP Cluster automation using CLI commands  Module 4: Analyzing Unstructured Data  Add Machine Learning  What Qualifies as Unstructured Data?" />
         
         <meta name="twitter:site" content="@Andrewrgoss" />
         <meta name="twitter:creator" content="@Andrewrgoss" />
@@ -75,10 +75,10 @@ Module Lab Exercises Module 1: Introduction to Cloud Dataproc  Create a Dataproc
                 "datePublished": "Jun 2018",
                 "description": "COURSE LINK
 GCP Professional Data Engineer Certification &gt;&gt; Leveraging Unstructured Data with Cloud Dataproc 
-Module Lab Exercises Module 1: Introduction to Cloud Dataproc  Create a Dataproc Cluster  Prepare a bucket and a cluster initialization script Create a Dataproc Hadoop Cluster customized to use Google Cloud API Enable secure access to Dataproc cluster Explore Hadoop operations   Module 2: Running Dataproc jobs  Work with structured and semi-structured data Submit Dataproc jobs for unstructured data  Module 3: Leveraging GCP  Leverage GCP Cluster automation using CLI commands  Module 4: Analyzing Unstructured Data  Add Machine Learning  What Qualifies as Unstructured Data?",
-                "wordCount": 133,
+Module Lab Exercises Module 1: Introduction to Cloud Dataproc  Create a Dataproc Cluster  Prepare a bucket and a cluster initialization script Create a Dataproc Hadoop Cluster customized to use Google Cloud API Enable secure access to Dataproc cluster Explore Hadoop operations   Module 2: Running Dataproc jobs  Work with structured and semi-structured data  Use the Hive CLI and run a Pig job Hive is used for structured data, similar to SQL Pig is used for semi-structured data, similar to SQL + scripting  Submit Dataproc jobs for unstructured data  Module 3: Leveraging GCP  Leverage GCP Cluster automation using CLI commands  Module 4: Analyzing Unstructured Data  Add Machine Learning  What Qualifies as Unstructured Data?",
+                "wordCount": 277,
                 "articleSection": "2018",
-                "timeRequired": "0:1:0",
+                "timeRequired": "0:2:0",
                 "url": "https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_unstructured_dataproc/"
             }
         </script>
@@ -883,7 +883,13 @@ h2.resources
 <h4 id="module-2-running-dataproc-jobs">Module 2: Running Dataproc jobs</h4>
 
 <ul>
-<li>Work with structured and semi-structured data</li>
+<li>Work with structured and semi-structured data
+
+<ul>
+<li>Use the Hive CLI and run a Pig job</li>
+<li>Hive is used for structured data, similar to SQL</li>
+<li>Pig is used for semi-structured data, similar to SQL + scripting</li>
+</ul></li>
 <li>Submit Dataproc jobs for unstructured data</li>
 </ul>
 
@@ -920,6 +926,8 @@ h2.resources
 
 <ul>
 <li>Use Cloud storage instead of HDFS so you can shut down a Hadoop cluster when it is not actually running a job.</li>
+<li>Hive is designed for batch jobs and not for transactions. It ingests data into a data warehouse format requiring a schema. It does not support real-time queries, row-level updates, or unstructured data. Some queries may run much slower than others due to the underlying transformations Hive has to implement to simulate SQL.</li>
+<li>Pig provides SQL primitives similar to Hive, but in a more flexible scripting language format. Pig can also deal with semi-structured data, such as data having partial schemas, or for which the schema is not yet known. For this reason it is sometimes used for Extract Transform Load (ETL). It generates Java MapReduce jobs. Pig is not designed to deal with unstructured data.</li>
 </ul>
 
 <h3 id="resources">Resources</h3>
@@ -979,7 +987,7 @@ h2.resources
       </li>
 	  
 	  <li class="linkedin">
-          <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_unstructured_dataproc/&amp;title=Coursera-%20Leveraging%20Unstructured%20Data%20with%20Cloud%20Dataproc%20on%20GCP&amp;summary=COURSE%20LINK%0aGCP%20Professional%20Data%20Engineer%20Certification%20%26gt%3b%26gt%3b%20Leveraging%20Unstructured%20Data%20with%20Cloud%20Dataproc%20%0aModule%20Lab%20Exercises%20Module%201%3a%20Introduction%20to%20Cloud%20Dataproc%20%20Create%20a%20Dataproc%20Cluster%20%20Prepare%20a%20bucket%20and%20a%20cluster%20initialization%20script%20Create%20a%20Dataproc%20Hadoop%20Cluster%20customized%20to%20use%20Google%20Cloud%20API%20Enable%20secure%20access%20to%20Dataproc%20cluster%20Explore%20Hadoop%20operations%20%20%20Module%202%3a%20Running%20Dataproc%20jobs%20%20Work%20with%20structured%20and%20semi-structured%20data%20Submit%20Dataproc%20jobs%20for%20unstructured%20data%20%20Module%203%3a%20Leveraging%20GCP%20%20Leverage%20GCP%20Cluster%20automation%20using%20CLI%20commands%20%20Module%204%3a%20Analyzing%20Unstructured%20Data%20%20Add%20Machine%20Learning%20%20What%20Qualifies%20as%20Unstructured%20Data%3f..." class="popup">
+          <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_unstructured_dataproc/&amp;title=Coursera-%20Leveraging%20Unstructured%20Data%20with%20Cloud%20Dataproc%20on%20GCP&amp;summary=COURSE%20LINK%0aGCP%20Professional%20Data%20Engineer%20Certification%20%26gt%3b%26gt%3b%20Leveraging%20Unstructured%20Data%20with%20Cloud%20Dataproc%20%0aModule%20Lab%20Exercises%20Module%201%3a%20Introduction%20to%20Cloud%20Dataproc%20%20Create%20a%20Dataproc%20Cluster%20%20Prepare%20a%20bucket%20and%20a%20cluster%20initialization%20script%20Create%20a%20Dataproc%20Hadoop%20Cluster%20customized%20to%20use%20Google%20Cloud%20API%20Enable%20secure%20access%20to%20Dataproc%20cluster%20Explore%20Hadoop%20operations%20%20%20Module%202%3a%20Running%20Dataproc%20jobs%20%20Work%20with%20structured%20and%20semi-structured%20data%20%20Use%20the%20Hive%20CLI%20and%20run%20a%20Pig%20job%20Hive%20is%20used%20for%20structured%20data%2c%20similar%20to%20SQL%20Pig%20is%20used%20for%20semi-structured%20data%2c%20similar%20to%20SQL%20%2b%20scripting%20%20Submit%20Dataproc%20jobs%20for%20unstructured%20data%20%20Module%203%3a%20Leveraging%20GCP%20%20Leverage%20GCP%20Cluster%20automation%20using%20CLI%20commands%20%20Module%204%3a%20Analyzing%20Unstructured%20Data%20%20Add%20Machine%20Learning%20%20What%20Qualifies%20as%20Unstructured%20Data%3f..." class="popup">
               <span class="icon">
                   <svg version="1.1" id="btn-li" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="28px" height="28px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve">
                       <path d="M25.424,15.887v8.447h-4.896v-7.882c0-1.979-0.709-3.331-2.48-3.331c-1.354,0-2.158,0.911-2.514,1.803 c-0.129,0.315-0.162,0.753-0.162,1.194v8.216h-4.899c0,0,0.066-13.349,0-14.731h4.899v2.088c-0.01,0.016-0.023,0.032-0.033,0.048 h0.033V11.69c0.65-1.002,1.812-2.435,4.414-2.435C23.008,9.254,25.424,11.361,25.424,15.887z M5.348,2.501 c-1.676,0-2.772,1.092-2.772,2.539c0,1.421,1.066,2.538,2.717,2.546h0.032c1.709,0,2.771-1.132,2.771-2.546 C8.054,3.593,7.019,2.501,5.343,2.501H5.348z M2.867,24.334h4.897V9.603H2.867V24.334z"/>

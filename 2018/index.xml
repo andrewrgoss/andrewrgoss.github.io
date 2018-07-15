@@ -69,7 +69,7 @@ Module Lab Exercises Module 2: Foundations of GCP Compute and Storage  Create a 
       <guid>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_unstructured_dataproc/</guid>
       <description>COURSE LINK
 GCP Professional Data Engineer Certification &amp;gt;&amp;gt; Leveraging Unstructured Data with Cloud Dataproc 
-Module Lab Exercises Module 1: Introduction to Cloud Dataproc  Create a Dataproc Cluster  Prepare a bucket and a cluster initialization script Create a Dataproc Hadoop Cluster customized to use Google Cloud API Enable secure access to Dataproc cluster Explore Hadoop operations   Module 2: Running Dataproc jobs  Work with structured and semi-structured data Submit Dataproc jobs for unstructured data  Module 3: Leveraging GCP  Leverage GCP Cluster automation using CLI commands  Module 4: Analyzing Unstructured Data  Add Machine Learning  What Qualifies as Unstructured Data?</description>
+Module Lab Exercises Module 1: Introduction to Cloud Dataproc  Create a Dataproc Cluster  Prepare a bucket and a cluster initialization script Create a Dataproc Hadoop Cluster customized to use Google Cloud API Enable secure access to Dataproc cluster Explore Hadoop operations   Module 2: Running Dataproc jobs  Work with structured and semi-structured data  Use the Hive CLI and run a Pig job Hive is used for structured data, similar to SQL Pig is used for semi-structured data, similar to SQL + scripting  Submit Dataproc jobs for unstructured data  Module 3: Leveraging GCP  Leverage GCP Cluster automation using CLI commands  Module 4: Analyzing Unstructured Data  Add Machine Learning  What Qualifies as Unstructured Data?</description>
     </item>
     
   </channel>
