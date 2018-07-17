@@ -76,7 +76,7 @@ Module Lab Exercises Module 1: Introduction to Cloud Dataproc  Create a Dataproc
                 "description": "COURSE LINK
 GCP Professional Data Engineer Certification &gt;&gt; Leveraging Unstructured Data with Cloud Dataproc 
 Module Lab Exercises Module 1: Introduction to Cloud Dataproc  Create a Dataproc Cluster  Prepare a bucket and a cluster initialization script Create a Dataproc Hadoop Cluster customized to use Google Cloud API Enable secure access to Dataproc cluster Explore Hadoop operations   Module 2: Running Dataproc jobs  Work with structured and semi-structured data  Use the Hive CLI and run a Pig job Hive is used for structured data, similar to SQL Pig is used for semi-structured data, similar to SQL + scripting  Submit Dataproc jobs for unstructured data  Module 3: Leveraging GCP  Leverage GCP Cluster automation using CLI commands  Module 4: Analyzing Unstructured Data  Add Machine Learning  Note: These exercises were spun up in temporary cloud instances and thus are no longer available for viewing.",
-                "wordCount": 295,
+                "wordCount": 365,
                 "articleSection": "2018",
                 "timeRequired": "0:2:0",
                 "url": "https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_unstructured_dataproc/"
@@ -919,11 +919,28 @@ h2.resources
 
 <h3 id="cloud-dataproc-architecture">Cloud Dataproc Architecture</h3>
 
-<p><img src="/img/2018/gcp-professional-data-engineer-certification/gcp_dataproc_architecture.png" "Cloud Dataproc Architecture" width="95%"></p>
+<p><img src="/img/2018/gcp-professional-data-engineer-certification/gcp_dataproc_architecture.png" "Cloud Dataproc Architecture">
+<img src="/img/2018/gcp-professional-data-engineer-certification/gcp_dataproc_architecture2.png" "Cloud Dataproc Architecture"></p>
 
 <h3 id="open-source-tools-on-dataproc">Open-Source Tools on Dataproc</h3>
 
 <p><img src="/img/2018/gcp-professional-data-engineer-certification/dataproc_open_source_tools.png" "Dataproc Open-Source Tools" width="60%"></p>
+
+<h3 id="data-center-power-through-gcp">Data Center Power through GCP</h3>
+
+<p><img src="/img/2018/gcp-professional-data-engineer-certification/gcp_datacenter_power.png" "Data Center Power through GCP" width="90%"></p>
+
+<h3 id="serverless-platform-for-analytics-data-lifecycle-stages">Serverless Platform for Analytics Data Lifecycle Stages</h3>
+
+<p><img src="/img/2018/gcp-professional-data-engineer-certification/analytics_data_lifecycle_serverless.png" "Serverless Platform for Analytics Data Lifecycle Stages" width="70%"></p>
+
+<h3 id="separation-of-storage-and-compute-enables-serverless">Separation of Storage and Compute Enables Serverless</h3>
+
+<p><img src="/img/2018/gcp-professional-data-engineer-certification/storage_compute_separation_serverless.png" "Separation of Storage and Compute Enables Serverless"></p>
+
+<h3 id="separation-of-storage-and-compute-for-spark-programs">Separation of Storage and Compute for Spark Programs</h3>
+
+<p><img src="/img/2018/gcp-professional-data-engineer-certification/storage_compute_separation_spark.png" "Separation of Storage and Compute for Spark Programs"></p>
 
 <h3 id="module-review-notes">Module Review Notes</h3>
 
@@ -931,6 +948,7 @@ h2.resources
 <li>Use Cloud storage instead of HDFS so you can shut down a Hadoop cluster when it is not actually running a job.</li>
 <li>Hive is designed for batch jobs and not for transactions. It ingests data into a data warehouse format requiring a schema. It does not support real-time queries, row-level updates, or unstructured data. Some queries may run much slower than others due to the underlying transformations Hive has to implement to simulate SQL.</li>
 <li>Pig provides SQL primitives similar to Hive, but in a more flexible scripting language format. Pig can also deal with semi-structured data, such as data having partial schemas, or for which the schema is not yet known. For this reason it is sometimes used for Extract Transform Load (ETL). It generates Java MapReduce jobs. Pig is not designed to deal with unstructured data.</li>
+<li>Spark has the ability to run both batch jobs and streaming jobs. It can use in-memory processing for fast results. RDDs or resilient distributed data sets hide the complexity of the location of data within the cluster and also the complexity of replication.</li>
 </ul>
 
 <h3 id="resources">Resources</h3>
