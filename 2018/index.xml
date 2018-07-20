@@ -22,7 +22,7 @@
       <description> 
 COURSE LINK
 GCP Professional Data Engineer Certification &amp;gt;&amp;gt; Building Resilient Streaming Systems 
-Module Lab Exercises Module Review Notes Resources </description>
+Modules &amp;amp; Lab Exercises Resources </description>
     </item>
     
     <item>
@@ -34,7 +34,7 @@ Module Lab Exercises Module Review Notes Resources </description>
       <description> 
 COURSE LINK
 GCP Professional Data Engineer Certification &amp;gt;&amp;gt; Serverless Data Analysis with Google BigQuery and Cloud Dataflow 
-Module Lab Exercises Module Review Notes Resources </description>
+Modules &amp;amp; Lab Exercises Resources </description>
     </item>
     
     <item>
@@ -46,7 +46,7 @@ Module Lab Exercises Module Review Notes Resources </description>
       <description> 
 COURSE LINK
 GCP Professional Data Engineer Certification &amp;gt;&amp;gt; Serverless Machine Learning with Tensorflow 
-Module Lab Exercises Module Review Notes Resources </description>
+Modules &amp;amp; Lab Exercises Resources </description>
     </item>
     
     <item>
@@ -68,6 +68,7 @@ Module Lab Exercises Module 2: Foundations of GCP Compute and Storage  Create a 
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_unstructured_dataproc/</guid>
       <description>COURSE LINK
+COURSE CERTIFICATE
 GCP Professional Data Engineer Certification &amp;gt;&amp;gt; Leveraging Unstructured Data with Cloud Dataproc 
 Modules &amp;amp; Lab Exercises Note: These exercises were spun up in temporary cloud instances and thus are no longer available for viewing.
 Module 1: Introduction to Cloud Dataproc What Qualifies as Unstructured Data? Dataproc Eases Hadoop Management Cloud Dataproc Architecture Lab 1: Create a Dataproc Cluster  Prepare a bucket and a cluster initialization script Create a Dataproc Hadoop Cluster customized to use Google Cloud API Enable secure access to Dataproc cluster Explore Hadoop operations   Use Cloud storage instead of HDFS so you can shut down a Hadoop cluster when it is not actually running a job.</description>
