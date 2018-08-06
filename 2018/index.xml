@@ -8,7 +8,7 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Mon, 25 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/2018/index.xml" rel="self" type="application/rss+xml" />
     
@@ -16,7 +16,7 @@
     <item>
       <title>Coursera- Building Resilient Streaming Systems on GCP</title>
       <link>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_streaming_systems/</link>
-      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 20 Jul 2018 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_streaming_systems/</guid>
       <description> 
@@ -26,33 +26,9 @@ Modules &amp;amp; Lab Exercises Resources </description>
     </item>
     
     <item>
-      <title>Coursera- Serverless Data Analysis with Google BigQuery and Cloud Dataflow</title>
-      <link>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_serverless_data_analysis/</link>
-      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_serverless_data_analysis/</guid>
-      <description> 
-COURSE LINK
-GCP Professional Data Engineer Certification &amp;gt;&amp;gt; Serverless Data Analysis with Google BigQuery and Cloud Dataflow 
-Modules &amp;amp; Lab Exercises Resources </description>
-    </item>
-    
-    <item>
-      <title>Coursera- Serverless Machine Learning with Tensorflow on GCP</title>
-      <link>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_serverless_ml/</link>
-      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_serverless_ml/</guid>
-      <description> 
-COURSE LINK
-GCP Professional Data Engineer Certification &amp;gt;&amp;gt; Serverless Machine Learning with Tensorflow 
-Modules &amp;amp; Lab Exercises Resources </description>
-    </item>
-    
-    <item>
       <title>Coursera- GCP Big Data and Machine Learning Fundamentals</title>
       <link>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_big_data_ml_fundamentals/</link>
-      <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 20 Jul 2018 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_big_data_ml_fundamentals/</guid>
       <description>COURSE LINK
@@ -64,7 +40,7 @@ Module Lab Exercises Module 2: Foundations of GCP Compute and Storage  Create a 
     <item>
       <title>Coursera- Leveraging Unstructured Data with Cloud Dataproc on GCP</title>
       <link>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_unstructured_dataproc/</link>
-      <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 20 Jul 2018 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_unstructured_dataproc/</guid>
       <description>COURSE LINK
@@ -72,6 +48,30 @@ COURSE CERTIFICATE
 GCP Professional Data Engineer Certification &amp;gt;&amp;gt; Leveraging Unstructured Data with Cloud Dataproc 
 Modules &amp;amp; Lab Exercises Note: These exercises were spun up in temporary cloud instances and thus are no longer available for viewing.
 Module 1: Introduction to Cloud Dataproc What Qualifies as Unstructured Data? Dataproc Eases Hadoop Management Cloud Dataproc Architecture Lab 1: Create a Dataproc Cluster  Prepare a bucket and a cluster initialization script Create a Dataproc Hadoop Cluster customized to use Google Cloud API Enable secure access to Dataproc cluster Explore Hadoop operations   Use Cloud storage instead of HDFS so you can shut down a Hadoop cluster when it is not actually running a job.</description>
+    </item>
+    
+    <item>
+      <title>Coursera- Serverless Data Analysis with Google BigQuery and Cloud Dataflow</title>
+      <link>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_serverless_data_analysis/</link>
+      <pubDate>Fri, 20 Jul 2018 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_serverless_data_analysis/</guid>
+      <description> 
+COURSE LINK
+GCP Professional Data Engineer Certification &amp;gt;&amp;gt; Serverless Data Analysis with Google BigQuery and Cloud Dataflow 
+Modules &amp;amp; Lab Exercises Resources </description>
+    </item>
+    
+    <item>
+      <title>Coursera- Serverless Machine Learning with Tensorflow on GCP</title>
+      <link>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_serverless_ml/</link>
+      <pubDate>Fri, 20 Jul 2018 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_serverless_ml/</guid>
+      <description> 
+COURSE LINK
+GCP Professional Data Engineer Certification &amp;gt;&amp;gt; Serverless Machine Learning with Tensorflow 
+Modules &amp;amp; Lab Exercises Resources </description>
     </item>
     
   </channel>

@@ -4,32 +4,32 @@
   
   <url>
     <loc>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_streaming_systems/</loc>
-    <lastmod>2018-06-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_serverless_data_analysis/</loc>
-    <lastmod>2018-06-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_serverless_ml/</loc>
-    <lastmod>2018-06-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_big_data_ml_fundamentals/</loc>
-    <lastmod>2018-06-22T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_unstructured_dataproc/</loc>
-    <lastmod>2018-06-22T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_serverless_data_analysis/</loc>
+    <lastmod>2018-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_serverless_ml/</loc>
+    <lastmod>2018-07-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/</loc>
-    <lastmod>2018-06-22T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -335,7 +335,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/2018/</loc>
-    <lastmod>2018-06-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -357,7 +357,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/</loc>
-    <lastmod>2018-06-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -385,7 +385,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/tags/cloud-computing/</loc>
-    <lastmod>2018-06-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -403,13 +403,13 @@
   
   <url>
     <loc>https://andrewrgoss.com/tags/data-analysis/</loc>
-    <lastmod>2018-06-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://andrewrgoss.com/tags/data-engineering/</loc>
-    <lastmod>2018-06-22T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -421,7 +421,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/tags/data-streaming/</loc>
-    <lastmod>2018-06-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -439,7 +439,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/tags/gcp/</loc>
-    <lastmod>2018-06-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -481,7 +481,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/tags/machine-learning/</loc>
-    <lastmod>2018-06-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -493,7 +493,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/post/</loc>
-    <lastmod>2018-06-22T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -579,7 +579,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/tags/unstructured-data/</loc>
-    <lastmod>2018-06-22T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
