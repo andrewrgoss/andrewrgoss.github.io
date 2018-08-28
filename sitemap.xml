@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>https://andrewrgoss.com/2018/coursera--leveraging-unstructured-data-on-gcp/</loc>
+    <lastmod>2018-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_unstructured_dataproc/</loc>
     <lastmod>2018-07-20T00:00:00+00:00</lastmod>
   </url>
@@ -28,8 +33,8 @@
   </url>
   
   <url>
-    <loc>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/</loc>
-    <lastmod>2018-07-20T00:00:00+00:00</lastmod>
+    <loc>https://andrewrgoss.com/2018/coursera--gcp-big-data-and-ml-fundamentals/</loc>
+    <lastmod>2018-06-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -409,7 +414,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/tags/data-engineering/</loc>
-    <lastmod>2018-07-20T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

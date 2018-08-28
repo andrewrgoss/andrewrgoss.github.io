@@ -37,5 +37,17 @@ GCP Professional Data Engineer Certification &amp;gt;&amp;gt; Serverless Machine
 Modules &amp;amp; Lab Exercises Resources </description>
     </item>
     
+    <item>
+      <title>Coursera- GCP Big Data and ML Fundamentals</title>
+      <link>https://andrewrgoss.com/2018/coursera--gcp-big-data-and-ml-fundamentals/</link>
+      <pubDate>Sat, 23 Jun 2018 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2018/coursera--gcp-big-data-and-ml-fundamentals/</guid>
+      <description>COURSE LINK
+COURSE CERTIFICATE
+
+Module Lab Exercises Module 2: Foundations of GCP Compute and Storage  Create a Compute Engine Instance Interact with Cloud Storage  Module 3: Data Analysis on the Cloud  Setup Rentals Data in Cloud SQL Recommendations ML with Dataproc  Module 4: Scaling Data Analysis: Compute with GCP  Create ML dataset with BigQuery Carry out ML with TensorFLow Invoke Machine Learning APIs  View my code on GitHub</description>
+    </item>
+    
   </channel>
 </rss>
