@@ -667,7 +667,7 @@ In this example, a GA summary report is generated (using the JSON below) and ins
       <pubDate>Mon, 22 Aug 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2016/ssh-keys-with-putty-and-cygwin-for-windows/</guid>
-      <description>In my work at DigitasLBi, I need to login to a number of client-specific Linux machines via a terminal emulator (there is no UI for these remote environments) from my local Windows laptop. For this my team uses Cygwin, a Linux-like environment for Windows making it possible to port software running on POSIX systems (such as Linux, BSD, and Unix systems) to Windows. It&amp;rsquo;s possible to login of course just using a standard username/password combination with Mosh or SSH at the command line.</description>
+      <description>In my work at Digitas, I need to login to a number of client-specific Linux machines via a terminal emulator (there is no UI for these remote environments) from my local Windows laptop. For this my team uses Cygwin, a Linux-like environment for Windows making it possible to port software running on POSIX systems (such as Linux, BSD, and Unix systems) to Windows. It&amp;rsquo;s possible to login of course just using a standard username/password combination with Mosh or SSH at the command line.</description>
     </item>
     
     <item>
