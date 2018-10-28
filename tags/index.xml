@@ -97,7 +97,7 @@
     <item>
       <title>Data Engineering</title>
       <link>https://andrewrgoss.com/tags/data-engineering/</link>
-      <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/tags/data-engineering/</guid>
       <description></description>
@@ -122,6 +122,15 @@
     </item>
     
     <item>
+      <title>Data Warehousing</title>
+      <link>https://andrewrgoss.com/tags/data-warehousing/</link>
+      <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/tags/data-warehousing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Dataops</title>
       <link>https://andrewrgoss.com/tags/dataops/</link>
       <pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate>
@@ -136,6 +145,15 @@
       <pubDate>Fri, 20 May 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/tags/events/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional Programming</title>
+      <link>https://andrewrgoss.com/tags/functional-programming/</link>
+      <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/tags/functional-programming/</guid>
       <description></description>
     </item>
     
