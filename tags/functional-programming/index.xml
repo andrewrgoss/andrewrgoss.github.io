@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Functional Programming on Andrew Goss · Data Engineer in Boston</title>
+    <title>Functional Programming on Andrew Goss · Data Engineer</title>
     <link>https://andrewrgoss.com/tags/functional-programming/</link>
-    <description>Recent content in Functional Programming on Andrew Goss · Data Engineer in Boston</description>
+    <description>Recent content in Functional Programming on Andrew Goss · Data Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>

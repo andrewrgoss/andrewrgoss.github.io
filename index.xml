@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Andrew Goss · Data Engineer in Boston</title>
+    <title>Andrew Goss · Data Engineer</title>
     <link>https://andrewrgoss.com/</link>
-    <description>Recent content on Andrew Goss · Data Engineer in Boston</description>
+    <description>Recent content on Andrew Goss · Data Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
@@ -798,9 +798,9 @@ My goal in taking this course was to strengthen my knowledge around the fundamen
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/about/</guid>
-      <description>TL;DR &amp;ndash; Data engineer building backend systems that empower data-driven organizations through self-service analytics. Also a world traveler.
+      <description>TL;DR &amp;ndash; Data engineer building backend systems that empower data-driven organizations through self-service analytics. Currently based in the Boston, MA, USA area.
   I am currently a data engineer at Interfolio.
- Interfolio is an enterprise SaaS collaboration platform serving the global higher education market. I&amp;rsquo;m working to build an enterprise data warehouse in a way that allows others within different business units to answer important questions using data. Design, documentation, and performance are all crucial to making the data easily explorable.</description>
+ Interfolio is an enterprise SaaS collaboration platform serving the global higher education market. I&amp;rsquo;m working to build an enterprise data warehouse in a way that allows others within different business units to answer important questions using data.</description>
     </item>
     
     <item>
