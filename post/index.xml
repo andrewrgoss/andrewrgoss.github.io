@@ -14,11 +14,11 @@
     
     
     <item>
-      <title>Data Engineering, Future of Data Warehousing?</title>
-      <link>https://andrewrgoss.com/2018/data-engineering-future-of-data-warehousing/</link>
+      <title>Future of Data Warehousing</title>
+      <link>https://andrewrgoss.com/2018/future-of-data-warehousing/</link>
       <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>https://andrewrgoss.com/2018/data-engineering-future-of-data-warehousing/</guid>
+      <guid>https://andrewrgoss.com/2018/future-of-data-warehousing/</guid>
       <description>written by Simon Späti (with some grammatical edits by me) 
 Today, there are 6,500 people on LinkedIn who call themselves data engineers according to stitchdata.com. In San Francisco alone, there are 6,600 job listings for this same title. The number of data engineers has doubled in the past year, but engineering leaders still find themselves faced with a significant shortage of data engineering talent. So is it really the future of data warehousing?</description>
     </item>
