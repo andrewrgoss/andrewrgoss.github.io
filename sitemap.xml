@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://andrewrgoss.com/2019/udemy--learn-to-code-with-ruby/</loc>
+    <lastmod>2019-01-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://andrewrgoss.com/2018/future-of-data-warehousing/</loc>
     <lastmod>2018-12-17T00:00:00+00:00</lastmod>
   </url>
@@ -377,7 +382,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/</loc>
-    <lastmod>2018-12-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -531,13 +536,13 @@
   
   <url>
     <loc>https://andrewrgoss.com/post/</loc>
-    <lastmod>2018-12-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://andrewrgoss.com/tags/programming/</loc>
-    <lastmod>2017-11-11T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -572,6 +577,12 @@
   </url>
   
   <url>
+    <loc>https://andrewrgoss.com/tags/ruby/</loc>
+    <lastmod>2019-01-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://andrewrgoss.com/tags/scala/</loc>
     <lastmod>2018-03-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -583,7 +594,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/tags/self-study/</loc>
-    <lastmod>2018-03-26T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
