@@ -21,8 +21,7 @@
       <guid>https://andrewrgoss.com/2019/udemy--learn-to-code-with-ruby/</guid>
       <description>COURSE LINK
 
-Many backend application engineers at my current employer use Ruby so I signed up for this course to practice and learn more about the nuances of the language.
-What is Ruby?  An object-oriented programming language A popular language across the world Released in 1995 by Yukihiro Matsumoto (&amp;ldquo;Matz&amp;rdquo;) Open-source project in development today Available for both Windows and Mac OS operating systems  Ruby Design Principles  Ruby is a high-level programming language.</description>
+What is Ruby?  An object-oriented programming language A popular language across the world Released in 1995 by Yukihiro Matsumoto (&amp;ldquo;Matz&amp;rdquo;) Open-source project in development today Available for both Windows and Mac OS operating systems  Ruby Design Principles  Ruby is a high-level programming language. Ruby is an interpreted language. It does not need to be compiled. Ruby code is read top-to-bottom, line by line. The program that runs the Ruby code is called the interpreter.</description>
     </item>
     
     <item>
