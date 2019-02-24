@@ -8,10 +8,21 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Sun, 09 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/tags/analytics/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>4 Pillars of Analytics</title>
+      <link>https://andrewrgoss.com/2018/4-pillars-of-analytics/</link>
+      <pubDate>Fri, 07 Dec 2018 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2018/4-pillars-of-analytics/</guid>
+      <description>written by Julien Kervizic 
+ There are four key pillars that rule the lifecycle of analytics projects, from data acquisition, processing to surfacing and actioning on the data. Each of these contribute to a significant part of the value chain of analytics.
+ Pillar 1: Acquisition The data acquisition pillar consists of a wide range of tasks, system and technology knowledge, one needs to possessed in order to be effective in acquiring the required data.</description>
+    </item>
     
     <item>
       <title>Stages of the Analytics Life Cycle</title>
