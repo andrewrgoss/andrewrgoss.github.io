@@ -8,7 +8,7 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -16,12 +16,24 @@
     <item>
       <title>Udemy- Learn to Code with Ruby</title>
       <link>https://andrewrgoss.com/2019/udemy--learn-to-code-with-ruby/</link>
-      <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 23 Mar 2019 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2019/udemy--learn-to-code-with-ruby/</guid>
       <description>COURSE LINK
 
 What is Ruby?  An object-oriented programming language A popular language across the world Released in 1995 by Yukihiro Matsumoto (&amp;ldquo;Matz&amp;rdquo;) Open-source project in development today Available for both Windows and Mac OS operating systems  Ruby Design Principles  Ruby is a high-level programming language. Ruby is an interpreted language. It does not need to be compiled. Ruby code is read top-to-bottom, line by line. The program that runs the Ruby code is called the interpreter.</description>
+    </item>
+    
+    <item>
+      <title>How to Architect the Perfect Data Warehouse</title>
+      <link>https://andrewrgoss.com/2019/how-to-architect-the-perfect-data-warehouse/</link>
+      <pubDate>Sun, 17 Feb 2019 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2019/how-to-architect-the-perfect-data-warehouse/</guid>
+      <description>Key warehousing techniques made simple
+ written by Lewis Gavin 
+On the surface, it may seem like a lot has changed in recent years in regards to data collection, storage and warehousing. The introduction and takeover of NoSQL, “Big Data”, Graphing and Streaming technologies may appear to have changed the landscape, but there are some fundamentals that remain.
+In my current role, we use Amazon Redshift for our data warehousing.</description>
     </item>
     
     <item>
@@ -822,7 +834,7 @@ My goal in taking this course was to strengthen my knowledge around the fundamen
       <guid>https://andrewrgoss.com/about/</guid>
       <description>TL;DR &amp;ndash; Data engineer building performant backend systems that empower data-driven organizations through self-service analytics. Based in the Boston, MA, USA area.
   I&amp;rsquo;m currently a data engineer at Interfolio.
- Interfolio is a consumer/enterprise SaaS collaboration platform serving the global higher education market. I’m building a modern business intelligence stack from the ground up in a way that allows others within different business units to answer important questions through supported self-service analytics.</description>
+ Interfolio is a consumer/enterprise SaaS faculty information platform serving the global higher education market. I’m building a modern business intelligence stack from the ground up in a way that allows others within different business units to answer important questions through supported self-service analytics.</description>
     </item>
     
     <item>
