@@ -4,7 +4,12 @@
   
   <url>
     <loc>https://andrewrgoss.com/2019/udemy--learn-to-code-with-ruby/</loc>
-    <lastmod>2019-03-23T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewrgoss.com/2019/skills-for-being-a-good-data-engineer/</loc>
+    <lastmod>2019-03-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -392,7 +397,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/</loc>
-    <lastmod>2019-03-23T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -404,7 +409,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/tags/big-data/</loc>
-    <lastmod>2017-04-05T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -420,7 +425,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/tags/career-management/</loc>
-    <lastmod>2018-01-23T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -450,7 +455,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/tags/data-engineering/</loc>
-    <lastmod>2019-02-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -546,19 +551,25 @@
   
   <url>
     <loc>https://andrewrgoss.com/post/</loc>
-    <lastmod>2019-03-23T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://andrewrgoss.com/tags/programming/</loc>
-    <lastmod>2019-03-23T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://andrewrgoss.com/projects/</loc>
     <lastmod>2018-03-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andrewrgoss.com/tags/pub-sub-messaging/</loc>
+    <lastmod>2017-03-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -588,7 +599,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/tags/ruby/</loc>
-    <lastmod>2019-03-23T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -604,7 +615,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/tags/self-study/</loc>
-    <lastmod>2019-03-23T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -629,6 +640,12 @@
   <url>
     <loc>https://andrewrgoss.com/tags/</loc>
     <lastmod>2017-04-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andrewrgoss.com/tags/technical-leadership/</loc>
+    <lastmod>2018-02-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

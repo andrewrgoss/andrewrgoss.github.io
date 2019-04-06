@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technical Leadership on Andrew Goss · Data Engineer</title>
+    <link>https://andrewrgoss.com/tags/technical-leadership/</link>
+    <description>Recent content in Technical Leadership on Andrew Goss · Data Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
+    <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
+    <lastBuildDate>Thu, 08 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://andrewrgoss.com/tags/technical-leadership/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DataOps- Next Gen Data Engineering Organization</title>
+      <link>https://andrewrgoss.com/2018/dataops--next-gen-data-engineering-organization/</link>
+      <pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2018/dataops--next-gen-data-engineering-organization/</guid>
+      <description>Large enterprises are experiencing a foundational shift in how they view their data and structure their data engineering teams. As organizations capture more data than ever before, and store it in an ever-increasing variety of data stores, the prospect of competing on analytics becomes more tantalizing than ever.
+  written by Andy Palmer
+View original article
+
+The challenges of using data at scale, however, is rooted in the &amp;ldquo;data debt&amp;rdquo; accumulated over time by enterprises struggling to manage the extreme volume and variety of their data.</description>
+    </item>
+    
+    <item>
+      <title>Effective Engineer Notes</title>
+      <link>https://andrewrgoss.com/2018/effective-engineer-notes/</link>
+      <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2018/effective-engineer-notes/</guid>
+      <description>Some great reference notes from a highly recommended &amp;#x1F44D; book for engineers looking to reach the next level in their careers.
+ By Edmond Lau
+theeffectiveengineer.com
+What&amp;rsquo;s an Effective Engineer?  They are the people who get things done. Effective Engineers produce results.  Adopt the Right Mindsets Focus on High Leverage Activities  Leverage = Impact Produced / Time Invested Use Leverage as Your Yardstick for Effectiveness 80% of the impact comes from 20% of the work.</description>
+    </item>
+    
+    <item>
+      <title>What is a Productive Data Engineering Team?</title>
+      <link>https://andrewrgoss.com/2017/what-is-a-productive-data-engineering-team/</link>
+      <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2017/what-is-a-productive-data-engineering-team/</guid>
+      <description>written by Jesse Anderson
+ Merging the gaps between data science and engineering, and what each side can learn from the other.
+ In my experience working with data engineering teams, I find that most teams don’t realize they have to change their thinking about data and systems to be successful with big data. Data engineering teams need to think about how data is valuable and at what scale the data is coming in.</description>
+    </item>
+    
+  </channel>
+</rss>

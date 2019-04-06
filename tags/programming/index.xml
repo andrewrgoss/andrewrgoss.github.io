@@ -8,7 +8,7 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Sat, 23 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     
@@ -16,12 +16,40 @@
     <item>
       <title>Udemy- Learn to Code with Ruby</title>
       <link>https://andrewrgoss.com/2019/udemy--learn-to-code-with-ruby/</link>
-      <pubDate>Sat, 23 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2019/udemy--learn-to-code-with-ruby/</guid>
       <description>COURSE LINK
 
 What is Ruby?  An object-oriented programming language A popular language across the world Released in 1995 by Yukihiro Matsumoto (&amp;ldquo;Matz&amp;rdquo;) Open-source project in development today Available for both Windows and Mac OS operating systems  Ruby Design Principles  Ruby is a high-level programming language. Ruby is an interpreted language. It does not need to be compiled. Ruby code is read top-to-bottom, line by line. The program that runs the Ruby code is called the interpreter.</description>
+    </item>
+    
+    <item>
+      <title>Web Scraping with Python</title>
+      <link>https://andrewrgoss.com/projects/web_scraping_py/</link>
+      <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/projects/web_scraping_py/</guid>
+      <description>Projects &amp;gt;&amp;gt; Web Scraping with Python
+
+Following a Boston Python Project Night event that I attended (where my group focused on web scraping techniques), I wanted to try out some web scraping on my own with Python.
+ Web scraping is a technique used to extract data from websites through an automated process.
+ Dataset A good site for web scraping that was recommended to me at the event is College Sailing’s Techscore.</description>
+    </item>
+    
+    <item>
+      <title>Udemy- Complete Java Masterclass</title>
+      <link>https://andrewrgoss.com/2018/udemy--complete-java-masterclass/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2018/udemy--complete-java-masterclass/</guid>
+      <description>COURSE LINK
+
+I have completed numerous sections of this course to improve my core knowledge of Java. One of the reasons I frequently choose Udemy for my learning needs is that it offers a one-time cost (as opposed to monthly recurring charges) for lifetime access to the course content.
+Other Learning Resources Oracle Java™ Tutorials &amp;ndash; Trail: Learning the Java Language
+Cheat Sheets Java Classes
+Java Keywords
+Java Operator Precedence Table</description>
     </item>
     
     <item>
@@ -33,6 +61,164 @@ What is Ruby?  An object-oriented programming language A popular language across
       <description>written by Antonio Cangiano
  I wanted to share this post as it really resonated with me. I&amp;rsquo;ve encountered many of these at times during my coding journey and plan to reread this.
  I&amp;rsquo;m going to share with you what I see as &amp;ldquo;25&amp;rdquo; common pitfalls when learning to program (or working towards mastering programming). Many of these points affect both beginners and professionals alike — myself very much included.</description>
+    </item>
+    
+    <item>
+      <title>My Path to Learning Scala</title>
+      <link>https://andrewrgoss.com/2017/my-path-to-learning-scala/</link>
+      <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2017/my-path-to-learning-scala/</guid>
+      <description>I recently joined a new data engineering team at DigitasLBi and Scala is the predominant language being used. Having never coded in this language, I sought to quickly learn it and wanted to share the numerous resources I came across and bookmarked.
+The first place I usually turn when learning something new is to complete an introductory online course with videos and exercises. The most popular course for Scala is Functional Programming Principles in Scala on Coursera and it is taught by the inventor of the language (Martin Odersky), so I gave it a whirl.</description>
+    </item>
+    
+    <item>
+      <title>Budget App</title>
+      <link>https://andrewrgoss.com/projects/budget_app/</link>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/projects/budget_app/</guid>
+      <description>
+Udemy- Complete JavaScript Course &amp;gt;&amp;gt; My projects
+Planning Guide
+View project 
+This project put all kinds of different JavaScript concepts from the Complete JavaScript Course I completed into practice.
+View my project
+View my code on GitHub</description>
+    </item>
+    
+    <item>
+      <title>DOM Pig Game</title>
+      <link>https://andrewrgoss.com/projects/dom_pig_game/</link>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/projects/dom_pig_game/</guid>
+      <description>Udemy- Complete JavaScript Course &amp;gt;&amp;gt; My projects
+
+Part of the Complete JavaScript Course I completed, this project put JavaScript concepts from the section on DOM manipulation and events into practice.
+GAME RULES:  The game has 2 players, playing in rounds In each turn, a player rolls a dice as many times as he/she wishes. Each result get added to his ROUND score BUT, if the player rolls a 1, all his/her ROUND score gets lost.</description>
+    </item>
+    
+    <item>
+      <title>Udemy- Complete JavaScript Course</title>
+      <link>https://andrewrgoss.com/2017/udemy--complete-javascript-course/</link>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2017/udemy--complete-javascript-course/</guid>
+      <description>COMPLETION CERTIFICATE
+Design and Coding Resources
+
+This course represented my official foray into learning JavaScript. Up to this point I&amp;rsquo;d only used it on occasion with no formal training, as my focus has been predominantly on back-end data engineering. I wanted to gain a closer perspective on full-stack development, and JavaScript is a core front-end technology for me to have as part of my stack. This course covers the following areas:</description>
+    </item>
+    
+    <item>
+      <title>What&#39;s the Go Language Really Good For?</title>
+      <link>https://andrewrgoss.com/2017/whats-the-go-language-really-good-for/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2017/whats-the-go-language-really-good-for/</guid>
+      <description>written by Serdar Yegulalp
+ InfoWorld examines the strengths, weaknesses, use cases, and future directions of Google&amp;rsquo;s hit programming language
+ During its eight-plus years in the wild, Google’s Go language—with version 1.8.1 out as of April 2017—has evolved from being a curiosity for alpha geeks to being the battle-tested programming language behind some of the world’s most important cloud-centric projects.
+Why was Go chosen by the developers of such projects as Docker and Kubernetes?</description>
+    </item>
+    
+    <item>
+      <title>HDFS DCM Matchtables V2</title>
+      <link>https://andrewrgoss.com/projects/hdfs_dcm_v2_logs/</link>
+      <pubDate>Mon, 16 Jan 2017 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/projects/hdfs_dcm_v2_logs/</guid>
+      <description>Projects &amp;gt;&amp;gt; HDFS DCM Matchtables V2 
+Overview This is my code that pulls down daily DoubleClick Campaign Manager (DCM) log files (v2) from Google Cloud Storage (GCS) and loads them into Hadoop Distributed File System (HDFS) for use in Hive queries. The script fully replaces matchtable_v2 files with each day&amp;rsquo;s new log file on HDFS. Match tables are demoed here, but it is imperative to frequently download other log files that change more often (ex.</description>
+    </item>
+    
+    <item>
+      <title>Udemy- Python for Data Structures &amp; Algorithms</title>
+      <link>https://andrewrgoss.com/2016/udemy--python-for-data-structures--algorithms/</link>
+      <pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2016/udemy--python-for-data-structures--algorithms/</guid>
+      <description>COURSE LINK
+Jupyter Notebooks
+ I took this course to get some experience using Jupyter Notebooks and furthered my Python skills in a couple of areas:
+ Algorithm Analysis and Big-O Notation Array Sequences  Additionally, this course offers video content on the &amp;lsquo;soft skills&amp;rsquo; needed to advance a career in technology such as personal branding, building a strong professional network, and practicing technical questions that could be asked on a future interview.</description>
+    </item>
+    
+    <item>
+      <title>Google DCM/DFA Reporting/Trafficking API for PostgreSQL</title>
+      <link>https://andrewrgoss.com/projects/dcm-dfa-reporting-api/</link>
+      <pubDate>Sun, 18 Sep 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/projects/dcm-dfa-reporting-api/</guid>
+      <description>Projects &amp;gt;&amp;gt; Google DCM/DFA Reporting/Trafficking API for PostgreSQL 
+This is a Python script I developed for programmatically generating Google DCM/DFA report data and inserting into PostgreSQL. There is additionally the option of running a report that contains floodlight tags - my code flattens this for the PostgreSQL staging table structure.
+DCM/DFA Reporting and Trafficking API v2.8 is used in this code. A detailed reference of the API can be accessed here.</description>
+    </item>
+    
+    <item>
+      <title>Google Analytics Reporting API for PostgreSQL</title>
+      <link>https://andrewrgoss.com/projects/ga_reporting_api/</link>
+      <pubDate>Sat, 17 Sep 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/projects/ga_reporting_api/</guid>
+      <description>Projects &amp;gt;&amp;gt; Google Analytics Reporting API for PostgreSQL 
+This is a Python script I developed for programmatically accessing report data in Google Analytics and inserting into PostgreSQL.
+Google Analytics Reporting API V4 is used in this code. A detailed reference of the API can be accessed here.
+In this example, a GA summary report is generated (using the JSON below) and inserted into a PostgreSQL staging table with the same name.</description>
+    </item>
+    
+    <item>
+      <title>Udemy- Ultimate Python Programming Tutorial</title>
+      <link>https://andrewrgoss.com/2016/udemy--ultimate-python-programming-tutorial/</link>
+      <pubDate>Mon, 18 Jul 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2016/udemy--ultimate-python-programming-tutorial/</guid>
+      <description>COMPLETION CERTIFICATE  I&amp;rsquo;ve started using Python more for work and took this course to strengthen my knowledge around the fundamentals of the language. Previously, I had been wanting to add Python to my personal tech stack for some time as it is a powerful (and popular) all-purpose programming language. It is a high-level language, meaning it looks more like a readable, human language than a low-level language does. The user-friendly syntax makes it one of the easier languages to learn and it is also one of the most commonly-used languages for analytics, data mining, and data science.</description>
+    </item>
+    
+    <item>
+      <title>Caleb Doxsey- An Introduction to Programming in Go</title>
+      <link>https://andrewrgoss.com/2016/caleb-doxsey--an-introduction-to-programming-in-go/</link>
+      <pubDate>Wed, 27 Jan 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2016/caleb-doxsey--an-introduction-to-programming-in-go/</guid>
+      <description>BOOK LINK  Go (Golang) is an open source programming language that makes it easy to build simple, reliable, and efficient software. I first started using Go through my work at DigitasLBi. My department adopted this language as one of our tech stacks for the following reasons:
+ It’s open source (i.e. free) and intended to be simple yet expressive. It’s intended to be a good middleware layer to provide for both quick one-off applications as well as large collaborative code bases.</description>
+    </item>
+    
+    <item>
+      <title>Gologger</title>
+      <link>https://andrewrgoss.com/projects/gologger/</link>
+      <pubDate>Tue, 19 Jan 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/projects/gologger/</guid>
+      <description>Projects &amp;gt;&amp;gt; Gologger
+ Gologger incorporates the elements of the best user-designed logging tools for Go. It primarily makes use of CoLog, a prefix-based execution logging tool.
+The goal of this tool is to provide a simple, easy-to-use, customizable framework for implementing leveled, environment-based logging for new Go applications.
+Usage This tool is setup to customize logging outputs based on the environment command line flag. It uses CoLog to read and parse the standard log output, effectively acting as an extension of the default log library.</description>
+    </item>
+    
+    <item>
+      <title>Udemy- Programming for Beginners in C#</title>
+      <link>https://andrewrgoss.com/2015/udemy--programming-for-beginners-in-c/</link>
+      <pubDate>Sat, 28 Nov 2015 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2015/udemy--programming-for-beginners-in-c/</guid>
+      <description>COMPLETION CERTIFICATE  I&amp;rsquo;ve worked on Windows servers throughout my career, which initially got me started with this language. Learning some of the Base Class Library (BCL) of the Microsoft .NET Framework and using these classes through C# has helped me automate various tasks within these environments.
+My goal in taking this course was to strengthen my knowledge around the fundamentals of C# programming (and objected-oriented programming in general) and to get more practice.</description>
+    </item>
+    
+    <item>
+      <title>Scratch - Wind Power</title>
+      <link>https://andrewrgoss.com/projects/scratch/</link>
+      <pubDate>Tue, 18 Feb 2014 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/projects/scratch/</guid>
+      <description>Projects &amp;gt;&amp;gt; Scratch - Wind Power
+ As part of the popular Harvard University course CS50x that I took through EdX, I built a small Scratch application in completing the first problem set.
+ Scratch is a &amp;lsquo;language&amp;rsquo; wherein you create programs by dragging together and connecting “blocks”. Unlike other programming languages, Scratch is very visual, making it a good first project for building fundamentals and learning to think like a programmer.</description>
     </item>
     
   </channel>

@@ -46,5 +46,15 @@ Today, there are 6,500 people on LinkedIn who call themselves data engineers acc
  Pillar 1: Acquisition The data acquisition pillar consists of a wide range of tasks, system and technology knowledge, one needs to possessed in order to be effective in acquiring the required data.</description>
     </item>
     
+    <item>
+      <title>Stages of the Analytics Life Cycle</title>
+      <link>https://andrewrgoss.com/2016/stages-of-the-analytics-life-cycle/</link>
+      <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2016/stages-of-the-analytics-life-cycle/</guid>
+      <description>Across industries, the applied use of data to inform business decisions has become a foundational (arguably critical) element of business. The end goal is to ultimately derive actionable insights from vast amounts of data being collected but it takes a series of activities/tasks to arrive at this juncture. Here is a description of each stage of the analytics life cycle:
+ Data Acquisition – This may involve scraping data, interfacing with APIs, querying relational and non-relational databases, or defining strategy in relation to what data to pursue.</description>
+    </item>
+    
   </channel>
 </rss>

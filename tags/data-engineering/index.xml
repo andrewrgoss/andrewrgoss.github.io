@@ -8,10 +8,20 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Sun, 17 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/tags/data-engineering/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Skills for Being a Good Data Engineer</title>
+      <link>https://andrewrgoss.com/2019/skills-for-being-a-good-data-engineer/</link>
+      <pubDate>Sun, 24 Mar 2019 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2019/skills-for-being-a-good-data-engineer/</guid>
+      <description>written by Benjamin Rogojan 
+A data engineer specializes in several specific technical aspects. Data engineers have solid automation/programming skills, ETL design, understand systems, data modeling, SQL, and usually some other more niche skills. For instance, some data engineers start to dabble with R and data analytics. This will also be driven by their specific role. As a data engineer, I have been asked to set up basic websites, develop APIs and create models and algorithms.</description>
+    </item>
     
     <item>
       <title>How to Architect the Perfect Data Warehouse</title>
@@ -171,7 +181,9 @@ When it comes to the medical profession, doctors get all the glory. In the world
       <pubDate>Wed, 09 Nov 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2016/the-data-science-industry-who-does-what/</guid>
-      <description>Great infographic from DataCamp that lays out the roles and skills associated with a data science team. As a data engineer within this group, these are the kind of people I work with day-to-day. *Source: DataCamp</description>
+      <description>Great infographic from DataCamp that lays out the roles and skills associated with a data science team. As a data engineer within this group, these are the kind of people I work with day-to-day.
+
+*Source: DataCamp</description>
     </item>
     
     <item>

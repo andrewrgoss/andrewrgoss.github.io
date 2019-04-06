@@ -8,10 +8,33 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Wed, 05 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/tags/big-data/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Udemy- Apache Spark 2.0 With Scala</title>
+      <link>https://andrewrgoss.com/2018/udemy--apache-spark-2.0-with-scala/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2018/udemy--apache-spark-2.0-with-scala/</guid>
+      <description>COMPLETION CERTIFICATE
+COURSE MATERIALS
+
+Description  Learn the concepts of Spark&amp;rsquo;s Resilient Distributed Datastores Get a crash course in the Scala programming language Develop and run Spark jobs quickly using Scala Translate complex analysis problems into iterative or multi-stage Spark scripts Scale up to larger data sets using Amazon&amp;rsquo;s Elastic MapReduce service Understand how Hadoop YARN distributes Spark across computing clusters Practice using other Spark technologies, like Spark SQL, DataFrames, DataSets, Spark Streaming, and GraphX  What I got from this course</description>
+    </item>
+    
+    <item>
+      <title>Creating Similar Movies from One Million Ratings on EMR</title>
+      <link>https://andrewrgoss.com/projects/mov_sim_ml_1m_emr/</link>
+      <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/projects/mov_sim_ml_1m_emr/</guid>
+      <description>Udemy- Apache Spark 2.0 With Scala &amp;gt;&amp;gt; Creating Similar Movies from One Million Ratings on EMR
+
+I completed an exercise of compiling a .jar file from my Scala code through IntelliJ IDEA, uploading this to a S3 bucket I created, and then running a Spark job on a AWS EMR cluster that I spun up. Here are the steps I took with screenshots, since I terminated my EMR cluster at the end to avoid incurring unnecessary costs.</description>
+    </item>
     
     <item>
       <title>The 2017 Big Data Landscape</title>

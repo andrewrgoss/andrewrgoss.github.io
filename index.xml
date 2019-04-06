@@ -8,7 +8,7 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Sat, 23 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -16,12 +16,22 @@
     <item>
       <title>Udemy- Learn to Code with Ruby</title>
       <link>https://andrewrgoss.com/2019/udemy--learn-to-code-with-ruby/</link>
-      <pubDate>Sat, 23 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2019/udemy--learn-to-code-with-ruby/</guid>
       <description>COURSE LINK
 
 What is Ruby?  An object-oriented programming language A popular language across the world Released in 1995 by Yukihiro Matsumoto (&amp;ldquo;Matz&amp;rdquo;) Open-source project in development today Available for both Windows and Mac OS operating systems  Ruby Design Principles  Ruby is a high-level programming language. Ruby is an interpreted language. It does not need to be compiled. Ruby code is read top-to-bottom, line by line. The program that runs the Ruby code is called the interpreter.</description>
+    </item>
+    
+    <item>
+      <title>Skills for Being a Good Data Engineer</title>
+      <link>https://andrewrgoss.com/2019/skills-for-being-a-good-data-engineer/</link>
+      <pubDate>Sun, 24 Mar 2019 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2019/skills-for-being-a-good-data-engineer/</guid>
+      <description>written by Benjamin Rogojan 
+A data engineer specializes in several specific technical aspects. Data engineers have solid automation/programming skills, ETL design, understand systems, data modeling, SQL, and usually some other more niche skills. For instance, some data engineers start to dabble with R and data analytics. This will also be driven by their specific role. As a data engineer, I have been asked to set up basic websites, develop APIs and create models and algorithms.</description>
     </item>
     
     <item>
@@ -647,7 +657,9 @@ When it comes to the medical profession, doctors get all the glory. In the world
       <pubDate>Wed, 09 Nov 2016 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2016/the-data-science-industry-who-does-what/</guid>
-      <description>Great infographic from DataCamp that lays out the roles and skills associated with a data science team. As a data engineer within this group, these are the kind of people I work with day-to-day. *Source: DataCamp</description>
+      <description>Great infographic from DataCamp that lays out the roles and skills associated with a data science team. As a data engineer within this group, these are the kind of people I work with day-to-day.
+
+*Source: DataCamp</description>
     </item>
     
     <item>
@@ -834,7 +846,7 @@ My goal in taking this course was to strengthen my knowledge around the fundamen
       <guid>https://andrewrgoss.com/about/</guid>
       <description>TL;DR &amp;ndash; Data engineer building performant backend systems that empower data-driven organizations through self-service analytics. Based in the Boston, MA, USA area.
   I&amp;rsquo;m currently a data engineer at Interfolio.
- Interfolio is a consumer/enterprise SaaS faculty information platform serving the global higher education market. I’m building a modern business intelligence stack from the ground up in a way that allows others within different business units to answer important questions through supported self-service analytics.</description>
+ Interfolio offers consumer/enterprise faculty information SaaS products in serving the global higher education market. I’m building a modern business intelligence stack from the ground up in a way that allows others within different business units to answer important questions through supported self-service analytics.</description>
     </item>
     
     <item>
