@@ -19,9 +19,11 @@
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2019/graphql-tutorial-with-ruby/</guid>
-      <description> TUTORIAL LINK
+      <description>TUTORIAL LINK
 
-What is GraphQL?  new API standard that was invented and open-sourced by Facebook enables declarative data fetching GraphQL server exposes single endpoint and responds to queries  View my code on GitHub</description>
+*Source: How To GraphQL
+Introduction Most applications today have the need to fetch data from a server where that data is stored in a database. It’s the responsibility of the API to provide an interface to the stored data that fits an application’s needs.
+ APIs have become ubiquitous components of software infrastructures. In short, an API defines how a client can load data from a server.</description>
     </item>
     
     <item>

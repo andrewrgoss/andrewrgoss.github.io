@@ -30,15 +30,21 @@
         <meta name="twitter:url" content="https://andrewrgoss.com/2019/graphql-tutorial-with-ruby/" />
         <link rel="canonical" href="https://andrewrgoss.com/2019/graphql-tutorial-with-ruby/" />
         
-        <meta name="description" content=" TUTORIAL LINK
+        <meta name="description" content="TUTORIAL LINK
 
-What is GraphQL?  new API standard that was invented and open-sourced by Facebook enables declarative data fetching GraphQL server exposes single endpoint and responds to queries  View my code on GitHub" />
-        <meta name="twitter:description" content=" TUTORIAL LINK
+*Source: How To GraphQL
+Introduction Most applications today have the need to fetch data from a server where that data is stored in a database. It’s the responsibility of the API to provide an interface to the stored data that fits an application’s needs.
+ APIs have become ubiquitous components of software infrastructures. In short, an API defines how a client can load data from a server." />
+        <meta name="twitter:description" content="TUTORIAL LINK
 
-What is GraphQL?  new API standard that was invented and open-sourced by Facebook enables declarative data fetching GraphQL server exposes single endpoint and responds to queries  View my code on GitHub" />
-        <meta property="og:description" content=" TUTORIAL LINK
+*Source: How To GraphQL
+Introduction Most applications today have the need to fetch data from a server where that data is stored in a database. It’s the responsibility of the API to provide an interface to the stored data that fits an application’s needs.
+ APIs have become ubiquitous components of software infrastructures. In short, an API defines how a client can load data from a server." />
+        <meta property="og:description" content="TUTORIAL LINK
 
-What is GraphQL?  new API standard that was invented and open-sourced by Facebook enables declarative data fetching GraphQL server exposes single endpoint and responds to queries  View my code on GitHub" />
+*Source: How To GraphQL
+Introduction Most applications today have the need to fetch data from a server where that data is stored in a database. It’s the responsibility of the API to provide an interface to the stored data that fits an application’s needs.
+ APIs have become ubiquitous components of software infrastructures. In short, an API defines how a client can load data from a server." />
         
         <meta name="twitter:site" content="@Andrewrgoss" />
         <meta name="twitter:creator" content="@Andrewrgoss" />
@@ -73,12 +79,14 @@ What is GraphQL?  new API standard that was invented and open-sourced by Faceboo
 	]
                 },
                 "datePublished": "May 2019",
-                "description": " TUTORIAL LINK
+                "description": "TUTORIAL LINK
 
-What is GraphQL?  new API standard that was invented and open-sourced by Facebook enables declarative data fetching GraphQL server exposes single endpoint and responds to queries  View my code on GitHub",
-                "wordCount": 33,
+*Source: How To GraphQL
+Introduction Most applications today have the need to fetch data from a server where that data is stored in a database. It’s the responsibility of the API to provide an interface to the stored data that fits an application’s needs.
+ APIs have become ubiquitous components of software infrastructures. In short, an API defines how a client can load data from a server.",
+                "wordCount": 792,
                 "articleSection": "post",
-                "timeRequired": "0:1:0",
+                "timeRequired": "0:4:0",
                 "url": "https://andrewrgoss.com/2019/graphql-tutorial-with-ruby/"
             }
         </script>
@@ -844,7 +852,7 @@ h2.resources
         
         &middot; 
             
-                <a href="https://andrewrgoss.com/tags/api-development/">api-development</a>
+                <a href="https://andrewrgoss.com/tags/api-development/">api development</a>
             
                 <a href="https://andrewrgoss.com/tags/graphql/">graphql</a>
             
@@ -860,12 +868,87 @@ h2.resources
 <a href="https://www.howtographql.com" target="_blank">TUTORIAL LINK</a><br>
 <hr></p>
 
-<h3 id="what-is-graphql">What is GraphQL?</h3>
+<p><sub>*Source: <a href="https://www.howtographql.com" target=_>How To GraphQL</a></sub></p>
+
+<h2 id="introduction">Introduction</h2>
+
+<p>Most applications today have the need to fetch data from a server where that data is stored in a database. It’s the responsibility of the API to provide an interface to the stored data that fits an application’s needs.</p>
+
+<blockquote>
+<p>APIs have become ubiquitous components of software infrastructures. In short, an API defines how a client can load data from a server.</p>
+</blockquote>
+
+<h2 id="what-is-graphql">What is GraphQL?</h2>
 
 <ul>
-<li>new <b>API</b> standard that was invented and open-sourced by Facebook</li>
-<li>enables <b>declarative data fetching</b></li>
-<li>GraphQL server exposes <b>single endpoint</b> and responds to <b>queries</b></li>
+<li>New <b>API</b> standard that was invented and open-sourced by Facebook.</li>
+<li>Enables <b>declarative data fetching</b> where a client can specify exactly what data it needs from an API.</li>
+<li>Instead of multiple endpoints that return fixed data structures, a GraphQL server only exposes a single endpoint and responds with precisely the data a client asked for. GraphQL responds to <b>queries</b>.</li>
+</ul>
+
+<p><img src="/img/post/graphql_process_flow_diagram.png" "GraphQL Process Flow Diagram" width="80%"></p>
+
+<p>GraphQL is often confused with being a database technology. This is a misconception, GraphQL is a <i>query language</i> for APIs - not databases. In that sense it’s database agnostic and effectively can be used in any context where an API is used.</p>
+
+<h3 id="a-more-efficient-alternative-to-rest">A more efficient Alternative to REST</h3>
+
+<blockquote>
+<p>💡 Learn more about the top reasons to use GraphQL in <a href="https://www.prisma.io/blog/top-5-reasons-to-use-graphql-b60cfa683511" target=_>this blog post</a>.</p>
+</blockquote>
+
+<p><a href="https://en.wikipedia.org/wiki/Representational_state_transfer" target=_>REST</a> has been a popular way to expose data from a server. When the concept of REST was developed, client applications were relatively simple and the development pace wasn’t nearly where it is today. REST thus was a good fit for many applications. However, the API landscape has radically changed over the last couple of years. In particular, there are three factors that have been challenging the way APIs are designed:</p>
+
+<ol>
+<li><p>Increased mobile usage creates need for efficient data loading
+Increased mobile usage, low-powered devices and sloppy networks were the initial reasons why Facebook developed GraphQL. GraphQL minimizes the amount of data that needs to be transferred over the network and thus majorly improves applications operating under these conditions.</p></li>
+
+<li><p>Variety of different frontend frameworks and platforms
+The heterogeneous landscape of frontend frameworks and platforms that run client applications makes it difficult to build and maintain one API that would fit the requirements of all. With GraphQL, each client can access precisely the data it needs.</p></li>
+
+<li><p>Fast development &amp; expectation for rapid feature development
+Continuous deployment has become a standard for many companies, rapid iterations and frequent product updates are indispensable. With REST APIs, the way data is exposed by the server often needs to be modified to account for specific requirements and design changes on the client-side. This hinders fast development practices and product iterations.</p></li>
+</ol>
+
+<h2 id="graphql-core-concepts">GraphQL Core Concepts</h2>
+
+<h3 id="the-schema-definition-language-sdl">The Schema Definition Language (SDL)</h3>
+
+<p>GraphQL has its own type system that’s used to define the <i>schema</i> of an API. The syntax for writing schemas is called <a href="https://blog.graph.cool/graphql-sdl-schema-definition-language-6755bcb9ce51" target=_>Schema Definition Language</a> (SDL).</p>
+
+<h3 id="fetching-data-with-queries">Fetching Data with Queries</h3>
+
+<p>When working with REST APIs, data is loaded from specific endpoints. Each endpoint has a clearly defined structure of the information that it returns. This means that the data requirements of a client are effectively encoded in the URL that it connects to.</p>
+
+<p>The approach that’s taken in GraphQL is radically different. Instead of having multiple endpoints that return fixed data structures, GraphQL APIs typically only expose <i>a single endpoint</i>. This works because the structure of the data that’s returned is not fixed. Instead, it’s completely flexible and lets the client decide what data is actually needed.</p>
+
+<p>That means that the client needs to send more <i>information</i> to the server to express its data needs - this information is called a query.</p>
+
+<h3 id="writing-data-with-mutations">Writing Data with Mutations</h3>
+
+<p>Next to requesting information from a server, the majority of applications also need some way of making changes to the data that’s currently stored in the backend. With GraphQL, these changes are made using so-called mutations. There generally are three kinds of mutations:</p>
+
+<ul>
+<li>Creating new data</li>
+<li>Updating existing data</li>
+<li>Deleting existing data</li>
+</ul>
+
+<p>Mutations follow the same syntactical structure as queries, but they always need to start with the <code>mutation</code> keyword.</p>
+
+<h3 id="realtime-updates-with-subscriptions">Realtime Updates with Subscriptions</h3>
+
+<p>Another important requirement for many applications today is to have a <i>realtime</i> connection to the server in order to get immediately informed about important events. For this use case, GraphQL offers the concept of <i>subscriptions</i>.</p>
+
+<p>When a client <i>subscribes</i> to an event, it will initiate and hold a steady connection to the server. Whenever that particular event then actually happens, the server pushes the corresponding data to the client. Unlike queries and mutations that follow a typical “<i>request-response</i>-cycle”, subscriptions represent a <i>stream</i> of data sent over to the client.</p>
+
+<p>Subscriptions are written using the same syntax as queries and mutations.</p>
+
+<h2 id="other-resources">Other Resources</h2>
+
+<ul>
+<li><a href="https://blog.graph.cool/graphql-server-basics-the-schema-ac5e2950214e" target=_>GraphQL Server Basics (Part I): GraphQL Schemas, TypeDefs &amp; Resolvers Explained</a></li>
+<li><a href="https://blog.graph.cool/graphql-server-basics-the-network-layer-51d97d21861" target=_>GraphQL Server Basics (Part II): The Network Layer</a></li>
+<li><a href="https://blog.graph.cool/graphql-server-basics-demystifying-the-info-argument-in-graphql-resolvers-6f26249f613a" target=_>GraphQL Server Basics (Part III): Demystifying the <code>info</code> argument in GraphQL resolvers</a></li>
 </ul>
 
 <p><a href="#" class="btn" target="_blank">View my code on GitHub</a><br class="custom"></p>
@@ -925,7 +1008,7 @@ h2.resources
       </li>
 	  
 	  <li class="linkedin">
-          <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://andrewrgoss.com/2019/graphql-tutorial-with-ruby/&amp;title=GraphQL%20Tutorial%20with%20Ruby&amp;summary=%20TUTORIAL%20LINK%0a%0aWhat%20is%20GraphQL%3f%20%20new%20API%20standard%20that%20was%20invented%20and%20open-sourced%20by%20Facebook%20enables%20declarative%20data%20fetching%20GraphQL%20server%20exposes%20single%20endpoint%20and%20responds%20to%20queries%20%20View%20my%20code%20on%20GitHub..." class="popup">
+          <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://andrewrgoss.com/2019/graphql-tutorial-with-ruby/&amp;title=GraphQL%20Tutorial%20with%20Ruby&amp;summary=TUTORIAL%20LINK%0a%0a%2aSource%3a%20How%20To%20GraphQL%0aIntroduction%20Most%20applications%20today%20have%20the%20need%20to%20fetch%20data%20from%20a%20server%20where%20that%20data%20is%20stored%20in%20a%20database.%20It%e2%80%99s%20the%20responsibility%20of%20the%20API%20to%20provide%20an%20interface%20to%20the%20stored%20data%20that%20fits%20an%20application%e2%80%99s%20needs.%0a%20APIs%20have%20become%20ubiquitous%20components%20of%20software%20infrastructures.%20In%20short%2c%20an%20API%20defines%20how%20a%20client%20can%20load%20data%20from%20a%20server...." class="popup">
               <span class="icon">
                   <svg version="1.1" id="btn-li" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="28px" height="28px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve">
                       <path d="M25.424,15.887v8.447h-4.896v-7.882c0-1.979-0.709-3.331-2.48-3.331c-1.354,0-2.158,0.911-2.514,1.803 c-0.129,0.315-0.162,0.753-0.162,1.194v8.216h-4.899c0,0,0.066-13.349,0-14.731h4.899v2.088c-0.01,0.016-0.023,0.032-0.033,0.048 h0.033V11.69c0.65-1.002,1.812-2.435,4.414-2.435C23.008,9.254,25.424,11.361,25.424,15.887z M5.348,2.501 c-1.676,0-2.772,1.092-2.772,2.539c0,1.421,1.066,2.538,2.717,2.546h0.032c1.709,0,2.771-1.132,2.771-2.546 C8.054,3.593,7.019,2.501,5.343,2.501H5.348z M2.867,24.334h4.897V9.603H2.867V24.334z"/>
