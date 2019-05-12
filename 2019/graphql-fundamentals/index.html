@@ -19,16 +19,16 @@
         <meta charset="utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-        <meta property="og:title" content="GraphQL Tutorial with Ruby · Andrew Goss · Data Engineer" />
-        <meta name="twitter:title" content="GraphQL Tutorial with Ruby · Andrew Goss · Data Engineer" />
-        <title>GraphQL Tutorial with Ruby · Andrew Goss · Data Engineer</title>
+        <meta property="og:title" content="GraphQL Fundamentals · Andrew Goss · Data Engineer" />
+        <meta name="twitter:title" content="GraphQL Fundamentals · Andrew Goss · Data Engineer" />
+        <title>GraphQL Fundamentals · Andrew Goss · Data Engineer</title>
         
         <meta property="og:site_name" content="Andrew Goss · Data Engineer" />
         <meta property="og:locale " content="en-us" />
         
-        <meta property="og:url" content="https://andrewrgoss.com/2019/graphql-tutorial-with-ruby/" />
-        <meta name="twitter:url" content="https://andrewrgoss.com/2019/graphql-tutorial-with-ruby/" />
-        <link rel="canonical" href="https://andrewrgoss.com/2019/graphql-tutorial-with-ruby/" />
+        <meta property="og:url" content="https://andrewrgoss.com/2019/graphql-fundamentals/" />
+        <meta name="twitter:url" content="https://andrewrgoss.com/2019/graphql-fundamentals/" />
+        <link rel="canonical" href="https://andrewrgoss.com/2019/graphql-fundamentals/" />
         
         <meta name="description" content="TUTORIAL LINK
 
@@ -64,8 +64,8 @@ Introduction Most applications today have the need to fetch data from a server w
             { 
                 "@context": "http://schema.org",
                 "@type": "BlogPosting",
-                "headline": "GraphQL Tutorial with Ruby",
-                "name": "GraphQL Tutorial with Ruby",
+                "headline": "GraphQL Fundamentals",
+                "name": "GraphQL Fundamentals",
                 "author": {
                     "@type": "Person",
 "name": "Andrew Goss",
@@ -84,10 +84,10 @@ Introduction Most applications today have the need to fetch data from a server w
 *Source: How To GraphQL
 Introduction Most applications today have the need to fetch data from a server where that data is stored in a database. It’s the responsibility of the API to provide an interface to the stored data that fits an application’s needs.
  APIs have become ubiquitous components of software infrastructures. In short, an API defines how a client can load data from a server.",
-                "wordCount": 792,
+                "wordCount": 1169,
                 "articleSection": "post",
-                "timeRequired": "0:4:0",
-                "url": "https://andrewrgoss.com/2019/graphql-tutorial-with-ruby/"
+                "timeRequired": "0:6:0",
+                "url": "https://andrewrgoss.com/2019/graphql-fundamentals/"
             }
         </script>
 
@@ -856,15 +856,15 @@ h2.resources
             
                 <a href="https://andrewrgoss.com/tags/graphql/">graphql</a>
             
-                <a href="https://andrewrgoss.com/tags/ruby/">ruby</a>
+                <a href="https://andrewrgoss.com/tags/self-study/">self-study</a>
             
         
         </span>
     </div>
-    <h1 class="post-title">GraphQL Tutorial with Ruby</h1>
+    <h1 class="post-title">GraphQL Fundamentals</h1>
     
 
-<p><img src="/img/post/graphql_ruby.png" alt="RGraphQL with Ruby" title="GraphQL with Ruby" /><br>
+<p><img src="/img/post/graphql.png" alt="GraphQL" title="GraphQL" /><br>
 <a href="https://www.howtographql.com" target="_blank">TUTORIAL LINK</a><br>
 <hr></p>
 
@@ -943,6 +943,46 @@ Continuous deployment has become a standard for many companies, rapid iterations
 
 <p>Subscriptions are written using the same syntax as queries and mutations.</p>
 
+<h2 id="big-picture-architecture">Big Picture (Architecture)</h2>
+
+<p>There are <a href="https://www.howtographql.com/basics/3-big-picture" target=_>3 different kinds of architectures</a> that include a GraphQL server.</p>
+
+<ul>
+<li>GraphQL server with <i>a connected database</i></li>
+<li>GraphQL server that is a <i>thin layer in front of a number of third party or legacy systems</i> and integrates them through a single GraphQL API</li>
+<li><i>A hybrid approach of a connected database and third party or legacy systems</i> that can all be accessed through the same GraphQL API</li>
+</ul>
+
+<p>All three architectures represent major use cases of GraphQL and demonstrate the flexibility in terms of the context where it can be used.</p>
+
+<h3 id="resolver-functions">Resolver Functions</h3>
+
+<p>The payload of a GraphQL query (or mutation) consists of a set of <i>fields</i>. In the GraphQL server implementation, each of these fields actually corresponds to exactly one function that’s called a <i><a href="http://graphql.org/learn/execution/#root-fields-resolvers" target=_>resolver</a></i>. The sole purpose of a resolver function is to fetch the data for its field.</p>
+
+<h3 id="graphql-client-libraries">GraphQL Client Libraries</h3>
+
+<p>GraphQL is particularly great for frontend developers since it completely eliminates many of the inconveniences and shortcomings that are experienced with REST APIs, such as over- and underfetching. Complexity is pushed to the server-side where powerful machines can take care of the heavy computation work. The client doesn’t have to know where the data that it fetches is actually coming from and can use a single, coherent and flexible API.</p>
+
+<p>Let’s consider the major change that’s introduced with GraphQL in going from a rather imperative data fetching approach to a purely declarative one. When fetching data from a REST API, most applications will have to go through the following steps:</p>
+
+<ol>
+<li>construct and send HTTP request (e.g. with <code>fetch</code> in Javascript)</li>
+<li>receive and parse server response</li>
+<li>store data locally (either simply in memory or persistent)</li>
+<li>display data in the UI</li>
+</ol>
+
+<p>With the ideal <i>declarative data fetching</i> approach, a client shouldn’t be doing more than the following two steps:</p>
+
+<ol>
+<li>describe data requirements</li>
+<li>display data in UI</li>
+</ol>
+
+<p>All the lower-level networking tasks as well as storing the data should be abstracted away and the declaration of data dependencies should be the dominant part.</p>
+
+<p>This is precisely what GraphQL client libraries like Relay or Apollo will enable you to do. They provide the abstraction that you need to be able to focus on the important parts of your application rather than having to deal with the repetitive implementation of infrastructure.</p>
+
 <h2 id="other-resources">Other Resources</h2>
 
 <ul>
@@ -950,8 +990,6 @@ Continuous deployment has become a standard for many companies, rapid iterations
 <li><a href="https://blog.graph.cool/graphql-server-basics-the-network-layer-51d97d21861" target=_>GraphQL Server Basics (Part II): The Network Layer</a></li>
 <li><a href="https://blog.graph.cool/graphql-server-basics-demystifying-the-info-argument-in-graphql-resolvers-6f26249f613a" target=_>GraphQL Server Basics (Part III): Demystifying the <code>info</code> argument in GraphQL resolvers</a></li>
 </ul>
-
-<p><a href="#" class="btn" target="_blank">View my code on GitHub</a><br class="custom"></p>
 
     <div>
   <hr>
@@ -962,7 +1000,7 @@ Continuous deployment has become a standard for many companies, rapid iterations
 	<div id="social-bar">
 	<ul class="rrssb-buttons clearfix">
       <li class="email">
-          <a href="mailto:?subject=GraphQL%20Tutorial%20with%20Ruby&amp;body=https://andrewrgoss.com/2019/graphql-tutorial-with-ruby/" data-proofer-ignore>
+          <a href="mailto:?subject=GraphQL%20Fundamentals&amp;body=https://andrewrgoss.com/2019/graphql-fundamentals/" data-proofer-ignore>
               <span class="icon">
                   <svg version="1.1" id="btn-mail" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="28px" height="28px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve">
                       <path transform="scale(0.014,-0.014) translate(0,-1670)" d="M1792 826v-794q0 -66 -47 -113t-113 -47h-1472q-66 0 -113 47t-47 113v794q44 -49 101 -87q362 -246 497 -345q57 -42 92.5 -65.5t94.5 -48t110 -24.5h1h1q51 0 110 24.5t94.5 48t92.5 65.5q170 123 498 345q57 39 100 87zM1792 1120q0 -79 -49 -151t-122 -123 q-376 -261 -468 -325q-10 -7 -42.5 -30.5t-54 -38t-52 -32.5t-57.5 -27t-50 -9h-1h-1q-23 0 -50 9t-57.5 27t-52 32.5t-54 38t-42.5 30.5q-91 64 -262 182.5t-205 142.5q-62 42 -117 115.5t-55 136.5q0 78 41.5 130t118.5 52h1472q65 0 112.5 -47t47.5 -113z"/>
@@ -972,7 +1010,7 @@ Continuous deployment has become a standard for many companies, rapid iterations
           </a>
       </li>
 	  <li class="facebook">
-          <a href="https://www.facebook.com/sharer/sharer.php?u=https://andrewrgoss.com/2019/graphql-tutorial-with-ruby/" class="popup">
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https://andrewrgoss.com/2019/graphql-fundamentals/" class="popup">
               <span class="icon">
                   <svg version="1.1" id="btn-fb" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="28px" height="28px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve">
                       <path d="M27.825,4.783c0-2.427-2.182-4.608-4.608-4.608H4.783c-2.422,0-4.608,2.182-4.608,4.608v18.434 c0,2.427,2.181,4.608,4.608,4.608H14V17.379h-3.379v-4.608H14v-1.795c0-3.089,2.335-5.885,5.192-5.885h3.718v4.608h-3.726 c-0.408,0-0.884,0.492-0.884,1.236v1.836h4.609v4.608h-4.609v10.446h4.916c2.422,0,4.608-2.188,4.608-4.608V4.783z"/>
@@ -982,7 +1020,7 @@ Continuous deployment has become a standard for many companies, rapid iterations
           </a>
       </li>
 	  <li class="twitter">
-          <a href="http://twitter.com/home?status=GraphQL%20Tutorial%20with%20Ruby%20https://andrewrgoss.com/2019/graphql-tutorial-with-ruby/" class="popup">
+          <a href="http://twitter.com/home?status=GraphQL%20Fundamentals%20https://andrewrgoss.com/2019/graphql-fundamentals/" class="popup">
               <span class="icon">
                   <svg version="1.1" id="btn-tw" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="28px" height="28px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve">
 		                  <path d="M24.253,8.756C24.689,17.08,18.297,24.182,9.97,24.62c-3.122,0.162-6.219-0.646-8.861-2.32 c2.703,0.179,5.376-0.648,7.508-2.321c-2.072-0.247-3.818-1.661-4.489-3.638c0.801,0.128,1.62,0.076,2.399-0.155 C4.045,15.72,2.215,13.6,2.115,11.077c0.688,0.275,1.426,0.407,2.168,0.386c-2.135-1.65-2.729-4.621-1.394-6.965 C5.575,7.816,9.54,9.84,13.803,10.071c-0.842-2.739,0.694-5.64,3.434-6.482c2.018-0.623,4.212,0.044,5.546,1.683 c1.186-0.213,2.318-0.662,3.329-1.317c-0.385,1.256-1.247,2.312-2.399,2.942c1.048-0.106,2.069-0.394,3.019-0.851 C26.275,7.229,25.39,8.196,24.253,8.756z"/>
@@ -992,7 +1030,7 @@ Continuous deployment has become a standard for many companies, rapid iterations
           </a>
       </li>
 	  <li class="reddit">
-          <a href="http://www.reddit.com/submit?url=https://andrewrgoss.com/2019/graphql-tutorial-with-ruby/">
+          <a href="http://www.reddit.com/submit?url=https://andrewrgoss.com/2019/graphql-fundamentals/">
               <span class="icon">
                   <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="28px" height="28px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve">
 											<g>
@@ -1008,7 +1046,7 @@ Continuous deployment has become a standard for many companies, rapid iterations
       </li>
 	  
 	  <li class="linkedin">
-          <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://andrewrgoss.com/2019/graphql-tutorial-with-ruby/&amp;title=GraphQL%20Tutorial%20with%20Ruby&amp;summary=TUTORIAL%20LINK%0a%0a%2aSource%3a%20How%20To%20GraphQL%0aIntroduction%20Most%20applications%20today%20have%20the%20need%20to%20fetch%20data%20from%20a%20server%20where%20that%20data%20is%20stored%20in%20a%20database.%20It%e2%80%99s%20the%20responsibility%20of%20the%20API%20to%20provide%20an%20interface%20to%20the%20stored%20data%20that%20fits%20an%20application%e2%80%99s%20needs.%0a%20APIs%20have%20become%20ubiquitous%20components%20of%20software%20infrastructures.%20In%20short%2c%20an%20API%20defines%20how%20a%20client%20can%20load%20data%20from%20a%20server...." class="popup">
+          <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://andrewrgoss.com/2019/graphql-fundamentals/&amp;title=GraphQL%20Fundamentals&amp;summary=TUTORIAL%20LINK%0a%0a%2aSource%3a%20How%20To%20GraphQL%0aIntroduction%20Most%20applications%20today%20have%20the%20need%20to%20fetch%20data%20from%20a%20server%20where%20that%20data%20is%20stored%20in%20a%20database.%20It%e2%80%99s%20the%20responsibility%20of%20the%20API%20to%20provide%20an%20interface%20to%20the%20stored%20data%20that%20fits%20an%20application%e2%80%99s%20needs.%0a%20APIs%20have%20become%20ubiquitous%20components%20of%20software%20infrastructures.%20In%20short%2c%20an%20API%20defines%20how%20a%20client%20can%20load%20data%20from%20a%20server...." class="popup">
               <span class="icon">
                   <svg version="1.1" id="btn-li" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="28px" height="28px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve">
                       <path d="M25.424,15.887v8.447h-4.896v-7.882c0-1.979-0.709-3.331-2.48-3.331c-1.354,0-2.158,0.911-2.514,1.803 c-0.129,0.315-0.162,0.753-0.162,1.194v8.216h-4.899c0,0,0.066-13.349,0-14.731h4.899v2.088c-0.01,0.016-0.023,0.032-0.033,0.048 h0.033V11.69c0.65-1.002,1.812-2.435,4.414-2.435C23.008,9.254,25.424,11.361,25.424,15.887z M5.348,2.501 c-1.676,0-2.772,1.092-2.772,2.539c0,1.421,1.066,2.538,2.717,2.546h0.032c1.709,0,2.771-1.132,2.771-2.546 C8.054,3.593,7.019,2.501,5.343,2.501H5.348z M2.867,24.334h4.897V9.603H2.867V24.334z"/>

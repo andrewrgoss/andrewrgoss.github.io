@@ -8,10 +8,23 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Sat, 27 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/tags/self-study/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>GraphQL Fundamentals</title>
+      <link>https://andrewrgoss.com/2019/graphql-fundamentals/</link>
+      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2019/graphql-fundamentals/</guid>
+      <description>TUTORIAL LINK
+
+*Source: How To GraphQL
+Introduction Most applications today have the need to fetch data from a server where that data is stored in a database. It’s the responsibility of the API to provide an interface to the stored data that fits an application’s needs.
+ APIs have become ubiquitous components of software infrastructures. In short, an API defines how a client can load data from a server.</description>
+    </item>
     
     <item>
       <title>Udemy- Learn to Code with Ruby</title>

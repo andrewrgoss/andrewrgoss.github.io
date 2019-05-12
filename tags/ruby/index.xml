@@ -8,22 +8,22 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Sat, 04 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/tags/ruby/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>GraphQL Tutorial with Ruby</title>
-      <link>https://andrewrgoss.com/2019/graphql-tutorial-with-ruby/</link>
-      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
+      <title>Build GraphQL Server with Ruby</title>
+      <link>https://andrewrgoss.com/2019/build-graphql-server-with-ruby/</link>
+      <pubDate>Sun, 12 May 2019 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
-      <guid>https://andrewrgoss.com/2019/graphql-tutorial-with-ruby/</guid>
-      <description>TUTORIAL LINK
+      <guid>https://andrewrgoss.com/2019/build-graphql-server-with-ruby/</guid>
+      <description> TUTORIAL LINK
 
 *Source: How To GraphQL
-Introduction Most applications today have the need to fetch data from a server where that data is stored in a database. It’s the responsibility of the API to provide an interface to the stored data that fits an application’s needs.
- APIs have become ubiquitous components of software infrastructures. In short, an API defines how a client can load data from a server.</description>
+Working to build my own GraphQL server using the following technologies:
+ Ruby on Rails: the most popular library for building applications in Ruby GraphQL Gem: the most popular library for building GraphQL applications GraphiQL: An in-browser IDE for exploring GraphQL, which comes bundled with GraphQL Gem  Resources  Official Specification Graphcool (Self-Hosted GraphQL BaaS)  View my code on GitHub</description>
     </item>
     
     <item>
