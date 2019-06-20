@@ -19,11 +19,12 @@
       <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2019/build-graphql-server-with-ruby/</guid>
-      <description>TUTORIAL LINK
+      <description> TUTORIAL LINK
 
 *Source: How To GraphQL
 Working to build my own GraphQL server using the following technologies:
- Ruby on Rails: the most popular library for building applications in Ruby GraphQL Gem: the most popular library for building GraphQL applications GraphiQL: An in-browser IDE for exploring GraphQL, which comes bundled with GraphQL Gem  Resources  Official Specification Graphcool (Self-Hosted GraphQL BaaS)  Bookmark https://www.howtographql.com/graphql-ruby/4-authentication section= Sign in Mutation</description>
+ Ruby on Rails: the most popular library for building applications in Ruby GraphQL Gem: the most popular library for building GraphQL applications GraphiQL: An in-browser IDE for exploring GraphQL, which comes bundled with GraphQL Gem  Resources  Official Specification Graphcool (Self-Hosted GraphQL BaaS)  Bookmark https://www.howtographql.com/graphql-ruby/5-connecting-nodes
+View my code on GitHub</description>
     </item>
     
     <item>
