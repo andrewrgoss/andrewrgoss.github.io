@@ -8,7 +8,7 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Fri, 07 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/tags/api-development/index.xml" rel="self" type="application/rss+xml" />
     
@@ -16,15 +16,14 @@
     <item>
       <title>Build GraphQL Server with Ruby</title>
       <link>https://andrewrgoss.com/2019/build-graphql-server-with-ruby/</link>
-      <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2019/build-graphql-server-with-ruby/</guid>
-      <description> TUTORIAL LINK
+      <description>TUTORIAL LINK
 
 *Source: How To GraphQL
 Working to build my own GraphQL server using the following technologies:
- Ruby on Rails: the most popular library for building applications in Ruby GraphQL Gem: the most popular library for building GraphQL applications GraphiQL: An in-browser IDE for exploring GraphQL, which comes bundled with GraphQL Gem  Resources  Official Specification Graphcool (Self-Hosted GraphQL BaaS)  Bookmark https://www.howtographql.com/graphql-ruby/7-filtering
-View my code on GitHub</description>
+ Ruby on Rails: the most popular library for building applications in Ruby GraphQL Gem: the most popular library for building GraphQL applications GraphiQL: An in-browser IDE for exploring GraphQL, which comes bundled with GraphQL Gem  Resources  Official Specification Graphcool (Self-Hosted GraphQL BaaS)  GraphQL Queries Run # Welcome to GraphiQL # # Keyboard shortcuts: # # Prettify Query: Shift-Ctrl-P (or press the prettify button above) # Run Query: Ctrl-Enter (or press the play button above) # Auto Complete: Ctrl-Space (or just start typing) # query getAllLinks { allLinks { id url description postedBy { name votes { link { description } } } } } query allLinksFilter { allLinks(filter: {descriptionContains: &amp;quot;testing&amp;quot; OR: {descriptionContains: &amp;quot;best&amp;quot;} }) { description } } query LinksPagination { allLinks(first: 1, skip: 1) { id } } # https://www.</description>
     </item>
     
     <item>
