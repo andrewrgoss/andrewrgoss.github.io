@@ -118,6 +118,17 @@ Originally, the purpose of data engineering was the loading of external data sou
     </item>
     
     <item>
+      <title>Beginner’s Guide to Data Engineering - A 3-Part Series</title>
+      <link>https://andrewrgoss.com/2018/beginners-guide-to-data-engineering---a-3-part-series/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2018/beginners-guide-to-data-engineering---a-3-part-series/</guid>
+      <description>written by Robert Chang
+Overview This is an excellent 3-part series of articles written from the vantage point of a data scientist looking to learn more about the field of data engineering.
+Organization of This Guide The scope of the discussion is not be exhaustive and is designed heavily around Airflow, batch data processing, and SQL-like languages. That said, this focus should not prevent readers from getting a basic understanding of data engineering and may pique interest to learn more about this fast-growing, emerging field.</description>
+    </item>
+    
+    <item>
       <title>Coursera- Building Resilient Streaming Systems on GCP</title>
       <link>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_streaming_systems/</link>
       <pubDate>Fri, 20 Jul 2018 00:00:00 +0000</pubDate>
