@@ -22,7 +22,7 @@
       <description>TUTORIAL LINK
 
 *Source: How To GraphQL
-Working to build my own GraphQL server using the following technologies:
+Built my own GraphQL server using the following technologies:
  Ruby on Rails: the most popular library for building applications in Ruby GraphQL Gem: the most popular library for building GraphQL applications GraphiQL: An in-browser IDE for exploring GraphQL, which comes bundled with GraphQL Gem  Resources  Official Specification Graphcool (Self-Hosted GraphQL BaaS)  GraphQL Queries Run # Welcome to GraphiQL # # Keyboard shortcuts: # # Prettify Query: Shift-Ctrl-P (or press the prettify button above) # Run Query: Ctrl-Enter (or press the play button above) # Auto Complete: Ctrl-Space (or just start typing) # query getAllLinks { allLinks { id url description postedBy { name votes { link { description } } } } } query allLinksFilter { allLinks(filter: {descriptionContains: &amp;quot;testing&amp;quot; OR: {descriptionContains: &amp;quot;best&amp;quot;} }) { description } } query LinksPagination { allLinks(first: 1, skip: 1) { id } } # https://www.</description>
     </item>
     
