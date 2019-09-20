@@ -8,10 +8,22 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Tue, 09 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DataOps Is Here To Stay</title>
+      <link>https://andrewrgoss.com/2019/dataops-is-here-to-stay/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2019/dataops-is-here-to-stay/</guid>
+      <description>Photo by Stephen Dawson on Unsplash
+written by Pedro Martinez 
+What Is DataOps? DataOps is a discipline that has become a necessity in a market where the demand for access to data assets and data products is skyrocketing. The inability of data platform teams and data management platforms to keep pace with the demands placed on them by DevOps-enabled teams led to the development of DataOps.[i]
+In a nutshell, DataOps brings together data scientists, analysts, developers, and operations to work on the entire product/service lifecycle, from the design stage to production support.</description>
+    </item>
     
     <item>
       <title>Build GraphQL Server with Ruby</title>
