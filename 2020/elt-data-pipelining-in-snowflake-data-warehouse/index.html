@@ -84,7 +84,7 @@ In my previous post:
 Building Snowpipe on Azure Blob Storage Using Azure Portal Web UI for Snowflake Data Warehouse
 Snowpipe was introduced to be utilized for automatically discovering new data files in cloud storage (e.g. Azure Blob Storage) and then load the data into a certain table.
 Snowpipe is a very convenient tool for the above purposes. However, Snowpipe itself is only considered as the “E” (Extract) of ELT, because only COPY INTO command is allowed in a Snowpipe creating statement.",
-                "wordCount": 1790,
+                "wordCount": 1793,
                 "articleSection": "post",
                 "timeRequired": "0:9:0",
                 "url": "https://andrewrgoss.com/2020/elt-data-pipelining-in-snowflake-data-warehouse/"
@@ -954,7 +954,7 @@ FROM the_stream;
 
 <p><img src="https://miro.medium.com/max/2249/1*mgdbadQNEDZWOHGjGN-o6Q.png"></p>
 
-<p class="custom_blockquote"><sub>Image courtesy: https://docs.snowflake.net/manuals/user-guide/streams.html</sub></p>
+<p class="custom_blockquote"><sub>Image courtesy: <a href="https://docs.snowflake.net/manuals/user-guide/streams.html" target=_>https://docs.snowflake.net/manuals/user-guide/streams.html</a></sub></p>
 
 <h2 id="snowflake-tasks">Snowflake Tasks</h2>
 
@@ -962,7 +962,7 @@ FROM the_stream;
 
 <p>Yes, I use “an” SQL statement for each task. Currently, this is an limitation of Snowflake Tasks. Hopefully in the future updates it will support a transaction will proper <code>BEGIN</code> and <code>COMMIT</code> keywords so that we can execute a series of SQL statements in a transaction, and utilizing a task to schedule this transaction.</p>
 
-<p>Despite there is such an limitation, Snowflake does provide approaches for multiple SQL statement scheduling, which is called <b>Task Tree</b>. As its name, we can define multiple tasks in a tree structure. Several tips:</p>
+<p>Despite the fact that there is such an limitation, Snowflake does provide approaches for multiple SQL statement scheduling, which is called <b>Task Tree</b>. As its name, we can define multiple tasks in a tree structure. Several tips:</p>
 
 <ul>
 <li><p>A task can have multiple tasks as its offsprings, so the offsprings tasks will be executed when the parent task is finished.</p></li>
@@ -976,7 +976,7 @@ FROM the_stream;
 
 <p><img src="https://miro.medium.com/max/1363/1*TPV-E6j-rFPi34rJft9oYQ.png"></p>
 
-<p class="custom_blockquote"><sub>Image courtesy: https://docs.snowflake.net/manuals/user-guide/tasks-intro.html</sub></p>
+<p class="custom_blockquote"><sub>Image courtesy: <a href="https://docs.snowflake.net/manuals/user-guide/tasks-intro.html" target=_>https://docs.snowflake.net/manuals/user-guide/tasks-intro.html</a></sub></p>
 
 <h3 id="trigger-a-task">Trigger a Task</h3>
 
@@ -999,7 +999,7 @@ FROM the_stream;
 <p class="custom_blockquote"><sub><b>Free Online Cron Expression Generator and Describer - FreeFormatter.com</b><br>
 Generate a quartz cron expression with an easy to use online interface. Convert a cron expression into a readable text…
 <br><br>
-www.freeformatter.com
+<a href="https://www.freeformatter.com" target=_>www.freeformatter.com</a>
 </sub></p>
 
 <p>The other approach of scheduling defining is much more straightforward, which is just simple define the time interval. For example, if I want the task to be triggered every 5 minutes, then just define it like this:</p>
@@ -1071,13 +1071,13 @@ AS
 <p><br class="custom"></p>
 
 <ul>
-<li><p>Official documentation of Snowflake Streams: <a href="https://docs.snowflake.net/manuals/user-guide/streams.html">https://docs.snowflake.net/manuals/user-guide/streams.html</a></p></li>
+<li><p>Official documentation of Snowflake Streams: <a href="https://docs.snowflake.net/manuals/user-guide/streams.html" target=_>docs.snowflake.net/manuals/user-guide/streams</a></p></li>
 
 <li><p>Official documentation of Snowflake Tasks:
-<a href="https://docs.snowflake.net/manuals/user-guide/tasks-intro.html">https://docs.snowflake.net/manuals/user-guide/tasks-intro.html</a></p></li>
+<a href="https://docs.snowflake.net/manuals/user-guide/tasks-intro.html" target=_>docs.snowflake.net/manuals/user-guide/tasks-intro</a></p></li>
 
 <li><p>Free online CRON expression generator:
-<a href="https://www.freeformatter.com/cron-expression-generator-quartz.html">https://www.freeformatter.com/cron-expression-generator-quartz.html</a></p></li>
+<a href="https://www.freeformatter.com/cron-expression-generator-quartz.html" target=_>www.freeformatter.comcron-expression-generator-quartz</a></p></li>
 </ul>
 
 <p><a href="https://medium.com/@qiuyujx/elt-data-pipelining-in-snowflake-data-warehouse-using-streams-and-tasks-ae6eb7c083de" class="btn" target="_blank">View original article</a><br></p>
