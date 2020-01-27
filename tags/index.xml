@@ -142,7 +142,7 @@
     <item>
       <title>Data Warehousing</title>
       <link>https://andrewrgoss.com/tags/data-warehousing/</link>
-      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/tags/data-warehousing/</guid>
       <description></description>
@@ -154,6 +154,15 @@
       <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/tags/dataops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elt</title>
+      <link>https://andrewrgoss.com/tags/elt/</link>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/tags/elt/</guid>
       <description></description>
     </item>
     
@@ -334,6 +343,15 @@
       <pubDate>Thu, 07 Dec 2017 00:00:00 +0000</pubDate>
       <author>andrewrgoss@gmail.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/tags/side-projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Snowflake</title>
+      <link>https://andrewrgoss.com/tags/snowflake/</link>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/tags/snowflake/</guid>
       <description></description>
     </item>
     

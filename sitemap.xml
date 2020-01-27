@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://andrewrgoss.com/2020/elt-data-pipelining-in-snowflake-data-warehouse/</loc>
+    <lastmod>2020-01-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://andrewrgoss.com/2019/the-rise-of-sql-based-data-modeling-and-dataops/</loc>
     <lastmod>2019-11-15T00:00:00+00:00</lastmod>
   </url>
@@ -422,7 +427,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/</loc>
-    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -504,13 +509,19 @@
   
   <url>
     <loc>https://andrewrgoss.com/tags/data-warehousing/</loc>
-    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://andrewrgoss.com/tags/dataops/</loc>
     <lastmod>2019-11-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andrewrgoss.com/tags/elt/</loc>
+    <lastmod>2020-01-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -588,7 +599,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/post/</loc>
-    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -659,6 +670,12 @@
   <url>
     <loc>https://andrewrgoss.com/tags/side-projects/</loc>
     <lastmod>2017-12-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andrewrgoss.com/tags/snowflake/</loc>
+    <lastmod>2020-01-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

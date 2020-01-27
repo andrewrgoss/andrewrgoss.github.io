@@ -8,10 +8,23 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/tags/data-warehousing/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ELT Data Pipelining in Snowflake Data Warehouse</title>
+      <link>https://andrewrgoss.com/2020/elt-data-pipelining-in-snowflake-data-warehouse/</link>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2020/elt-data-pipelining-in-snowflake-data-warehouse/</guid>
+      <description>written by Christopher Tao 
+In my previous post:
+Building Snowpipe on Azure Blob Storage Using Azure Portal Web UI for Snowflake Data Warehouse
+Snowpipe was introduced to be utilized for automatically discovering new data files in cloud storage (e.g. Azure Blob Storage) and then load the data into a certain table.
+Snowpipe is a very convenient tool for the above purposes. However, Snowpipe itself is only considered as the “E” (Extract) of ELT, because only COPY INTO command is allowed in a Snowpipe creating statement.</description>
+    </item>
     
     <item>
       <title>The Rise of SQL-Based Data Modeling and DataOps</title>
