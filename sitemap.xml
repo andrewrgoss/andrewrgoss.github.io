@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://andrewrgoss.com/2020/aws--snowflake-vs-gcp/</loc>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://andrewrgoss.com/2020/elt-data-pipelining-in-snowflake-data-warehouse/</loc>
     <lastmod>2020-01-22T00:00:00+00:00</lastmod>
   </url>
@@ -427,7 +432,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/</loc>
-    <lastmod>2020-01-22T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -445,7 +450,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/tags/big-data/</loc>
-    <lastmod>2018-03-26T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -467,7 +472,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/tags/cloud-computing/</loc>
-    <lastmod>2018-07-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -509,7 +514,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/tags/data-warehousing/</loc>
-    <lastmod>2020-01-22T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -599,7 +604,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/post/</loc>
-    <lastmod>2020-01-22T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

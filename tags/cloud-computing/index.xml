@@ -8,10 +8,21 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Fri, 20 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/tags/cloud-computing/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AWS &amp; Snowflake vs GCP</title>
+      <link>https://andrewrgoss.com/2020/aws--snowflake-vs-gcp/</link>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2020/aws--snowflake-vs-gcp/</guid>
+      <description>written by Stefano Solimito 
+When we talk about data, the number of technologies available on the market is overwhelming and staying up to date is a key challenge both for businesses and for engineers.
+With this article, Stefano Solimito shares the joys and pains of the learning journey of building a new data platform using some of the most cutting edge technologies available — AWS (Amazon Web Services), Snowflake and Looker.</description>
+    </item>
     
     <item>
       <title>Coursera- Building Resilient Streaming Systems on GCP</title>
