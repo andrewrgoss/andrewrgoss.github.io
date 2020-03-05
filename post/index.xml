@@ -8,10 +8,20 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Tue, 18 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DataOps is NOT Just DevOps for Data</title>
+      <link>https://andrewrgoss.com/2020/dataops-is-not-just-devops-for-data/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2020/dataops-is-not-just-devops-for-data/</guid>
+      <description>written by DataKitchen 
+One common misconception about DataOps is that it is just DevOps applied to data analytics. While a little semantically misleading, the name “DataOps” has one positive attribute. It communicates that data analytics can achieve what software development attained with DevOps. That is to say, DataOps can yield an order of magnitude improvement in quality and cycle time when data teams utilize new tools and methodologies. The specific ways that DataOps achieves these gains reflect the unique people, processes and tools characteristic of data teams (versus software development teams using DevOps).</description>
+    </item>
     
     <item>
       <title>AWS &amp; Snowflake vs GCP</title>
