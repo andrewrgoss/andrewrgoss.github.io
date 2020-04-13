@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://andrewrgoss.com/2020/top-4-data-warehouse-anti-patterns/</loc>
+    <lastmod>2020-04-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://andrewrgoss.com/2020/dataops-is-not-just-devops-for-data/</loc>
     <lastmod>2020-03-05T00:00:00+00:00</lastmod>
   </url>
@@ -437,7 +442,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/</loc>
-    <lastmod>2020-03-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -501,13 +506,13 @@
   
   <url>
     <loc>https://andrewrgoss.com/tags/data-engineering/</loc>
-    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://andrewrgoss.com/tags/data-science/</loc>
-    <lastmod>2020-03-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -519,7 +524,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/tags/data-warehousing/</loc>
-    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -615,7 +620,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/post/</loc>
-    <lastmod>2020-03-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

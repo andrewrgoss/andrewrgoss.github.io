@@ -8,10 +8,23 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Thu, 05 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Top 4 Data Warehouse Anti-Patterns</title>
+      <link>https://andrewrgoss.com/2020/top-4-data-warehouse-anti-patterns/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2020/top-4-data-warehouse-anti-patterns/</guid>
+      <description>Photo by Ascend blog on Ascend.io
+written by Sean Knapp 
+ When data warehouses are stretched outside of their core purpose, these once revered systems can put our data and our projects at risk. Below are the four most commonly found data warehouse anti-patterns.
+ &amp;ldquo;The best investment is in the tools of one’s own trade.&amp;rdquo; — Benjamin Franklin
+The vast array of data, systems, and their interconnectedness continues to grow and is becoming increasingly complex.</description>
+    </item>
     
     <item>
       <title>DataOps is NOT Just DevOps for Data</title>
