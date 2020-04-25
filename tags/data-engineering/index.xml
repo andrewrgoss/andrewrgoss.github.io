@@ -8,10 +8,21 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Mon, 13 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/tags/data-engineering/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Guide Data Lakes — Modern Batch Data Warehousing</title>
+      <link>https://andrewrgoss.com/2020/a-guide-data-lakes--modern-batch-data-warehousing/</link>
+      <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2020/a-guide-data-lakes--modern-batch-data-warehousing/</guid>
+      <description>written by Daniel Mateus Pires
+ Redefining the batch data extraction patterns and the data lake using “Functional Data Engineering”
+ The last decades have been greatly transformative for the Data Analytics landscape. With the decrease in storage costs and the adoption of cloud computing, the restrictions that guided the design of data tools were made obsolete and so — the data engineering tools and techniques had to evolve.</description>
+    </item>
     
     <item>
       <title>Top 4 Data Warehouse Anti-Patterns</title>

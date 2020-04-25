@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://andrewrgoss.com/2020/a-guide-data-lakes--modern-batch-data-warehousing/</loc>
+    <lastmod>2020-04-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://andrewrgoss.com/2020/top-4-data-warehouse-anti-patterns/</loc>
     <lastmod>2020-04-13T00:00:00+00:00</lastmod>
   </url>
@@ -442,7 +447,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/</loc>
-    <lastmod>2020-04-13T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -460,7 +465,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/tags/big-data/</loc>
-    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -506,7 +511,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/tags/data-engineering/</loc>
-    <lastmod>2020-04-13T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -524,7 +529,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/tags/data-warehousing/</loc>
-    <lastmod>2020-04-13T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -620,7 +625,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/post/</loc>
-    <lastmod>2020-04-13T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
