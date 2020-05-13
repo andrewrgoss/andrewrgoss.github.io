@@ -8,10 +8,22 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Sat, 25 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/tags/data-warehousing/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Data Warehouse Pipelines- Basic Concepts &amp; Roadmap</title>
+      <link>https://andrewrgoss.com/2020/data-warehouse-pipelines--basic-concepts--roadmap/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2020/data-warehouse-pipelines--basic-concepts--roadmap/</guid>
+      <description>written by Antony Henao 
+ Five processes to improve your data pipeline operability and performance
+ Building a data warehouse pipeline can be complex sometimes. If you are starting in this world, you will soon realize there is no right or wrong way to do it. It always depends on your needs.
+Yet, there a couple of basic processes you should put in place when building a data pipeline to improve its operability and performance.</description>
+    </item>
     
     <item>
       <title>A Data Lakes Guide — Modern Batch Data Warehousing</title>
