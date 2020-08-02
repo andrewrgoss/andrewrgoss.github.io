@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Career Development on Andrew Goss · Senior Data Engineer</title>
+    <link>https://andrewrgoss.com/tags/career-development/</link>
+    <description>Recent content in Career Development on Andrew Goss · Senior Data Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
+    <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
+    <lastBuildDate>Sat, 25 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://andrewrgoss.com/tags/career-development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Recommended Reads to Help Level Up Your Career in Data</title>
+      <link>https://andrewrgoss.com/2020/recommended-reads-to-help-level-up-your-career-in-data/</link>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2020/recommended-reads-to-help-level-up-your-career-in-data/</guid>
+      <description>I&amp;rsquo;ve put together a list of recommended, categorized articles to peruse, experiment with, and help level up your career in data. Enjoy!
+API Development  My 5 favourite APIs | The Startup | Elle Townsend  Big Data::Apache Spark  5 Spark Best Practices For Data Science Projects A modern guide to Spark RDDs Building a Big Data Pipeline With Airflow, Spark and Zeppelin Data Pipelines With Apache Airflow | by Munish Goyal | The Startup | Jul, 2020 Faster extract and load of ETL jobs in Apache Spark Five Ways to Perform Aggregation in Apache Spark Flattening Nested Data (JSON/XML) Using Apache-Spark Guide to Selection of Number of Partitions while reading Data Files in Apache Spark | The Startup How to process a DataFrame with billions of rows in seconds Mastering Query Plans in Spark 3.</description>
+    </item>
+    
+  </channel>
+</rss>

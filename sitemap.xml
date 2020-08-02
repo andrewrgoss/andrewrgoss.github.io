@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://andrewrgoss.com/2020/recommended-reads-to-help-level-up-your-career-in-data/</loc>
+    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://andrewrgoss.com/2020/data-warehouse-pipelines--basic-concepts--roadmap/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
   </url>
@@ -452,7 +457,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/</loc>
-    <lastmod>2020-05-07T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -481,6 +486,12 @@
   <url>
     <loc>https://andrewrgoss.com/tags/business-intelligence/</loc>
     <lastmod>2019-02-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andrewrgoss.com/tags/career-development/</loc>
+    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -516,7 +527,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/tags/data-engineering/</loc>
-    <lastmod>2020-05-07T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -630,7 +641,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/post/</loc>
-    <lastmod>2020-05-07T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -730,7 +741,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/tags/technical-leadership/</loc>
-    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
