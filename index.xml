@@ -8,10 +8,20 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Recommended Reads to Level Up Your Data Career</title>
+      <link>https://andrewrgoss.com/2020/recommended-reads-to-level-up-your-data-career/</link>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2020/recommended-reads-to-level-up-your-data-career/</guid>
+      <description>I&amp;rsquo;ve put together a list of recommended, categorized articles to peruse, experiment with, and help level up your career in data. Enjoy!
+API Development  My 5 favourite APIs | The Startup | Elle Townsend  Big Data::Apache Spark  5 Spark Best Practices For Data Science Projects A modern guide to Spark RDDs Building a Big Data Pipeline With Airflow, Spark and Zeppelin Data Pipelines With Apache Airflow | by Munish Goyal | The Startup | Jul, 2020 Faster extract and load of ETL jobs in Apache Spark Five Ways to Perform Aggregation in Apache Spark Flattening Nested Data (JSON/XML) Using Apache-Spark Guide to Selection of Number of Partitions while reading Data Files in Apache Spark | The Startup How to process a DataFrame with billions of rows in seconds Mastering Query Plans in Spark 3.</description>
+    </item>
     
     <item>
       <title>Data Warehouse Pipelines- Basic Concepts &amp; Roadmap</title>
