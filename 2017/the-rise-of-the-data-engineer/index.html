@@ -1131,6 +1131,15 @@ considering the data integration challenges. The integration workload is systema
 
 	  ga('create', 'UA-58296426-1', 'auto');
 	  ga('send', 'pageview');
+
+    (function() {
+      var links = document.getElementsByTagName('a');
+      for (var i = 0; i < links.length; i++) {
+        if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
+          links[i].target = '_blank';
+        }
+     }
+    })();
 	  
     </script>
     

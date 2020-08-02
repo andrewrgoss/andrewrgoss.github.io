@@ -1186,6 +1186,15 @@ Cloud Storage does not require the administration overhead of a local file syste
 
 	  ga('create', 'UA-58296426-1', 'auto');
 	  ga('send', 'pageview');
+
+    (function() {
+      var links = document.getElementsByTagName('a');
+      for (var i = 0; i < links.length; i++) {
+        if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
+          links[i].target = '_blank';
+        }
+     }
+    })();
 	  
     </script>
     
