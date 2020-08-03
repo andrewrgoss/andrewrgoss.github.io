@@ -8,10 +8,19 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Sun, 24 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/tags/career-management/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Recommended Reads to Level Up Your Data Career</title>
+      <link>https://andrewrgoss.com/2020/recommended-reads-to-level-up-your-data-career/</link>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2020/recommended-reads-to-level-up-your-data-career/</guid>
+      <description>I&amp;rsquo;ve put together a list of recommended, categorized articles to peruse, experiment with, and help level up your career in data. Note that many of these are hosted by Medium.com, which sets a limit on the number of free stories you can view. To get around this, tweet out the link and then click it from Twitter or search the title to see if someone else has already tweeted the link.</description>
+    </item>
     
     <item>
       <title>Skills for Being a Good Data Engineer</title>
