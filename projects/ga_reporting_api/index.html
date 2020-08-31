@@ -867,43 +867,43 @@ h2.resources
 <p>In this example, a GA summary report is generated (using the JSON below) and inserted into a PostgreSQL staging table with the same name. These dimensions/metrics can be modified using the <a href="https://developers.google.com/analytics/devguides/reporting/core/dimsmets" target=_>Dimensions &amp; Metrics Explorer</a> as a guide.<br><br></p>
 
 <pre><code class="language-json">{
-	&quot;Dimensions&quot;: [
-		{
-			&quot;name&quot;: &quot;ga:date&quot;
-		},
-		{
-			&quot;name&quot;: &quot;ga:country&quot;
-		}
-	],
-	&quot;Metrics&quot;: [
-		{
-			&quot;expression&quot;: &quot;ga:sessions&quot;
-		},
-		{
-			&quot;expression&quot;: &quot;ga:percentNewSessions&quot;
-		},
-		{
-			&quot;expression&quot;: &quot;ga:newUsers&quot;
-		},
-		{
-			&quot;expression&quot;: &quot;ga:bounceRate&quot;
-		},
-		{
-			&quot;expression&quot;: &quot;ga:transactions&quot;
-		},
-		{
-			&quot;expression&quot;: &quot;ga:transactionRevenue&quot;
-		},
-		{
-			&quot;expression&quot;: &quot;ga:transactionsPerSession&quot;
-		}
-	],
-	&quot;dimensionFilterClauses&quot;: [
-		{
-			&quot;filters&quot;: [&quot;none&quot;]
-		}
-	],
-	&quot;Segment&quot;: []
+    &quot;Dimensions&quot;: [
+        {
+            &quot;name&quot;: &quot;ga:date&quot;
+        },
+        {
+            &quot;name&quot;: &quot;ga:country&quot;
+        }
+    ],
+    &quot;Metrics&quot;: [
+        {
+            &quot;expression&quot;: &quot;ga:sessions&quot;
+        },
+        {
+            &quot;expression&quot;: &quot;ga:percentNewSessions&quot;
+        },
+        {
+            &quot;expression&quot;: &quot;ga:newUsers&quot;
+        },
+        {
+            &quot;expression&quot;: &quot;ga:bounceRate&quot;
+        },
+        {
+            &quot;expression&quot;: &quot;ga:transactions&quot;
+        },
+        {
+            &quot;expression&quot;: &quot;ga:transactionRevenue&quot;
+        },
+        {
+            &quot;expression&quot;: &quot;ga:transactionsPerSession&quot;
+        }
+    ],
+    &quot;dimensionFilterClauses&quot;: [
+        {
+            &quot;filters&quot;: [&quot;none&quot;]
+        }
+    ],
+    &quot;Segment&quot;: []
 }
 </code></pre>
 
