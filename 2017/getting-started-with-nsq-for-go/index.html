@@ -808,6 +808,16 @@ h2.resources
 }
 
 </style>
+    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-58296426-1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-58296426-1');
+</script>
+
     </head>
     <body>
         <header id="header">
@@ -899,7 +909,7 @@ $ nsqadmin --lookupd-http-address=127.0.0.1:4161 &amp;
 
 <p>I like creating the consumer first so I can see the handler in action after pushing a message with a producer (see next <a href="#producer">section</a>).</p>
 
-<script src="//gist.github.com/andrewrgoss/eba98ce6334d98a9f2f0b99cab62fd1f.js"></script>
+<script type="application/javascript" src="//gist.github.com/andrewrgoss/eba98ce6334d98a9f2f0b99cab62fd1f.js"></script>
 
 <p>Now run this consumer program:</p>
 
@@ -918,7 +928,7 @@ $ nsqadmin --lookupd-http-address=127.0.0.1:4161 &amp;
 
 <p>You can publish a message with a producer with some simple code like this:</p>
 
-<script src="//gist.github.com/andrewrgoss/f0b2f20690730c0d8b0d65c23d5b7906.js"></script>
+<script type="application/javascript" src="//gist.github.com/andrewrgoss/f0b2f20690730c0d8b0d65c23d5b7906.js"></script>
 
 <p>Now run this publisher program:</p>
 
@@ -1063,29 +1073,6 @@ $ nsqadmin --lookupd-http-address=127.0.0.1:4161 &amp;
           }});
         }
       });
-
-     
-
-   
-  
-      (function() {
-        var cx = '015311007794530062324:gdnctheuf28';
-        var gcse = document.createElement('script');
-        gcse.type = 'text/javascript';
-        gcse.async = true;
-        gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-            '//cse.google.com/cse.js?cx=' + cx;
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(gcse, s);
-      })();
-	  
-	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-	  ga('create', 'UA-58296426-1', 'auto');
-	  ga('send', 'pageview');
 	  
     </script>
     

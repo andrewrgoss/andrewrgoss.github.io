@@ -812,6 +812,16 @@ h2.resources
 }
 
 </style>
+    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-58296426-1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-58296426-1');
+</script>
+
     </head>
     <body>
         <header id="header">
@@ -892,7 +902,7 @@ ssh: connect to host ec2-34-236-254-148.compute-1.amazonaws.com port 22: Operati
 
 <p>Here is the terminal output from successfully running this Spark job across my (temporary) EMR cluster. I removed the repetitive warnings to make this more readable. Once this finished running I terminated this cluster through the AWS console.</p>
 
-<script src="//gist.github.com/andrewrgoss/5121c78a3c98c7caac81146d2f8556a5.js"></script>
+<script type="application/javascript" src="//gist.github.com/andrewrgoss/5121c78a3c98c7caac81146d2f8556a5.js"></script>
 
     <div>
   <hr>
@@ -1013,29 +1023,6 @@ ssh: connect to host ec2-34-236-254-148.compute-1.amazonaws.com port 22: Operati
           }});
         }
       });
-
-     
-
-   
-  
-      (function() {
-        var cx = '015311007794530062324:gdnctheuf28';
-        var gcse = document.createElement('script');
-        gcse.type = 'text/javascript';
-        gcse.async = true;
-        gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-            '//cse.google.com/cse.js?cx=' + cx;
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(gcse, s);
-      })();
-	  
-	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-	  ga('create', 'UA-58296426-1', 'auto');
-	  ga('send', 'pageview');
 	  
     </script>
     

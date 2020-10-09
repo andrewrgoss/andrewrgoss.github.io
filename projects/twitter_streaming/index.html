@@ -824,6 +824,16 @@ h2.resources
 }
 
 </style>
+    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-58296426-1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-58296426-1');
+</script>
+
     </head>
     <body>
         <header id="header">
@@ -886,7 +896,7 @@ h2.resources
 
 <h4 id="sample-output">Sample Output</h4>
 
-<script src="//gist.github.com/andrewrgoss/4a931b4504895ff4c5eabe195efc055c.js"></script>
+<script type="application/javascript" src="//gist.github.com/andrewrgoss/4a931b4504895ff4c5eabe195efc055c.js"></script>
 
 <h4 id="takeaways">Takeaways</h4>
 
@@ -904,7 +914,7 @@ h2.resources
 
 <p>This time instead of measuring the popularity of hashtags, I wanted to see the most popular words in tweets on the topic of data. I wanted to only include meaningful words in the results so I introduced a file of stop words and symbols to filter out of the tweet words. I also excluded the word &lsquo;data&rsquo; itself since these tweets all have that word in common. These were the most common words pertaining to data:<br><br></p>
 
-<script src="//gist.github.com/andrewrgoss/97dd40e14d9c249afc54a26fb66c776f.js"></script>
+<script type="application/javascript" src="//gist.github.com/andrewrgoss/97dd40e14d9c249afc54a26fb66c776f.js"></script>
 
 <h4 id="takeaways-1">Takeaways</h4>
 
@@ -918,7 +928,7 @@ h2.resources
 
 <p>Another self-challenge I completed was creating a new script to see what the most common length of live tweets is. I again used a 5-minute window that slides every one second. These were the most common number of characters per tweet at runtime:</p>
 
-<script src="//gist.github.com/andrewrgoss/3853ac19211ec5d02f14054f6436cbcd.js"></script>
+<script type="application/javascript" src="//gist.github.com/andrewrgoss/3853ac19211ec5d02f14054f6436cbcd.js"></script>
 
 <h4 id="takeaways-2">Takeaways</h4>
 
@@ -1047,29 +1057,6 @@ h2.resources
           }});
         }
       });
-
-     
-
-   
-  
-      (function() {
-        var cx = '015311007794530062324:gdnctheuf28';
-        var gcse = document.createElement('script');
-        gcse.type = 'text/javascript';
-        gcse.async = true;
-        gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-            '//cse.google.com/cse.js?cx=' + cx;
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(gcse, s);
-      })();
-	  
-	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-	  ga('create', 'UA-58296426-1', 'auto');
-	  ga('send', 'pageview');
 	  
     </script>
     
