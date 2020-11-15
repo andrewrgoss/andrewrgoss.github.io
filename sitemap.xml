@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://andrewrgoss.com/2020/simplified-web-scraping-using-python-requests--scraper-api/</loc>
+    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://andrewrgoss.com/2020/recommended-reads-to-level-up-your-data-career/</loc>
     <lastmod>2020-07-25T00:00:00+00:00</lastmod>
   </url>
@@ -457,7 +462,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/</loc>
-    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -521,7 +526,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/tags/data-engineering/</loc>
-    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -635,13 +640,13 @@
   
   <url>
     <loc>https://andrewrgoss.com/post/</loc>
-    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://andrewrgoss.com/tags/programming/</loc>
-    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -665,7 +670,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/tags/python/</loc>
-    <lastmod>2018-01-23T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -757,7 +762,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/tags/web-scraping/</loc>
-    <lastmod>2018-01-23T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

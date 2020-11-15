@@ -8,10 +8,20 @@
     <language>en-us</language>
     <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
     <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Sat, 25 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Simplified Web Scraping Using Python Requests &amp; Scraper API</title>
+      <link>https://andrewrgoss.com/2020/simplified-web-scraping-using-python-requests--scraper-api/</link>
+      <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
+      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2020/simplified-web-scraping-using-python-requests--scraper-api/</guid>
+      <description>In the past I&amp;rsquo;ve tried out some different web scraping techniques, experimenting with different Python libraries such as BeautifulSoup, Scrapy, and Selenium.
+While I was able to extract the data I was looking for from the specific webpages my code was crawling, the internet is a vast place and not all websites are created equal. When doing web scraping at scale, sometimes it&amp;rsquo;s difficult to scrape sites that are protected by anti-bots like Distil, Akamai, or Cloudflare.</description>
+    </item>
     
     <item>
       <title>Recommended Reads to Level Up Your Data Career</title>
