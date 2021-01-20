@@ -6,8 +6,8 @@
     <description>Recent content in Api Development on Andrew Goss · Senior Data Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
-    <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
+    <managingEditor>admin@andrewrgoss.com (Andrew Goss)</managingEditor>
+    <webMaster>admin@andrewrgoss.com (Andrew Goss)</webMaster>
     <lastBuildDate>Tue, 09 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/tags/api-development/index.xml" rel="self" type="application/rss+xml" />
@@ -17,7 +17,7 @@
       <title>Build GraphQL Server with Ruby</title>
       <link>https://andrewrgoss.com/2019/build-graphql-server-with-ruby/</link>
       <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2019/build-graphql-server-with-ruby/</guid>
       <description>TUTORIAL LINK
 
@@ -30,7 +30,7 @@ Built my own GraphQL server using the following technologies:
       <title>GraphQL Fundamentals</title>
       <link>https://andrewrgoss.com/2019/graphql-fundamentals/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2019/graphql-fundamentals/</guid>
       <description>TUTORIAL LINK
 

@@ -6,8 +6,8 @@
     <description>Recent content in Programming on Andrew Goss · Senior Data Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
-    <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
+    <managingEditor>admin@andrewrgoss.com (Andrew Goss)</managingEditor>
+    <webMaster>admin@andrewrgoss.com (Andrew Goss)</webMaster>
     <lastBuildDate>Thu, 29 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/tags/programming/index.xml" rel="self" type="application/rss+xml" />
@@ -17,7 +17,7 @@
       <title>Simplified Web Scraping Using Python Requests &amp; Scraper API</title>
       <link>https://andrewrgoss.com/2020/simplified-web-scraping-using-python-requests--scraper-api/</link>
       <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2020/simplified-web-scraping-using-python-requests--scraper-api/</guid>
       <description>In the past I&amp;rsquo;ve tried out some different web scraping techniques, experimenting with different Python libraries such as BeautifulSoup, Scrapy, and Selenium.
 While I was able to extract the data I was looking for from the specific webpages my code was crawling, the internet is a vast place and not all websites are created equal. When doing web scraping at scale, sometimes it&amp;rsquo;s difficult to scrape sites that are protected by anti-bots like Distil, Akamai, or Cloudflare.</description>
@@ -27,7 +27,7 @@ While I was able to extract the data I was looking for from the specific webpage
       <title>Udemy- Learn to Code with Ruby</title>
       <link>https://andrewrgoss.com/2019/udemy--learn-to-code-with-ruby/</link>
       <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2019/udemy--learn-to-code-with-ruby/</guid>
       <description>COMPLETION CERTIFICATE
 COURSE LINK
@@ -39,7 +39,7 @@ What is Ruby?  An object-oriented programming language A popular language across
       <title>Web Scraping with Python</title>
       <link>https://andrewrgoss.com/projects/web_scraping_py/</link>
       <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/projects/web_scraping_py/</guid>
       <description>Projects &amp;gt;&amp;gt; Web Scraping with Python
 
@@ -52,7 +52,7 @@ Following a Boston Python Project Night event that I attended (where my group fo
       <title>Udemy- Complete Java Masterclass</title>
       <link>https://andrewrgoss.com/2018/udemy--complete-java-masterclass/</link>
       <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2018/udemy--complete-java-masterclass/</guid>
       <description>COURSE LINK
 
@@ -67,7 +67,7 @@ Java Operator Precedence Table</description>
       <title>25 Potential Pitfalls In Mastering Programming</title>
       <link>https://andrewrgoss.com/2017/25-potential-pitfalls-in-mastering-programming/</link>
       <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2017/25-potential-pitfalls-in-mastering-programming/</guid>
       <description>written by Antonio Cangiano
  I wanted to share this post as it really resonated with me. I&amp;rsquo;ve encountered many of these at times during my coding journey and plan to reread this.
@@ -78,7 +78,7 @@ Java Operator Precedence Table</description>
       <title>My Path to Learning Scala</title>
       <link>https://andrewrgoss.com/2017/my-path-to-learning-scala/</link>
       <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2017/my-path-to-learning-scala/</guid>
       <description>I recently joined a new data engineering team at DigitasLBi and Scala is the predominant language being used. Having never coded in this language, I sought to quickly learn it and wanted to share the numerous resources I came across and bookmarked.
 The first place I usually turn when learning something new is to complete an introductory online course with videos and exercises. The most popular course for Scala is Functional Programming Principles in Scala on Coursera and it is taught by the inventor of the language (Martin Odersky), so I gave it a whirl.</description>
@@ -88,7 +88,7 @@ The first place I usually turn when learning something new is to complete an int
       <title>Budget App</title>
       <link>https://andrewrgoss.com/projects/budget_app/</link>
       <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/projects/budget_app/</guid>
       <description>
 Udemy- Complete JavaScript Course &amp;gt;&amp;gt; My projects
@@ -103,7 +103,7 @@ View my code on GitHub</description>
       <title>DOM Pig Game</title>
       <link>https://andrewrgoss.com/projects/dom_pig_game/</link>
       <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/projects/dom_pig_game/</guid>
       <description>Udemy- Complete JavaScript Course &amp;gt;&amp;gt; My projects
 
@@ -115,7 +115,7 @@ GAME RULES:  The game has 2 players, playing in rounds In each turn, a player ro
       <title>Udemy- Complete JavaScript Course</title>
       <link>https://andrewrgoss.com/2017/udemy--complete-javascript-course/</link>
       <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2017/udemy--complete-javascript-course/</guid>
       <description>COMPLETION CERTIFICATE
 Design and Coding Resources
@@ -127,7 +127,7 @@ This course represented my official foray into learning JavaScript. Up to this p
       <title>What&#39;s the Go Language Really Good For?</title>
       <link>https://andrewrgoss.com/2017/whats-the-go-language-really-good-for/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2017/whats-the-go-language-really-good-for/</guid>
       <description>written by Serdar Yegulalp
  InfoWorld examines the strengths, weaknesses, use cases, and future directions of Google&amp;rsquo;s hit programming language
@@ -139,7 +139,7 @@ Why was Go chosen by the developers of such projects as Docker and Kubernetes?</
       <title>HDFS DCM Matchtables V2</title>
       <link>https://andrewrgoss.com/projects/hdfs_dcm_v2_logs/</link>
       <pubDate>Mon, 16 Jan 2017 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/projects/hdfs_dcm_v2_logs/</guid>
       <description>Projects &amp;gt;&amp;gt; HDFS DCM Matchtables V2 
 Overview This is my code that pulls down daily DoubleClick Campaign Manager (DCM) log files (v2) from Google Cloud Storage (GCS) and loads them into Hadoop Distributed File System (HDFS) for use in Hive queries. The script fully replaces matchtable_v2 files with each day&amp;rsquo;s new log file on HDFS. Match tables are demoed here, but it is imperative to frequently download other log files that change more often (ex.</description>
@@ -149,7 +149,7 @@ Overview This is my code that pulls down daily DoubleClick Campaign Manager (DCM
       <title>Udemy- Python for Data Structures &amp; Algorithms</title>
       <link>https://andrewrgoss.com/2016/udemy--python-for-data-structures--algorithms/</link>
       <pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2016/udemy--python-for-data-structures--algorithms/</guid>
       <description>COURSE LINK
 Jupyter Notebooks
@@ -161,7 +161,7 @@ Jupyter Notebooks
       <title>Google DCM/DFA Reporting/Trafficking API for PostgreSQL</title>
       <link>https://andrewrgoss.com/projects/dcm-dfa-reporting-api/</link>
       <pubDate>Sun, 18 Sep 2016 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/projects/dcm-dfa-reporting-api/</guid>
       <description>Projects &amp;gt;&amp;gt; Google DCM/DFA Reporting/Trafficking API for PostgreSQL 
 This is a Python script I developed for programmatically generating Google DCM/DFA report data and inserting into PostgreSQL. There is additionally the option of running a report that contains floodlight tags - my code flattens this for the PostgreSQL staging table structure.
@@ -172,7 +172,7 @@ DCM/DFA Reporting and Trafficking API v2.8 is used in this code. A detailed refe
       <title>Google Analytics Reporting API for PostgreSQL</title>
       <link>https://andrewrgoss.com/projects/ga_reporting_api/</link>
       <pubDate>Sat, 17 Sep 2016 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/projects/ga_reporting_api/</guid>
       <description>Projects &amp;gt;&amp;gt; Google Analytics Reporting API for PostgreSQL 
 This is a Python script I developed for programmatically accessing report data in Google Analytics and inserting into PostgreSQL.
@@ -184,7 +184,7 @@ In this example, a GA summary report is generated (using the JSON below) and ins
       <title>Udemy- Ultimate Python Programming Tutorial</title>
       <link>https://andrewrgoss.com/2016/udemy--ultimate-python-programming-tutorial/</link>
       <pubDate>Mon, 18 Jul 2016 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2016/udemy--ultimate-python-programming-tutorial/</guid>
       <description>COMPLETION CERTIFICATE  I&amp;rsquo;ve started using Python more for work and took this course to strengthen my knowledge around the fundamentals of the language. Previously, I had been wanting to add Python to my personal tech stack for some time as it is a powerful (and popular) all-purpose programming language. It is a high-level language, meaning it looks more like a readable, human language than a low-level language does. The user-friendly syntax makes it one of the easier languages to learn and it is also one of the most commonly-used languages for analytics, data mining, and data science.</description>
     </item>
@@ -193,7 +193,7 @@ In this example, a GA summary report is generated (using the JSON below) and ins
       <title>Caleb Doxsey- An Introduction to Programming in Go</title>
       <link>https://andrewrgoss.com/2016/caleb-doxsey--an-introduction-to-programming-in-go/</link>
       <pubDate>Wed, 27 Jan 2016 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2016/caleb-doxsey--an-introduction-to-programming-in-go/</guid>
       <description>BOOK LINK  Go (Golang) is an open source programming language that makes it easy to build simple, reliable, and efficient software. I first started using Go through my work at DigitasLBi. My department adopted this language as one of our tech stacks for the following reasons:
  It’s open source (i.e. free) and intended to be simple yet expressive. It’s intended to be a good middleware layer to provide for both quick one-off applications as well as large collaborative code bases.</description>
@@ -203,7 +203,7 @@ In this example, a GA summary report is generated (using the JSON below) and ins
       <title>Gologger</title>
       <link>https://andrewrgoss.com/projects/gologger/</link>
       <pubDate>Tue, 19 Jan 2016 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/projects/gologger/</guid>
       <description>Projects &amp;gt;&amp;gt; Gologger
  Gologger incorporates the elements of the best user-designed logging tools for Go. It primarily makes use of CoLog, a prefix-based execution logging tool.
@@ -215,7 +215,7 @@ Usage This tool is setup to customize logging outputs based on the environment c
       <title>Udemy- Programming for Beginners in C#</title>
       <link>https://andrewrgoss.com/2015/udemy--programming-for-beginners-in-c/</link>
       <pubDate>Sat, 28 Nov 2015 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2015/udemy--programming-for-beginners-in-c/</guid>
       <description>COMPLETION CERTIFICATE  I&amp;rsquo;ve worked on Windows servers throughout my career, which initially got me started with this language. Learning some of the Base Class Library (BCL) of the Microsoft .NET Framework and using these classes through C# has helped me automate various tasks within these environments.
 My goal in taking this course was to strengthen my knowledge around the fundamentals of C# programming (and objected-oriented programming in general) and to get more practice.</description>
@@ -225,7 +225,7 @@ My goal in taking this course was to strengthen my knowledge around the fundamen
       <title>Scratch - Wind Power</title>
       <link>https://andrewrgoss.com/projects/scratch/</link>
       <pubDate>Tue, 18 Feb 2014 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/projects/scratch/</guid>
       <description>Projects &amp;gt;&amp;gt; Scratch - Wind Power
  As part of the popular Harvard University course CS50x that I took through EdX, I built a small Scratch application in completing the first problem set.

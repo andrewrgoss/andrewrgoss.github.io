@@ -6,8 +6,8 @@
     <description>Recent content in Python on Andrew Goss · Senior Data Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
-    <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
+    <managingEditor>admin@andrewrgoss.com (Andrew Goss)</managingEditor>
+    <webMaster>admin@andrewrgoss.com (Andrew Goss)</webMaster>
     <lastBuildDate>Thu, 29 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
@@ -17,7 +17,7 @@
       <title>Simplified Web Scraping Using Python Requests &amp; Scraper API</title>
       <link>https://andrewrgoss.com/2020/simplified-web-scraping-using-python-requests--scraper-api/</link>
       <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2020/simplified-web-scraping-using-python-requests--scraper-api/</guid>
       <description>In the past I&amp;rsquo;ve tried out some different web scraping techniques, experimenting with different Python libraries such as BeautifulSoup, Scrapy, and Selenium.
 While I was able to extract the data I was looking for from the specific webpages my code was crawling, the internet is a vast place and not all websites are created equal. When doing web scraping at scale, sometimes it&amp;rsquo;s difficult to scrape sites that are protected by anti-bots like Distil, Akamai, or Cloudflare.</description>
@@ -27,7 +27,7 @@ While I was able to extract the data I was looking for from the specific webpage
       <title>Web Scraping with Python</title>
       <link>https://andrewrgoss.com/projects/web_scraping_py/</link>
       <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/projects/web_scraping_py/</guid>
       <description>Projects &amp;gt;&amp;gt; Web Scraping with Python
 
@@ -40,7 +40,7 @@ Following a Boston Python Project Night event that I attended (where my group fo
       <title>HDFS DCM Matchtables V2</title>
       <link>https://andrewrgoss.com/projects/hdfs_dcm_v2_logs/</link>
       <pubDate>Mon, 16 Jan 2017 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/projects/hdfs_dcm_v2_logs/</guid>
       <description>Projects &amp;gt;&amp;gt; HDFS DCM Matchtables V2 
 Overview This is my code that pulls down daily DoubleClick Campaign Manager (DCM) log files (v2) from Google Cloud Storage (GCS) and loads them into Hadoop Distributed File System (HDFS) for use in Hive queries. The script fully replaces matchtable_v2 files with each day&amp;rsquo;s new log file on HDFS. Match tables are demoed here, but it is imperative to frequently download other log files that change more often (ex.</description>
@@ -50,7 +50,7 @@ Overview This is my code that pulls down daily DoubleClick Campaign Manager (DCM
       <title>Udemy- Python for Data Structures &amp; Algorithms</title>
       <link>https://andrewrgoss.com/2016/udemy--python-for-data-structures--algorithms/</link>
       <pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2016/udemy--python-for-data-structures--algorithms/</guid>
       <description>COURSE LINK
 Jupyter Notebooks
@@ -62,7 +62,7 @@ Jupyter Notebooks
       <title>Google DCM/DFA Reporting/Trafficking API for PostgreSQL</title>
       <link>https://andrewrgoss.com/projects/dcm-dfa-reporting-api/</link>
       <pubDate>Sun, 18 Sep 2016 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/projects/dcm-dfa-reporting-api/</guid>
       <description>Projects &amp;gt;&amp;gt; Google DCM/DFA Reporting/Trafficking API for PostgreSQL 
 This is a Python script I developed for programmatically generating Google DCM/DFA report data and inserting into PostgreSQL. There is additionally the option of running a report that contains floodlight tags - my code flattens this for the PostgreSQL staging table structure.
@@ -73,7 +73,7 @@ DCM/DFA Reporting and Trafficking API v2.8 is used in this code. A detailed refe
       <title>Google Analytics Reporting API for PostgreSQL</title>
       <link>https://andrewrgoss.com/projects/ga_reporting_api/</link>
       <pubDate>Sat, 17 Sep 2016 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/projects/ga_reporting_api/</guid>
       <description>Projects &amp;gt;&amp;gt; Google Analytics Reporting API for PostgreSQL 
 This is a Python script I developed for programmatically accessing report data in Google Analytics and inserting into PostgreSQL.
@@ -85,7 +85,7 @@ In this example, a GA summary report is generated (using the JSON below) and ins
       <title>Udemy- Ultimate Python Programming Tutorial</title>
       <link>https://andrewrgoss.com/2016/udemy--ultimate-python-programming-tutorial/</link>
       <pubDate>Mon, 18 Jul 2016 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2016/udemy--ultimate-python-programming-tutorial/</guid>
       <description>COMPLETION CERTIFICATE  I&amp;rsquo;ve started using Python more for work and took this course to strengthen my knowledge around the fundamentals of the language. Previously, I had been wanting to add Python to my personal tech stack for some time as it is a powerful (and popular) all-purpose programming language. It is a high-level language, meaning it looks more like a readable, human language than a low-level language does. The user-friendly syntax makes it one of the easier languages to learn and it is also one of the most commonly-used languages for analytics, data mining, and data science.</description>
     </item>

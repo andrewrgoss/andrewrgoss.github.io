@@ -6,8 +6,8 @@
     <description>Recent content in Web Scraping on Andrew Goss · Senior Data Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
-    <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
+    <managingEditor>admin@andrewrgoss.com (Andrew Goss)</managingEditor>
+    <webMaster>admin@andrewrgoss.com (Andrew Goss)</webMaster>
     <lastBuildDate>Thu, 29 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/tags/web-scraping/index.xml" rel="self" type="application/rss+xml" />
@@ -17,7 +17,7 @@
       <title>Simplified Web Scraping Using Python Requests &amp; Scraper API</title>
       <link>https://andrewrgoss.com/2020/simplified-web-scraping-using-python-requests--scraper-api/</link>
       <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2020/simplified-web-scraping-using-python-requests--scraper-api/</guid>
       <description>In the past I&amp;rsquo;ve tried out some different web scraping techniques, experimenting with different Python libraries such as BeautifulSoup, Scrapy, and Selenium.
 While I was able to extract the data I was looking for from the specific webpages my code was crawling, the internet is a vast place and not all websites are created equal. When doing web scraping at scale, sometimes it&amp;rsquo;s difficult to scrape sites that are protected by anti-bots like Distil, Akamai, or Cloudflare.</description>
@@ -27,7 +27,7 @@ While I was able to extract the data I was looking for from the specific webpage
       <title>Web Scraping with Python</title>
       <link>https://andrewrgoss.com/projects/web_scraping_py/</link>
       <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/projects/web_scraping_py/</guid>
       <description>Projects &amp;gt;&amp;gt; Web Scraping with Python
 

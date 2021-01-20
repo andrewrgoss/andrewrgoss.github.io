@@ -6,8 +6,8 @@
     <description>Recent content in Business Intelligence on Andrew Goss · Senior Data Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
-    <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
+    <managingEditor>admin@andrewrgoss.com (Andrew Goss)</managingEditor>
+    <webMaster>admin@andrewrgoss.com (Andrew Goss)</webMaster>
     <lastBuildDate>Sun, 17 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/tags/business-intelligence/index.xml" rel="self" type="application/rss+xml" />
@@ -17,7 +17,7 @@
       <title>How to Architect the Perfect Data Warehouse</title>
       <link>https://andrewrgoss.com/2019/how-to-architect-the-perfect-data-warehouse/</link>
       <pubDate>Sun, 17 Feb 2019 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2019/how-to-architect-the-perfect-data-warehouse/</guid>
       <description>Key warehousing techniques made simple
  written by Lewis Gavin 
@@ -29,7 +29,7 @@ In my current role, we use Amazon Redshift for our data warehousing.</descriptio
       <title>Future of Data Warehousing</title>
       <link>https://andrewrgoss.com/2019/future-of-data-warehousing/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2019/future-of-data-warehousing/</guid>
       <description>written by Simon Späti (with some grammatical edits by me) 
 Today, there are 6,500 people on LinkedIn who call themselves data engineers according to stitchdata.com. In San Francisco alone, there are 6,600 job listings for this same title. The number of data engineers has doubled in the past year, but engineering leaders still find themselves faced with a significant shortage of data engineering talent. So is it really the future of data warehousing?</description>
@@ -39,7 +39,7 @@ Today, there are 6,500 people on LinkedIn who call themselves data engineers acc
       <title>4 Pillars of Analytics</title>
       <link>https://andrewrgoss.com/2018/4-pillars-of-analytics/</link>
       <pubDate>Fri, 07 Dec 2018 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2018/4-pillars-of-analytics/</guid>
       <description>written by Julien Kervizic 
  There are four key pillars that rule the lifecycle of analytics projects, from data acquisition, processing to surfacing and actioning on the data. Each of these contribute to a significant part of the value chain of analytics.
@@ -50,7 +50,7 @@ Today, there are 6,500 people on LinkedIn who call themselves data engineers acc
       <title>Stages of the Analytics Life Cycle</title>
       <link>https://andrewrgoss.com/2016/stages-of-the-analytics-life-cycle/</link>
       <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2016/stages-of-the-analytics-life-cycle/</guid>
       <description>Across industries, the applied use of data to inform business decisions has become a foundational (arguably critical) element of business. The end goal is to ultimately derive actionable insights from vast amounts of data being collected but it takes a series of activities/tasks to arrive at this juncture. Here is a description of each stage of the analytics life cycle:
  Data Acquisition – This may involve scraping data, interfacing with APIs, querying relational and non-relational databases, or defining strategy in relation to what data to pursue.</description>

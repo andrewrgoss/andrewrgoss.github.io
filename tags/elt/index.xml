@@ -6,8 +6,8 @@
     <description>Recent content in Elt on Andrew Goss · Senior Data Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
-    <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
+    <managingEditor>admin@andrewrgoss.com (Andrew Goss)</managingEditor>
+    <webMaster>admin@andrewrgoss.com (Andrew Goss)</webMaster>
     <lastBuildDate>Wed, 22 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/tags/elt/index.xml" rel="self" type="application/rss+xml" />
@@ -17,7 +17,7 @@
       <title>ELT Data Pipelining in Snowflake Data Warehouse</title>
       <link>https://andrewrgoss.com/2020/elt-data-pipelining-in-snowflake-data-warehouse/</link>
       <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2020/elt-data-pipelining-in-snowflake-data-warehouse/</guid>
       <description>written by Christopher Tao 
 In my previous post:

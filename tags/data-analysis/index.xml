@@ -6,8 +6,8 @@
     <description>Recent content in Data Analysis on Andrew Goss · Senior Data Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
-    <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
+    <managingEditor>admin@andrewrgoss.com (Andrew Goss)</managingEditor>
+    <webMaster>admin@andrewrgoss.com (Andrew Goss)</webMaster>
     <lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/tags/data-analysis/index.xml" rel="self" type="application/rss+xml" />
@@ -17,7 +17,7 @@
       <title>The Rise of SQL-Based Data Modeling and DataOps</title>
       <link>https://andrewrgoss.com/2019/the-rise-of-sql-based-data-modeling-and-dataops/</link>
       <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2019/the-rise-of-sql-based-data-modeling-and-dataops/</guid>
       <description>written by Thanh Dinh 
 The resurgence of SQL-based RDBMS If there is one analytics trend we can all agree on, it is that we&amp;rsquo;ve seen a vast increase in the amount of business data collected in the past decade. A typical business today uses dozens if not hundreds of cloud-based, subscription-as-a-service software, for all sorts of purposes. Together with more traditional in-house enterprise software, the average business produces a mountain of data today, compared to just a few years ago.</description>
@@ -27,7 +27,7 @@ The resurgence of SQL-based RDBMS If there is one analytics trend we can all agr
       <title>A Data Engineer&#39;s Guide To Non-Traditional Data Storages</title>
       <link>https://andrewrgoss.com/2018/a-data-engineers-guide-to-non-traditional-data-storages/</link>
       <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2018/a-data-engineers-guide-to-non-traditional-data-storages/</guid>
       <description>For data engineers, the most important aspects of data storages are how they index, shard, and aggregate data.
  This post originally appeared on Toptal and was written by Ken Hu.
@@ -39,7 +39,7 @@ Originally, the purpose of data engineering was the loading of external data sou
       <title>Coursera- Serverless Data Analysis with Google BigQuery and Cloud Dataflow</title>
       <link>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_serverless_data_analysis/</link>
       <pubDate>Fri, 20 Jul 2018 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_serverless_data_analysis/</guid>
       <description> 
 COURSE LINK

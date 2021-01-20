@@ -6,8 +6,8 @@
     <description>Recent content in Self Study on Andrew Goss · Senior Data Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
-    <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
+    <managingEditor>admin@andrewrgoss.com (Andrew Goss)</managingEditor>
+    <webMaster>admin@andrewrgoss.com (Andrew Goss)</webMaster>
     <lastBuildDate>Sat, 04 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/tags/self-study/index.xml" rel="self" type="application/rss+xml" />
@@ -17,7 +17,7 @@
       <title>GraphQL Fundamentals</title>
       <link>https://andrewrgoss.com/2019/graphql-fundamentals/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2019/graphql-fundamentals/</guid>
       <description>TUTORIAL LINK
 
@@ -30,7 +30,7 @@ Introduction Most applications today have the need to fetch data from a server w
       <title>Udemy- Learn to Code with Ruby</title>
       <link>https://andrewrgoss.com/2019/udemy--learn-to-code-with-ruby/</link>
       <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2019/udemy--learn-to-code-with-ruby/</guid>
       <description>COMPLETION CERTIFICATE
 COURSE LINK
@@ -42,7 +42,7 @@ What is Ruby?  An object-oriented programming language A popular language across
       <title>Udemy- Apache Spark 2.0 With Scala</title>
       <link>https://andrewrgoss.com/2018/udemy--apache-spark-2.0-with-scala/</link>
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2018/udemy--apache-spark-2.0-with-scala/</guid>
       <description>COMPLETION CERTIFICATE
 COURSE MATERIALS
@@ -54,7 +54,7 @@ Description  Learn the concepts of Spark&amp;rsquo;s Resilient Distributed Datas
       <title>Learning How to Learn</title>
       <link>https://andrewrgoss.com/2018/learning-how-to-learn/</link>
       <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2018/learning-how-to-learn/</guid>
       <description>As 2018 began, I spent some time thinking about my goals for this year. An area that I wanted to focus on is improving upon how I learn. Many have argued that the ability to learn is the most valuable skill you can possess throughout your career and working in the ever-changing field of technology, I certainly would not disagree.
 So I decided to invest in the 10 Steps to Learn Anything Quickly course offered by Simple Programmer.</description>
@@ -64,7 +64,7 @@ So I decided to invest in the 10 Steps to Learn Anything Quickly course offered 
       <title>Udemy- Complete Java Masterclass</title>
       <link>https://andrewrgoss.com/2018/udemy--complete-java-masterclass/</link>
       <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2018/udemy--complete-java-masterclass/</guid>
       <description>COURSE LINK
 
@@ -79,7 +79,7 @@ Java Operator Precedence Table</description>
       <title>My Path to Learning Scala</title>
       <link>https://andrewrgoss.com/2017/my-path-to-learning-scala/</link>
       <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2017/my-path-to-learning-scala/</guid>
       <description>I recently joined a new data engineering team at DigitasLBi and Scala is the predominant language being used. Having never coded in this language, I sought to quickly learn it and wanted to share the numerous resources I came across and bookmarked.
 The first place I usually turn when learning something new is to complete an introductory online course with videos and exercises. The most popular course for Scala is Functional Programming Principles in Scala on Coursera and it is taught by the inventor of the language (Martin Odersky), so I gave it a whirl.</description>
@@ -89,7 +89,7 @@ The first place I usually turn when learning something new is to complete an int
       <title>Udemy- Complete JavaScript Course</title>
       <link>https://andrewrgoss.com/2017/udemy--complete-javascript-course/</link>
       <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2017/udemy--complete-javascript-course/</guid>
       <description>COMPLETION CERTIFICATE
 Design and Coding Resources
@@ -101,7 +101,7 @@ This course represented my official foray into learning JavaScript. Up to this p
       <title>Big Data University- Hadoop 101</title>
       <link>https://andrewrgoss.com/2017/big-data-university--hadoop-101/</link>
       <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2017/big-data-university--hadoop-101/</guid>
       <description>Course Code: BD0111EN
 Course Certificate
@@ -115,7 +115,7 @@ Lesson Transcripts/Labs  My goal in taking this course was to expand upon my kno
       <title>Udemy- Python for Data Structures &amp; Algorithms</title>
       <link>https://andrewrgoss.com/2016/udemy--python-for-data-structures--algorithms/</link>
       <pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2016/udemy--python-for-data-structures--algorithms/</guid>
       <description>COURSE LINK
 Jupyter Notebooks
@@ -127,7 +127,7 @@ Jupyter Notebooks
       <title>Udemy- Ultimate Python Programming Tutorial</title>
       <link>https://andrewrgoss.com/2016/udemy--ultimate-python-programming-tutorial/</link>
       <pubDate>Mon, 18 Jul 2016 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2016/udemy--ultimate-python-programming-tutorial/</guid>
       <description>COMPLETION CERTIFICATE  I&amp;rsquo;ve started using Python more for work and took this course to strengthen my knowledge around the fundamentals of the language. Previously, I had been wanting to add Python to my personal tech stack for some time as it is a powerful (and popular) all-purpose programming language. It is a high-level language, meaning it looks more like a readable, human language than a low-level language does. The user-friendly syntax makes it one of the easier languages to learn and it is also one of the most commonly-used languages for analytics, data mining, and data science.</description>
     </item>
@@ -136,7 +136,7 @@ Jupyter Notebooks
       <title>Caleb Doxsey- An Introduction to Programming in Go</title>
       <link>https://andrewrgoss.com/2016/caleb-doxsey--an-introduction-to-programming-in-go/</link>
       <pubDate>Wed, 27 Jan 2016 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2016/caleb-doxsey--an-introduction-to-programming-in-go/</guid>
       <description>BOOK LINK  Go (Golang) is an open source programming language that makes it easy to build simple, reliable, and efficient software. I first started using Go through my work at DigitasLBi. My department adopted this language as one of our tech stacks for the following reasons:
  It’s open source (i.e. free) and intended to be simple yet expressive. It’s intended to be a good middleware layer to provide for both quick one-off applications as well as large collaborative code bases.</description>
@@ -146,7 +146,7 @@ Jupyter Notebooks
       <title>Udemy- Programming for Beginners in C#</title>
       <link>https://andrewrgoss.com/2015/udemy--programming-for-beginners-in-c/</link>
       <pubDate>Sat, 28 Nov 2015 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2015/udemy--programming-for-beginners-in-c/</guid>
       <description>COMPLETION CERTIFICATE  I&amp;rsquo;ve worked on Windows servers throughout my career, which initially got me started with this language. Learning some of the Base Class Library (BCL) of the Microsoft .NET Framework and using these classes through C# has helped me automate various tasks within these environments.
 My goal in taking this course was to strengthen my knowledge around the fundamentals of C# programming (and objected-oriented programming in general) and to get more practice.</description>
@@ -156,7 +156,7 @@ My goal in taking this course was to strengthen my knowledge around the fundamen
       <title>Scratch - Wind Power</title>
       <link>https://andrewrgoss.com/projects/scratch/</link>
       <pubDate>Tue, 18 Feb 2014 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/projects/scratch/</guid>
       <description>Projects &amp;gt;&amp;gt; Scratch - Wind Power
  As part of the popular Harvard University course CS50x that I took through EdX, I built a small Scratch application in completing the first problem set.

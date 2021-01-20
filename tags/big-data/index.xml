@@ -6,8 +6,8 @@
     <description>Recent content in Big Data on Andrew Goss · Senior Data Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
-    <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
+    <managingEditor>admin@andrewrgoss.com (Andrew Goss)</managingEditor>
+    <webMaster>admin@andrewrgoss.com (Andrew Goss)</webMaster>
     <lastBuildDate>Sat, 25 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/tags/big-data/index.xml" rel="self" type="application/rss+xml" />
@@ -17,7 +17,7 @@
       <title>A Data Lakes Guide — Modern Batch Data Warehousing</title>
       <link>https://andrewrgoss.com/2020/a-data-lakes-guide--modern-batch-data-warehousing/</link>
       <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2020/a-data-lakes-guide--modern-batch-data-warehousing/</guid>
       <description>written by Daniel Mateus Pires
  Redefining the batch data extraction patterns and the data lake using “Functional Data Engineering”
@@ -28,7 +28,7 @@
       <title>AWS &amp; Snowflake vs GCP</title>
       <link>https://andrewrgoss.com/2020/aws--snowflake-vs-gcp/</link>
       <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2020/aws--snowflake-vs-gcp/</guid>
       <description>written by Stefano Solimito 
 When we talk about data, the number of technologies available on the market is overwhelming and staying up to date is a key challenge both for businesses and for engineers.
@@ -39,7 +39,7 @@ With this article, Stefano Solimito shares the joys and pains of the learning jo
       <title>Udemy- Apache Spark 2.0 With Scala</title>
       <link>https://andrewrgoss.com/2018/udemy--apache-spark-2.0-with-scala/</link>
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2018/udemy--apache-spark-2.0-with-scala/</guid>
       <description>COMPLETION CERTIFICATE
 COURSE MATERIALS
@@ -51,7 +51,7 @@ Description  Learn the concepts of Spark&amp;rsquo;s Resilient Distributed Datas
       <title>Creating Similar Movies from One Million Ratings on EMR</title>
       <link>https://andrewrgoss.com/projects/mov_sim_ml_1m_emr/</link>
       <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/projects/mov_sim_ml_1m_emr/</guid>
       <description>Udemy- Apache Spark 2.0 With Scala &amp;gt;&amp;gt; Creating Similar Movies from One Million Ratings on EMR
 
@@ -62,7 +62,7 @@ I completed an exercise of compiling a .jar file from my Scala code through Inte
       <title>The 2017 Big Data Landscape</title>
       <link>https://andrewrgoss.com/2017/the-2017-big-data-landscape/</link>
       <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2017/the-2017-big-data-landscape/</guid>
       <description>Just released - an excellent &amp;ldquo;State of the Union&amp;rdquo; roundup of the key trends in the 2017 data ecosystem. Some high level trends and questions that are explored in this comprehensive article:
  Big data + AI = the new stack. Big data provides the pipes, and AI provides the smarts. Enterprise budgets - follow the money Enterprise data moving to the cloud As the big data landscape gets busier every passing year, is big data consolidation coming?</description>
@@ -72,7 +72,7 @@ I completed an exercise of compiling a .jar file from my Scala code through Inte
       <title>Big Data University- Hadoop 101</title>
       <link>https://andrewrgoss.com/2017/big-data-university--hadoop-101/</link>
       <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2017/big-data-university--hadoop-101/</guid>
       <description>Course Code: BD0111EN
 Course Certificate

@@ -6,8 +6,8 @@
     <description>Recent content in Data Warehousing on Andrew Goss · Senior Data Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
-    <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
+    <managingEditor>admin@andrewrgoss.com (Andrew Goss)</managingEditor>
+    <webMaster>admin@andrewrgoss.com (Andrew Goss)</webMaster>
     <lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/tags/data-warehousing/index.xml" rel="self" type="application/rss+xml" />
@@ -17,7 +17,7 @@
       <title>Data Warehouse Pipelines- Basic Concepts &amp; Roadmap</title>
       <link>https://andrewrgoss.com/2020/data-warehouse-pipelines--basic-concepts--roadmap/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2020/data-warehouse-pipelines--basic-concepts--roadmap/</guid>
       <description>written by Antony Henao 
  Five processes to improve your data pipeline operability and performance
@@ -29,7 +29,7 @@ Yet, there a couple of basic processes you should put in place when building a d
       <title>A Data Lakes Guide — Modern Batch Data Warehousing</title>
       <link>https://andrewrgoss.com/2020/a-data-lakes-guide--modern-batch-data-warehousing/</link>
       <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2020/a-data-lakes-guide--modern-batch-data-warehousing/</guid>
       <description>written by Daniel Mateus Pires
  Redefining the batch data extraction patterns and the data lake using “Functional Data Engineering”
@@ -40,7 +40,7 @@ Yet, there a couple of basic processes you should put in place when building a d
       <title>Top 4 Data Warehouse Anti-Patterns</title>
       <link>https://andrewrgoss.com/2020/top-4-data-warehouse-anti-patterns/</link>
       <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2020/top-4-data-warehouse-anti-patterns/</guid>
       <description>Photo by Ascend blog on Ascend.io
 written by Sean Knapp 
@@ -53,7 +53,7 @@ The vast array of data, systems, and their interconnectedness continues to grow 
       <title>AWS &amp; Snowflake vs GCP</title>
       <link>https://andrewrgoss.com/2020/aws--snowflake-vs-gcp/</link>
       <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2020/aws--snowflake-vs-gcp/</guid>
       <description>written by Stefano Solimito 
 When we talk about data, the number of technologies available on the market is overwhelming and staying up to date is a key challenge both for businesses and for engineers.
@@ -64,7 +64,7 @@ With this article, Stefano Solimito shares the joys and pains of the learning jo
       <title>ELT Data Pipelining in Snowflake Data Warehouse</title>
       <link>https://andrewrgoss.com/2020/elt-data-pipelining-in-snowflake-data-warehouse/</link>
       <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2020/elt-data-pipelining-in-snowflake-data-warehouse/</guid>
       <description>written by Christopher Tao 
 In my previous post:
@@ -77,7 +77,7 @@ Snowpipe is a very convenient tool for the above purposes. However, Snowpipe its
       <title>The Rise of SQL-Based Data Modeling and DataOps</title>
       <link>https://andrewrgoss.com/2019/the-rise-of-sql-based-data-modeling-and-dataops/</link>
       <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2019/the-rise-of-sql-based-data-modeling-and-dataops/</guid>
       <description>written by Thanh Dinh 
 The resurgence of SQL-based RDBMS If there is one analytics trend we can all agree on, it is that we&amp;rsquo;ve seen a vast increase in the amount of business data collected in the past decade. A typical business today uses dozens if not hundreds of cloud-based, subscription-as-a-service software, for all sorts of purposes. Together with more traditional in-house enterprise software, the average business produces a mountain of data today, compared to just a few years ago.</description>
@@ -87,7 +87,7 @@ The resurgence of SQL-based RDBMS If there is one analytics trend we can all agr
       <title>How to Architect the Perfect Data Warehouse</title>
       <link>https://andrewrgoss.com/2019/how-to-architect-the-perfect-data-warehouse/</link>
       <pubDate>Sun, 17 Feb 2019 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2019/how-to-architect-the-perfect-data-warehouse/</guid>
       <description>Key warehousing techniques made simple
  written by Lewis Gavin 
@@ -99,7 +99,7 @@ In my current role, we use Amazon Redshift for our data warehousing.</descriptio
       <title>Future of Data Warehousing</title>
       <link>https://andrewrgoss.com/2019/future-of-data-warehousing/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2019/future-of-data-warehousing/</guid>
       <description>written by Simon Späti (with some grammatical edits by me) 
 Today, there are 6,500 people on LinkedIn who call themselves data engineers according to stitchdata.com. In San Francisco alone, there are 6,600 job listings for this same title. The number of data engineers has doubled in the past year, but engineering leaders still find themselves faced with a significant shortage of data engineering talent. So is it really the future of data warehousing?</description>
@@ -109,7 +109,7 @@ Today, there are 6,500 people on LinkedIn who call themselves data engineers acc
       <title>Functional Data Engineering</title>
       <link>https://andrewrgoss.com/2018/functional-data-engineering/</link>
       <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2018/functional-data-engineering/</guid>
       <description>written by Maxime Beauchemin 
 Batch data processing — historically known as ETL — is extremely challenging. It&amp;rsquo;s time-consuming, brittle, and often unrewarding. Not only that, it&amp;rsquo;s hard to operate, evolve, and troubleshoot.

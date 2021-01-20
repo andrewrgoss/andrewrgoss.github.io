@@ -6,8 +6,8 @@
     <description>Recent content in Git on Andrew Goss · Senior Data Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
-    <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
+    <managingEditor>admin@andrewrgoss.com (Andrew Goss)</managingEditor>
+    <webMaster>admin@andrewrgoss.com (Andrew Goss)</webMaster>
     <lastBuildDate>Tue, 21 Jun 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/tags/git/index.xml" rel="self" type="application/rss+xml" />
@@ -17,7 +17,7 @@
       <title>SSH With Git Bash and TortoiseGit for Windows</title>
       <link>https://andrewrgoss.com/2016/ssh-with-git-bash-and-tortoisegit-for-windows/</link>
       <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2016/ssh-with-git-bash-and-tortoisegit-for-windows/</guid>
       <description>If you&amp;rsquo;ve ever written code of any kind for professional and personal purposes, you&amp;rsquo;ve likely come across the concept of Source Control Management (SCM). When I first became a developer, I used Subversion as my SCM tool but have since switched to the more popular Git. I use git to commit the latest versions of code in both Linux and Windows environments, but I&amp;rsquo;m going to focus on Windows in this post as this is the operating system for my personal computer.</description>
     </item>

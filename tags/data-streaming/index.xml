@@ -6,8 +6,8 @@
     <description>Recent content in Data Streaming on Andrew Goss · Senior Data Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
-    <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
+    <managingEditor>admin@andrewrgoss.com (Andrew Goss)</managingEditor>
+    <webMaster>admin@andrewrgoss.com (Andrew Goss)</webMaster>
     <lastBuildDate>Fri, 20 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/tags/data-streaming/index.xml" rel="self" type="application/rss+xml" />
@@ -17,7 +17,7 @@
       <title>Coursera- Building Resilient Streaming Systems on GCP</title>
       <link>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_streaming_systems/</link>
       <pubDate>Fri, 20 Jul 2018 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_streaming_systems/</guid>
       <description> 
 COURSE LINK
@@ -29,7 +29,7 @@ Modules &amp;amp; Lab Exercises Resources </description>
       <title>Twitter Streaming with Spark and Scala</title>
       <link>https://andrewrgoss.com/projects/twitter_streaming/</link>
       <pubDate>Thu, 22 Mar 2018 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/projects/twitter_streaming/</guid>
       <description>Udemy- Apache Spark 2.0 With Scala &amp;gt;&amp;gt; Twitter Streaming
 

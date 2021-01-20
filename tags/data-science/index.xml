@@ -6,8 +6,8 @@
     <description>Recent content in Data Science on Andrew Goss · Senior Data Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
-    <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
+    <managingEditor>admin@andrewrgoss.com (Andrew Goss)</managingEditor>
+    <webMaster>admin@andrewrgoss.com (Andrew Goss)</webMaster>
     <lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
@@ -17,7 +17,7 @@
       <title>Data Warehouse Pipelines- Basic Concepts &amp; Roadmap</title>
       <link>https://andrewrgoss.com/2020/data-warehouse-pipelines--basic-concepts--roadmap/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2020/data-warehouse-pipelines--basic-concepts--roadmap/</guid>
       <description>written by Antony Henao 
  Five processes to improve your data pipeline operability and performance
@@ -29,7 +29,7 @@ Yet, there a couple of basic processes you should put in place when building a d
       <title>Top 4 Data Warehouse Anti-Patterns</title>
       <link>https://andrewrgoss.com/2020/top-4-data-warehouse-anti-patterns/</link>
       <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2020/top-4-data-warehouse-anti-patterns/</guid>
       <description>Photo by Ascend blog on Ascend.io
 written by Sean Knapp 
@@ -42,7 +42,7 @@ The vast array of data, systems, and their interconnectedness continues to grow 
       <title>DataOps is NOT Just DevOps for Data</title>
       <link>https://andrewrgoss.com/2020/dataops-is-not-just-devops-for-data/</link>
       <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2020/dataops-is-not-just-devops-for-data/</guid>
       <description>written by DataKitchen 
 One common misconception about DataOps is that it is just DevOps applied to data analytics. While a little semantically misleading, the name “DataOps” has one positive attribute. It communicates that data analytics can achieve what software development attained with DevOps. That is to say, DataOps can yield an order of magnitude improvement in quality and cycle time when data teams utilize new tools and methodologies. The specific ways that DataOps achieves these gains reflect the unique people, processes and tools characteristic of data teams (versus software development teams using DevOps).</description>
@@ -52,7 +52,7 @@ One common misconception about DataOps is that it is just DevOps applied to data
       <title>Data Engineers vs. Data Scientists</title>
       <link>https://andrewrgoss.com/2018/data-engineers-vs.-data-scientists/</link>
       <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2018/data-engineers-vs.-data-scientists/</guid>
       <description>The two positions are not interchangeable—and misperceptions of their roles can hurt teams and compromise productivity.
  written by Jesse Anderson
@@ -66,7 +66,7 @@ A key misunderstanding is the strengths and weaknesses of each position. I think
       <title>We Need Both Data Scientists &amp; Data Engineers</title>
       <link>https://andrewrgoss.com/2016/we-need-both-data-scientists--data-engineers/</link>
       <pubDate>Tue, 27 Dec 2016 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2016/we-need-both-data-scientists--data-engineers/</guid>
       <description>written by Neeraj Chadha
 When it comes to the medical profession, doctors get all the glory. In the world of IoT, it&amp;rsquo;s data scientists who get most of the attention and acclaim. They extract critical intelligence from big data so businesses can make informed decisions on the spot. But they don&amp;rsquo;t do their work in a vacuum. Data scientists can&amp;rsquo;t dazzle their industries without data engineers. These unheralded champions, equivalent to nurses, ensure that big data keeps flowing.</description>
@@ -76,7 +76,7 @@ When it comes to the medical profession, doctors get all the glory. In the world
       <title>The Data Science Industry: Who Does What</title>
       <link>https://andrewrgoss.com/2016/the-data-science-industry-who-does-what/</link>
       <pubDate>Wed, 09 Nov 2016 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2016/the-data-science-industry-who-does-what/</guid>
       <description>Great infographic from DataCamp that lays out the roles and skills associated with a data science team. As a data engineer within this group, these are the kind of people I work with day-to-day.
 
@@ -87,7 +87,7 @@ When it comes to the medical profession, doctors get all the glory. In the world
       <title>Stages of the Analytics Life Cycle</title>
       <link>https://andrewrgoss.com/2016/stages-of-the-analytics-life-cycle/</link>
       <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2016/stages-of-the-analytics-life-cycle/</guid>
       <description>Across industries, the applied use of data to inform business decisions has become a foundational (arguably critical) element of business. The end goal is to ultimately derive actionable insights from vast amounts of data being collected but it takes a series of activities/tasks to arrive at this juncture. Here is a description of each stage of the analytics life cycle:
  Data Acquisition – This may involve scraping data, interfacing with APIs, querying relational and non-relational databases, or defining strategy in relation to what data to pursue.</description>
@@ -97,7 +97,7 @@ When it comes to the medical profession, doctors get all the glory. In the world
       <title>Comparing Data Engineers &amp; Data Scientists</title>
       <link>https://andrewrgoss.com/2016/comparing-data-engineers--data-scientists/</link>
       <pubDate>Thu, 29 Sep 2016 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2016/comparing-data-engineers--data-scientists/</guid>
       <description>Data engineer and data scientist are the two most popular career tracks in big data - but how do they compare? At a high level, data engineers are concerned with data infrastructure, while data scientists are concerned with analysis.
 Like data scientists, data engineers write code. They’re highly analytical, and are interested in data visualization. Unlike data scientists — and inspired by a more mature parent, software engineering — data engineers build tools, infrastructure, frameworks, and services.</description>
@@ -107,7 +107,7 @@ Like data scientists, data engineers write code. They’re highly analytical, an
       <title>Open Data Science Conference East</title>
       <link>https://andrewrgoss.com/2016/open-data-science-conference-east/</link>
       <pubDate>Fri, 20 May 2016 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2016/open-data-science-conference-east/</guid>
       <description>In May 2016 I attended my first Open Data Science Conference in Boston. There were some 3,000+ data science practioners that came together at the Boston Convention &amp;amp; Exhibition Center to share ideas about this rapidly changing discipline. The following topics were covered throughout the conference:
  Deep Learning Machine Learning Predictive Analytics Python Stan R Julia Hadoop Spark Scikit-learn Natural Language Processing  I attended sessions on popular data science statistical models and using Python for data science, where we worked through this example.</description>
@@ -117,7 +117,7 @@ Like data scientists, data engineers write code. They’re highly analytical, an
       <title>Analytic Disciplines Compared to Data Science</title>
       <link>https://andrewrgoss.com/2016/analytic-disciplines-compared-to-data-science/</link>
       <pubDate>Mon, 09 May 2016 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2016/analytic-disciplines-compared-to-data-science/</guid>
       <description>Came across an excellent article on Data Science Central that digs into the differences between data science, data mining, machine learning, statistics, operations research, and so on. The author compares several analytic disciplines that overlap to explain the differences and common denominators. Typical job titles, types of analyses, and industries traditionally attached to each discipline are also detailed.
 Read more

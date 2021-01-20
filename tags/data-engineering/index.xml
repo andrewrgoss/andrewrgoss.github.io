@@ -6,8 +6,8 @@
     <description>Recent content in Data Engineering on Andrew Goss · Senior Data Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>andrewrgoss@gmail.com (Andrew Goss)</managingEditor>
-    <webMaster>andrewrgoss@gmail.com (Andrew Goss)</webMaster>
+    <managingEditor>admin@andrewrgoss.com (Andrew Goss)</managingEditor>
+    <webMaster>admin@andrewrgoss.com (Andrew Goss)</webMaster>
     <lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/tags/data-engineering/index.xml" rel="self" type="application/rss+xml" />
@@ -17,7 +17,7 @@
       <title>Data Warehouse Pipelines- Basic Concepts &amp; Roadmap</title>
       <link>https://andrewrgoss.com/2020/data-warehouse-pipelines--basic-concepts--roadmap/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2020/data-warehouse-pipelines--basic-concepts--roadmap/</guid>
       <description>written by Antony Henao 
  Five processes to improve your data pipeline operability and performance
@@ -29,7 +29,7 @@ Yet, there a couple of basic processes you should put in place when building a d
       <title>A Data Lakes Guide — Modern Batch Data Warehousing</title>
       <link>https://andrewrgoss.com/2020/a-data-lakes-guide--modern-batch-data-warehousing/</link>
       <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2020/a-data-lakes-guide--modern-batch-data-warehousing/</guid>
       <description>written by Daniel Mateus Pires
  Redefining the batch data extraction patterns and the data lake using “Functional Data Engineering”
@@ -40,7 +40,7 @@ Yet, there a couple of basic processes you should put in place when building a d
       <title>Top 4 Data Warehouse Anti-Patterns</title>
       <link>https://andrewrgoss.com/2020/top-4-data-warehouse-anti-patterns/</link>
       <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2020/top-4-data-warehouse-anti-patterns/</guid>
       <description>Photo by Ascend blog on Ascend.io
 written by Sean Knapp 
@@ -53,7 +53,7 @@ The vast array of data, systems, and their interconnectedness continues to grow 
       <title>DataOps Is Here To Stay</title>
       <link>https://andrewrgoss.com/2019/dataops-is-here-to-stay/</link>
       <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2019/dataops-is-here-to-stay/</guid>
       <description>Photo by Stephen Dawson on Unsplash
 written by Pedro Martinez 
@@ -65,7 +65,7 @@ In a nutshell, DataOps brings together data scientists, analysts, developers, an
       <title>Skills for Being a Good Data Engineer</title>
       <link>https://andrewrgoss.com/2019/skills-for-being-a-good-data-engineer/</link>
       <pubDate>Sun, 24 Mar 2019 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2019/skills-for-being-a-good-data-engineer/</guid>
       <description>written by Benjamin Rogojan 
 A data engineer specializes in several specific technical aspects. Data engineers have solid automation/programming skills, ETL design, understand systems, data modeling, SQL, and usually some other more niche skills. For instance, some data engineers start to dabble with R and data analytics. This will also be driven by their specific role. As a data engineer, I have been asked to set up basic websites, develop APIs and create models and algorithms.</description>
@@ -75,7 +75,7 @@ A data engineer specializes in several specific technical aspects. Data engineer
       <title>How to Architect the Perfect Data Warehouse</title>
       <link>https://andrewrgoss.com/2019/how-to-architect-the-perfect-data-warehouse/</link>
       <pubDate>Sun, 17 Feb 2019 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2019/how-to-architect-the-perfect-data-warehouse/</guid>
       <description>Key warehousing techniques made simple
  written by Lewis Gavin 
@@ -87,7 +87,7 @@ In my current role, we use Amazon Redshift for our data warehousing.</descriptio
       <title>Future of Data Warehousing</title>
       <link>https://andrewrgoss.com/2019/future-of-data-warehousing/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2019/future-of-data-warehousing/</guid>
       <description>written by Simon Späti (with some grammatical edits by me) 
 Today, there are 6,500 people on LinkedIn who call themselves data engineers according to stitchdata.com. In San Francisco alone, there are 6,600 job listings for this same title. The number of data engineers has doubled in the past year, but engineering leaders still find themselves faced with a significant shortage of data engineering talent. So is it really the future of data warehousing?</description>
@@ -97,7 +97,7 @@ Today, there are 6,500 people on LinkedIn who call themselves data engineers acc
       <title>4 Pillars of Analytics</title>
       <link>https://andrewrgoss.com/2018/4-pillars-of-analytics/</link>
       <pubDate>Fri, 07 Dec 2018 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2018/4-pillars-of-analytics/</guid>
       <description>written by Julien Kervizic 
  There are four key pillars that rule the lifecycle of analytics projects, from data acquisition, processing to surfacing and actioning on the data. Each of these contribute to a significant part of the value chain of analytics.
@@ -108,7 +108,7 @@ Today, there are 6,500 people on LinkedIn who call themselves data engineers acc
       <title>Functional Data Engineering</title>
       <link>https://andrewrgoss.com/2018/functional-data-engineering/</link>
       <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2018/functional-data-engineering/</guid>
       <description>written by Maxime Beauchemin 
 Batch data processing — historically known as ETL — is extremely challenging. It&amp;rsquo;s time-consuming, brittle, and often unrewarding. Not only that, it&amp;rsquo;s hard to operate, evolve, and troubleshoot.
@@ -119,7 +119,7 @@ In this post, we&amp;rsquo;ll explore how applying the functional programming pa
       <title>A Data Engineer&#39;s Guide To Non-Traditional Data Storages</title>
       <link>https://andrewrgoss.com/2018/a-data-engineers-guide-to-non-traditional-data-storages/</link>
       <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2018/a-data-engineers-guide-to-non-traditional-data-storages/</guid>
       <description>For data engineers, the most important aspects of data storages are how they index, shard, and aggregate data.
  This post originally appeared on Toptal and was written by Ken Hu.
@@ -131,7 +131,7 @@ Originally, the purpose of data engineering was the loading of external data sou
       <title>Beginner’s Guide to Data Engineering - A 3-Part Series</title>
       <link>https://andrewrgoss.com/2018/beginners-guide-to-data-engineering---a-3-part-series/</link>
       <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2018/beginners-guide-to-data-engineering---a-3-part-series/</guid>
       <description>written by Robert Chang
 Overview This is an excellent 3-part series of articles written from the vantage point of a data scientist looking to learn more about the field of data engineering.
@@ -142,7 +142,7 @@ Organization of This Guide The scope of the discussion is not be exhaustive and 
       <title>Getting Started with Data Engineering</title>
       <link>https://andrewrgoss.com/2018/getting-started-with-data-engineering/</link>
       <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2018/getting-started-with-data-engineering/</guid>
       <description>written by Richard Taylor
 
@@ -156,7 +156,7 @@ This is an excellent overview article that covers essential knowledge areas rela
       <title>Data Engineers vs. Data Scientists</title>
       <link>https://andrewrgoss.com/2018/data-engineers-vs.-data-scientists/</link>
       <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2018/data-engineers-vs.-data-scientists/</guid>
       <description>The two positions are not interchangeable—and misperceptions of their roles can hurt teams and compromise productivity.
  written by Jesse Anderson
@@ -170,7 +170,7 @@ A key misunderstanding is the strengths and weaknesses of each position. I think
       <title>DataOps- Next Gen Data Engineering Organization</title>
       <link>https://andrewrgoss.com/2018/dataops--next-gen-data-engineering-organization/</link>
       <pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2018/dataops--next-gen-data-engineering-organization/</guid>
       <description>Large enterprises are experiencing a foundational shift in how they view their data and structure their data engineering teams. As organizations capture more data than ever before, and store it in an ever-increasing variety of data stores, the prospect of competing on analytics becomes more tantalizing than ever.
   written by Andy Palmer
@@ -183,7 +183,7 @@ The challenges of using data at scale, however, is rooted in the &amp;ldquo;data
       <title>Why 2018 Will Be The Year Of The Data Engineer</title>
       <link>https://andrewrgoss.com/2018/why-2018-will-be-the-year-of-the-data-engineer/</link>
       <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2018/why-2018-will-be-the-year-of-the-data-engineer/</guid>
       <description>written by Alex Woodie, Managing Editor of Datanami
 The shortage of data scientists - those triple-threat types who possess advanced statistics, business, and coding skills - has been well-documented over the years. But increasingly, businesses are facing a shortage of another key individual on the big data team who&amp;rsquo;s critical to achieving success - the data engineer.
@@ -194,7 +194,7 @@ The shortage of data scientists - those triple-threat types who possess advanced
       <title>Becoming a Data Engineer</title>
       <link>https://andrewrgoss.com/2017/becoming-a-data-engineer/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2017/becoming-a-data-engineer/</guid>
       <description>written by Sergio Sola (with some grammatical edits by me)
 Becoming a Data Engineer I am a software engineer working at HelloFresh. I have been with the company for five years so far. Before HelloFresh and in this company I had different roles.
@@ -205,7 +205,7 @@ I started my career as a web developer doing everything, something that nowadays
       <title>What is a Productive Data Engineering Team?</title>
       <link>https://andrewrgoss.com/2017/what-is-a-productive-data-engineering-team/</link>
       <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2017/what-is-a-productive-data-engineering-team/</guid>
       <description>written by Jesse Anderson
  Merging the gaps between data science and engineering, and what each side can learn from the other.
@@ -216,7 +216,7 @@ I started my career as a web developer doing everything, something that nowadays
       <title>The Rise of the Data Engineer</title>
       <link>https://andrewrgoss.com/2017/the-rise-of-the-data-engineer/</link>
       <pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2017/the-rise-of-the-data-engineer/</guid>
       <description>written by Maxime Beauchemin
 I joined Facebook in 2011 as a business intelligence engineer. By the time I left in 2013, I was a data engineer.
@@ -228,7 +228,7 @@ My team was at forefront of this transformation. We were developing new skills, 
       <title>We Need Both Data Scientists &amp; Data Engineers</title>
       <link>https://andrewrgoss.com/2016/we-need-both-data-scientists--data-engineers/</link>
       <pubDate>Tue, 27 Dec 2016 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2016/we-need-both-data-scientists--data-engineers/</guid>
       <description>written by Neeraj Chadha
 When it comes to the medical profession, doctors get all the glory. In the world of IoT, it&amp;rsquo;s data scientists who get most of the attention and acclaim. They extract critical intelligence from big data so businesses can make informed decisions on the spot. But they don&amp;rsquo;t do their work in a vacuum. Data scientists can&amp;rsquo;t dazzle their industries without data engineers. These unheralded champions, equivalent to nurses, ensure that big data keeps flowing.</description>
@@ -238,7 +238,7 @@ When it comes to the medical profession, doctors get all the glory. In the world
       <title>The Data Science Industry: Who Does What</title>
       <link>https://andrewrgoss.com/2016/the-data-science-industry-who-does-what/</link>
       <pubDate>Wed, 09 Nov 2016 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2016/the-data-science-industry-who-does-what/</guid>
       <description>Great infographic from DataCamp that lays out the roles and skills associated with a data science team. As a data engineer within this group, these are the kind of people I work with day-to-day.
 
@@ -249,7 +249,7 @@ When it comes to the medical profession, doctors get all the glory. In the world
       <title>Comparing Data Engineers &amp; Data Scientists</title>
       <link>https://andrewrgoss.com/2016/comparing-data-engineers--data-scientists/</link>
       <pubDate>Thu, 29 Sep 2016 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2016/comparing-data-engineers--data-scientists/</guid>
       <description>Data engineer and data scientist are the two most popular career tracks in big data - but how do they compare? At a high level, data engineers are concerned with data infrastructure, while data scientists are concerned with analysis.
 Like data scientists, data engineers write code. They’re highly analytical, and are interested in data visualization. Unlike data scientists — and inspired by a more mature parent, software engineering — data engineers build tools, infrastructure, frameworks, and services.</description>
@@ -259,7 +259,7 @@ Like data scientists, data engineers write code. They’re highly analytical, an
       <title>Report- The State of Data Engineering</title>
       <link>https://andrewrgoss.com/2016/report--the-state-of-data-engineering/</link>
       <pubDate>Wed, 28 Sep 2016 00:00:00 +0000</pubDate>
-      <author>andrewrgoss@gmail.com (Andrew Goss)</author>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2016/report--the-state-of-data-engineering/</guid>
       <description>I recently came across an excellent report by Stitch on the state of data engineering.
 Today, there are 6,500 people on LinkedIn who call themselves data engineers. In San Francisco alone, there are 6,600 job listings for this same title. The number of data engineers has doubled in the past year, but engineering leaders still find themselves faced with a significant shortage of data engineering talent.
