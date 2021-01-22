@@ -8,10 +8,21 @@
     <language>en-us</language>
     <managingEditor>admin@andrewrgoss.com (Andrew Goss)</managingEditor>
     <webMaster>admin@andrewrgoss.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Sat, 25 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/tags/career-management/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Keeping Up with Data Engineering — A Resource Guide</title>
+      <link>https://andrewrgoss.com/2021/keeping-up-with-data-engineering--a-resource-guide/</link>
+      <pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2021/keeping-up-with-data-engineering--a-resource-guide/</guid>
+      <description>Photo by Kevin Ku on Unsplash
+written by Sheel Choksi 
+The data engineering space is continuously evolving — there are new open-source projects and tools released all the time, &amp;ldquo;best practices&amp;rdquo; are constantly changing, and data engineers are stretched thinner than ever before as businesses increase their data demands. Not only that, but data engineers have recently seen firsthand the hybridization of the data lake and data warehouse, with modern warehouses blurring the distinction by separating out compute from storage.</description>
+    </item>
     
     <item>
       <title>Recommended Reads to Level Up Your Data Career</title>
