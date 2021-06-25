@@ -8,10 +8,19 @@
     <language>en-us</language>
     <managingEditor>admin@andrewrgoss.com (Andrew Goss)</managingEditor>
     <webMaster>admin@andrewrgoss.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Thu, 27 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Data Engineering Technologies 2021</title>
+      <link>https://andrewrgoss.com/2021/data-engineering-technologies-2021/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2021/data-engineering-technologies-2021/</guid>
+      <description>written by Vijay Ram  Getdbt, It&amp;rsquo;s hitting the sweet spot of Apache Spark by bringing a simplified SQL-based pipeline! Prefect, Designed to make workflow management easier &amp;amp; better compared to Apache Airflow DVC, Open-source version control System for machine learning projects &amp;amp; desired for MLOps  Great_Expectations, Data science testing framework, it&amp;rsquo;s already amazing! Amundsen, An open-sourced data discovery and metadata engine Marquez, Open source metadata with an amazing UI Dagster, A data orchestrator for machine learning, very programming-based &amp;amp; in the similar space of Airflow/Prefect but emphasizes state flow Apache Calcite, Framework for building SQL databases and data management systems without owning data.</description>
+    </item>
     
     <item>
       <title>Data Engineering Ecosystem in 2021</title>
