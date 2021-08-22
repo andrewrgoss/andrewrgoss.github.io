@@ -8,10 +8,21 @@
     <language>en-us</language>
     <managingEditor>admin@andrewrgoss.com (Andrew Goss)</managingEditor>
     <webMaster>admin@andrewrgoss.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Fri, 25 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Modern Data Stack - Open-Source Edition</title>
+      <link>https://andrewrgoss.com/2021/modern-data-stack---open-source-edition/</link>
+      <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2021/modern-data-stack---open-source-edition/</guid>
+      <description>written by Gleb Mezhanskiy
+ Open source is not by itself a compelling enough reason to choose a technology for the data stack, but it can be the most feasible solution in some situations, for example, in a highly regulated industry or due to local privacy and data security legislation that may prohibit the use of foreign SaaS vendors.
+ The author of this post previously proposed a data stack for a typical analytical use case along with the key criteria to choose tech for each step in the data pipeline, such as minimal operational overhead, scalability, and pricing.</description>
+    </item>
     
     <item>
       <title>Data Engineering Technologies 2021</title>
@@ -1055,7 +1066,7 @@ My goal in taking this course was to strengthen my knowledge around the fundamen
       <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/resources/</guid>
       <description>There are tons of great resources all over the internet. I&#39;ve bookmarked hundreds of URLs and this page is my categorized collection of the references and free tools I&#39;ve found to be helpful. If you&#39;re reading this and have something to add or find a dead link please send me a note. I&#39;m continuing to add to this over time.
- API Services | Career Management | Cloud Computing | Computer Science | Data Engineering | DataOps | Data Science | Datasets | Data Visualization | Programming | Software Development | Web Applications | Website Tools</description>
+ Analytics/Data Visualization | API Services | Career Management | Cloud Computing | Computer Science/Programming | Data Engineering | DataOps | Data Science/Machine Learning | Datasets | Website Tools</description>
     </item>
     
     <item>

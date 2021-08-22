@@ -115,7 +115,7 @@
     <item>
       <title>Data Engineering</title>
       <link>https://andrewrgoss.com/tags/data-engineering/</link>
-      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
       <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/tags/data-engineering/</guid>
       <description></description>
@@ -142,7 +142,7 @@
     <item>
       <title>Data Warehousing</title>
       <link>https://andrewrgoss.com/tags/data-warehousing/</link>
-      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
       <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/tags/data-warehousing/</guid>
       <description></description>
@@ -169,7 +169,7 @@
     <item>
       <title>Elt</title>
       <link>https://andrewrgoss.com/tags/elt/</link>
-      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
       <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/tags/elt/</guid>
       <description></description>
@@ -280,6 +280,15 @@
       <pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate>
       <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/tags/nsq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Source</title>
+      <link>https://andrewrgoss.com/tags/open-source/</link>
+      <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/tags/open-source/</guid>
       <description></description>
     </item>
     

@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://andrewrgoss.com/2021/modern-data-stack---open-source-edition/</loc>
+    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://andrewrgoss.com/2021/data-engineering-technologies-2021/</loc>
     <lastmod>2021-06-25T00:00:00+00:00</lastmod>
   </url>
@@ -477,7 +482,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/</loc>
-    <lastmod>2021-06-25T00:00:00+00:00</lastmod>
+    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -541,7 +546,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/tags/data-engineering/</loc>
-    <lastmod>2021-06-25T00:00:00+00:00</lastmod>
+    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -559,7 +564,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/tags/data-warehousing/</loc>
-    <lastmod>2020-05-07T00:00:00+00:00</lastmod>
+    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -577,7 +582,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/tags/elt/</loc>
-    <lastmod>2020-01-22T00:00:00+00:00</lastmod>
+    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -654,8 +659,14 @@
   </url>
   
   <url>
+    <loc>https://andrewrgoss.com/tags/open-source/</loc>
+    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://andrewrgoss.com/post/</loc>
-    <lastmod>2021-06-25T00:00:00+00:00</lastmod>
+    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
