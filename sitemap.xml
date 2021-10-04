@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://andrewrgoss.com/2021/open-source-data-stack-conference/</loc>
+    <lastmod>2021-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://andrewrgoss.com/2021/modern-data-stack---open-source-edition/</loc>
     <lastmod>2021-08-22T00:00:00+00:00</lastmod>
   </url>
@@ -482,7 +487,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/</loc>
-    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
+    <lastmod>2021-09-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -588,7 +593,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/tags/events/</loc>
-    <lastmod>2016-05-20T00:00:00+00:00</lastmod>
+    <lastmod>2021-09-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -660,13 +665,13 @@
   
   <url>
     <loc>https://andrewrgoss.com/tags/open-source/</loc>
-    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
+    <lastmod>2021-09-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://andrewrgoss.com/post/</loc>
-    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
+    <lastmod>2021-09-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -766,7 +771,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/tags/technical-leadership/</loc>
-    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
+    <lastmod>2021-09-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -8,10 +8,20 @@
     <language>en-us</language>
     <managingEditor>admin@andrewrgoss.com (Andrew Goss)</managingEditor>
     <webMaster>admin@andrewrgoss.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Sat, 25 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/tags/technical-leadership/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Open Source Data Stack Conference</title>
+      <link>https://andrewrgoss.com/2021/open-source-data-stack-conference/</link>
+      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2021/open-source-data-stack-conference/</guid>
+      <description>In September 2021 I attended an excellent virtual conference, the Open Source Data Stack Conference. The conference profiled a number of platforms that can be combined together to form a modern open source data stack.
+The emergence of the modern data stack has seen a rapid spike in the number of data tools an organization can use to drive better decision making. Each tool has become highly specialized in its portion of the data lifecycle, plus tools that are open source are a powerful way for technology buyers to reduce exposure to vendor lock-in.</description>
+    </item>
     
     <item>
       <title>Recommended Reads to Level Up Your Data Career</title>
