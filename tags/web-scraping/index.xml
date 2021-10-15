@@ -19,8 +19,9 @@
       <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
       <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2020/simplified-web-scraping-using-python-requests--scraper-api/</guid>
-      <description>In the past I&amp;rsquo;ve tried out some different web scraping techniques, experimenting with different Python libraries such as BeautifulSoup, Scrapy, and Selenium.
-While I was able to extract the data I was looking for from the specific webpages my code was crawling, the internet is a vast place and not all websites are created equal. When doing web scraping at scale, sometimes it&amp;rsquo;s difficult to scrape sites that are protected by anti-bots like Distil, Akamai, or Cloudflare.</description>
+      <description>Disclosure: if you purchase a paid version of Scraper API using links in this post, I may earn an affiliate commission.
+In the past I&amp;rsquo;ve tried out some different web scraping techniques, experimenting with different Python libraries such as BeautifulSoup, Scrapy, and Selenium.
+While I was able to extract the data I was looking for from the specific webpages my code was crawling, the internet is a vast place and not all websites are created equal.</description>
     </item>
     
     <item>
