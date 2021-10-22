@@ -19,7 +19,7 @@
       <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
       <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2021/emerging-architectures-for-modern-data-infrastructure/</guid>
-      <description>written by Matt Bornstein, Martin Casado, and Jennifer Li
+      <description>*Source: Andreessen Horowitz  written by Matt Bornstein, Martin Casado, and Jennifer Li
 As an industry, we’ve gotten exceptionally good at building large, complex software systems. We’re now starting to see the rise of massive, complex systems built around data – where the primary business value of the system comes from the analysis of data, rather than the software directly. We’re seeing quick-moving impacts of this trend across the industry, including the emergence of new roles, shifts in customer spending, and the emergence of new startups providing infrastructure and tooling around data.</description>
     </item>
     
