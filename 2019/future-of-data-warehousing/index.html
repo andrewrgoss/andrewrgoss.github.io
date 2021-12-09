@@ -1,0 +1,1185 @@
+
+<!DOCTYPE html>
+<html lang="en-us">
+
+
+
+
+
+    
+
+
+    
+        
+    
+
+
+    <head>
+
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+        <meta property="og:title" content="Future of Data Warehousing · Andrew Goss · Senior Data Engineer" />
+        <meta name="twitter:title" content="Future of Data Warehousing · Andrew Goss · Senior Data Engineer" />
+        <title>Future of Data Warehousing · Andrew Goss · Senior Data Engineer</title>
+        
+        <meta property="og:site_name" content="Andrew Goss · Senior Data Engineer" />
+        <meta property="og:locale " content="en-us" />
+        
+        <meta property="og:url" content="https://andrewrgoss.com/2019/future-of-data-warehousing/" />
+        <meta name="twitter:url" content="https://andrewrgoss.com/2019/future-of-data-warehousing/" />
+        <link rel="canonical" href="https://andrewrgoss.com/2019/future-of-data-warehousing/" />
+        
+        <meta name="description" content="written by Simon Späti (with some grammatical edits by me) 
+Today, there are 6,500 people on LinkedIn who call themselves data engineers according to stitchdata.com. In San Francisco alone, there are 6,600 job listings for this same title. The number of data engineers has doubled in the past year, but engineering leaders still find themselves faced with a significant shortage of data engineering talent. So is it really the future of data warehousing?" />
+        <meta name="twitter:description" content="written by Simon Späti (with some grammatical edits by me) 
+Today, there are 6,500 people on LinkedIn who call themselves data engineers according to stitchdata.com. In San Francisco alone, there are 6,600 job listings for this same title. The number of data engineers has doubled in the past year, but engineering leaders still find themselves faced with a significant shortage of data engineering talent. So is it really the future of data warehousing?" />
+        <meta property="og:description" content="written by Simon Späti (with some grammatical edits by me) 
+Today, there are 6,500 people on LinkedIn who call themselves data engineers according to stitchdata.com. In San Francisco alone, there are 6,600 job listings for this same title. The number of data engineers has doubled in the past year, but engineering leaders still find themselves faced with a significant shortage of data engineering talent. So is it really the future of data warehousing?" />
+        
+        <meta name="twitter:site" content="@Andrewrgoss" />
+        <meta name="twitter:creator" content="@Andrewrgoss" />
+
+    
+    
+           
+            <meta name="twitter:card" content="summary" />
+        
+        
+        <meta property="og:type" content="article" />
+        <meta property="og:article:published_time" content="Jan 2019" />
+        <meta property="og:article:section" content="post" />
+        <meta property="og:article:author" content="https://andrewrgoss.com/about/" />
+        
+        <script type="application/ld+json">
+            { 
+                "@context": "http://schema.org",
+                "@type": "BlogPosting",
+                "headline": "Future of Data Warehousing",
+                "name": "Future of Data Warehousing",
+                "author": {
+                    "@type": "Person",
+"name": "Andrew Goss",
+"email": "admin@andrewrgoss.com",
+"url": "https://andrewrgoss.com/",
+"sameAs":
+	[
+		"https://twitter.com/andrewrgoss",
+		"https://linkedin.com/in/andrewrgoss",
+		"https://github.com/andrewrgoss"
+	]
+                },
+                "datePublished": "Jan 2019",
+                "description": "written by Simon Späti (with some grammatical edits by me) 
+Today, there are 6,500 people on LinkedIn who call themselves data engineers according to stitchdata.com. In San Francisco alone, there are 6,600 job listings for this same title. The number of data engineers has doubled in the past year, but engineering leaders still find themselves faced with a significant shortage of data engineering talent. So is it really the future of data warehousing?",
+                "wordCount": 2391,
+                "articleSection": "post",
+                "timeRequired": "0:12:0",
+                "url": "https://andrewrgoss.com/2019/future-of-data-warehousing/"
+            }
+        </script>
+
+    
+ 
+        <meta name="HandheldFriendly" content="True" />
+        <meta name="MobileOptimized" content="320" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        
+        <link rel="apple-touch-icon" sizes="57x57" href="https://andrewrgoss.com/icons/apple-touch-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="https://andrewrgoss.com/icons/apple-touch-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="https://andrewrgoss.com/icons/apple-touch-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="https://andrewrgoss.com/icons/apple-touch-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="https://andrewrgoss.com/icons/apple-touch-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="https://andrewrgoss.com/icons/apple-touch-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="https://andrewrgoss.com/icons/apple-touch-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="https://andrewrgoss.com/icons/apple-touch-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="https://andrewrgoss.com/icons/apple-touch-icon-180x180.png">
+        <link rel="icon" type="image/png" href="https://andrewrgoss.com/icons/favicon-32x32.png" sizes="32x32">
+        <link rel="icon" type="image/png" href="https://andrewrgoss.com/icons/favicon-194x194.png" sizes="194x194">
+        <link rel="icon" type="image/png" href="https://andrewrgoss.com/icons/favicon-96x96.png" sizes="96x96">
+        <link rel="icon" type="image/png" href="https://andrewrgoss.com/icons/android-chrome-192x192.png" sizes="192x192">
+        <link rel="icon" type="image/png" href="https://andrewrgoss.com/icons/favicon-16x16.png" sizes="16x16">
+        <link rel="manifest" href="https://andrewrgoss.com/icons/manifest.json">
+        <link rel="shortcut icon" href="https://andrewrgoss.com/icons/favicon.ico">
+        <meta name="apple-mobile-web-app-title" content="andrewrgoss.com">
+        <meta name="application-name" content="andrewrgoss.com">
+        <meta name="msapplication-TileColor" content="#2c3e50">
+        <meta name="msapplication-TileImage" content="https://andrewrgoss.com/icons/mstile-144x144.png">
+        <meta name="msapplication-config" content="https://andrewrgoss.com/icons/browserconfig.xml">
+        <meta name="theme-color" content="#2c3e50">
+
+        
+        
+    
+    <style>
+*
+{
+	padding: 0;
+	margin: 0;
+}
+
+body,html
+{
+	font-size: 1em;
+	line-height: 1.65em;
+	font-family: "Lato",sans-serif;
+	font-weight: 400;
+}
+
+br.custom {
+	display: block;
+   	margin: 1em 0;
+	content: " ";
+}
+
+html
+{
+	height: 100%;
+}
+
+body
+{
+	padding: 1em 2.5em 1em 15.9em;
+}
+
+header
+{
+	border-right: 1px #bdc3c7 solid;
+	padding: 2em;
+	position: fixed;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 9.2em;
+	background-color: #2c3e50;
+	color: #ecf0f1;
+}
+
+#content
+{
+	display: block;
+	width: 100%;
+}
+
+footer
+{
+	padding: 1em 0 1em;
+	font-size: .8em;
+	line-height: 1.5em;
+	color: #95a5a6;
+}
+
+article
+{
+	border-bottom: .1em #bdc3c7 solid;
+	padding-bottom: 1.7em;
+	max-width: 56em;
+}
+
+h4,h5,h6,hr,p
+{
+	margin-top: .6em;
+	margin-bottom: .1em;
+}
+
+p.custom_blockquote
+{
+	margin-top: 0em;
+	margin-bottom: 0em;
+	font-weight: 500;
+	line-height: 1em;
+	font-size: .9em;
+	color: #7f8c8d;
+	padding-bottom: .3em;
+}
+
+h1,h2,h3,h4,h5,h6
+{
+	font-family: "Oswald","Lato",sans-serif;
+	font-weight: 400!important;
+}
+
+h1
+{
+	font-size: 2.5em;
+	line-height: 1.1em;
+	margin-top: .5em;
+	margin-bottom: .6em;
+}
+
+h2
+{
+	font-size: 1.9em;
+	line-height: 1.2em;
+	margin-top: .7em;
+	margin-bottom: .7em;
+}
+
+h3
+{
+	font-size: 1.4em;
+	line-height: 1.3em;
+	margin-top: .8em;
+	margin-bottom: .8em;
+}
+
+h4
+{
+	font-size: 1.3em;
+}
+
+h5
+{
+	font-size: 1.2em;
+}
+
+h6
+{
+	font-size: 1.1em;
+}
+
+iframe,img
+{
+	max-width: 100%;
+}
+
+a
+{
+	font-weight: 700;
+	text-decoration: none;
+	color: #e74c3c;
+}
+
+a:hover
+{
+	color: #23C2F8;
+}
+
+h1 a,h2 a,h3 a,h4 a,h5 a,h6 a
+{
+	font-weight: 400;
+}
+
+strong
+{
+	font-weight: 700;
+}
+
+blockquote
+{
+	border-left: .4em solid #bdc3c7;
+	padding-left: 1.2em;
+	font-size: 1.3em;
+}
+
+hr
+{
+	border: 0;
+	height: 1px;
+	background: #bdc3c7;
+}
+
+ol,ul
+{
+	margin-left: 2em;
+}
+
+code
+{
+	font-size: 1.2em;
+	background: #bdc3c7;
+}
+
+pre
+{
+	font-size: .8em;
+	line-height: 2em;
+	background: #bdc3c7;
+	word-break: break-all;
+	word-wrap: break-word;
+	white-space: pre;
+	white-space: -moz-pre-wrap;
+	white-space: pre-wrap;
+}
+
+input
+{
+	font-size: 1em;
+	padding: .3em;
+}
+
+header h1
+{
+	font-size: 1.9em;
+	margin-top: .3em;
+	margin-bottom: .2em;
+}
+
+header a
+{
+	color: #1abc9c;
+}
+
+header h1 a:hover
+{
+	text-decoration: none;
+}
+
+header #logo img
+{
+	width: 8em;
+	height: 8em;
+	border-radius: 4em;
+	-moz-border-radius: 4em;
+	-webkit-border-radius: 4em;
+	border: 0;
+}
+
+#follow-icons
+{
+	font-size: .7em;
+	margin-top: -1.8em;
+	margin-bottom: 0.7em;
+}
+
+#follow-icons a
+{
+	color: #ccc;
+	margin-right: 0.5em;
+}
+
+#follow-icons a:hover
+{
+	color: #23C2F8;
+}
+
+#follow-icons span
+{
+	vertical-align: top;
+	margin-left: -.15em;
+	margin-right: -.15em;
+}
+
+#follow-icons span .fa-stack-1x
+{
+	font-size: 1.05em;
+	line-height: 1.9em;
+}
+
+header h6
+{
+	margin-top: .4em;
+	margin-bottom: .35em;
+}
+
+header span
+{
+	color: #cccccc;
+	font-size: .68em
+}
+
+article span.post-stamp
+{
+	color: #888;
+}
+
+h1.post-title
+{
+	margin-top: .35em;
+	margin-bottom: .6em;
+}
+
+h3.post-title
+{
+	margin-top: .4em;
+	padding-bottom: .9em;
+	border-bottom: 1px solid #bdc3c7;
+	font-size: 1.2em;
+	color: #34495e;
+	font-family: "Lato",sans-serif;
+	font-weight: 700!important;
+}
+
+h3.book
+{
+	margin-top: .1em;
+	padding-bottom: .6em;
+	border-bottom: 1px solid #bdc3c7;
+	font-size: 1.2em;
+	color: #34495e;
+	font-family: "Lato",sans-serif;
+	font-weight: 700!important;
+}
+
+h3.book>time
+{
+	font-family: "Lato",sans-serif;
+	font-weight: 300!important;
+	font-size: .9em;
+}
+
+h3.book>author
+{
+	font-family: "Lato",sans-serif;
+	font-weight: 700!important;
+	font-size: .7em;
+	color: #cccccc;
+}
+
+.sitetaglist
+{
+	list-style-type: none;
+	display: block;
+	margin-left: 0;
+	text-align: center;
+	margin-bottom: 1.25em;
+	font-size: 0.8em;
+}
+
+.sitetaglist li
+{
+	display: inline;
+}
+
+.sitetaglisttitle
+{
+	margin-bottom: .3em;
+}
+
+h3.post-title>time
+{
+	font-family: "Lato",sans-serif;
+	font-weight: 300!important;
+	font-size: .9em;
+}
+
+.post-title .feature-star
+{
+	font-size: .9em;
+}
+
+.feature-star,.separator
+{
+	color: #ccc;
+}
+
+.taglist { color: #ccc }
+
+.taglist a {
+    background-color: #b3b3b3;
+    color: #fff;
+    display: inline-block;
+    line-height: 1.5em;
+    padding: .3em .6em;
+    vertical-align: 20%;
+    font-size: .5em;
+    font-weight: 700!important;
+    text-transform: uppercase;
+    letter-spacing: .05em;
+    border-radius: .25em;
+    -moz-border-radius: .25em;
+    -webkit-border-radius: .25em;
+}
+
+.taglist a:hover {
+    background-color: #23C2F8;
+}
+
+#social-bar
+{
+	margin-top: 1.5em;
+	background-color: #bdc3c7;
+	padding: .3em;
+}
+
+.pagination
+{
+	margin-bottom: 1em;
+}
+
+footer a
+{
+	font-weight: 300;
+	color: #95a5a6;
+	text-decoration: underline;
+}
+
+footer a:hover
+{
+	color: #7f8c8d;
+	text-decoration: none;
+}
+
+.uk-search
+{
+	display: inline-block;
+	position: relative;
+	margin: 0;
+}
+
+.uk-search:before
+{
+	content: "\f002";
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 1.87em;
+	line-height: 2.5em;
+	text-align: center;
+	font-family: FontAwesome;
+	font-size: 0.87em;
+	color: #1abc9c;
+}
+
+.uk-search-field::-moz-focus-inner
+{
+	border: 0;
+	padding: 0;
+}
+
+.uk-search-field::-webkit-search-cancel-button,.uk-search-field::-webkit-search-decoration
+{
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+}
+
+.uk-search-field::-ms-clear
+{
+	display: none;
+}
+
+.uk-search-field::-moz-placeholder
+{
+	opacity: 1;
+}
+
+.uk-search-field
+{
+	font-family: "Oswald","Lato",sans-serif;
+	color: #ecf0f1;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+	width: 11.25em;
+	height: 1.87em;
+	padding: 0 0 0 1.87em;
+	border: 0;
+	background: rgba(0,0,0,0);
+	transition: all linear .2s;
+	-o-transition: all linear .2s;
+	-moz-transition: all linear .2s;
+	-webkit-transition: all linear .2s;
+	vertical-align: middle;
+}
+
+.uk-search-field:-ms-input-placeholder
+{
+	color: #95a5a6!important;
+}
+
+.uk-search-field::-moz-placeholder
+{
+	color: #95a5a6;
+}
+
+.uk-search-field::-webkit-input-placeholder
+{
+	color: #95a5a6;
+}
+
+.uk-search-field:focus
+{
+	outline: 0;
+}
+
+.uk-search-field:focus,.uk-search.uk-active .uk-search-field
+{
+	width: 11.25em;
+}
+
+.gs-image-box,.gsc-above-wrapper-area,.gsc-cursor-box,.gsc-url-bottom,.gsc-thumbnail,.gs-per-result-labels
+{
+	display: none!important;
+	visibility: hidden!important;
+}
+
+.gsc-control-cse,.gsc-results
+{
+	font: inherit!important;
+	background: inherit!important;
+	border: inherit!important;
+	padding: inherit!important;
+	margin: inherit!important;
+}
+
+.gsc-result
+{
+	border: inherit!important;
+	background: inherit!important;
+	padding: inherit!important;
+}
+
+.gs-title
+{
+	font-family: "Lato",sans-serif!important;
+	color: #e74c3c!important;
+	text-decoration: none!important;
+	height: inherit!important;
+	overflow: inherit!important;
+}
+
+.gs-snippet
+{
+	color: inherit!important;
+	font-family: "Lato",sans-serif!important;
+	height: inherit!important;
+	overflow: inherit!important;
+}
+
+@media only screen and (min-width:1281px)
+{
+	body,html
+	{
+		font-size: 1.1em;
+	};
+}
+
+@media only screen and (max-width:800px)
+{
+	body
+	{
+		padding: 0;
+	}
+
+	header
+	{
+		border-right: 0;
+		border-bottom: 1px #bdc3c7 solid;
+		position: relative;
+		height: auto;
+		width: auto;
+		text-align: center;
+		padding-bottom: 1em;
+	}
+
+	#content
+	{
+		margin-left: 0;
+		padding: 2em 2em 1em;
+		width: auto;
+	}
+
+	footer
+	{
+		padding: 0 2.5em 2em;
+	};
+}
+
+@media only screen and (max-width:31.25em)
+{
+	#content,header
+	{
+		padding: 1.2em 1.2em .6em;
+	}
+
+	footer
+	{
+		padding: 0 1.5em 1.2em;
+	}
+
+	ol,ul
+	{
+		margin-left: 1em;
+	};
+}
+
+.section
+{
+	clear: both;
+	padding: 0;
+	margin: 0;
+}
+
+.col
+{
+	display: block;
+	float: left;
+	margin: 1% 0 1% 1.6%;
+}
+
+.col:first-child
+{
+	margin-left: 0;
+}
+
+.group:before,.group:after
+{
+	content: "";
+	display: table;
+}
+
+.group:after
+{
+	clear: both;
+}
+
+.group
+{
+	zoom: 1;
+}
+
+.span_3_of_3
+{
+	width: 100%;
+}
+
+.span_2_of_3
+{
+	width: 66.13%;
+}
+
+.span_1_of_3
+{
+	width: 32.26%;
+}
+
+@media only screen and (max-width: 480px)
+{
+	.col
+	{
+		margin: 1% 0;
+	}
+
+	.span_3_of_3,.span_2_of_3,.span_1_of_3
+	{
+		width: 100%;
+	};
+}
+
+@media only screen and (max-height: 550px)
+{
+	.sitetaglist, .sitetaglisttitle
+	{
+		display: none;
+		visibility: hidden;
+	}
+}
+
+.btn {
+  display: inline-block;
+  padding: .5rem 1.25rem;
+  font-weight: 500;
+  color: #fff;
+  text-decoration: none;
+  text-shadow: 0 -1px 0 rgba(0,0,0,.5);
+  background-color: #3072b3;  
+  background-repeat: repeat-x;  
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #599bdc), color-stop(100%, #3072b3));  
+  background-image: -webkit-linear-gradient(top, #599bdc 0, #3072b3 100%);  
+  background-image: -moz-linear-gradient(top, #599bdc 0, #3072b3 100%);  
+  background-image: -ms-linear-gradient(top, #599bdc 0, #3072b3 100%);  
+  background-image: -o-linear-gradient(top, #599bdc 0, #3072b3 100%);  
+  background-image: linear-gradient(top, #599bdc 0, #3072b3 100%);  
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#599bdc', endColorstr='#3072b3', GradientType=0);  
+  border: 1px solid #2967a4;
+  border-radius: 6px;
+  box-shadow: inset 0 1px 0 rgba(255,255,255,.1);
+  -webkit-transition: none;
+     -moz-transition: none;
+       -o-transition: none;
+          transition: none;
+}
+.btn:hover {
+  text-decoration: none;
+  background-position: 0 -15px;
+}
+.btn:active {
+  background-image: none;
+  background-color: #3072b3;  
+  box-shadow: inset 0 5px 10px rgba(0,0,0,.125), 0 1px 2px rgba(0,0,0,.2);
+}
+h2.resources
+{
+	font-size: 1.9em;
+	line-height: 1.2em;
+	margin-top: .7em;
+	margin-bottom: -0.2em;
+}
+
+</style>
+    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-58296426-1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-58296426-1');
+</script>
+
+    </head>
+    <body>
+        <header id="header">
+            <a id="logo" href="https://andrewrgoss.com/"><img src="https://andrewrgoss.com/avatar.jpg" alt="Andrew Goss · Senior Data Engineer" /></a>
+            <h1><a href="https://andrewrgoss.com/">Andrew Goss</a></h1>
+			<span>Senior Data Engineer</span><br><br>
+            <div id="follow-icons">
+	<a href="mailto:admin@andrewrgoss.com" target="_blank" rel="me"><i class="fa fa-envelope-square fa-3x"></i></a>
+	<a href="https://twitter.com/andrewrgoss" target="_blank" rel="me"><i class="fa fa-twitter fa-3x"></i></a>
+	<a href="https://linkedin.com/in/andrewrgoss" target="_blank" rel="me"><i class="fa fa-linkedin fa-3x"></i></a>
+	<a href="https://github.com/andrewrgoss" target="_blank" rel="me"><i class="fa fa-github fa-3x"></i></a>
+</div>  
+            <h6><a rel="prerender" href="https://andrewrgoss.com/about">About</a></h6>
+<h6><a href="https://andrewrgoss.com/resume">Resume</a></h6>
+<h6><a href="https://andrewrgoss.com/resources">Resources</a></h6>
+<h6><a href="https://andrewrgoss.com/tags">Tags</a></h6>
+            			<form class="uk-search" action="https://andrewrgoss.com/search/">
+                <input class="uk-search-field" id="q" name="q" type="search" placeholder="search..." />
+            </form>
+            
+        </header>
+<main id="content">
+
+<article class="post">
+    <div class="post-stamp">
+        <time datetime="Jan 2019">
+            Jan 2019
+        </time>
+        <span class="taglist">
+        
+        &middot; 
+            
+                <a href="https://andrewrgoss.com/tags/business-intelligence/">business intelligence</a>
+            
+                <a href="https://andrewrgoss.com/tags/data-engineering/">data engineering</a>
+            
+                <a href="https://andrewrgoss.com/tags/data-warehousing/">data warehousing</a>
+            
+        
+        </span>
+    </div>
+    <h1 class="post-title">Future of Data Warehousing</h1>
+    
+
+<p><img src="/img/post/bundle_wires.jpg" alt="Bundle of Wires" title="Bundle of Wires" /><br></p>
+
+<p><sub><i>written by <a href="https://hackernoon.com/@sspaeti" target="_blank">Simon Späti</a> (with some grammatical edits by me)</i></sub>
+<hr></p>
+
+<p>Today, there are 6,500 people on LinkedIn who call themselves data engineers according to <a href="https://www.stitchdata.com/resources/the-state-of-data-engineering" target=_>stitchdata.com</a>. In San Francisco alone, there are 6,600 job listings for this same title. The number of data engineers has doubled in the past year, but engineering leaders still find themselves faced with a significant shortage of data engineering talent. So is it really the future of data warehousing? What is data engineering? These questions and much more I want to answer in this blog post.</p>
+
+<p>In <a href="https://en.wikipedia.org/wiki/Unicorn_%28finance%29" target=_>unicorn</a> companies like Facebook, Google, Apple where data is the fuel for the company, mostly in America, is where data engineers are mostly used. In Europe, the job title does not completely exist besides the startup mecca Berlin, Munich, etc. They are called or included in jobs like software engineer, big data engineer, business analyst, data analyst, data scientist and also the business intelligence engineer. Myself, I started as a business intelligence engineer and using more and more time on the engineering rather the business part, that’s why I am starting this blog from the data warehousing angle.</p>
+
+<h2 id="what-is-a-data-warehouse">What is a Data Warehouse?</h2>
+
+<p>What is data warehousing or what is a business intelligence engineer doing, and why are they using a data warehouse?</p>
+
+<p>To use the analogy to a physical retail-type warehouse, <b>you want to sell very structured products in the most efficient way to your customers</b>. In a data warehouse (DWH) you have typically structured data and optimised them for business users to query. If you dig a little deeper, you offload data from the trucks in the back of the physical shop, before it gets sorted and structured into the warehouse for the customers to buy. In a DWH you basically do the same, just with data. As you see in the DWH architecture below, the offloading area in the back of the store is your <a href="https://en.wikipedia.org/wiki/Staging_%28data%29" target=_>stage area</a> where you store the source data from your operational systems or external data.</p>
+
+<p>A traditional Data Warehouse architecture by <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Data_warehouse_overview.JPG/360px-Data_warehouse_overview.JPG" target=_>Wikipedia</a>:</p>
+
+<p><img src="/img/post/traditional_data_warehouse.jpeg" "Traditional Data Warehouse" width="60%"></p>
+
+<p>The physical warehouse where the customers buying the articles is in a DWH normally the so-called <a href="https://en.wikipedia.org/wiki/Data_mart" target=_>data mart</a>. The data processed between each layer seen in the architecture above is called <a href="https://en.wikipedia.org/wiki/Extract,_transform,_load" target=_>ETL (Extract Transform Load)</a>. This is not to confuse with <a href="https://en.wikipedia.org/wiki/Extract,_load,_transform" target=_>ELT (Extract Load Transform)</a> which is the common mythology data lakes (more in my recent <a href="http://www.sspaeti.com/blog/data-warehouse-vs-data-lake-etl-vs-elt" target=_>post</a>). In a DWH you always transform to get data as clean and structured as possible.</p>
+
+<h2 id="why-have-a-data-warehouse">Why have a Data Warehouse?</h2>
+
+<p>Besides the obvious reasons of a shop explained above, a data warehouse gives you big advantages:</p>
+
+<ul>
+<li>In theory: <b>Integration</b> and <b>transformation</b> of raw data of an organization from <b>multiple sources</b> (mostly very structured like SAP, CRM, Excel, etc.) into meaningful and <b>useful information, historical stored</b>.</li>
+<li>In practice: Similar <b>a cockpit in an aeroplane</b> — All Measures and KPI’s are at one place in order to steer the plane and take the right decisions</li>
+<li>It allows businesses to make <b>better decisions</b> by accessing the data well structured
+
+<ul>
+<li>It helps to make informed <b>decisions</b> based on facts</li>
+<li>It improves the efficiency of business operations</li>
+<li>It enhances the <b>quality</b> of customer service</li>
+</ul></li>
+<li>The visual products from business intelligence based on top of a data warehouses are largely:
+
+<ul>
+<li>Ad hoc Reporting</li>
+<li>Standard Reporting</li>
+<li>Dashboards / Cockpits</li>
+</ul></li>
+</ul>
+
+<h2 id="what-is-data-engineering">What is Data Engineering?</h2>
+
+<p>Data engineering is the less famous sibling of data science. Data science is growing like no tomorrow and so does data engineer, but much less heard. Compared to existing roles it would be a <b>software engineering plus business intelligence engineer including big data abilities</b> as the Hadoop ecosystem, streaming and computation at scale. Business creates more reporting artifacts themselves but with more data that needs to be collected, cleaned and updated near real-time and complexity is expanding every day. With that said more programmatic skills are needed similar to software engineering. <b>The emerging language at the moment is Python</b> (more on that <a href="#python">below</a>) while used in engineering with tools alike Apache Airflow as well as data science with powerful libraries. Where today as a BI-engineer you use <a href="https://en.wikipedia.org/wiki/SQL" target=_>SQL</a> for almost everything except when using external data from an FTP-server for example. You would use bash and PowerShell in the nightly batch jobs. But this is no longer sufficient and because it gets a full-time job to develop and maintain all these requirement and rules (called pipelines), the data engineering is needed.</p>
+
+<h2 id="the-role-of-a-data-engineer">The role of a data engineer</h2>
+
+<p>In order to get high quality and <b>frequently updated data sets</b>, it is important to distinguish between data pipelines that are <b>done and cleaned</b> by data engineers and all the others that are mostly exploratory. We at Airbus use a folder that is called &ldquo;cleaned&rdquo; and all data sets produced there are constantly updated, documented and of the highest quality. Based on these data sets you create your own. We use the data lake solution <a href="https://en.wikipedia.org/wiki/Palantir_Technologies" target=_>Palantir Foundry</a> (brand name of Airbus: <a href="http://www.airbus.com/newsroom/press-releases/en/2017/06/airbus-launches-new-open-aviation-data-platform--skywise--to-sup.html" target=_>Skywise</a>) which provides you with a map where you see the <a href="https://en.wikipedia.org/wiki/Data_lineage" target=_>data lineage</a> easily. <b>Documentation and metadata to each data set are crucial</b> as otherwise, you lose the overview of your data, which is also one main task of a data engineer.</p>
+
+<h3 id="services-that-a-data-engineer-provides">Services that a data engineer provides</h3>
+
+<p>Another important task or service which a data engineer provides is <b>automation</b> that data scientists or data analysts do manually. A good overview what task this includes are provided by <a href="https://medium.com/@maximebeauchemin" target=_>Maxime Beauchemin</a>, the founder of <a href="https://airflow.apache.org" target=_>Apache Airflow</a>, a tool that helps a data engineer to lift the majority of tasked mentioned:</p>
+
+<ul>
+<li><b>data ingestion</b>: services and tooling around &ldquo;scraping&rdquo; databases, loading logs, fetching data from external stores or APIs, …</li>
+<li><b>metric computation</b>: frameworks to compute and summarise engagement, growth or segmentation related metrics</li>
+<li><b>anomaly detection</b>: automating data consumption to alert people anomalous events occur or when trends are changing significantly</li>
+<li><b>metadata management</b>: tooling around allowing generation and consumption of metadata, making it easy to find information in and around the data warehouse</li>
+<li><b>experimentation</b>: A/B testing and experimentation frameworks is often a critical piece of company’s analytics with a significant data engineering component to it</li>
+<li><b>instrumentation</b>: analytics starts with logging events and attributes related to those events, data engineers have vested interests in making sure that high-quality data is captured upstream</li>
+<li><b>dependencies</b>: pipelines that are specialized in understand series of actions in time, allowing analysts to understand user behaviours&rdquo;</li>
+</ul>
+
+<blockquote>
+<p>While the nature of the workflows that can be automated differs depending on the environment, the need to automate them is common across the board.</p>
+</blockquote>
+
+<p><sub>- Maxime Beauchemin</sub></p>
+
+<h2 id="when-is-a-data-engineer-needed">When is a data engineer needed?</h2>
+
+<p>I believe, that <b>not every company is in need of data engineers</b>. These skills are mostly required if the company either:</p>
+
+<ul>
+<li>has already a product that is fully web-based and therefore data-driven or</li>
+<li>the need or desire to analyse lots of data (Volume) from any kind of sources (Variety) and fast (Velocity) to get the insights (Value and Veracity) (see more about the <a href="https://www.xsnet.com/blog/updated-for-2017-the-vs-of-big-data-velocity-volume-value-variety-and-veracity" target=_>five V’s of Big Data</a>)</li>
+</ul>
+
+<h2 id="data-engineer-job-description-and-skills">Data engineer job description and skills</h2>
+
+<p>If English is the language of business, SQL is the language of data and Python the language of engineering. While technology disappears often, SQL is still here. This means you need a reliable understanding of:</p>
+
+<ul>
+<li><b>SQL to a high level of complexity</b>
+
+<ul>
+<li>e.g. using <a href="https://en.wikipedia.org/wiki/SQL_window_function" target=_>window</a> and <a href="https://en.wikipedia.org/wiki/Aggregate_function" target=_>aggregate</a> functions, changing the structure of a database with <a href="https://en.wikipedia.org/wiki/Data_definition_language" target=_>DDL</a>, changing the data with <a href="https://en.wikipedia.org/wiki/Data_manipulation_language" target=_>DML</a>, fine tuning or reading database <a href="https://en.wikipedia.org/wiki/Query_plan" target=_>execution plans</a>, understanding how <a href="https://en.wikipedia.org/wiki/Database_index" target=_>indices</a> work</li>
+</ul></li>
+<li><b>Data modelling techniques</b>: <a href="https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model" target=_>ERDs</a> and dimensional modelling</li>
+<li>Solid <a href="https://en.wikipedia.org/wiki/Extract,_transform,_load" target=_>ETL</a> understanding</li>
+<li><b>Architectural projections</b>: needs to have a high-level understanding of most of the tools, platforms, libraries and other resources at its disposal</li>
+<li>Ability to connect the dots from source to destination with any <b>programming language</b> that does the job best. (Probably Python at the moment)</li>
+</ul>
+
+<p><a href="https://www.stitchdata.com/resources/reports/the-state-of-data-engineering" target=_>Stitchdata.com</a> anticipated that as company size increased, so would the focus on scaling-related skill. However, that’s not the story the data told. Instead, data engineers at larger companies tend to be more focused on &ldquo;enterprise&rdquo; skills like ETL, BI, and data warehousing, whereas data engineers at smaller companies focus more on core technologies:</p>
+
+<p><img src="https://cdn-images-1.medium.com/max/1760/0*PXbyhDUMD9A6zZ4h."></p>
+
+<p><a name="python"></a></p>
+
+<h2 id="the-tool-language-python">The tool language, Python</h2>
+
+<h3 id="the-growth-of-major-programming-languages">The growth of major programming languages</h3>
+
+<p>Programming languages have always come and gone, but in the last couple of years, Python rises on top of the popularity. The question is why. One valid reason for sure is because of the rise of the data engineers but also the use of libraries for data science and data analytics.</p>
+
+<p><img src="https://cdn-images-1.medium.com/max/1760/0*0ALwC2gUPzHjCXYJ."></p>
+
+<p>According to the <a href="http://news.codecademy.com/why-learn-python/#.WqCQsORnCDo" target=_>Codeacademy</a> and their source data from <a href="https://stackoverflow.blog/2017/09/06/incredible-growth-python" target=_>Stack Overflow</a>, they say it’s connected to the rise of data science. This and <a href="https://en.wikipedia.org/wiki/Machine_learning" target=_>machine learning</a> were the biggest trends in tech 2017. Additionally, Python has become a go-to language for data analysis. With data-focused libraries like pandas, NumPy, and matplotlib, anyone familiar with Python’s syntax and rules can deploy it as a powerful tool to process, manipulate, and visualise data.</p>
+
+<p>Related to the rise of data science and data engineering, it’s clear to me that Python is here to stay and it’s becoming the <b>Swiss Army Knife of programming languages</b>.</p>
+
+<h2 id="python-for-data-engineers">Python for data engineers</h2>
+
+<p>But for what can you use Python in data engineering. For example, you use it for <b>data wrangling</b> (reshaping, aggregating, joining disparate sources, etc.) which mostly done with the library <a href="https://en.wikipedia.org/wiki/Pandas_%28software%29" target=_>Pandas<a>, small-scale ETL, API interaction (our presentation usually happens in Tableau which has Python APIs) and automation with <a href="https://airflow.apache.org" target=_>Apache Airflow</a>, which is also natively in Python.</p>
+
+<blockquote>
+<p>&ldquo;Apache Airflow has several building blocks that allow Data Engineers to easily piece together pipelines to and from different sources. Because it is written in Python, Data Engineers find it easy to create ETL pipelines by just extending classes of Airflow’s DAG and Operator objects. And this allows us to write our own Python code to create any ETL we wish, with the structure given by Airflow. Airflow uses several packages mentioned all ready to do the job: <a href="http://boto.cloudhackers.com/en/latest" target=_><code>boto</code></a> for S3 handling, pandas for obvious advantages with data frames, <code>psycopg2</code> for popular integrations with Postgres and Redshift, and several more.&rdquo;</p>
+</blockquote>
+
+<p><a href="https://www.quora.com/profile/David-Dalisay" target=_><sub>- David Dalisay</sub></a></p>
+
+<h2 id="business-intelligence-engineer-vs-data-engineer">Business Intelligence Engineer vs Data Engineer</h2>
+
+<p>As already mentioned in further up, the data engineer has the skillset of a business intelligence engineer plus also solid programming and big data skills. I believe BI-engineers will transit over to a data engineer anyway, depending on the size of a company. But why? What is changing/has changed?</p>
+
+<h2 id="what-has-changed">What has changed</h2>
+
+<p>As the power of computers and especially the speed of the internet is growing, more data can be collected and needs to be analysed. Therefore many parameters around the data warehouse environment have or will change. Below the points that I see with most influence:</p>
+
+<ul>
+<li>Computers have gotten faster and <b>reports can be built directly on source data</b>, with no persistent layer needed for performance optimization - a semantic layer is enough</li>
+<li><b>Business has no time to wait for ETL</b> to be finished during the night, data needs to refresh immediately (near real-time)
+
+<ul>
+<li>Keeping up with customer demand through new BI deployments</li>
+<li>Older BI deployments cannot keep pace with success</li>
+<li>&ldquo;The main factors that drive development and deployment of new data warehouses are being agile, leveraging the cloud and the next generation of data (as it relates to real-time data, streaming data and data from IoT devices).&rdquo; -<a href="https://www.cio.com/article/3245386/data-warehousing/the-data-warehouse-in-2018.html" target=_>Brian E. Thomas</a></li>
+<li>(Data warehouse automation can help here, read more in my recent posts)</li>
+</ul></li>
+<li>Structure needs to put in place after you collect data (<a href="https://www.sspaeti.com/blog/data-warehouse-vs-data-lake-etl-vs-elt" target=_>ELT instead of ETL</a>).</li>
+<li>Easy collaboration and exchange of data is needed</li>
+<li><b>Governance getting more important</b> as more data is stored in order to have the full overview of the data, timeframe and quality</li>
+<li>New trends, tools, technologies and competitors are arising all the time, companies must be on top of that</li>
+</ul>
+
+<h2 id="etl-is-changing">ETL is changing</h2>
+
+<p>Furthermore the way we do ETL is changing as well, as <a href="https://medium.com/@maximebeauchemin" target=_>Maxime Beauchemin</a>, data engineer at Airbnb writes:</p>
+
+<blockquote>
+<p>Product know-how on platforms like Informatica, IBM Datastage, Cognos, AbInitio or Microsoft SSIS isn’t common amongst modern data engineers, and being replaced by more generic software engineering skills along with understanding of programmatic or configuration driven platforms like Airflow, Oozie, Azkabhan or Luigi. It’s also fairly common for engineers to develop and manage their own job orchestrator/scheduler.&rdquo;</p>
+</blockquote>
+
+<p>He is also saying that code is the best abstraction there is for software rather than using drag and drop tools (ETL-tools). Most important what I see as well, that the transformation logic is of a higher need and shouldn’t be locked away exclusively for BI developers.</p>
+
+<h2 id="data-modeling-is-changing">Data Modeling is changing</h2>
+
+<p>As you can’t change ETL without modelling differently, also this is changing:</p>
+
+<ul>
+<li>Further <a href="https://en.wikipedia.org/wiki/Denormalization" target=_>denormalization</a> for performance gains is mostly compensated with faster databases engines or cloud solutions.</li>
+<li>Maintaining <a href="http://www.kimballgroup.com/1998/05/surrogate-keys" target=_>surrogate keys</a> in dimensions can be tricky and not human-friendly as we prefer business keys.
+With the popularity of document storage and cheap blobs in cloud storage, it is becoming easier to create and <b>develop database schemas dynamically</b> without writing <a href="https://en.wikipedia.org/wiki/Data_manipulation_language" target=_>DML-statements</a>.</li>
+<li>Systematically snapshoting dimension compared to handle complex and maybe counter-intuitive <a href="https://en.wikipedia.org/wiki/Slowly_changing_dimension" target=_>slowly changing dimension (SCD)</a> is a way to <b>simplify track changes</b> in a DWH. Is it also easy and relatively cheap to denormalise dimension’s attribute directly on the fact table to keep important information at the moment of the transaction.</li>
+<li><a href="http://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/conformed-dimension" target=_>Conformed dimensions</a> and conformance as in general is extremely important in nowadays data warehouse and data environments. But to be more collaborative and work on same objects it is a necessary trade-off to loosen it up.</li>
+<li>Other business departments are becoming more data-savvy than ever before. In that sense data needs to become more real-time rather than batch processing and precomputed calculations, this can be done more ad-hoc with new fast technologies like Spark that run complex jobs ad-hoc and on-demand.</li>
+</ul>
+
+<h2 id="education-is-changing">Education is changing</h2>
+
+<p>Facebook, Airbnb and other companies taking it a step into so-called &ldquo;Data Camps or Data University&rdquo; to educate internal employees in respect of data to get more data savvy.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>So after all, is the data engineer the new business intelligence engineer? I would say in the long run yes. I imagine that data warehouses — in any way — will always be a need for the business, where the data is fully structured and easily accessible. But how we build DWHs (or something similar) will change and therefore more engineering and data engineer resources will be needed.</p>
+
+<blockquote>
+<p>Originally published at <a href="https://www.sspaeti.com/blog/data-engineering-the-future-of-data-warehousing" target="_blank">sspaeti.com</a>  on March 8, 2018.<br></p>
+</blockquote>
+
+<p><sub>*Source: <a href="https://hackernoon.com" target=_>Hacker Noon</a></sub></p>
+
+    <div>
+  <hr>
+  <h5>About Me</h5>
+    <p>I'm a senior data engineer working to advance data-driven cultures by wrangling disparate data sources and empowering end users to uncover key insights that tell a bigger story. <a href="https://andrewrgoss.com/about">LEARN MORE >></a></p>
+  <hr>
+</div>
+	<div id="social-bar">
+	<ul class="rrssb-buttons clearfix">
+      <li class="email">
+          <a href="mailto:?subject=Future%20of%20Data%20Warehousing&amp;body=https://andrewrgoss.com/2019/future-of-data-warehousing/" data-proofer-ignore>
+              <span class="icon">
+                  <svg version="1.1" id="btn-mail" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="28px" height="28px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve">
+                      <path transform="scale(0.014,-0.014) translate(0,-1670)" d="M1792 826v-794q0 -66 -47 -113t-113 -47h-1472q-66 0 -113 47t-47 113v794q44 -49 101 -87q362 -246 497 -345q57 -42 92.5 -65.5t94.5 -48t110 -24.5h1h1q51 0 110 24.5t94.5 48t92.5 65.5q170 123 498 345q57 39 100 87zM1792 1120q0 -79 -49 -151t-122 -123 q-376 -261 -468 -325q-10 -7 -42.5 -30.5t-54 -38t-52 -32.5t-57.5 -27t-50 -9h-1h-1q-23 0 -50 9t-57.5 27t-52 32.5t-54 38t-42.5 30.5q-91 64 -262 182.5t-205 142.5q-62 42 -117 115.5t-55 136.5q0 78 41.5 130t118.5 52h1472q65 0 112.5 -47t47.5 -113z"/>
+                  </svg>
+              </span>
+              <span class="text">Email</span>
+          </a>
+      </li>
+	  <li class="facebook">
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https://andrewrgoss.com/2019/future-of-data-warehousing/" class="popup">
+              <span class="icon">
+                  <svg version="1.1" id="btn-fb" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="28px" height="28px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve">
+                      <path d="M27.825,4.783c0-2.427-2.182-4.608-4.608-4.608H4.783c-2.422,0-4.608,2.182-4.608,4.608v18.434 c0,2.427,2.181,4.608,4.608,4.608H14V17.379h-3.379v-4.608H14v-1.795c0-3.089,2.335-5.885,5.192-5.885h3.718v4.608h-3.726 c-0.408,0-0.884,0.492-0.884,1.236v1.836h4.609v4.608h-4.609v10.446h4.916c2.422,0,4.608-2.188,4.608-4.608V4.783z"/>
+                  </svg>
+              </span>
+              <span class="text">Facebook</span>
+          </a>
+      </li>
+	  <li class="twitter">
+          <a href="http://twitter.com/home?status=Future%20of%20Data%20Warehousing%20https://andrewrgoss.com/2019/future-of-data-warehousing/" class="popup">
+              <span class="icon">
+                  <svg version="1.1" id="btn-tw" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="28px" height="28px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve">
+		                  <path d="M24.253,8.756C24.689,17.08,18.297,24.182,9.97,24.62c-3.122,0.162-6.219-0.646-8.861-2.32 c2.703,0.179,5.376-0.648,7.508-2.321c-2.072-0.247-3.818-1.661-4.489-3.638c0.801,0.128,1.62,0.076,2.399-0.155 C4.045,15.72,2.215,13.6,2.115,11.077c0.688,0.275,1.426,0.407,2.168,0.386c-2.135-1.65-2.729-4.621-1.394-6.965 C5.575,7.816,9.54,9.84,13.803,10.071c-0.842-2.739,0.694-5.64,3.434-6.482c2.018-0.623,4.212,0.044,5.546,1.683 c1.186-0.213,2.318-0.662,3.329-1.317c-0.385,1.256-1.247,2.312-2.399,2.942c1.048-0.106,2.069-0.394,3.019-0.851 C26.275,7.229,25.39,8.196,24.253,8.756z"/>
+                  </svg>
+              </span>
+              <span class="text">Twitter</span>
+          </a>
+      </li>
+	  <li class="reddit">
+          <a href="http://www.reddit.com/submit?url=https://andrewrgoss.com/2019/future-of-data-warehousing/">
+              <span class="icon">
+                  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="28px" height="28px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve">
+											<g>
+													<path d="M11.794 15.316c0-1.029-0.835-1.895-1.866-1.895c-1.03 0-1.893 0.865-1.893 1.895s0.863 1.9 1.9 1.9 C10.958 17.2 11.8 16.3 11.8 15.316z"/>
+													<path d="M18.1 13.422c-1.029 0-1.895 0.864-1.895 1.895c0 1 0.9 1.9 1.9 1.865c1.031 0 1.869-0.836 1.869-1.865 C19.969 14.3 19.1 13.4 18.1 13.422z"/>
+													<path d="M17.527 19.791c-0.678 0.678-1.826 1.006-3.514 1.006c-0.004 0-0.009 0-0.014 0c-0.004 0-0.01 0-0.015 0 c-1.686 0-2.834-0.328-3.51-1.005c-0.264-0.265-0.693-0.265-0.958 0c-0.264 0.265-0.264 0.7 0 1 c0.943 0.9 2.4 1.4 4.5 1.402c0.005 0 0 0 0 0c0.005 0 0 0 0 0c2.066 0 3.527-0.459 4.47-1.402 c0.265-0.264 0.265-0.693 0.002-0.958C18.221 19.5 17.8 19.5 17.5 19.791z"/>
+													<path d="M27.707 13.267c0-1.785-1.453-3.237-3.236-3.237c-0.793 0-1.518 0.287-2.082 0.761c-2.039-1.295-4.646-2.069-7.438-2.219 l1.483-4.691l4.062 0.956c0.071 1.4 1.3 2.6 2.7 2.555c1.488 0 2.695-1.208 2.695-2.695C25.881 3.2 24.7 2 23.2 2 c-1.059 0-1.979 0.616-2.42 1.508l-4.633-1.091c-0.344-0.081-0.693 0.118-0.803 0.455l-1.793 5.7 C10.548 8.6 7.7 9.4 5.6 10.75C5.006 10.3 4.3 10 3.5 10.029c-1.785 0-3.237 1.452-3.237 3.2 c0 1.1 0.6 2.1 1.4 2.69c-0.04 0.272-0.061 0.551-0.061 0.831c0 2.3 1.3 4.4 3.7 5.9 c2.299 1.5 5.3 2.3 8.6 2.325c3.228 0 6.271-0.825 8.571-2.325c2.387-1.56 3.7-3.66 3.7-5.917 c0-0.26-0.016-0.514-0.051-0.768C27.088 15.5 27.7 14.4 27.7 13.267z M23.186 3.355c0.74 0 1.3 0.6 1.3 1.3 c0 0.738-0.6 1.34-1.34 1.34s-1.342-0.602-1.342-1.34C21.844 4 22.4 3.4 23.2 3.355z M1.648 13.3 c0-1.038 0.844-1.882 1.882-1.882c0.31 0 0.6 0.1 0.9 0.209c-1.049 0.868-1.813 1.861-2.26 2.9 C1.832 14.2 1.6 13.8 1.6 13.267z M21.773 21.57c-2.082 1.357-4.863 2.105-7.831 2.105c-2.967 0-5.747-0.748-7.828-2.105 c-1.991-1.301-3.088-3-3.088-4.782c0-1.784 1.097-3.484 3.088-4.784c2.081-1.358 4.861-2.106 7.828-2.106 c2.967 0 5.7 0.7 7.8 2.106c1.99 1.3 3.1 3 3.1 4.784C24.859 18.6 23.8 20.3 21.8 21.57z M25.787 14.6 c-0.432-1.084-1.191-2.095-2.244-2.977c0.273-0.156 0.59-0.245 0.928-0.245c1.035 0 1.9 0.8 1.9 1.9 C26.354 13.8 26.1 14.3 25.8 14.605z"/>
+											</g>
+									</svg>
+              </span>
+              <span class="text">Reddit</span>
+          </a>
+      </li>
+	  
+	  <li class="linkedin">
+          <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://andrewrgoss.com/2019/future-of-data-warehousing/&amp;title=Future%20of%20Data%20Warehousing&amp;summary=written%20by%20Simon%20Sp%c3%a4ti%20%28with%20some%20grammatical%20edits%20by%20me%29%20%0aToday%2c%20there%20are%206%2c500%20people%20on%20LinkedIn%20who%20call%20themselves%20data%20engineers%20according%20to%20stitchdata.com.%20In%20San%20Francisco%20alone%2c%20there%20are%206%2c600%20job%20listings%20for%20this%20same%20title.%20The%20number%20of%20data%20engineers%20has%20doubled%20in%20the%20past%20year%2c%20but%20engineering%20leaders%20still%20find%20themselves%20faced%20with%20a%20significant%20shortage%20of%20data%20engineering%20talent.%20So%20is%20it%20really%20the%20future%20of%20data%20warehousing%3f..." class="popup">
+              <span class="icon">
+                  <svg version="1.1" id="btn-li" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="28px" height="28px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve">
+                      <path d="M25.424,15.887v8.447h-4.896v-7.882c0-1.979-0.709-3.331-2.48-3.331c-1.354,0-2.158,0.911-2.514,1.803 c-0.129,0.315-0.162,0.753-0.162,1.194v8.216h-4.899c0,0,0.066-13.349,0-14.731h4.899v2.088c-0.01,0.016-0.023,0.032-0.033,0.048 h0.033V11.69c0.65-1.002,1.812-2.435,4.414-2.435C23.008,9.254,25.424,11.361,25.424,15.887z M5.348,2.501 c-1.676,0-2.772,1.092-2.772,2.539c0,1.421,1.066,2.538,2.717,2.546h0.032c1.709,0,2.771-1.132,2.771-2.546 C8.054,3.593,7.019,2.501,5.343,2.501H5.348z M2.867,24.334h4.897V9.603H2.867V24.334z"/>
+                  </svg>
+              </span>
+              <span class="text">LinkedIn</span>
+          </a>
+      </li>
+  </ul>
+</div>
+<br>
+	<div id="disqus_thread"></div>
+<script type="text/javascript">
+
+(function() {
+    
+    
+    if (window.location.hostname == "localhost")
+        return;
+
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    var disqus_shortname = 'andrewrgoss';
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</article>  
+
+</main>
+		<footer id="footer">
+			<p id="footer-message">&copy; 2021 Andrew Goss. Source code available on <a href="https://github.com/andrewrgoss/andrewrgoss.github.io" target="_blank">GitHub</a>.</p>
+		</footer>
+
+    <script>
+      (function(c,f){asyncLoader=function(i,h){i.foreach(function(k,j){e(j,d(j),h)});if(typeof h.callback=="function"){var g=setInterval(function(){if(f.readyState==="complete"){clearInterval(g);h.callback()}},10)}};var d=function(g){var h=g.split(".");return h[h.length-1]},e=function(h,i,g){switch(i){case"js":a(h,g);break;case"css":b(h);break;default:break}},a=function(i,h){var g=document.createElement("script");g.type="text/javascript";g.async=true;g.src=i;document.getElementsByTagName("head")[0].appendChild(g)},b=function(g){var h=document.createElement("link");h.type="text/css";h.rel="stylesheet";h.href=g;document.getElementsByTagName("head")[0].appendChild(h)};Array.prototype.foreach=function(h){for(var g=0;g<this.length;g++){h(g,this[g])}}})(this,document);
+
+      var WebFontConfig={google:{families:["Lato:300italic,700italic,300,400,700","Oswald","PT Sans:400,700"]}};
+      asyncLoader([
+        "//netdna.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.css",
+        "//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js",
+        "//cdnjs.cloudflare.com/ajax/libs/webfont/1.5.16/webfontloader.js",
+        "//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.5/highlight.min.js"
+      ],{
+        callback:function(){
+          asyncLoader([
+            "https:\/\/andrewrgoss.com\/css/rrssb.css",
+            "https:\/\/andrewrgoss.com\/js/gist.min.js", 
+            "https:\/\/andrewrgoss.com\/js/rrssb.min.js",
+            "//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.5/styles/default.min.css"
+          ], { callback:function() {
+              hljs.initHighlighting();
+              
+              
+                var isMobile = window.matchMedia("only screen and (max-width: 800px)");
+                if(isMobile.matches) {
+                    $("html, body").animate({scrollTop: $('#content').offset().top }, 500);
+                }
+              
+          }});
+        }
+      });
+
+      (function() {
+        var cx = '015311007794530062324:gdnctheuf28';
+        var gcse = document.createElement('script');
+        gcse.type = 'text/javascript';
+        gcse.async = true;
+        gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+            '//cse.google.com/cse.js?cx=' + cx;
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(gcse, s);
+      })();
+	  
+    </script>
+    
+	</body>
+</html>

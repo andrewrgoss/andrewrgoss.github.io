@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Warehousing on Andrew Goss · Senior Data Engineer</title>
+    <link>https://andrewrgoss.com/tags/data-warehousing/</link>
+    <description>Recent content in Data Warehousing on Andrew Goss · Senior Data Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>admin@andrewrgoss.com (Andrew Goss)</managingEditor>
+    <webMaster>admin@andrewrgoss.com (Andrew Goss)</webMaster>
+    <lastBuildDate>Sun, 22 Aug 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://andrewrgoss.com/tags/data-warehousing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Modern Data Stack - Open-Source Edition</title>
+      <link>https://andrewrgoss.com/2021/modern-data-stack---open-source-edition/</link>
+      <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2021/modern-data-stack---open-source-edition/</guid>
+      <description>written by Gleb Mezhanskiy
+ Open source is not by itself a compelling enough reason to choose a technology for the data stack, but it can be the most feasible solution in some situations, for example, in a highly regulated industry or due to local privacy and data security legislation that may prohibit the use of foreign SaaS vendors.
+ The author of this post previously proposed a data stack for a typical analytical use case along with the key criteria to choose tech for each step in the data pipeline, such as minimal operational overhead, scalability, and pricing.</description>
+    </item>
+    
+    <item>
+      <title>Data Warehouse Pipelines- Basic Concepts &amp; Roadmap</title>
+      <link>https://andrewrgoss.com/2020/data-warehouse-pipelines--basic-concepts--roadmap/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2020/data-warehouse-pipelines--basic-concepts--roadmap/</guid>
+      <description>written by Antony Henao 
+ Five processes to improve your data pipeline operability and performance
+ Building a data warehouse pipeline can be complex sometimes. If you are starting in this world, you will soon realize there is no right or wrong way to do it. It always depends on your needs.
+Yet, there a couple of basic processes you should put in place when building a data pipeline to improve its operability and performance.</description>
+    </item>
+    
+    <item>
+      <title>A Data Lakes Guide — Modern Batch Data Warehousing</title>
+      <link>https://andrewrgoss.com/2020/a-data-lakes-guide--modern-batch-data-warehousing/</link>
+      <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2020/a-data-lakes-guide--modern-batch-data-warehousing/</guid>
+      <description>written by Daniel Mateus Pires
+ Redefining the batch data extraction patterns and the data lake using “Functional Data Engineering”
+ The last decades have been greatly transformative for the Data Analytics landscape. With the decrease in storage costs and the adoption of cloud computing, the restrictions that guided the design of data tools were made obsolete and so — the data engineering tools and techniques had to evolve.</description>
+    </item>
+    
+    <item>
+      <title>Top 4 Data Warehouse Anti-Patterns</title>
+      <link>https://andrewrgoss.com/2020/top-4-data-warehouse-anti-patterns/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2020/top-4-data-warehouse-anti-patterns/</guid>
+      <description>Photo by Ascend blog on Ascend.io
+written by Sean Knapp 
+ When data warehouses are stretched outside of their core purpose, these once revered systems can put our data and our projects at risk. Below are the four most commonly found data warehouse anti-patterns.
+ &amp;ldquo;The best investment is in the tools of one’s own trade.&amp;rdquo; — Benjamin Franklin
+The vast array of data, systems, and their interconnectedness continues to grow and is becoming increasingly complex.</description>
+    </item>
+    
+    <item>
+      <title>AWS &amp; Snowflake vs GCP</title>
+      <link>https://andrewrgoss.com/2020/aws--snowflake-vs-gcp/</link>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2020/aws--snowflake-vs-gcp/</guid>
+      <description>written by Stefano Solimito 
+When we talk about data, the number of technologies available on the market is overwhelming and staying up to date is a key challenge both for businesses and for engineers.
+With this article, Stefano Solimito shares the joys and pains of the learning journey of building a new data platform using some of the most cutting edge technologies available — AWS (Amazon Web Services), Snowflake and Looker.</description>
+    </item>
+    
+    <item>
+      <title>ELT Data Pipelining in Snowflake Data Warehouse</title>
+      <link>https://andrewrgoss.com/2020/elt-data-pipelining-in-snowflake-data-warehouse/</link>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2020/elt-data-pipelining-in-snowflake-data-warehouse/</guid>
+      <description>written by Christopher Tao 
+In my previous post:
+Building Snowpipe on Azure Blob Storage Using Azure Portal Web UI for Snowflake Data Warehouse
+Snowpipe was introduced to be utilized for automatically discovering new data files in cloud storage (e.g. Azure Blob Storage) and then load the data into a certain table.
+Snowpipe is a very convenient tool for the above purposes. However, Snowpipe itself is only considered as the “E” (Extract) of ELT, because only COPY INTO command is allowed in a Snowpipe creating statement.</description>
+    </item>
+    
+    <item>
+      <title>The Rise of SQL-Based Data Modeling and DataOps</title>
+      <link>https://andrewrgoss.com/2019/the-rise-of-sql-based-data-modeling-and-dataops/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2019/the-rise-of-sql-based-data-modeling-and-dataops/</guid>
+      <description>written by Thanh Dinh 
+The resurgence of SQL-based RDBMS If there is one analytics trend we can all agree on, it is that we&amp;rsquo;ve seen a vast increase in the amount of business data collected in the past decade. A typical business today uses dozens if not hundreds of cloud-based, subscription-as-a-service software, for all sorts of purposes. Together with more traditional in-house enterprise software, the average business produces a mountain of data today, compared to just a few years ago.</description>
+    </item>
+    
+    <item>
+      <title>How to Architect the Perfect Data Warehouse</title>
+      <link>https://andrewrgoss.com/2019/how-to-architect-the-perfect-data-warehouse/</link>
+      <pubDate>Sun, 17 Feb 2019 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2019/how-to-architect-the-perfect-data-warehouse/</guid>
+      <description>Key warehousing techniques made simple
+ written by Lewis Gavin 
+On the surface, it may seem like a lot has changed in recent years in regards to data collection, storage and warehousing. The introduction and takeover of NoSQL, “Big Data”, Graphing and Streaming technologies may appear to have changed the landscape, but there are some fundamentals that remain.
+In my current role, we use Amazon Redshift for our data warehousing.</description>
+    </item>
+    
+    <item>
+      <title>Future of Data Warehousing</title>
+      <link>https://andrewrgoss.com/2019/future-of-data-warehousing/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2019/future-of-data-warehousing/</guid>
+      <description>written by Simon Späti (with some grammatical edits by me) 
+Today, there are 6,500 people on LinkedIn who call themselves data engineers according to stitchdata.com. In San Francisco alone, there are 6,600 job listings for this same title. The number of data engineers has doubled in the past year, but engineering leaders still find themselves faced with a significant shortage of data engineering talent. So is it really the future of data warehousing?</description>
+    </item>
+    
+    <item>
+      <title>Functional Data Engineering</title>
+      <link>https://andrewrgoss.com/2018/functional-data-engineering/</link>
+      <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2018/functional-data-engineering/</guid>
+      <description>written by Maxime Beauchemin
+View original article
+Batch data processing — historically known as ETL — is extremely challenging. It&amp;rsquo;s time-consuming, brittle, and often unrewarding. Not only that, it&amp;rsquo;s hard to operate, evolve, and troubleshoot.
+In this post, we&amp;rsquo;ll explore how applying the functional programming paradigm to data engineering can bring a lot of clarity to the process. This post distills fragments of wisdom accumulated while working at Yahoo, Facebook, Airbnb and Lyft, with the perspective of well over a decade of data warehousing and data engineering experience.</description>
+    </item>
+    
+  </channel>
+</rss>

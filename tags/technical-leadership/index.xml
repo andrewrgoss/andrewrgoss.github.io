@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technical Leadership on Andrew Goss · Senior Data Engineer</title>
+    <link>https://andrewrgoss.com/tags/technical-leadership/</link>
+    <description>Recent content in Technical Leadership on Andrew Goss · Senior Data Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>admin@andrewrgoss.com (Andrew Goss)</managingEditor>
+    <webMaster>admin@andrewrgoss.com (Andrew Goss)</webMaster>
+    <lastBuildDate>Sat, 20 Nov 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://andrewrgoss.com/tags/technical-leadership/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Rise and Evolution of Data Engineering</title>
+      <link>https://andrewrgoss.com/2021/the-rise-and-evolution-of-data-engineering/</link>
+      <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2021/the-rise-and-evolution-of-data-engineering/</guid>
+      <description>written by Oliver Molander
+It was in the early 2010s — almost exactly 10 years back — that the then-nascent term &amp;ldquo;data engineering&amp;rdquo; started to pop up in modern highly data-driven scaleups and fast-growing tech companies such as Facebook, Netflix, LinkedIn and Airbnb. As these companies harnessed massive amounts of real-time data that could provide high business value, software engineers at these companies had to develop tools, platforms and frameworks to manage all this data with speed, scalability and reliability.</description>
+    </item>
+    
+    <item>
+      <title>Emerging Architectures for Modern Data Infrastructure</title>
+      <link>https://andrewrgoss.com/2021/emerging-architectures-for-modern-data-infrastructure/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2021/emerging-architectures-for-modern-data-infrastructure/</guid>
+      <description>*Source: Andreessen Horowitz  written by Matt Bornstein, Martin Casado, and Jennifer Li
+As an industry, we’ve gotten exceptionally good at building large, complex software systems. We’re now starting to see the rise of massive, complex systems built around data – where the primary business value of the system comes from the analysis of data, rather than the software directly. We’re seeing quick-moving impacts of this trend across the industry, including the emergence of new roles, shifts in customer spending, and the emergence of new startups providing infrastructure and tooling around data.</description>
+    </item>
+    
+    <item>
+      <title>Open Source Data Stack Conference</title>
+      <link>https://andrewrgoss.com/2021/open-source-data-stack-conference/</link>
+      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2021/open-source-data-stack-conference/</guid>
+      <description>In September 2021 I attended an excellent virtual conference, the Open Source Data Stack Conference. The conference profiled a number of platforms that can be combined together to form a modern open source data stack.
+The emergence of the modern data stack has seen a rapid spike in the number of data tools an organization can use to drive better decision making. Each tool has become highly specialized in its portion of the data lifecycle, plus tools that are open source are a powerful way for technology buyers to reduce exposure to vendor lock-in.</description>
+    </item>
+    
+    <item>
+      <title>Recommended Reads to Level Up Your Data Career</title>
+      <link>https://andrewrgoss.com/2020/recommended-reads-to-level-up-your-data-career/</link>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2020/recommended-reads-to-level-up-your-data-career/</guid>
+      <description>I&amp;rsquo;ve put together a list of recommended, categorized articles to peruse, experiment with, and help level up your career in data. Note that many of these are hosted by Medium.com, which sets a limit on the number of free stories you can view. To get around this, tweet out the link and then click it from Twitter or search the title to see if someone else has already tweeted the link.</description>
+    </item>
+    
+    <item>
+      <title>DataOps Is Here To Stay</title>
+      <link>https://andrewrgoss.com/2019/dataops-is-here-to-stay/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2019/dataops-is-here-to-stay/</guid>
+      <description>Photo by Stephen Dawson on Unsplash
+written by Pedro Martinez 
+What Is DataOps? DataOps is a discipline that has become a necessity in a market where the demand for access to data assets and data products is skyrocketing. The inability of data platform teams and data management platforms to keep pace with the demands placed on them by DevOps-enabled teams led to the development of DataOps.[i]
+In a nutshell, DataOps brings together data scientists, analysts, developers, and operations to work on the entire product/service lifecycle, from the design stage to production support.</description>
+    </item>
+    
+    <item>
+      <title>DataOps- Next Gen Data Engineering Organization</title>
+      <link>https://andrewrgoss.com/2018/dataops--next-gen-data-engineering-organization/</link>
+      <pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2018/dataops--next-gen-data-engineering-organization/</guid>
+      <description>Large enterprises are experiencing a foundational shift in how they view their data and structure their data engineering teams. As organizations capture more data than ever before, and store it in an ever-increasing variety of data stores, the prospect of competing on analytics becomes more tantalizing than ever.
+  written by Andy Palmer
+View original article
+
+The challenges of using data at scale, however, is rooted in the &amp;ldquo;data debt&amp;rdquo; accumulated over time by enterprises struggling to manage the extreme volume and variety of their data.</description>
+    </item>
+    
+    <item>
+      <title>Effective Engineer Notes</title>
+      <link>https://andrewrgoss.com/2018/effective-engineer-notes/</link>
+      <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2018/effective-engineer-notes/</guid>
+      <description>Some great reference notes from a highly recommended &amp;#x1F44D; book for engineers looking to reach the next level in their careers.
+ By Edmond Lau
+theeffectiveengineer.com
+What&amp;rsquo;s an Effective Engineer?  They are the people who get things done. Effective Engineers produce results.  Adopt the Right Mindsets Focus on High Leverage Activities  Leverage = Impact Produced / Time Invested Use Leverage as Your Yardstick for Effectiveness 80% of the impact comes from 20% of the work.</description>
+    </item>
+    
+    <item>
+      <title>What is a Productive Data Engineering Team?</title>
+      <link>https://andrewrgoss.com/2017/what-is-a-productive-data-engineering-team/</link>
+      <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2017/what-is-a-productive-data-engineering-team/</guid>
+      <description>written by Jesse Anderson
+ Merging the gaps between data science and engineering, and what each side can learn from the other.
+ In my experience working with data engineering teams, I find that most teams don’t realize they have to change their thinking about data and systems to be successful with big data. Data engineering teams need to think about how data is valuable and at what scale the data is coming in.</description>
+    </item>
+    
+  </channel>
+</rss>

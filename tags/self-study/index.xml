@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Self Study on Andrew Goss · Senior Data Engineer</title>
+    <link>https://andrewrgoss.com/tags/self-study/</link>
+    <description>Recent content in Self Study on Andrew Goss · Senior Data Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>admin@andrewrgoss.com (Andrew Goss)</managingEditor>
+    <webMaster>admin@andrewrgoss.com (Andrew Goss)</webMaster>
+    <lastBuildDate>Fri, 25 Jun 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://andrewrgoss.com/tags/self-study/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data Engineering Technologies 2021</title>
+      <link>https://andrewrgoss.com/2021/data-engineering-technologies-2021/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2021/data-engineering-technologies-2021/</guid>
+      <description>written by Vijay Ram  Getdbt, It&amp;rsquo;s hitting the sweet spot of Apache Spark by bringing a simplified SQL-based pipeline! Prefect, Designed to make workflow management easier &amp;amp; better compared to Apache Airflow DVC, Open-source version control System for machine learning projects &amp;amp; desired for MLOps  Great_Expectations, Data science testing framework, it&amp;rsquo;s already amazing! Amundsen, An open-sourced data discovery and metadata engine Marquez, Open source metadata with an amazing UI Dagster, A data orchestrator for machine learning, very programming-based &amp;amp; in the similar space of Airflow/Prefect but emphasizes state flow Apache Calcite, Framework for building SQL databases and data management systems without owning data.</description>
+    </item>
+    
+    <item>
+      <title>GraphQL Fundamentals</title>
+      <link>https://andrewrgoss.com/2019/graphql-fundamentals/</link>
+      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2019/graphql-fundamentals/</guid>
+      <description>TUTORIAL LINK
+
+*Source: How To GraphQL
+Introduction Most applications today have the need to fetch data from a server where that data is stored in a database. It’s the responsibility of the API to provide an interface to the stored data that fits an application’s needs.
+ APIs have become ubiquitous components of software infrastructures. In short, an API defines how a client can load data from a server.</description>
+    </item>
+    
+    <item>
+      <title>Udemy- Learn to Code with Ruby</title>
+      <link>https://andrewrgoss.com/2019/udemy--learn-to-code-with-ruby/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2019/udemy--learn-to-code-with-ruby/</guid>
+      <description>COMPLETION CERTIFICATE
+COURSE LINK
+
+What is Ruby?  An object-oriented programming language A popular language across the world Released in 1995 by Yukihiro Matsumoto (&amp;ldquo;Matz&amp;rdquo;) Open-source project in development today Available for both Windows and Mac OS operating systems  Ruby Design Principles  Ruby is a high-level programming language. Ruby is an interpreted language. It does not need to be compiled. Ruby code is read top-to-bottom, line by line.</description>
+    </item>
+    
+    <item>
+      <title>Udemy- Apache Spark 2.0 With Scala</title>
+      <link>https://andrewrgoss.com/2018/udemy--apache-spark-2.0-with-scala/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2018/udemy--apache-spark-2.0-with-scala/</guid>
+      <description>COMPLETION CERTIFICATE
+COURSE MATERIALS
+
+Description  Learn the concepts of Spark&amp;rsquo;s Resilient Distributed Datastores Get a crash course in the Scala programming language Develop and run Spark jobs quickly using Scala Translate complex analysis problems into iterative or multi-stage Spark scripts Scale up to larger data sets using Amazon&amp;rsquo;s Elastic MapReduce service Understand how Hadoop YARN distributes Spark across computing clusters Practice using other Spark technologies, like Spark SQL, DataFrames, DataSets, Spark Streaming, and GraphX  What I got from this course</description>
+    </item>
+    
+    <item>
+      <title>Learning How to Learn</title>
+      <link>https://andrewrgoss.com/2018/learning-how-to-learn/</link>
+      <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2018/learning-how-to-learn/</guid>
+      <description>As 2018 began, I spent some time thinking about my goals for this year. An area that I wanted to focus on is improving upon how I learn. Many have argued that the ability to learn is the most valuable skill you can possess throughout your career and working in the ever-changing field of technology, I certainly would not disagree.
+So I decided to invest in the 10 Steps to Learn Anything Quickly course offered by Simple Programmer.</description>
+    </item>
+    
+    <item>
+      <title>Udemy- Complete Java Masterclass</title>
+      <link>https://andrewrgoss.com/2018/udemy--complete-java-masterclass/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2018/udemy--complete-java-masterclass/</guid>
+      <description>COURSE LINK
+
+I&amp;rsquo;ve completed numerous sections of this course to improve my core knowledge of Java. One of the reasons I frequently choose Udemy for my learning needs is that it offers a one-time cost (as opposed to monthly recurring charges) for lifetime access to the course content. You can find more analysis about this course on CourseMarks.
+Other Learning Resources Oracle Java™ Tutorials &amp;ndash; Trail: Learning the Java Language</description>
+    </item>
+    
+    <item>
+      <title>My Path to Learning Scala</title>
+      <link>https://andrewrgoss.com/2017/my-path-to-learning-scala/</link>
+      <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2017/my-path-to-learning-scala/</guid>
+      <description>I recently joined a new data engineering team at DigitasLBi and Scala is the predominant language being used. Having never coded in this language, I sought to quickly learn it and wanted to share the numerous resources I came across and bookmarked.
+The first place I usually turn when learning something new is to complete an introductory online course with videos and exercises. The most popular course for Scala is Functional Programming Principles in Scala on Coursera and it is taught by the inventor of the language (Martin Odersky), so I gave it a whirl.</description>
+    </item>
+    
+    <item>
+      <title>Udemy- Complete JavaScript Course</title>
+      <link>https://andrewrgoss.com/2017/udemy--complete-javascript-course/</link>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2017/udemy--complete-javascript-course/</guid>
+      <description>COMPLETION CERTIFICATE
+Design and Coding Resources
+
+This course represented my official foray into learning JavaScript. Up to this point I&amp;rsquo;d only used it on occasion with no formal training, as my focus has been predominantly on back-end data engineering. I wanted to gain a closer perspective on full-stack development, and JavaScript is a core front-end technology for me to have as part of my stack. This course covers the following areas:</description>
+    </item>
+    
+    <item>
+      <title>Big Data University- Hadoop 101</title>
+      <link>https://andrewrgoss.com/2017/big-data-university--hadoop-101/</link>
+      <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2017/big-data-university--hadoop-101/</guid>
+      <description>Course Code: BD0111EN
+Course Certificate
+Course Link
+IBM Analytics Demo Cloud
+Lesson Transcripts/Labs  My goal in taking this course was to expand upon my knowledge around Apache Hadoop, a free, open source, Java-based programming framework. Topics in this course include:
+ Hadoop&amp;rsquo;s architecture and core components, such as MapReduce and the Hadoop Distributed File System (HDFS). Adding/removing nodes from Hadoop clusters, how to check available disk space on each node, and how to modify configuration parameters.</description>
+    </item>
+    
+    <item>
+      <title>Udemy- Python for Data Structures &amp; Algorithms</title>
+      <link>https://andrewrgoss.com/2016/udemy--python-for-data-structures--algorithms/</link>
+      <pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2016/udemy--python-for-data-structures--algorithms/</guid>
+      <description>COURSE LINK
+Jupyter Notebooks
+ I took this course to get some experience using Jupyter Notebooks and furthered my Python skills in a couple of areas:
+ Algorithm Analysis and Big-O Notation Array Sequences  Additionally, this course offers video content on the &amp;lsquo;soft skills&amp;rsquo; needed to advance a career in technology such as personal branding, building a strong professional network, and practicing technical questions that could be asked on a future interview.</description>
+    </item>
+    
+    <item>
+      <title>Udemy- Ultimate Python Programming Tutorial</title>
+      <link>https://andrewrgoss.com/2016/udemy--ultimate-python-programming-tutorial/</link>
+      <pubDate>Mon, 18 Jul 2016 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2016/udemy--ultimate-python-programming-tutorial/</guid>
+      <description>COMPLETION CERTIFICATE  I&amp;rsquo;ve started using Python more for work and took this course to strengthen my knowledge around the fundamentals of the language. Previously, I had been wanting to add Python to my personal tech stack for some time as it is a powerful (and popular) all-purpose programming language. It is a high-level language, meaning it looks more like a readable, human language than a low-level language does. The user-friendly syntax makes it one of the easier languages to learn and it is also one of the most commonly-used languages for analytics, data mining, and data science.</description>
+    </item>
+    
+    <item>
+      <title>Caleb Doxsey- An Introduction to Programming in Go</title>
+      <link>https://andrewrgoss.com/2016/caleb-doxsey--an-introduction-to-programming-in-go/</link>
+      <pubDate>Wed, 27 Jan 2016 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2016/caleb-doxsey--an-introduction-to-programming-in-go/</guid>
+      <description>BOOK LINK  Go (Golang) is an open source programming language that makes it easy to build simple, reliable, and efficient software. I first started using Go through my work at DigitasLBi. My department adopted this language as one of our tech stacks for the following reasons:
+ It’s open source (i.e. free) and intended to be simple yet expressive. It’s intended to be a good middleware layer to provide for both quick one-off applications as well as large collaborative code bases.</description>
+    </item>
+    
+    <item>
+      <title>Udemy- Programming for Beginners in C#</title>
+      <link>https://andrewrgoss.com/2015/udemy--programming-for-beginners-in-c/</link>
+      <pubDate>Sat, 28 Nov 2015 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2015/udemy--programming-for-beginners-in-c/</guid>
+      <description>COMPLETION CERTIFICATE  I&amp;rsquo;ve worked on Windows servers throughout my career, which initially got me started with this language. Learning some of the Base Class Library (BCL) of the Microsoft .NET Framework and using these classes through C# has helped me automate various tasks within these environments.
+My goal in taking this course was to strengthen my knowledge around the fundamentals of C# programming (and objected-oriented programming in general) and to get more practice.</description>
+    </item>
+    
+    <item>
+      <title>Scratch - Wind Power</title>
+      <link>https://andrewrgoss.com/projects/scratch/</link>
+      <pubDate>Tue, 18 Feb 2014 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/projects/scratch/</guid>
+      <description>Projects &amp;gt;&amp;gt; Scratch - Wind Power
+ As part of the popular Harvard University course CS50x that I took through EdX, I built a small Scratch application in completing the first problem set.
+ Scratch is a &amp;lsquo;language&amp;rsquo; wherein you create programs by dragging together and connecting “blocks”. Unlike other programming languages, Scratch is very visual, making it a good first project for building fundamentals and learning to think like a programmer.</description>
+    </item>
+    
+  </channel>
+</rss>

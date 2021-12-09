@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elt on Andrew Goss · Senior Data Engineer</title>
+    <link>https://andrewrgoss.com/tags/elt/</link>
+    <description>Recent content in Elt on Andrew Goss · Senior Data Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>admin@andrewrgoss.com (Andrew Goss)</managingEditor>
+    <webMaster>admin@andrewrgoss.com (Andrew Goss)</webMaster>
+    <lastBuildDate>Sun, 22 Aug 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://andrewrgoss.com/tags/elt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Modern Data Stack - Open-Source Edition</title>
+      <link>https://andrewrgoss.com/2021/modern-data-stack---open-source-edition/</link>
+      <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2021/modern-data-stack---open-source-edition/</guid>
+      <description>written by Gleb Mezhanskiy
+ Open source is not by itself a compelling enough reason to choose a technology for the data stack, but it can be the most feasible solution in some situations, for example, in a highly regulated industry or due to local privacy and data security legislation that may prohibit the use of foreign SaaS vendors.
+ The author of this post previously proposed a data stack for a typical analytical use case along with the key criteria to choose tech for each step in the data pipeline, such as minimal operational overhead, scalability, and pricing.</description>
+    </item>
+    
+    <item>
+      <title>ELT Data Pipelining in Snowflake Data Warehouse</title>
+      <link>https://andrewrgoss.com/2020/elt-data-pipelining-in-snowflake-data-warehouse/</link>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2020/elt-data-pipelining-in-snowflake-data-warehouse/</guid>
+      <description>written by Christopher Tao 
+In my previous post:
+Building Snowpipe on Azure Blob Storage Using Azure Portal Web UI for Snowflake Data Warehouse
+Snowpipe was introduced to be utilized for automatically discovering new data files in cloud storage (e.g. Azure Blob Storage) and then load the data into a certain table.
+Snowpipe is a very convenient tool for the above purposes. However, Snowpipe itself is only considered as the “E” (Extract) of ELT, because only COPY INTO command is allowed in a Snowpipe creating statement.</description>
+    </item>
+    
+  </channel>
+</rss>

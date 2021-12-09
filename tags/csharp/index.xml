@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Csharp on Andrew Goss · Senior Data Engineer</title>
+    <link>https://andrewrgoss.com/tags/csharp/</link>
+    <description>Recent content in Csharp on Andrew Goss · Senior Data Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>admin@andrewrgoss.com (Andrew Goss)</managingEditor>
+    <webMaster>admin@andrewrgoss.com (Andrew Goss)</webMaster>
+    <lastBuildDate>Sat, 28 Nov 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://andrewrgoss.com/tags/csharp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Udemy- Programming for Beginners in C#</title>
+      <link>https://andrewrgoss.com/2015/udemy--programming-for-beginners-in-c/</link>
+      <pubDate>Sat, 28 Nov 2015 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2015/udemy--programming-for-beginners-in-c/</guid>
+      <description>COMPLETION CERTIFICATE  I&amp;rsquo;ve worked on Windows servers throughout my career, which initially got me started with this language. Learning some of the Base Class Library (BCL) of the Microsoft .NET Framework and using these classes through C# has helped me automate various tasks within these environments.
+My goal in taking this course was to strengthen my knowledge around the fundamentals of C# programming (and objected-oriented programming in general) and to get more practice.</description>
+    </item>
+    
+  </channel>
+</rss>

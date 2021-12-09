@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graphql on Andrew Goss · Senior Data Engineer</title>
+    <link>https://andrewrgoss.com/tags/graphql/</link>
+    <description>Recent content in Graphql on Andrew Goss · Senior Data Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>admin@andrewrgoss.com (Andrew Goss)</managingEditor>
+    <webMaster>admin@andrewrgoss.com (Andrew Goss)</webMaster>
+    <lastBuildDate>Tue, 09 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://andrewrgoss.com/tags/graphql/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Build GraphQL Server with Ruby</title>
+      <link>https://andrewrgoss.com/2019/build-graphql-server-with-ruby/</link>
+      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2019/build-graphql-server-with-ruby/</guid>
+      <description>TUTORIAL LINK
+
+*Source: How To GraphQL
+Built my own GraphQL server using the following technologies:
+ Ruby on Rails: the most popular library for building applications in Ruby GraphQL Gem: the most popular library for building GraphQL applications GraphiQL: An in-browser IDE for exploring GraphQL, which comes bundled with GraphQL Gem  Resources  Official Specification Graphcool (Self-Hosted GraphQL BaaS)  GraphQL Queries Run # Welcome to GraphiQL # # Keyboard shortcuts: # # Prettify Query: Shift-Ctrl-P (or press the prettify button above) # Run Query: Ctrl-Enter (or press the play button above) # Auto Complete: Ctrl-Space (or just start typing) # query getAllLinks { allLinks { id url description postedBy { name votes { link { description } } } } } query allLinksFilter { allLinks(filter: {descriptionContains: &amp;quot;testing&amp;quot; OR: {descriptionContains: &amp;quot;best&amp;quot;} }) { description } } query LinksPagination { allLinks(first: 1, skip: 1) { id } } # https://www.</description>
+    </item>
+    
+    <item>
+      <title>GraphQL Fundamentals</title>
+      <link>https://andrewrgoss.com/2019/graphql-fundamentals/</link>
+      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2019/graphql-fundamentals/</guid>
+      <description>TUTORIAL LINK
+
+*Source: How To GraphQL
+Introduction Most applications today have the need to fetch data from a server where that data is stored in a database. It’s the responsibility of the API to provide an interface to the stored data that fits an application’s needs.
+ APIs have become ubiquitous components of software infrastructures. In short, an API defines how a client can load data from a server.</description>
+    </item>
+    
+  </channel>
+</rss>

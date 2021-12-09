@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Side Projects on Andrew Goss · Senior Data Engineer</title>
+    <link>https://andrewrgoss.com/tags/side-projects/</link>
+    <description>Recent content in Side Projects on Andrew Goss · Senior Data Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>admin@andrewrgoss.com (Andrew Goss)</managingEditor>
+    <webMaster>admin@andrewrgoss.com (Andrew Goss)</webMaster>
+    <lastBuildDate>Fri, 25 Jun 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://andrewrgoss.com/tags/side-projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data Engineering Technologies 2021</title>
+      <link>https://andrewrgoss.com/2021/data-engineering-technologies-2021/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2021/data-engineering-technologies-2021/</guid>
+      <description>written by Vijay Ram  Getdbt, It&amp;rsquo;s hitting the sweet spot of Apache Spark by bringing a simplified SQL-based pipeline! Prefect, Designed to make workflow management easier &amp;amp; better compared to Apache Airflow DVC, Open-source version control System for machine learning projects &amp;amp; desired for MLOps  Great_Expectations, Data science testing framework, it&amp;rsquo;s already amazing! Amundsen, An open-sourced data discovery and metadata engine Marquez, Open source metadata with an amazing UI Dagster, A data orchestrator for machine learning, very programming-based &amp;amp; in the similar space of Airflow/Prefect but emphasizes state flow Apache Calcite, Framework for building SQL databases and data management systems without owning data.</description>
+    </item>
+    
+    <item>
+      <title>How to Start a Successful Side Project</title>
+      <link>https://andrewrgoss.com/2017/how-to-start-a-successful-side-project/</link>
+      <pubDate>Thu, 07 Dec 2017 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2017/how-to-start-a-successful-side-project/</guid>
+      <description>This post originally appeared on Simple Programmer.
+written by Alexander Petkov
+View original article
+
+Do you ever feel like you are confident in only one particular field? Like you know only one tiny corner of the vast software universe? Then, the minute you try to escape it and work on something different, you get frustrated. And if you need to build a complete, functional project—from scratch—with:
+Initial research and machine setup (packages, installments)Managing dependencies (libraries, build tools, automations)The whole business logic plus high test coverageProduction deployment … then somebody else has to do everything except the little corner of your comfort zone?</description>
+    </item>
+    
+  </channel>
+</rss>

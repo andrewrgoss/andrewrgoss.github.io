@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Career Management on Andrew Goss · Senior Data Engineer</title>
+    <link>https://andrewrgoss.com/tags/career-management/</link>
+    <description>Recent content in Career Management on Andrew Goss · Senior Data Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>admin@andrewrgoss.com (Andrew Goss)</managingEditor>
+    <webMaster>admin@andrewrgoss.com (Andrew Goss)</webMaster>
+    <lastBuildDate>Sat, 20 Nov 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://andrewrgoss.com/tags/career-management/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Rise and Evolution of Data Engineering</title>
+      <link>https://andrewrgoss.com/2021/the-rise-and-evolution-of-data-engineering/</link>
+      <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2021/the-rise-and-evolution-of-data-engineering/</guid>
+      <description>written by Oliver Molander
+It was in the early 2010s — almost exactly 10 years back — that the then-nascent term &amp;ldquo;data engineering&amp;rdquo; started to pop up in modern highly data-driven scaleups and fast-growing tech companies such as Facebook, Netflix, LinkedIn and Airbnb. As these companies harnessed massive amounts of real-time data that could provide high business value, software engineers at these companies had to develop tools, platforms and frameworks to manage all this data with speed, scalability and reliability.</description>
+    </item>
+    
+    <item>
+      <title>Data Engineering Technologies 2021</title>
+      <link>https://andrewrgoss.com/2021/data-engineering-technologies-2021/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2021/data-engineering-technologies-2021/</guid>
+      <description>written by Vijay Ram  Getdbt, It&amp;rsquo;s hitting the sweet spot of Apache Spark by bringing a simplified SQL-based pipeline! Prefect, Designed to make workflow management easier &amp;amp; better compared to Apache Airflow DVC, Open-source version control System for machine learning projects &amp;amp; desired for MLOps  Great_Expectations, Data science testing framework, it&amp;rsquo;s already amazing! Amundsen, An open-sourced data discovery and metadata engine Marquez, Open source metadata with an amazing UI Dagster, A data orchestrator for machine learning, very programming-based &amp;amp; in the similar space of Airflow/Prefect but emphasizes state flow Apache Calcite, Framework for building SQL databases and data management systems without owning data.</description>
+    </item>
+    
+    <item>
+      <title>Data Engineering Ecosystem in 2021</title>
+      <link>https://andrewrgoss.com/2021/data-engineering-ecosystem-in-2021/</link>
+      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2021/data-engineering-ecosystem-in-2021/</guid>
+      <description>Recently came across this cool cross-sectional LUMAscape visual that depicts the larger ecosystem of data engineering tools and technologies adjacent and complementary to the problems we are solving. Check out the accompanying report by following the link below.
+
+View the full report
+*Source: lakeFS</description>
+    </item>
+    
+    <item>
+      <title>Keeping Up with Data Engineering — A Resource Guide</title>
+      <link>https://andrewrgoss.com/2021/keeping-up-with-data-engineering--a-resource-guide/</link>
+      <pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2021/keeping-up-with-data-engineering--a-resource-guide/</guid>
+      <description>Photo by Kevin Ku on Unsplash
+written by Sheel Choksi 
+The data engineering space is continuously evolving — there are new open-source projects and tools released all the time, &amp;ldquo;best practices&amp;rdquo; are constantly changing, and data engineers are stretched thinner than ever before as businesses increase their data demands. Not only that, but data engineers have recently seen firsthand the hybridization of the data lake and data warehouse, with modern warehouses blurring the distinction by separating out compute from storage.</description>
+    </item>
+    
+    <item>
+      <title>Recommended Reads to Level Up Your Data Career</title>
+      <link>https://andrewrgoss.com/2020/recommended-reads-to-level-up-your-data-career/</link>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2020/recommended-reads-to-level-up-your-data-career/</guid>
+      <description>I&amp;rsquo;ve put together a list of recommended, categorized articles to peruse, experiment with, and help level up your career in data. Note that many of these are hosted by Medium.com, which sets a limit on the number of free stories you can view. To get around this, tweet out the link and then click it from Twitter or search the title to see if someone else has already tweeted the link.</description>
+    </item>
+    
+    <item>
+      <title>Skills for Being a Good Data Engineer</title>
+      <link>https://andrewrgoss.com/2019/skills-for-being-a-good-data-engineer/</link>
+      <pubDate>Sun, 24 Mar 2019 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2019/skills-for-being-a-good-data-engineer/</guid>
+      <description>written by Benjamin Rogojan 
+A data engineer specializes in several specific technical aspects. Data engineers have solid automation/programming skills, ETL design, understand systems, data modeling, SQL, and usually some other more niche skills. For instance, some data engineers start to dabble with R and data analytics. This will also be driven by their specific role. As a data engineer, I have been asked to set up basic websites, develop APIs and create models and algorithms.</description>
+    </item>
+    
+    <item>
+      <title>Beginner’s Guide to Data Engineering - A 3-Part Series</title>
+      <link>https://andrewrgoss.com/2018/beginners-guide-to-data-engineering---a-3-part-series/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2018/beginners-guide-to-data-engineering---a-3-part-series/</guid>
+      <description>written by Robert Chang
+Overview This is an excellent 3-part series of articles written from the vantage point of a data scientist looking to learn more about the field of data engineering.
+Organization of This Guide The scope of the discussion is not be exhaustive and is designed heavily around Airflow, batch data processing, and SQL-like languages. That said, this focus should not prevent readers from getting a basic understanding of data engineering and may pique interest to learn more about this fast-growing, emerging field.</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Data Engineering</title>
+      <link>https://andrewrgoss.com/2018/getting-started-with-data-engineering/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2018/getting-started-with-data-engineering/</guid>
+      <description>written by Richard Taylor
+
+This is an excellent overview article that covers essential knowledge areas related to data engineering. Specifically the author digs into the following topics:
+ A brief history of the big data sector and why it exists.
+ What is big data? Terminology guide  What a data engineer is and how and why the role came to be.
+ What is a data engineer? Fundamentals and ongoing trends Roles and responsibilities as a data engineer  Big picture overview of the technologies data engineers have been using thus far.</description>
+    </item>
+    
+    <item>
+      <title>Why 2018 Will Be The Year Of The Data Engineer</title>
+      <link>https://andrewrgoss.com/2018/why-2018-will-be-the-year-of-the-data-engineer/</link>
+      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2018/why-2018-will-be-the-year-of-the-data-engineer/</guid>
+      <description>written by Alex Woodie, Managing Editor of Datanami
+The shortage of data scientists - those triple-threat types who possess advanced statistics, business, and coding skills - has been well-documented over the years. But increasingly, businesses are facing a shortage of another key individual on the big data team who&amp;rsquo;s critical to achieving success - the data engineer.
+ Data engineers are tasked with building and maintaining the pipes that serve up fresh and accurate data.</description>
+    </item>
+    
+    <item>
+      <title>Learning How to Learn</title>
+      <link>https://andrewrgoss.com/2018/learning-how-to-learn/</link>
+      <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2018/learning-how-to-learn/</guid>
+      <description>As 2018 began, I spent some time thinking about my goals for this year. An area that I wanted to focus on is improving upon how I learn. Many have argued that the ability to learn is the most valuable skill you can possess throughout your career and working in the ever-changing field of technology, I certainly would not disagree.
+So I decided to invest in the 10 Steps to Learn Anything Quickly course offered by Simple Programmer.</description>
+    </item>
+    
+    <item>
+      <title>Effective Engineer Notes</title>
+      <link>https://andrewrgoss.com/2018/effective-engineer-notes/</link>
+      <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2018/effective-engineer-notes/</guid>
+      <description>Some great reference notes from a highly recommended &amp;#x1F44D; book for engineers looking to reach the next level in their careers.
+ By Edmond Lau
+theeffectiveengineer.com
+What&amp;rsquo;s an Effective Engineer?  They are the people who get things done. Effective Engineers produce results.  Adopt the Right Mindsets Focus on High Leverage Activities  Leverage = Impact Produced / Time Invested Use Leverage as Your Yardstick for Effectiveness 80% of the impact comes from 20% of the work.</description>
+    </item>
+    
+    <item>
+      <title>How to Start a Successful Side Project</title>
+      <link>https://andrewrgoss.com/2017/how-to-start-a-successful-side-project/</link>
+      <pubDate>Thu, 07 Dec 2017 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2017/how-to-start-a-successful-side-project/</guid>
+      <description>This post originally appeared on Simple Programmer.
+written by Alexander Petkov
+View original article
+
+Do you ever feel like you are confident in only one particular field? Like you know only one tiny corner of the vast software universe? Then, the minute you try to escape it and work on something different, you get frustrated. And if you need to build a complete, functional project—from scratch—with:
+Initial research and machine setup (packages, installments)Managing dependencies (libraries, build tools, automations)The whole business logic plus high test coverageProduction deployment … then somebody else has to do everything except the little corner of your comfort zone?</description>
+    </item>
+    
+    <item>
+      <title>Becoming a Data Engineer</title>
+      <link>https://andrewrgoss.com/2017/becoming-a-data-engineer/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2017/becoming-a-data-engineer/</guid>
+      <description>written by Sergio Sola (with some grammatical edits by me)
+Becoming a Data Engineer I am a software engineer working at HelloFresh. I have been with the company for five years so far. Before HelloFresh and in this company I had different roles.
+I started my career as a web developer doing everything, something that nowadays is called &amp;lsquo;full stack developer&amp;rsquo; (I have a firm opinion about that position, and it is not good, but that would be another article).</description>
+    </item>
+    
+    <item>
+      <title>25 Potential Pitfalls In Mastering Programming</title>
+      <link>https://andrewrgoss.com/2017/25-potential-pitfalls-in-mastering-programming/</link>
+      <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2017/25-potential-pitfalls-in-mastering-programming/</guid>
+      <description>written by Antonio Cangiano
+ I wanted to share this post as it really resonated with me. I&amp;rsquo;ve encountered many of these at times during my coding journey and plan to reread this.
+ I&amp;rsquo;m going to share with you what I see as &amp;ldquo;25&amp;rdquo; common pitfalls when learning to program (or working towards mastering programming). Many of these points affect both beginners and professionals alike — myself very much included.</description>
+    </item>
+    
+    <item>
+      <title>The 2017 Big Data Landscape</title>
+      <link>https://andrewrgoss.com/2017/the-2017-big-data-landscape/</link>
+      <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2017/the-2017-big-data-landscape/</guid>
+      <description>Just released - an excellent &amp;ldquo;State of the Union&amp;rdquo; roundup of the key trends in the 2017 data ecosystem. Some high level trends and questions that are explored in this comprehensive article:
+ Big data + AI = the new stack. Big data provides the pipes, and AI provides the smarts. Enterprise budgets - follow the money Enterprise data moving to the cloud As the big data landscape gets busier every passing year, is big data consolidation coming?</description>
+    </item>
+    
+    <item>
+      <title>The Rise of the Data Engineer</title>
+      <link>https://andrewrgoss.com/2017/the-rise-of-the-data-engineer/</link>
+      <pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2017/the-rise-of-the-data-engineer/</guid>
+      <description>written by Maxime Beauchemin
+I joined Facebook in 2011 as a business intelligence engineer. By the time I left in 2013, I was a data engineer.
+I wasn&amp;rsquo;t promoted or assigned to this new role. Instead, Facebook came to realize that the work we were doing transcended classic business intelligence. The role we&amp;rsquo;d created for ourselves was a new discipline entirely.
+My team was at forefront of this transformation. We were developing new skills, new ways of doing things, new tools, and&amp;ndash;more often than not&amp;ndash;turning our backs to traditional methods.</description>
+    </item>
+    
+    <item>
+      <title>Report- The State of Data Engineering</title>
+      <link>https://andrewrgoss.com/2016/report--the-state-of-data-engineering/</link>
+      <pubDate>Wed, 28 Sep 2016 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2016/report--the-state-of-data-engineering/</guid>
+      <description>I recently came across an excellent report by Stitch on the state of data engineering.
+Today, there are 6,500 people on LinkedIn who call themselves data engineers. In San Francisco alone, there are 6,600 job listings for this same title. The number of data engineers has doubled in the past year, but engineering leaders still find themselves faced with a significant shortage of data engineering talent.
+The need for data talent is born from a fundamental shift: tech companies are now data companies.</description>
+    </item>
+    
+  </channel>
+</rss>

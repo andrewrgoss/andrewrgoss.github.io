@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pub Sub Messaging on Andrew Goss · Senior Data Engineer</title>
+    <link>https://andrewrgoss.com/tags/pub-sub-messaging/</link>
+    <description>Recent content in Pub Sub Messaging on Andrew Goss · Senior Data Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>admin@andrewrgoss.com (Andrew Goss)</managingEditor>
+    <webMaster>admin@andrewrgoss.com (Andrew Goss)</webMaster>
+    <lastBuildDate>Thu, 23 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://andrewrgoss.com/tags/pub-sub-messaging/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting Started With NSQ for Go</title>
+      <link>https://andrewrgoss.com/2017/getting-started-with-nsq-for-go/</link>
+      <pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2017/getting-started-with-nsq-for-go/</guid>
+      <description>I&amp;rsquo;ve been recently working on software application project at Digitas where we adopted NSQ as part of our microservices architecture. With this post I&amp;rsquo;d like to share how you can get started with NSQ by sending and receiving a simple message by writing some Go code.
+What is NSQ? Per the official website, NSQ is a realtime distributed messaging platform designed to operate at scale, handling billions of messages per day.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Infrastructure on Andrew Goss · Senior Data Engineer</title>
+    <link>https://andrewrgoss.com/tags/data-infrastructure/</link>
+    <description>Recent content in Data Infrastructure on Andrew Goss · Senior Data Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>admin@andrewrgoss.com (Andrew Goss)</managingEditor>
+    <webMaster>admin@andrewrgoss.com (Andrew Goss)</webMaster>
+    <lastBuildDate>Thu, 21 Oct 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://andrewrgoss.com/tags/data-infrastructure/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Emerging Architectures for Modern Data Infrastructure</title>
+      <link>https://andrewrgoss.com/2021/emerging-architectures-for-modern-data-infrastructure/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2021/emerging-architectures-for-modern-data-infrastructure/</guid>
+      <description>*Source: Andreessen Horowitz  written by Matt Bornstein, Martin Casado, and Jennifer Li
+As an industry, we’ve gotten exceptionally good at building large, complex software systems. We’re now starting to see the rise of massive, complex systems built around data – where the primary business value of the system comes from the analysis of data, rather than the software directly. We’re seeing quick-moving impacts of this trend across the industry, including the emergence of new roles, shifts in customer spending, and the emergence of new startups providing infrastructure and tooling around data.</description>
+    </item>
+    
+  </channel>
+</rss>

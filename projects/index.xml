@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Andrew Goss · Senior Data Engineer</title>
+    <link>https://andrewrgoss.com/projects/</link>
+    <description>Recent content in Projects on Andrew Goss · Senior Data Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>admin@andrewrgoss.com (Andrew Goss)</managingEditor>
+    <webMaster>admin@andrewrgoss.com (Andrew Goss)</webMaster>
+    <lastBuildDate>Thu, 22 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://andrewrgoss.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Twitter Streaming with Spark and Scala</title>
+      <link>https://andrewrgoss.com/projects/twitter_streaming/</link>
+      <pubDate>Thu, 22 Mar 2018 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/projects/twitter_streaming/</guid>
+      <description>Udemy- Apache Spark 2.0 With Scala &amp;gt;&amp;gt; Twitter Streaming
+
+Go to: DataChatter | TweetLength
+PopularHashtags.scala This is a Spark streaming script that monitors live tweets from Twitter and keeps track of the 10 most popular hashtags as tweets are received.
+Each hashtag is mapped to a key/value pair of (hashtag, 1) so they can be counted up over a 5-minute sliding window with this line of code:
+val hashtagCounts = hashtagKeyValues.</description>
+    </item>
+    
+    <item>
+      <title>Creating Similar Movies from One Million Ratings on EMR</title>
+      <link>https://andrewrgoss.com/projects/mov_sim_ml_1m_emr/</link>
+      <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/projects/mov_sim_ml_1m_emr/</guid>
+      <description>Udemy- Apache Spark 2.0 With Scala &amp;gt;&amp;gt; Creating Similar Movies from One Million Ratings on EMR
+
+I completed an exercise of compiling a .jar file from my Scala code through IntelliJ IDEA, uploading this to a S3 bucket I created, and then running a Spark job on a AWS EMR cluster that I spun up. Here are the steps I took with screenshots, since I terminated my EMR cluster at the end to avoid incurring unnecessary costs.</description>
+    </item>
+    
+    <item>
+      <title>Web Scraping with Python</title>
+      <link>https://andrewrgoss.com/projects/web_scraping_py/</link>
+      <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/projects/web_scraping_py/</guid>
+      <description>Projects &amp;gt;&amp;gt; Web Scraping with Python
+
+Following a Boston Python Project Night event that I attended (where my group focused on web scraping techniques), I wanted to try out some web scraping on my own with Python.
+ Web scraping is a technique used to extract data from websites through an automated process.
+ Dataset A good site for web scraping that was recommended to me at the event is College Sailing’s Techscore.</description>
+    </item>
+    
+    <item>
+      <title>Budget App</title>
+      <link>https://andrewrgoss.com/projects/budget_app/</link>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/projects/budget_app/</guid>
+      <description>
+Udemy- Complete JavaScript Course &amp;gt;&amp;gt; My projects
+Planning Guide
+View project 
+This project put all kinds of different JavaScript concepts from the Complete JavaScript Course I completed into practice.
+View my project
+View my code on GitHub</description>
+    </item>
+    
+    <item>
+      <title>DOM Pig Game</title>
+      <link>https://andrewrgoss.com/projects/dom_pig_game/</link>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/projects/dom_pig_game/</guid>
+      <description>Udemy- Complete JavaScript Course &amp;gt;&amp;gt; My projects
+
+Part of the Complete JavaScript Course I completed, this project put JavaScript concepts from the section on DOM manipulation and events into practice.
+GAME RULES:  The game has 2 players, playing in rounds In each turn, a player rolls a dice as many times as he/she wishes. Each result get added to his ROUND score BUT, if the player rolls a 1, all his/her ROUND score gets lost.</description>
+    </item>
+    
+    <item>
+      <title>HDFS DCM Matchtables V2</title>
+      <link>https://andrewrgoss.com/projects/hdfs_dcm_v2_logs/</link>
+      <pubDate>Mon, 16 Jan 2017 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/projects/hdfs_dcm_v2_logs/</guid>
+      <description>Projects &amp;gt;&amp;gt; HDFS DCM Matchtables V2 
+Overview This is my code that pulls down daily DoubleClick Campaign Manager (DCM) log files (v2) from Google Cloud Storage (GCS) and loads them into Hadoop Distributed File System (HDFS) for use in Hive queries. The script fully replaces matchtable_v2 files with each day&amp;rsquo;s new log file on HDFS. Match tables are demoed here, but it is imperative to frequently download other log files that change more often (ex.</description>
+    </item>
+    
+    <item>
+      <title>Google DCM/DFA Reporting/Trafficking API for PostgreSQL</title>
+      <link>https://andrewrgoss.com/projects/dcm-dfa-reporting-api/</link>
+      <pubDate>Sun, 18 Sep 2016 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/projects/dcm-dfa-reporting-api/</guid>
+      <description>Projects &amp;gt;&amp;gt; Google DCM/DFA Reporting/Trafficking API for PostgreSQL 
+This is a Python script I developed for programmatically generating Google DCM/DFA report data and inserting into PostgreSQL. There is additionally the option of running a report that contains floodlight tags - my code flattens this for the PostgreSQL staging table structure.
+DCM/DFA Reporting and Trafficking API v2.8 is used in this code. A detailed reference of the API can be accessed here.</description>
+    </item>
+    
+    <item>
+      <title>Google Analytics Reporting API for PostgreSQL</title>
+      <link>https://andrewrgoss.com/projects/ga_reporting_api/</link>
+      <pubDate>Sat, 17 Sep 2016 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/projects/ga_reporting_api/</guid>
+      <description>Projects &amp;gt;&amp;gt; Google Analytics Reporting API for PostgreSQL 
+This is a Python script I developed for programmatically accessing report data in Google Analytics and inserting into PostgreSQL.
+Google Analytics Reporting API V4 is used in this code. A detailed reference of the API can be accessed here.
+In this example, a GA summary report is generated (using the JSON below) and inserted into a PostgreSQL staging table with the same name.</description>
+    </item>
+    
+    <item>
+      <title>Gologger</title>
+      <link>https://andrewrgoss.com/projects/gologger/</link>
+      <pubDate>Tue, 19 Jan 2016 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/projects/gologger/</guid>
+      <description>Projects &amp;gt;&amp;gt; Gologger
+ Gologger incorporates the elements of the best user-designed logging tools for Go. It primarily makes use of CoLog, a prefix-based execution logging tool.
+The goal of this tool is to provide a simple, easy-to-use, customizable framework for implementing leveled, environment-based logging for new Go applications.
+Usage This tool is setup to customize logging outputs based on the environment command line flag. It uses CoLog to read and parse the standard log output, effectively acting as an extension of the default log library.</description>
+    </item>
+    
+    <item>
+      <title>Scratch - Wind Power</title>
+      <link>https://andrewrgoss.com/projects/scratch/</link>
+      <pubDate>Tue, 18 Feb 2014 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/projects/scratch/</guid>
+      <description>Projects &amp;gt;&amp;gt; Scratch - Wind Power
+ As part of the popular Harvard University course CS50x that I took through EdX, I built a small Scratch application in completing the first problem set.
+ Scratch is a &amp;lsquo;language&amp;rsquo; wherein you create programs by dragging together and connecting “blocks”. Unlike other programming languages, Scratch is very visual, making it a good first project for building fundamentals and learning to think like a programmer.</description>
+    </item>
+    
+  </channel>
+</rss>
