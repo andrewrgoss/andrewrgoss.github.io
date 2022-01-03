@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Quality on Andrew Goss · Senior Data Engineer</title>
+    <link>https://andrewrgoss.com/tags/data-quality/</link>
+    <description>Recent content in Data Quality on Andrew Goss · Senior Data Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>admin@andrewrgoss.com (Andrew Goss)</managingEditor>
+    <webMaster>admin@andrewrgoss.com (Andrew Goss)</webMaster>
+    <lastBuildDate>Thu, 30 Dec 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://andrewrgoss.com/tags/data-quality/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What Is Data Cleaning and How Do You Do It?</title>
+      <link>https://andrewrgoss.com/2021/what-is-data-cleaning-and-how-do-you-do-it/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2021/what-is-data-cleaning-and-how-do-you-do-it/</guid>
+      <description>written by Bash Sarmiento 
+The world we live in is now largely dependent on data. Fields and industries ranging from finance, education, healthcare, and even entertainment all rely on data to streamline processes and maintain the required transmissions without losing data quality and security.
+To make sure that every piece of data remains correct, usable, and consistent across your entire network, a process called data cleaning is necessary. To learn more about this emerging best practice in data management and how to do it, here is everything you need to know about data cleaning.</description>
+    </item>
+    
+  </channel>
+</rss>

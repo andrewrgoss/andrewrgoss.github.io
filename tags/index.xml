@@ -115,7 +115,7 @@
     <item>
       <title>Data Engineering</title>
       <link>https://andrewrgoss.com/tags/data-engineering/</link>
-      <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
       <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/tags/data-engineering/</guid>
       <description></description>
@@ -127,6 +127,15 @@
       <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
       <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/tags/data-infrastructure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Quality</title>
+      <link>https://andrewrgoss.com/tags/data-quality/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/tags/data-quality/</guid>
       <description></description>
     </item>
     
@@ -178,7 +187,7 @@
     <item>
       <title>Elt</title>
       <link>https://andrewrgoss.com/tags/elt/</link>
-      <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
       <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/tags/elt/</guid>
       <description></description>
