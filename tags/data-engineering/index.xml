@@ -8,10 +8,22 @@
     <language>en-us</language>
     <managingEditor>admin@andrewrgoss.com (Andrew Goss)</managingEditor>
     <webMaster>admin@andrewrgoss.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Thu, 30 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/tags/data-engineering/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Choosing the Right Tools For Your Data Pipeline</title>
+      <link>https://andrewrgoss.com/2022/choosing-the-right-tools-for-your-data-pipeline/</link>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2022/choosing-the-right-tools-for-your-data-pipeline/</guid>
+      <description>written by Start Data Engineering
+If you are building data pipelines from the ground up, the number of available data engineering tools to choose from can be overwhelming. If you are thinking:
+ Most of the tools seem to be doing the same/similar thing, which one should I choose? How to choose the right tool for my data pipeline?
+ Then this post is for you. In this post, Start Data Engineering goes over the core components of data pipelines and how you can use your requirements to select the right tools:</description>
+    </item>
     
     <item>
       <title>What Is Data Cleaning and How Do You Do It?</title>
