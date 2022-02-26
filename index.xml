@@ -8,10 +8,21 @@
     <language>en-us</language>
     <managingEditor>admin@andrewrgoss.com (Andrew Goss)</managingEditor>
     <webMaster>admin@andrewrgoss.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Sun, 16 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Feb 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The State of Data Engineering in 2022</title>
+      <link>https://andrewrgoss.com/2022/the-state-of-data-engineering-in-2022/</link>
+      <pubDate>Sat, 26 Feb 2022 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2022/the-state-of-data-engineering-in-2022/</guid>
+      <description>RudderStack previously wrote about both the history of the data engineering &amp;ldquo;megatrend&amp;rdquo; and a few major trends in data engineering that they saw taking shape in 2021.
+In this post, they share their thoughts on the data industry in 2022, first by reviewing the predictions made in early 2021, then outlining their view of the state of data engineering with new predictions.
+Revisiting 2021 predictions It&amp;rsquo;s been a year since RudderStack made their last set of predictions, so let&amp;rsquo;s see how they did.</description>
+    </item>
     
     <item>
       <title>Choosing the Right Tools For Your Data Pipeline</title>
