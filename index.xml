@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Andrew Goss · Senior Data Engineer</title>
+    <title>Andrew Goss · Staff Data Engineer</title>
     <link>https://andrewrgoss.com/</link>
-    <description>Recent content on Andrew Goss · Senior Data Engineer</description>
+    <description>Recent content on Andrew Goss · Staff Data Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>admin@andrewrgoss.com (Andrew Goss)</managingEditor>
@@ -1099,8 +1099,8 @@ My goal in taking this course was to strengthen my knowledge around the fundamen
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/about/</guid>
-      <description>TL;DR &amp;ndash; Senior data engineer building performant pipelines and data ecosystems that empower data-driven organizations through self-service analytics. Based in the Boston, MA, USA area.
-  I&amp;rsquo;m currently a senior data engineer at Interfolio.
+      <description>TL;DR &amp;ndash; Staff data engineer building performant pipelines and data ecosystems that empower data-driven organizations through self-service analytics. Based in the Boston, MA, USA area.
+  I&amp;rsquo;m currently a staff data engineer at Interfolio.
  Interfolio offers consumer/enterprise faculty information SaaS products in serving the global higher education market. I’m building a modern business intelligence stack from the ground up in a way that allows both internal and external end users to answer important questions through supported self-service analytics.</description>
     </item>
     
@@ -1139,7 +1139,7 @@ My goal in taking this course was to strengthen my knowledge around the fundamen
       <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/resume/</guid>
       <description>For more on my professional background including additional details around my work history, you can visit my LinkedIn profile.
-  Summary Senior data engineer working to advance data-driven cultures by integrating disparate data sources and empowering end users to uncover key insights that tell a bigger story. I&amp;rsquo;ve worked as both a developer and a technical consultant in leveraging people, process, and technology to tell stories using data across a variety of industries, while also building out numerous in-house platforms and systems.</description>
+  Summary Staff data engineer working to advance data-driven cultures by integrating disparate data sources and empowering end users to uncover key insights that tell a bigger story. I&amp;rsquo;ve worked as both a developer and a technical consultant in leveraging people, process, and technology to tell stories using data across a variety of industries, while also building out numerous in-house platforms and systems.</description>
     </item>
     
     <item>
