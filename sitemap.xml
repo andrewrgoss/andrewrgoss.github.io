@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://andrewrgoss.com/2022/data-engineer-archetypes/</loc>
+    <lastmod>2022-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://andrewrgoss.com/2022/the-state-of-data-engineering-in-2022/</loc>
     <lastmod>2022-02-26T00:00:00+00:00</lastmod>
   </url>
@@ -512,7 +517,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/</loc>
-    <lastmod>2022-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -546,7 +551,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/tags/career-management/</loc>
-    <lastmod>2022-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -576,7 +581,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/tags/data-engineering/</loc>
-    <lastmod>2022-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -708,7 +713,7 @@
   
   <url>
     <loc>https://andrewrgoss.com/post/</loc>
-    <lastmod>2022-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
