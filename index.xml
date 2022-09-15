@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Andrew Goss · Staff Data Engineer</title>
+    <title>Andrew Goss · Data Engineering Manager</title>
     <link>https://andrewrgoss.com/</link>
-    <description>Recent content on Andrew Goss · Staff Data Engineer</description>
+    <description>Recent content on Andrew Goss · Data Engineering Manager</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>admin@andrewrgoss.com (Andrew Goss)</managingEditor>
@@ -1133,9 +1133,9 @@ My goal in taking this course was to strengthen my knowledge around the fundamen
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/about/</guid>
-      <description>TL;DR &amp;ndash; Staff data engineer building performant pipelines and data ecosystems that empower data-driven organizations through self-service analytics. Based in the Boston, MA, USA area.
-  I&amp;rsquo;m currently a staff data engineer and team lead at Interfolio.
- Interfolio offers faculty information SaaS products in serving the global higher education market. I’m building a modern data ecosystem from the ground up in a way that allows data consumers to answer important questions through supported self-service analytics.</description>
+      <description>TL;DR &amp;ndash; Data engineering manager building performant pipelines and data ecosystems that empower data-driven organizations through self-service analytics. Based in the Boston, MA, USA area.
+  I&amp;rsquo;m currently a data engineering manager at Interfolio.
+ Interfolio offers faculty information SaaS products in serving the global higher education market. I manage a small centralized team responsible for the complex flow of data across teams, data centers, and organizational boundaries. We&amp;rsquo;re employing DataOps practices, processes, and technologies that combine automation and methods from agile software engineering to promote a culture of continuous improvement in the area of data analytics.</description>
     </item>
     
     <item>
