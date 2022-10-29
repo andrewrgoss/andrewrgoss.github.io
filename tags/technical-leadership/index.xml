@@ -8,10 +8,20 @@
     <language>en-us</language>
     <managingEditor>admin@andrewrgoss.com (Andrew Goss)</managingEditor>
     <webMaster>admin@andrewrgoss.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Wed, 29 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Aug 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/tags/technical-leadership/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>GitLab Data Team Handbook</title>
+      <link>https://andrewrgoss.com/2022/gitlab-data-team-handbook/</link>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2022/gitlab-data-team-handbook/</guid>
+      <description>As a new data engineering manager, I appreciate a bird&amp;rsquo;s eye view into how other data teams are structured. Fortunately, some organizations like GitLab have published their data manifestos online for all to see. By doing so, GitLab stands to gain some important benefits and has given back to the data community by:
+ Fostering collaboration between companies Ensuring knowledge sharing and the broader advancement of technologies and processes in the data space Holding themselves accountable to constantly iterating and improving their platform and team culture Opening them up to feedback and outside perspectives that wouldn&amp;rsquo;t otherwise be available Serving as a valuable recruiting and onboarding asset by being upfront about prospective hires will be working on  Check out their full data team handbook here:</description>
+    </item>
     
     <item>
       <title>Automation Helps Businesses Thrive</title>
