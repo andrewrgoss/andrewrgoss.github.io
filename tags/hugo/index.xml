@@ -19,7 +19,7 @@
       <pubDate>Sun, 25 Oct 2015 00:00:00 +0000</pubDate>
       <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2015/why-i-switched-from-wordpress-to-hugo/</guid>
-      <description>For a long time I&amp;rsquo;ve believed in the importance of having a blog but have struggled to keep one going. I started out using Blogger back in the day and most recently was using Wordpress. But there were features about these blogging platforms that consistently bugged me. Fortunately for me, while I was learning the Go programming language I stumbled across Hugo, a static site generator written in this language.</description>
+      <description>For a long time I&amp;rsquo;ve believed in the importance of having a blog but struggled to keep one going. I started out using Blogger back in the day and most recently was using Wordpress. But there were features about these blogging platforms that consistently bugged me. Fortunately for me, while I was learning the Go programming language I stumbled across Hugo, a static site generator written in this language.</description>
     </item>
     
   </channel>
