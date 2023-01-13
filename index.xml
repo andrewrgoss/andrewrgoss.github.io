@@ -8,10 +8,21 @@
     <language>en-us</language>
     <managingEditor>admin@andrewrgoss.com (Andrew Goss)</managingEditor>
     <webMaster>admin@andrewrgoss.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jan 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How CI/CD Is Different for Data Science</title>
+      <link>https://andrewrgoss.com/2023/how-ci/cd-is-different-for-data-science/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2023/how-ci/cd-is-different-for-data-science/</guid>
+      <description>written by Bash Sarmiento 
+Continuous Integration/Continuous Delivery (CI/CD) is becoming increasingly important for data science teams. CI/CD is a set of practices and processes that allow software developers to quickly and efficiently develop, test, deploy, monitor, and maintain their applications.
+When applied to data science projects, it can help streamline the development process by automating tests and deployments, integrating machine learning models into production systems, managing your codebase across different environments, and more.</description>
+    </item>
     
     <item>
       <title>How Better Ocean Data Can Help Mitigate Climate Change</title>
