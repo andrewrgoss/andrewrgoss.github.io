@@ -8,10 +8,21 @@
     <language>en-us</language>
     <managingEditor>admin@andrewrgoss.com (Andrew Goss)</managingEditor>
     <webMaster>admin@andrewrgoss.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Thu, 05 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jan 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/tags/devops/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>What Are CI/CD Pipelines?</title>
+      <link>https://andrewrgoss.com/2023/what-are-ci/cd-pipelines/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2023/what-are-ci/cd-pipelines/</guid>
+      <description>Image Source
+written by Bash Sarmiento 
+The most fundamental part of any automated software engineering project is a CI/CD pipeline. The utilization of automation to guarantee code quality is an important component of the CI/CD workflow. Test automation is used to deploy code changes to various environments, deliver applications to production systems, and uncover vulnerabilities and other concerns early on as the software changes move through the pipeline. The automation&amp;rsquo;s task in this situation is to conduct quality checks, evaluating factors like performance, API usage, and security.</description>
+    </item>
     
     <item>
       <title>DataOps is NOT Just DevOps for Data</title>

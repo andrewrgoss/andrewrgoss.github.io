@@ -8,7 +8,7 @@
     <language>en-us</language>
     <managingEditor>admin@andrewrgoss.com (Andrew Goss)</managingEditor>
     <webMaster>admin@andrewrgoss.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Tue, 10 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jan 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -16,12 +16,23 @@
     <item>
       <title>How CI/CD Is Different for Data Science</title>
       <link>https://andrewrgoss.com/2023/how-ci/cd-is-different-for-data-science/</link>
-      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
       <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/2023/how-ci/cd-is-different-for-data-science/</guid>
       <description>written by Bash Sarmiento 
 Continuous Integration/Continuous Delivery (CI/CD) is becoming increasingly important for data science teams. CI/CD is a set of practices and processes that allow software developers to quickly and efficiently develop, test, deploy, monitor, and maintain their applications.
 When applied to data science projects, it can help streamline the development process by automating tests and deployments, integrating machine learning models into production systems, managing your codebase across different environments, and more.</description>
+    </item>
+    
+    <item>
+      <title>What Are CI/CD Pipelines?</title>
+      <link>https://andrewrgoss.com/2023/what-are-ci/cd-pipelines/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2023/what-are-ci/cd-pipelines/</guid>
+      <description>Image Source
+written by Bash Sarmiento 
+The most fundamental part of any automated software engineering project is a CI/CD pipeline. The utilization of automation to guarantee code quality is an important component of the CI/CD workflow. Test automation is used to deploy code changes to various environments, deliver applications to production systems, and uncover vulnerabilities and other concerns early on as the software changes move through the pipeline. The automation&amp;rsquo;s task in this situation is to conduct quality checks, evaluating factors like performance, API usage, and security.</description>
     </item>
     
     <item>
@@ -1168,7 +1179,7 @@ My goal in taking this course was to strengthen my knowledge around the fundamen
       <guid>https://andrewrgoss.com/about/</guid>
       <description>TL;DR &amp;ndash; Data engineering manager building performant pipelines and data ecosystems that empower data-driven organizations through self-service analytics. Based in the Boston, MA, USA area.
   I&amp;rsquo;m currently a data engineering manager at Elsevier.
- Elsevier offers faculty information SaaS products in serving the global higher education market. I manage a small centralized team responsible for the complex flow of data across teams, data centers, and organizational boundaries. We&amp;rsquo;re employing DataOps practices, processes, and technologies that combine automation and methods from agile software engineering to promote a culture of continuous improvement in the area of data analytics.</description>
+ Elsevier acquired Interfolio in 2022. Jointly, we offer faculty information SaaS products in serving the global higher education market. I manage a small centralized team responsible for the complex flow of data across teams, data centers, and organizational boundaries.</description>
     </item>
     
     <item>
