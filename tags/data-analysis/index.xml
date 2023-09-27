@@ -47,17 +47,5 @@ Data Engineering With the rise of big data and data science, many engineering ro
 Originally, the purpose of data engineering was the loading of external data sources and the designing of databases (designing and developing pipelines to collect, manipulate, store, and analyze data).</description>
     </item>
     
-    <item>
-      <title>Coursera- Serverless Data Analysis with Google BigQuery and Cloud Dataflow</title>
-      <link>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_serverless_data_analysis/</link>
-      <pubDate>Fri, 20 Jul 2018 00:00:00 +0000</pubDate>
-      <author>admin@andrewrgoss.com (Andrew Goss)</author>
-      <guid>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_serverless_data_analysis/</guid>
-      <description> 
-COURSE LINK
-GCP Professional Data Engineer Certification &amp;gt;&amp;gt; Serverless Data Analysis with Google BigQuery and Cloud Dataflow 
-Modules &amp;amp; Lab Exercises Resources </description>
-    </item>
-    
   </channel>
 </rss>
