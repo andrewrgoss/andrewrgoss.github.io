@@ -25,18 +25,6 @@ With this article, Stefano Solimito shares the joys and pains of the learning jo
     </item>
     
     <item>
-      <title>Coursera- GCP Big Data and Machine Learning Fundamentals</title>
-      <link>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_big_data_ml_fundamentals/</link>
-      <pubDate>Fri, 20 Jul 2018 00:00:00 +0000</pubDate>
-      <author>admin@andrewrgoss.com (Andrew Goss)</author>
-      <guid>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_big_data_ml_fundamentals/</guid>
-      <description>COURSE LINK
-COURSE CERTIFICATE
-GCP Professional Data Engineer Certification &amp;gt;&amp;gt; Big Data and Machine Learning Fundamentals 
-Module Lab Exercises Module 2: Foundations of GCP Compute and Storage  Create a Compute Engine Instance Interact with Cloud Storage  Module 3: Data Analysis on the Cloud  Setup Rentals Data in Cloud SQL Recommendations ML with Dataproc  Module 4: Scaling Data Analysis: Compute with GCP  Create ML dataset with BigQuery Carry out ML with TensorFLow Invoke Machine Learning APIs  View my code on GitHub</description>
-    </item>
-    
-    <item>
       <title>Coursera- Leveraging Unstructured Data on GCP</title>
       <link>https://andrewrgoss.com/2018/coursera--leveraging-unstructured-data-on-gcp/</link>
       <pubDate>Fri, 20 Jul 2018 00:00:00 +0000</pubDate>
@@ -45,19 +33,6 @@ Module Lab Exercises Module 2: Foundations of GCP Compute and Storage  Create a 
       <description>COURSE LINK
 COURSE CERTIFICATE
 
-Modules &amp;amp; Lab Exercises Note: These exercises were spun up in temporary cloud instances and thus are no longer available for viewing.
-Module 1: Introduction to Cloud Dataproc What Qualifies as Unstructured Data? Dataproc Eases Hadoop Management Cloud Dataproc Architecture Lab 1: Create a Dataproc Cluster  Prepare a bucket and a cluster initialization script Create a Dataproc Hadoop Cluster customized to use Google Cloud API Enable secure access to Dataproc cluster Explore Hadoop operations   Use Cloud storage instead of HDFS so you can shut down a Hadoop cluster when it is not actually running a job.</description>
-    </item>
-    
-    <item>
-      <title>Coursera- Leveraging Unstructured Data with Cloud Dataproc on GCP</title>
-      <link>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_unstructured_dataproc/</link>
-      <pubDate>Fri, 20 Jul 2018 00:00:00 +0000</pubDate>
-      <author>admin@andrewrgoss.com (Andrew Goss)</author>
-      <guid>https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification/gcp_unstructured_dataproc/</guid>
-      <description>COURSE LINK
-COURSE CERTIFICATE
-GCP Professional Data Engineer Certification &amp;gt;&amp;gt; Leveraging Unstructured Data with Cloud Dataproc 
 Modules &amp;amp; Lab Exercises Note: These exercises were spun up in temporary cloud instances and thus are no longer available for viewing.
 Module 1: Introduction to Cloud Dataproc What Qualifies as Unstructured Data? Dataproc Eases Hadoop Management Cloud Dataproc Architecture Lab 1: Create a Dataproc Cluster  Prepare a bucket and a cluster initialization script Create a Dataproc Hadoop Cluster customized to use Google Cloud API Enable secure access to Dataproc cluster Explore Hadoop operations   Use Cloud storage instead of HDFS so you can shut down a Hadoop cluster when it is not actually running a job.</description>
     </item>
