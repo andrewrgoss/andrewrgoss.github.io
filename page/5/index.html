@@ -15,20 +15,20 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-    <meta property="og:title" content="Andrew Goss · DataOps Leader" />
-    <meta name="twitter:title" content="Andrew Goss · DataOps Leader" />
-    <title>Andrew Goss · DataOps Leader</title>
+    <meta property="og:title" content="Andrew Goss · Data and Analytics Leader" />
+    <meta name="twitter:title" content="Andrew Goss · Data and Analytics Leader" />
+    <title>Andrew Goss · Data and Analytics Leader</title>
 
-    <meta property="og:site_name" content="Andrew Goss · DataOps Leader" />
+    <meta property="og:site_name" content="Andrew Goss · Data and Analytics Leader" />
     <meta property="og:locale " content="en-us" />
 
     <meta property="og:url" content="https://andrewrgoss.com/" />
     <meta name="twitter:url" content="https://andrewrgoss.com/" />
     <link rel="canonical" href="https://andrewrgoss.com/" />
 
-    <meta name="description" content="Andrew Goss is a data engineering leader based in the Boston, MA area. He builds performant data pipelines that integrate disparate data sources and empower end users to uncover key insights that tell a bigger story." />
-    <meta name="twitter:description" content="Andrew Goss is a data engineering leader based in the Boston, MA area. He builds performant data pipelines that integrate disparate data sources and empower end users to uncover key insights that tell a bigger story." />
-    <meta property="og:description" content="Andrew Goss is a data engineering leader based in the Boston, MA area. He builds performant data pipelines that integrate disparate data sources and empower end users to uncover key insights that tell a bigger story." />
+    <meta name="description" content="Andrew Goss is a data leader based in the Boston, MA, USA area." />
+    <meta name="twitter:description" content="Andrew Goss is a data leader based in the Boston, MA, USA area." />
+    <meta property="og:description" content="Andrew Goss is a data leader based in the Boston, MA, USA area." />
 
     <meta name="twitter:site" content="@" />
     <meta name="twitter:creator" content="@" />
@@ -786,9 +786,9 @@ h2.resources
 </head>
 <body>
 <header id="header">
-    <a id="logo" href="https://andrewrgoss.com/"><img src="https://andrewrgoss.com/avatar.jpg" alt="Andrew Goss · DataOps Leader" /></a>
+    <a id="logo" href="https://andrewrgoss.com/"><img src="https://andrewrgoss.com/avatar.jpg" alt="Andrew Goss · Data and Analytics Leader" /></a>
     <h1><a href="https://andrewrgoss.com/">Andrew Goss</a></h1>
-    <span>DataOps Leader</span><br><br>
+    <span>Data and Analytics Leader</span><br><br>
     <div id="follow-icons">
 	<a href="mailto:admin@andrewrgoss.com" target="_blank" rel="me"><i class="fa fa-envelope-square fa-3x"></i></a>
 	<a href="https://linkedin.com/in/andrewrgoss" target="_blank" rel="me"><i class="fa fa-linkedin fa-3x"></i></a>
@@ -997,10 +997,10 @@ h2.resources
     "@context": "http://schema.org",
     "@type": "Blog",
     "url": "https://andrewrgoss.com/",
-    "about": "Andrew Goss is a data engineering leader based in the Boston, MA area. He builds performant data pipelines that integrate disparate data sources and empower end users to uncover key insights that tell a bigger story.",
-    "name": "Andrew Goss · DataOps Leader",
+    "about": "Andrew Goss is a data leader based in the Boston, MA, USA area.",
+    "name": "Andrew Goss · Data and Analytics Leader",
     "image": "https://andrewrgoss.com/avatar.jpg",
-    "headline": "Andrew Goss · DataOps Leader",
+    "headline": "Andrew Goss · Data and Analytics Leader",
     "educationalUse": "research",
     "author": {
         "@type": "Person",
@@ -1046,6 +1046,11 @@ h2.resources
       ], { callback:function() {
           hljs.initHighlighting();
           
+          
+          var isMobile = window.matchMedia("only screen and (max-width: 800px)");
+          if(isMobile.matches) {
+            $("html, body").animate({scrollTop: $('#content').offset().top }, 500);
+          }
           
         }});
     }
