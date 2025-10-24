@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artificial Intelligence on Andrew Goss · Data Eng and Analytics Leader</title>
+    <link>https://andrewrgoss.com/tags/artificial-intelligence/</link>
+    <description>Recent content in Artificial Intelligence on Andrew Goss · Data Eng and Analytics Leader</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>admin@andrewrgoss.com (Andrew Goss)</managingEditor>
+    <webMaster>admin@andrewrgoss.com (Andrew Goss)</webMaster>
+    <lastBuildDate>Fri, 24 Oct 2025 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://andrewrgoss.com/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AWS Skill Builder Lab - Explore Foundation Models and Prompt Engineering</title>
+      <link>https://andrewrgoss.com/2025/aws-skill-builder-lab---explore-foundation-models-and-prompt-engineering/</link>
+      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
+      <author>admin@andrewrgoss.com (Andrew Goss)</author>
+      <guid>https://andrewrgoss.com/2025/aws-skill-builder-lab---explore-foundation-models-and-prompt-engineering/</guid>
+      <description>  Description This lab provides hands-on experience to LLMs, testing models with prompts, adjusting model parameters and exploring within the Amazon Bedrock platform.
+Objectives  Access and explore the Amazon Bedrock model offerings. Enable access to LLMs in Amazon Bedrock. Access text and chat playgrounds and experiment with response generation using basic prompts. Experiment with changing model parameters to see how model output is affected. Compare model outputs.  AWS Services  Amazon Bedrock  </description>
+    </item>
+    
+  </channel>
+</rss>
