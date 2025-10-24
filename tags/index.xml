@@ -8,7 +8,7 @@
     <language>en-us</language>
     <managingEditor>admin@andrewrgoss.com (Andrew Goss)</managingEditor>
     <webMaster>admin@andrewrgoss.com (Andrew Goss)</webMaster>
-    <lastBuildDate>Wed, 05 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Oct 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrewrgoss.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -16,7 +16,7 @@
     <item>
       <title>Ai</title>
       <link>https://andrewrgoss.com/tags/ai/</link>
-      <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
       <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/tags/ai/</guid>
       <description></description>
@@ -37,15 +37,6 @@
       <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
       <author>admin@andrewrgoss.com (Andrew Goss)</author>
       <guid>https://andrewrgoss.com/tags/api-development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Artificial Intelligence</title>
-      <link>https://andrewrgoss.com/tags/artificial-intelligence/</link>
-      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
-      <author>admin@andrewrgoss.com (Andrew Goss)</author>
-      <guid>https://andrewrgoss.com/tags/artificial-intelligence/</guid>
       <description></description>
     </item>
     
